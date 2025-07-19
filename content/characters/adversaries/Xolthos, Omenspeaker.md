@@ -8,6 +8,9 @@ dndbeyond: https://www.dndbeyond.com/characters/125398669/7WTtub
 
 ![[xolthos.png]]
 
+> [!tip] D&D Beyond Sheet
+> https://www.dndbeyond.com/characters/125398669/7WTtub
+
 - Herald of the [[Weaver]] and the Cult of the Eclipse
 - Black dragonborn sorcerer
 - The omen bearer observes natural phenomenon, like a flock of crows circling a dead tree. He twists things like this as a sign of the dragon’s impending return and paints a doomsday picture, urging people to join the cult for salvation.
