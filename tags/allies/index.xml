@@ -1,18 +1,8 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Allies on Terminal</title>
-    <link>/tags/allies/</link>
-    <description>Recent content in Allies on Terminal</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="/tags/allies/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Vael</title>
-      <link>/characters/allies/vael/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/characters/allies/vael/</guid>
-      <description>&lt;h2 id=&#34;vaels-explanation-of-the-anchors-and-hollow-thresholds&#34;&gt;Vael’s Explanation of the Anchors and Hollow Thresholds&lt;/h2&gt;&#xA;&lt;p&gt;(Vael stands still, his gloved hands clasped before him. His voice is quiet, but it carries — like a knife sliding under armor.)&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Vael:&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;You have seen the cracks, have you not?&#xA;The fading stars&amp;hellip; the twisted woods&amp;hellip; the monsters that slip between places where no door should stand.&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;(He tilts his head slightly, studying each of you.)&lt;/p&gt;&#xA;&lt;p&gt;&amp;ldquo;The Elven barrier is not a wall. It is a tapestry — a weave of light and will, stitched across the wounds of the world. Each Temple you know — Winter, Summer, Autumn, Spring — holds one of the great knots, where the threads are pulled tight.&amp;rdquo;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Allies on Terminal</title><link>/tags/allies/</link><description>Recent content in Allies on Terminal</description><generator>Hugo</generator><language>en</language><atom:link href="/tags/allies/index.xml" rel="self" type="application/rss+xml"/><item><title>Vael</title><link>/characters/allies/vael/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/characters/allies/vael/</guid><description>&lt;h2 id="vaels-explanation-of-the-anchors-and-hollow-thresholds">Vael’s Explanation of the Anchors and Hollow Thresholds&lt;/h2>
+&lt;p>(Vael stands still, his gloved hands clasped before him. His voice is quiet, but it carries — like a knife sliding under armor.)&lt;/p>
+&lt;blockquote>
+&lt;p>Vael:&lt;/p>
+&lt;p>&amp;ldquo;You have seen the cracks, have you not?
+The fading stars&amp;hellip; the twisted woods&amp;hellip; the monsters that slip between places where no door should stand.&amp;rdquo;&lt;/p>
+&lt;p>(He tilts his head slightly, studying each of you.)&lt;/p>
+&lt;p>&amp;ldquo;The Elven barrier is not a wall. It is a tapestry — a weave of light and will, stitched across the wounds of the world. Each Temple you know — Winter, Summer, Autumn, Spring — holds one of the great knots, where the threads are pulled tight.&amp;rdquo;&lt;/p></description></item></channel></rss>

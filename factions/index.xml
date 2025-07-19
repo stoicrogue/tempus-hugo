@@ -1,18 +1,15 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Factions on Terminal</title>
-    <link>/factions/</link>
-    <description>Recent content in Factions on Terminal</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="/factions/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Massa’Ista</title>
-      <link>/factions/massaista/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/factions/massaista/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Information guild&lt;/li&gt;&#xA;&lt;li&gt;Name translates to “Shared Knowledge” in an odd Elvish dialect&lt;/li&gt;&#xA;&lt;li&gt;Based in Hunter’s Hollow - closest large city to Tannis&lt;/li&gt;&#xA;&lt;li&gt;Run by “The Fountain” (as in fountain of knowledge&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No one is allowed to directly meet the Fountain&lt;/li&gt;&#xA;&lt;li&gt;The fountain is secretly an elder Oblex&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Emblem is a skull with the floating above the rest of the skull&lt;/li&gt;&#xA;&lt;li&gt;Can obtain just about any information for a price&lt;/li&gt;&#xA;&lt;li&gt;Knows how to contact agent of the [[tempus-campaign/locations/Chained Library|Chained Library]] or how to find it&lt;/li&gt;&#xA;&lt;li&gt;Bartender of the Iron Eagle tavern in Hunter’s Hollow can provide the password to enter the museum that’s used as a front for the Massa’Ista’s guild house&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Factions on Terminal</title><link>/factions/</link><description>Recent content in Factions on Terminal</description><generator>Hugo</generator><language>en</language><atom:link href="/factions/index.xml" rel="self" type="application/rss+xml"/><item><title>Massa’Ista</title><link>/factions/massaista/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/factions/massaista/</guid><description>&lt;ul>
+&lt;li>Information guild&lt;/li>
+&lt;li>Name translates to “Shared Knowledge” in an odd Elvish dialect&lt;/li>
+&lt;li>Based in Hunter’s Hollow - closest large city to Tannis&lt;/li>
+&lt;li>Run by “The Fountain” (as in fountain of knowledge
+&lt;ul>
+&lt;li>No one is allowed to directly meet the Fountain&lt;/li>
+&lt;li>The fountain is secretly an elder Oblex&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Emblem is a skull with the floating above the rest of the skull&lt;/li>
+&lt;li>Can obtain just about any information for a price&lt;/li>
+&lt;li>Knows how to contact agent of the [[tempus-campaign/locations/Chained Library|Chained Library]] or how to find it&lt;/li>
+&lt;li>Bartender of the Iron Eagle tavern in Hunter’s Hollow can provide the password to enter the museum that’s used as a front for the Massa’Ista’s guild house&lt;/li>
+&lt;/ul></description></item></channel></rss>
