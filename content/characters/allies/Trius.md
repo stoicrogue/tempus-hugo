@@ -8,9 +8,9 @@ title: Trius
 Last Edited: 2024-06-01T10:56
 ---
 
-!![trius-portrait.png](/images/trius-portrait.png)
+![trius-portrait.png](/images/trius-portrait.png)
 
-!![trius-horseback.png](/images/trius-horseback.png)
+![trius-horseback.png](/images/trius-horseback.png)
 
 - Princess of the winter Court
 - Oath of ancients paladin

@@ -10,7 +10,7 @@ Last Edited: 2024-10-27T15:02
 
   
 
-!![farkris.png](/images/farkris.png)
+![farkris.png](/images/farkris.png)
 
 ## Background
 

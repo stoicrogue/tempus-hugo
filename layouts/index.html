@@ -7,17 +7,25 @@
 
   <!-- Optional: Show all sections with page counts -->
   <section class="sections-overview">
-    <h2>Browse by Section</h2>
     <div class="section-grid">
+      <table>
+        <thead>
+          <tr>
+            <th scope="col">Section</th>
+            <th scope="col">Description</th>
+            <th scope="col"># of Pages</th>
+          </tr>
+        </thead>
+      <tbody>
       {{ range site.Sections }}
-      <div class="section-card">
-        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-        {{ if .Description }}
-        <p>{{ .Description }}</p>
-        {{ end }}
-        <span class="page-count">{{ len .Pages }} pages</span>
-      </div>
+      <tr class="section-card">
+        <td style="min-width: 15em" scope="row"><strong><a href="{{ .RelPermalink }}">{{ .Title }}</a></strong></td>
+        <td>{{ .Description }}</td>
+        <td style="width: 10em" class="page-count">{{ len .Pages }} pages</td>
+      </tr>
       {{ end }}
+      </tbody>
+    </table>
     </div>
   </section>
 </div>

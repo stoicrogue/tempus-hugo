@@ -23,4 +23,4 @@ AC: 14
 HP: 43
 ---
 
-!![shadicar.png](/images/shadicar.png)
+![shadicar.png](/images/shadicar.png)

@@ -55,9 +55,9 @@ Elara examines the broken pieces of Summer's Edge with a critical eye, her finge
 
 "To reforge Summer's Edge, we need materials of extraordinary power. The blade was crafted with the essence of the sun and the strength of the stars. We will need Celestial Ore, a rare metal that fell from the heavens, and the Kiss of the Midday Sun from the Feywild. Only then can we restore this legendary weapon to its former glory."
 
-!![celestial-ore.png](/images/celestial-ore.png)
+![celestial-ore.png](/images/celestial-ore.png)
 
-!![sun-capture-device.png](/images/sun-capture-device.png)
+![sun-capture-device.png](/images/sun-capture-device.png)
 
 ---
 

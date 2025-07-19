@@ -67,7 +67,7 @@ NPC link. _Use the @ symbol to internally link to an NPC page._
 
 ### Celestial Guardian
 
-![[celestial_guardian.webp]]
+![celestial_guardian.webp](/images/celestial_guardian.webp)
 
 _Large Construct, Lawful Neutral_
 

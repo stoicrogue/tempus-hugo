@@ -4,7 +4,7 @@ tags:
 created: 2025-04-10
 title: Bandersnatch
 Files & media:
-  - "![bandersnatch.png](/images/bandersnatch.png)"
+  - "[[bandersnatch.png]]"
 Last Edited: 2023-11-29T14:42
 ---
 

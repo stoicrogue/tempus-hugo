@@ -16,7 +16,7 @@ pagination.pagerSize = 5
   
   # Show section overview
   showSectionOverview = true
-  
+
   # Enable section menu auto-generation
   sectionPagesMenu = "main"
 
@@ -25,7 +25,7 @@ pagination.pagerSize = 5
   contentTypeName = "posts"
 
   # if you set this to 0, only submenu trigger will be visible
-  #showMenuItems = 2
+  showMenuItems = 2
 
   # show selector to switch language
   showLanguageSelector = false
@@ -107,13 +107,21 @@ pagination.pagerSize = 5
 
       [languages.en.menu]
         [[languages.en.menu.main]]
-          identifier = "session-notes"
+          identifier = "1_session-notes"
           name = "Session Notes"
           url = "/session-notes"
         [[languages.en.menu.main]]
-          identifier = "recap"
+          identifier = "3_recap"
           name = "Recap"
           url = "/recap"
+        [[languages.en.menu.main]]
+          identifier = "2_characters"
+          name = "Characters"
+          url = "/characters"
+        [[languages.en.menu.main]]
+          identifier = "planning"
+          name = "Planning"
+          url = "/planning"
 
 # [module]
 #   # In case you would like to make changes to the theme and keep it locally in you repository,

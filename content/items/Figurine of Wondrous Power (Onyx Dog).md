@@ -4,7 +4,7 @@ tags:
 created: 2025-04-10
 title: Figurine of Wondrous Power (Onyx Dog)
 Files & media:
-  - "![figurines-of-wonder.jpeg](/images/figurines-of-wonder.jpeg)"
+  - "[[figurines-of-wonder.jpeg]]"
 Last Edited: 2023-08-16T15:28
 ---
 
@@ -22,4 +22,4 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 _Notes: Summoning_
 
-!![figurines-of-wonder.jpeg](/images/figurines-of-wonder.jpeg)
+![figurines-of-wonder.jpeg](/images/figurines-of-wonder.jpeg)

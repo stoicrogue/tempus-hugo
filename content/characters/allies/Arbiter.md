@@ -10,11 +10,11 @@ Last Edited: 2024-10-27T10:45
 
   
 
-![[arbiter-headshot2.webp]]
+![arbiter-headshot2.webp](/images/arbiter-headshot2.webp)
 
   
 
-!![arbiter-warrior.png](/images/arbiter-warrior.png)
+![arbiter-warrior.png](/images/arbiter-warrior.png)
 
   
 

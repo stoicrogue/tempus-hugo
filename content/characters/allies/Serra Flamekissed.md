@@ -8,7 +8,7 @@ title: Serra Flamekissed
 Last Edited: 2024-09-18T20:17
 ---
 
-!![serra-flamekissed.png](/images/serra-flamekissed.png)
+![serra-flamekissed.png](/images/serra-flamekissed.png)
 
   
 

@@ -23,4 +23,4 @@ AC: 18
 HP: 60
 ---
 
-!![skreek.png](/images/skreek.png)
+![skreek.png](/images/skreek.png)

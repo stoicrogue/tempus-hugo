@@ -6,7 +6,7 @@ title: Dusk Lord Church Catacombs
 Last Edited: 2023-02-28T20:27
 ---
 
-!![dusk-lord-church-catacombs.png](/images/dusk-lord-church-catacombs.png)
+![dusk-lord-church-catacombs.png](/images/dusk-lord-church-catacombs.png)
 
   
 

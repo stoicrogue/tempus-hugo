@@ -17,7 +17,7 @@ for root, dirs, files in os.walk(posts_dir):
                 content = file.read()
             
             # Step 2: Find all image links in the format ![Image Description](/images/Pasted%20image%20...%20.png)
-            images = re.findall(r'\[\[([^]]*\.(jpe?g|png|gif|bmp))\]\]', content)
+            images = re.findall(r'\[\[([^]]*\.(jpe?g|png|gif|bmp|webp))\]\]', content)
             
             # Step 3: Replace image links and ensure URLs are correctly formatted
             for image_tuple in images:
@@ -25,7 +25,7 @@ for root, dirs, files in os.walk(posts_dir):
                 image = image_tuple[0]
                 # Prepare the Markdown-compatible link with %20 replacing spaces
                 markdown_image = f"![{image}](/images/{image.replace(' ', '%20')})"
-                content = content.replace(f"[[{image}]]", markdown_image)
+                content = content.replace(f"![[{image}]]", markdown_image)
                 print("Processing: " + filename)
                 print("  -> Image: " + image)
                 # Step 4: Copy the image to the Hugo static/images directory if it exists

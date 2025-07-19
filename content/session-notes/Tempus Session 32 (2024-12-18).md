@@ -46,11 +46,11 @@ _Check off when revealed._
 - [x] The materials needed to reforge **Summer's Edge** are:
     - [x] **Celestial Ore** – A rare and shimmering metal infused with celestial energy.
         
-        ![[celestial_ore.webp]]
+        ![celestial_ore.webp](/images/celestial_ore.webp)
         
     - [x] **The Kiss of the Midday Sun from the Feywild** – A magical, radiant essence that must be captured using a special device crafted by Elara, the Summer Court's master smith.
         
-        ![[sunlight-capture-device.webp]]
+        ![sunlight-capture-device.webp](/images/sunlight-capture-device.webp)
         
 
 # Fantastic Locations
@@ -78,7 +78,7 @@ NPC link. _Use the @ symbol to internally link to an NPC page._
 
 ### Starfall Sentinel
 
-![[starfall_sentinel.webp]]
+![starfall_sentinel.webp](/images/starfall_sentinel.webp)
 
 **Armor Class:** 15 (Natural Armor, Crystalline Form)
 
@@ -141,7 +141,7 @@ The Starfall Sentinel releases a burst of radiant energy. Each creature within a
 
 ### Celestial Guardian
 
-![[celestial_guardian.webp]]
+![celestial_guardian.webp](/images/celestial_guardian.webp)
 
 _Large Construct, Lawful Neutral_
 

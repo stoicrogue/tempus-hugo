@@ -4,7 +4,7 @@ tags:
 created: 2025-04-10
 title: Iron bands of binding
 Files & media:
-  - "![Iron bands of binding.jpeg](/images/Iron%20bands%20of%20binding.jpeg)"
+  - "[[Iron bands of binding.jpeg]]"
 Last Edited: 2023-04-11T23:11
 dndbeyond: https://www.dndbeyond.com/magic-items/4665-iron-bands-of-binding
 ---
@@ -19,4 +19,4 @@ A creature, including the one [**restrained**](https://www.dndbeyond.com/compen
 
 Once the bands are used, they can't be used again until the next dawn.
 
-!![Iron bands of binding.jpeg](/images/Iron%20bands%20of%20binding.jpeg)
+![Iron bands of binding.jpeg](/images/Iron%20bands%20of%20binding.jpeg)

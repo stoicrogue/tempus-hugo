@@ -5,5 +5,6 @@ date: 2025-01-01
 draft: false
 ---
 
+# Welcome to Tempus
 
-Welcome to Tempus
+![tempus_cover.webp](/images/tempus_cover.webp)

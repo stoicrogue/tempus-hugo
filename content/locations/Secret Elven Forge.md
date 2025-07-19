@@ -9,7 +9,7 @@ author:
 ---
 
 
-!![secret-elven-forge.jpg](/images/secret-elven-forge.jpg)
+![secret-elven-forge.jpg](/images/secret-elven-forge.jpg)
 
 Forge below Elara's workshop where her truly magical artifacts are created.  Here she can tap into the leyline energies to enhance her creations and give her the ability to breath life back into sentient artifacts, like [[Summer’s Edge (orig)]].
 
