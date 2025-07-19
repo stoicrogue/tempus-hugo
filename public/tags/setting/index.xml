@@ -1,18 +1,46 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Setting on Terminal</title>
-    <link>/tags/setting/</link>
-    <description>Recent content in Setting on Terminal</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <atom:link href="/tags/setting/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Tempus Setting Overview</title>
-      <link>/recap/setting-overview/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/recap/setting-overview/</guid>
-      <description>&lt;h1 id=&#34;central-tension&#34;&gt;&lt;strong&gt;Central Tension&lt;/strong&gt;&lt;/h1&gt;&#xA;&lt;p&gt;A tense stalemate exists between Elves, masters of magic and the planes, and Dwarves, experts of crafting and technology.  The nature vs technology worldviews of the Elves and Dwarves are at the heart of the lasting distrust and conflict.  Over the years, each side has tried pushing into each other&amp;rsquo;s territory to gain natural resources or reclaim ancestral lands of cultural significance.&lt;/p&gt;&#xA;&lt;h2 id=&#34;elves&#34;&gt;Elves&lt;/h2&gt;&#xA;&lt;h3 id=&#34;key-features&#34;&gt;Key Features&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Nature: magic, elemental planes&lt;/li&gt;&#xA;&lt;li&gt;Matriarchy&lt;/li&gt;&#xA;&lt;li&gt;Artists: lore masters, painters, sculptors&lt;/li&gt;&#xA;&lt;li&gt;Allied with: Tieflings, Aasimar, Gensai, Dragonborn (metallic)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;details&#34;&gt;Details&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Elven control over magic is due to their proximity to a large rift between the mundane world and the elemental planes (Feywild and Shadowfell are closest)&lt;/li&gt;&#xA;&lt;li&gt;A powerful magical barrier holds the elemental energies at bay (&lt;em&gt;Forbiddence&lt;/em&gt;) and allows the elves to tap into the planes with some level of control.&lt;/li&gt;&#xA;&lt;li&gt;The original Matriarch organized the ritual that created the barrier and lent much of her power to its formation.&lt;/li&gt;&#xA;&lt;li&gt;Elves were forced to seek out magic power and items in the planes (city of brass, etc)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;secrets&#34;&gt;Secrets&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Few still live that can remember the details of the ritual well enough to sustain the barrier&lt;/li&gt;&#xA;&lt;li&gt;No one has been born with the Matriarch&amp;rsquo;s gift for barriers in two generations, and the barrier is beginning to weaken.&lt;/li&gt;&#xA;&lt;li&gt;May need celestial assistance? (Arcadia v1)&lt;/li&gt;&#xA;&lt;li&gt;A powerful entity from the Shadowfell seeks to take advantage of the weakening barrier to enter our world.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;dwarves&#34;&gt;Dwarves&lt;/h2&gt;&#xA;&lt;h3 id=&#34;key-features-1&#34;&gt;Key Features&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Industry: technology, constructs, tools&lt;/li&gt;&#xA;&lt;li&gt;Patriarchy&lt;/li&gt;&#xA;&lt;li&gt;Craftsmen: buildings, machines, vehicles&lt;/li&gt;&#xA;&lt;li&gt;Allied with: Gnomes, Half-Orcs, Tritons, Dragonborn (chromatic)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;details-1&#34;&gt;Details&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Dwarves control a magical forge at the largest volcano in the realm&lt;/li&gt;&#xA;&lt;li&gt;The Dwarves use some of the technology to hide some of their greatest technology and research centers. (think Wakanda)&lt;/li&gt;&#xA;&lt;li&gt;One of the Dwarven “temples” might give off clouds of nanomachines that, when ingested, allow a person to control certain artifacts. They periodically have to go back to the temple to recharge the machines or ingest new ones.&lt;/li&gt;&#xA;&lt;li&gt;Dwarves use cyphers (one-time use magic items) to aid them in the field&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;secrets-1&#34;&gt;Secrets&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Dwarven technology is not their own but was discovered generations ago deep under the mountain by the Dwarven kingdom currently in power.&lt;/li&gt;&#xA;&lt;li&gt;This is a technology of an ancient civilization long since extinct. (think Numenera).&lt;/li&gt;&#xA;&lt;li&gt;The other Dwarves kingdoms learn of the lost technology and are searching for a new cache of tech from an even older civilization.&lt;/li&gt;&#xA;&lt;li&gt;One of the Dwarven chief scientists is a disguised mind flayer trying to find technology to help it get back to its home plane/world.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Setting on Terminal</title><link>/tags/setting/</link><description>Recent content in Setting on Terminal</description><generator>Hugo</generator><language>en</language><atom:link href="/tags/setting/index.xml" rel="self" type="application/rss+xml"/><item><title>Tempus Setting Overview</title><link>/recap/setting-overview/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/recap/setting-overview/</guid><description>&lt;h1 id="central-tension">&lt;strong>Central Tension&lt;/strong>&lt;/h1>
+&lt;p>A tense stalemate exists between Elves, masters of magic and the planes, and Dwarves, experts of crafting and technology.  The nature vs technology worldviews of the Elves and Dwarves are at the heart of the lasting distrust and conflict.  Over the years, each side has tried pushing into each other&amp;rsquo;s territory to gain natural resources or reclaim ancestral lands of cultural significance.&lt;/p>
+&lt;h2 id="elves">Elves&lt;/h2>
+&lt;h3 id="key-features">Key Features&lt;/h3>
+&lt;ul>
+&lt;li>Nature: magic, elemental planes&lt;/li>
+&lt;li>Matriarchy&lt;/li>
+&lt;li>Artists: lore masters, painters, sculptors&lt;/li>
+&lt;li>Allied with: Tieflings, Aasimar, Gensai, Dragonborn (metallic)&lt;/li>
+&lt;/ul>
+&lt;h3 id="details">Details&lt;/h3>
+&lt;ul>
+&lt;li>Elven control over magic is due to their proximity to a large rift between the mundane world and the elemental planes (Feywild and Shadowfell are closest)&lt;/li>
+&lt;li>A powerful magical barrier holds the elemental energies at bay (&lt;em>Forbiddence&lt;/em>) and allows the elves to tap into the planes with some level of control.&lt;/li>
+&lt;li>The original Matriarch organized the ritual that created the barrier and lent much of her power to its formation.&lt;/li>
+&lt;li>Elves were forced to seek out magic power and items in the planes (city of brass, etc)&lt;/li>
+&lt;/ul>
+&lt;h3 id="secrets">Secrets&lt;/h3>
+&lt;ol>
+&lt;li>Few still live that can remember the details of the ritual well enough to sustain the barrier&lt;/li>
+&lt;li>No one has been born with the Matriarch&amp;rsquo;s gift for barriers in two generations, and the barrier is beginning to weaken.&lt;/li>
+&lt;li>May need celestial assistance? (Arcadia v1)&lt;/li>
+&lt;li>A powerful entity from the Shadowfell seeks to take advantage of the weakening barrier to enter our world.&lt;/li>
+&lt;/ol>
+&lt;h2 id="dwarves">Dwarves&lt;/h2>
+&lt;h3 id="key-features-1">Key Features&lt;/h3>
+&lt;ul>
+&lt;li>Industry: technology, constructs, tools&lt;/li>
+&lt;li>Patriarchy&lt;/li>
+&lt;li>Craftsmen: buildings, machines, vehicles&lt;/li>
+&lt;li>Allied with: Gnomes, Half-Orcs, Tritons, Dragonborn (chromatic)&lt;/li>
+&lt;/ul>
+&lt;h3 id="details-1">Details&lt;/h3>
+&lt;ul>
+&lt;li>Dwarves control a magical forge at the largest volcano in the realm&lt;/li>
+&lt;li>The Dwarves use some of the technology to hide some of their greatest technology and research centers. (think Wakanda)&lt;/li>
+&lt;li>One of the Dwarven “temples” might give off clouds of nanomachines that, when ingested, allow a person to control certain artifacts. They periodically have to go back to the temple to recharge the machines or ingest new ones.&lt;/li>
+&lt;li>Dwarves use cyphers (one-time use magic items) to aid them in the field&lt;/li>
+&lt;/ul>
+&lt;h3 id="secrets-1">Secrets&lt;/h3>
+&lt;ol>
+&lt;li>Dwarven technology is not their own but was discovered generations ago deep under the mountain by the Dwarven kingdom currently in power.&lt;/li>
+&lt;li>This is a technology of an ancient civilization long since extinct. (think Numenera).&lt;/li>
+&lt;li>The other Dwarves kingdoms learn of the lost technology and are searching for a new cache of tech from an even older civilization.&lt;/li>
+&lt;li>One of the Dwarven chief scientists is a disguised mind flayer trying to find technology to help it get back to its home plane/world.&lt;/li>
+&lt;/ol></description></item></channel></rss>
