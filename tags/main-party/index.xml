@@ -12,28 +12,28 @@
       <link>//localhost:1313/characters/main-party/october-toby-daye/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/characters/main-party/october-toby-daye/</guid>
-      <description>&lt;p&gt;![[toby_daye.png]]&lt;/p&gt;</description>
+      <description>&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/toby_daye.png&#34; alt=&#34;toby_daye.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Shadicar</title>
       <link>//localhost:1313/characters/main-party/shadicar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/characters/main-party/shadicar/</guid>
-      <description>&lt;p&gt;![[shadicar.png]]&lt;/p&gt;</description>
+      <description>&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/shadicar.png&#34; alt=&#34;shadicar.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Skreek</title>
       <link>//localhost:1313/characters/main-party/skreek/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/characters/main-party/skreek/</guid>
-      <description>&lt;p&gt;![[skreek.png]]&lt;/p&gt;</description>
+      <description>&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/skreek.png&#34; alt=&#34;skreek.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Slumpet Zoommimist</title>
       <link>//localhost:1313/characters/main-party/slumpet-zoommimist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/characters/main-party/slumpet-zoommimist/</guid>
-      <description>&lt;p&gt;![[slumpet_zoommimist.png]]&lt;/p&gt;</description>
+      <description>&lt;p&gt;!&lt;img src=&#34;//localhost:1313/images/slumpet_zoommimist.png&#34; alt=&#34;slumpet_zoommimist.png&#34;&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
