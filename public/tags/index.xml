@@ -2,142 +2,142 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Terminal</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Terminal</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Allies</title>
-      <link>//localhost:1313/tags/allies/</link>
+      <link>/tags/allies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/allies/</guid>
+      <guid>/tags/allies/</guid>
       <description></description>
     </item>
     <item>
       <title>Ally</title>
-      <link>//localhost:1313/tags/ally/</link>
+      <link>/tags/ally/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/ally/</guid>
+      <guid>/tags/ally/</guid>
       <description></description>
     </item>
     <item>
       <title>Character</title>
-      <link>//localhost:1313/tags/character/</link>
+      <link>/tags/character/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/character/</guid>
+      <guid>/tags/character/</guid>
       <description></description>
     </item>
     <item>
       <title>Characters</title>
-      <link>//localhost:1313/tags/characters/</link>
+      <link>/tags/characters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/characters/</guid>
+      <guid>/tags/characters/</guid>
       <description></description>
     </item>
     <item>
       <title>Faction</title>
-      <link>//localhost:1313/tags/faction/</link>
+      <link>/tags/faction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/faction/</guid>
+      <guid>/tags/faction/</guid>
       <description></description>
     </item>
     <item>
       <title>Item</title>
-      <link>//localhost:1313/tags/item/</link>
+      <link>/tags/item/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/item/</guid>
+      <guid>/tags/item/</guid>
       <description></description>
     </item>
     <item>
       <title>Items</title>
-      <link>//localhost:1313/tags/items/</link>
+      <link>/tags/items/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/items/</guid>
+      <guid>/tags/items/</guid>
       <description></description>
     </item>
     <item>
       <title>Location</title>
-      <link>//localhost:1313/tags/location/</link>
+      <link>/tags/location/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/location/</guid>
+      <guid>/tags/location/</guid>
       <description></description>
     </item>
     <item>
       <title>Locations</title>
-      <link>//localhost:1313/tags/locations/</link>
+      <link>/tags/locations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/locations/</guid>
+      <guid>/tags/locations/</guid>
       <description></description>
     </item>
     <item>
       <title>Main-Party</title>
-      <link>//localhost:1313/tags/main-party/</link>
+      <link>/tags/main-party/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/main-party/</guid>
+      <guid>/tags/main-party/</guid>
       <description></description>
     </item>
     <item>
       <title>NPC</title>
-      <link>//localhost:1313/tags/npc/</link>
+      <link>/tags/npc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/npc/</guid>
+      <guid>/tags/npc/</guid>
       <description></description>
     </item>
     <item>
       <title>Planning</title>
-      <link>//localhost:1313/tags/planning/</link>
+      <link>/tags/planning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/planning/</guid>
+      <guid>/tags/planning/</guid>
       <description></description>
     </item>
     <item>
       <title>Quest-Log</title>
-      <link>//localhost:1313/tags/quest-log/</link>
+      <link>/tags/quest-log/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/quest-log/</guid>
+      <guid>/tags/quest-log/</guid>
       <description></description>
     </item>
     <item>
       <title>Recap</title>
-      <link>//localhost:1313/tags/recap/</link>
+      <link>/tags/recap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/recap/</guid>
+      <guid>/tags/recap/</guid>
       <description></description>
     </item>
     <item>
       <title>Rules</title>
-      <link>//localhost:1313/tags/rules/</link>
+      <link>/tags/rules/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/rules/</guid>
+      <guid>/tags/rules/</guid>
       <description></description>
     </item>
     <item>
       <title>Session-Notes</title>
-      <link>//localhost:1313/tags/session-notes/</link>
+      <link>/tags/session-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/session-notes/</guid>
+      <guid>/tags/session-notes/</guid>
       <description></description>
     </item>
     <item>
       <title>Setting</title>
-      <link>//localhost:1313/tags/setting/</link>
+      <link>/tags/setting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/setting/</guid>
+      <guid>/tags/setting/</guid>
       <description></description>
     </item>
     <item>
       <title>Tempus</title>
-      <link>//localhost:1313/tags/tempus/</link>
+      <link>/tags/tempus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/tempus/</guid>
+      <guid>/tags/tempus/</guid>
       <description></description>
     </item>
     <item>
       <title>Villain</title>
-      <link>//localhost:1313/tags/villain/</link>
+      <link>/tags/villain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/villain/</guid>
+      <guid>/tags/villain/</guid>
       <description></description>
     </item>
   </channel>
