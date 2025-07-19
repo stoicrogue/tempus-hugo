@@ -2,184 +2,184 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Locations on Terminal</title>
-    <link>//localhost:1313/locations/</link>
+    <link>/locations/</link>
     <description>Recent content in Locations on Terminal</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="//localhost:1313/locations/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/locations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aki Matsuri</title>
-      <link>//localhost:1313/locations/aki-matsuri/</link>
+      <link>/locations/aki-matsuri/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/locations/aki-matsuri/</guid>
+      <guid>/locations/aki-matsuri/</guid>
       <description>&lt;p&gt;“Fall Festival” in Japanese&lt;/p&gt;&#xA;&lt;p&gt;Tavern run by [[Hencelle]]&lt;/p&gt;&#xA;&lt;p&gt;A beautiful beer garden, nestled among serene Japanese maple trees of red and orange&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ancient battle scar</title>
-      <link>//localhost:1313/locations/ancient-battle-scar/</link>
+      <link>/locations/ancient-battle-scar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/locations/ancient-battle-scar/</guid>
+      <guid>/locations/ancient-battle-scar/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;Death cultist&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Summons basilisk&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Ogre&lt;/li&gt;&#xA;&lt;li&gt;Trick shot x 2&lt;/li&gt;&#xA;&lt;li&gt;Knave x 2&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Autumn Court</title>
-      <link>//localhost:1313/locations/autumn-court/</link>
+      <link>/locations/autumn-court/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/locations/autumn-court/</guid>
+      <guid>/locations/autumn-court/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://drive.google.com/file/d/11SVgOBPBhz-RYuPdIPdf24Qa92KFOrVf/view?usp=drive_link&#34;&gt;https://drive.google.com/file/d/11SVgOBPBhz-RYuPdIPdf24Qa92KFOrVf/view?usp=drive_link&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Farkis - Lord of Autumn&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Autumn Eladrin&lt;/li&gt;&#xA;&lt;li&gt;Legendary mediator&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Sovis - Prince of Autumn&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Chained Library</title>
-      <link>//localhost:1313/locations/chained-library/</link>
+      <link>/locations/chained-library/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/locations/chained-library/</guid>
+      <guid>/locations/chained-library/</guid>
       <description>&lt;h2 id=&#34;-the-chained-library&#34;&gt;📚 The Chained Library&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;The Chained Library&lt;/strong&gt; is a legendary—and possibly sentient—repository of forbidden knowledge, rumored to predate all known civilizations. Its halls are said to contain &lt;strong&gt;ancient tomes&lt;/strong&gt;, &lt;strong&gt;arcane relics&lt;/strong&gt;, and &lt;strong&gt;sealed truths&lt;/strong&gt; too dangerous for mortal hands. The Library does not reveal itself to just anyone; entry is &lt;strong&gt;earned&lt;/strong&gt; or &lt;strong&gt;bargained for&lt;/strong&gt;, often at great personal cost.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-nature--reputation&#34;&gt;🔒 Nature &amp;amp; Reputation&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hidden and warded&lt;/strong&gt;: Its true location is unknown and constantly shifting through time, space, or planes.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Feared and revered&lt;/strong&gt;: Scholars whisper of its existence; most dismiss it as myth. But those who have glimpsed it are marked forever.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Selective&lt;/strong&gt;: The Library sends &lt;strong&gt;agents&lt;/strong&gt;—like Vael—to retrieve dangerous artifacts or guide worthy seekers. These agents sometimes offer &lt;strong&gt;access in exchange for items of great magical or historical importance&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-contents&#34;&gt;🧠 Contents&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Records of &lt;strong&gt;lost rituals&lt;/strong&gt;, &lt;strong&gt;primordial magic&lt;/strong&gt;, and &lt;strong&gt;ancient wars&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Knowledge about the &lt;strong&gt;leyline network&lt;/strong&gt;, &lt;strong&gt;planar seals&lt;/strong&gt;, and beings like &lt;strong&gt;Nidhogg&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Tomes bound in &lt;strong&gt;chains of silver and shadow&lt;/strong&gt;, often alive or guarded by constructs, undead librarians, or bound spirits.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;-entry-price&#34;&gt;🧪 Entry Price&lt;/h3&gt;&#xA;&lt;p&gt;To gain access, one may be asked to surrender:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Chained Library (2)</title>
-      <link>//localhost:1313/locations/chained-library-2/</link>
+      <link>/locations/chained-library-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/locations/chained-library-2/</guid>
+      <guid>/locations/chained-library-2/</guid>
       <description>&lt;p&gt;The Chained Library is a new location with creatures, magic items, and stories. &amp;ldquo;If a little knowledge is a dangerous thing, the Chained Library is a cataclysm lying in wait,&amp;rdquo; says Indratha Nevarre, an antiquarian and sage.&lt;/p&gt;&#xA;&lt;h2 id=&#34;library-description&#34;&gt;Library Description&lt;/h2&gt;&#xA;&lt;p&gt;The Chained Library is a great fortress built into the black rock cliffs far from civilization. Spellbooks of liches and necromancers and ancient tomes of infernal secrets line the library’s prison-shelves, guarded by blind celestials. The library predates every known kingdom and even some of the younger gods.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Court of Autumn</title>
-      <link>//localhost:1313/locations/court-of-autumn/</link>
+      <link>/locations/court-of-autumn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/locations/court-of-autumn/</guid>
+      <guid>/locations/court-of-autumn/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;Farkris - Lord of Autumn&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Autumn Eladrin&lt;/li&gt;&#xA;&lt;li&gt;Legendary mediator&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Sovis - Prince of Autumn&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Court of Winter</title>
-      <link>//localhost:1313/locations/court-of-winter/</link>
+      <link>/locations/court-of-winter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/locations/court-of-winter/</guid>
+      <guid>/locations/court-of-winter/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Alora - Lady of Winter&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Gifted the party with a Leyline Gate Ring &#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.dndbeyond.com/magic-items/8331580-leyline-gate-ring&#34;&gt;https://www.dndbeyond.com/magic-items/8331580-leyline-gate-ring&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Trius - Winter Knight / Oath of Ancients Paladin&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.dndbeyond.com/characters/120174039/sfrCbz&#34;&gt;https://www.dndbeyond.com/characters/120174039/sfrCbz&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Dusk Lord Church - Dungeons</title>
-      <link>//localhost:1313/locations/dusk-lord-church---dungeons/</link>
+      <link>/locations/dusk-lord-church---dungeons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/locations/dusk-lord-church---dungeons/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/dusk-lord-church-dungeons.png&#34; alt=&#34;dusk-lord-church-dungeons.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;These dungeon hallways are stalked by the monster from the catacombs (the Snatcher)&lt;/p&gt;&#xA;&lt;p&gt;Each X marked on the map is a possible area where the monster can be encountered.&lt;/p&gt;&#xA;&lt;p&gt;Each time a character can see an X, roll a d4:&lt;/p&gt;&#xA;&lt;p&gt;On a 1, the monster is there, ready to chase the characters down.&lt;/p&gt;&#xA;&lt;p&gt;From then on, the monster hunts the characters and does not appear on any other X’s.&lt;/p&gt;</description>
+      <guid>/locations/dusk-lord-church---dungeons/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/dusk-lord-church-dungeons.png&#34; alt=&#34;dusk-lord-church-dungeons.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;These dungeon hallways are stalked by the monster from the catacombs (the Snatcher)&lt;/p&gt;&#xA;&lt;p&gt;Each X marked on the map is a possible area where the monster can be encountered.&lt;/p&gt;&#xA;&lt;p&gt;Each time a character can see an X, roll a d4:&lt;/p&gt;&#xA;&lt;p&gt;On a 1, the monster is there, ready to chase the characters down.&lt;/p&gt;&#xA;&lt;p&gt;From then on, the monster hunts the characters and does not appear on any other X’s.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dusk Lord Church Catacombs</title>
-      <link>//localhost:1313/locations/dusk-lord-church-catacombs/</link>
+      <link>/locations/dusk-lord-church-catacombs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/locations/dusk-lord-church-catacombs/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/dusk-lord-church-catacombs.png&#34; alt=&#34;dusk-lord-church-catacombs.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The stairway down the catacombs is inside the church, and locked. Only Father Samael can open the door with his key. He locks the door behind them, and tells the characters to knock twice in patterns of four to let him know it is them.&lt;/p&gt;&#xA;&lt;p&gt;As the party explores the catacombs, they are hunted by the Snatcher.&lt;/p&gt;&#xA;&lt;p&gt;Each time a character goes down a corridor, roll a d4. On a 1 or 2, the monster appears at the opposite end and gives chase.&lt;/p&gt;</description>
+      <guid>/locations/dusk-lord-church-catacombs/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/dusk-lord-church-catacombs.png&#34; alt=&#34;dusk-lord-church-catacombs.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The stairway down the catacombs is inside the church, and locked. Only Father Samael can open the door with his key. He locks the door behind them, and tells the characters to knock twice in patterns of four to let him know it is them.&lt;/p&gt;&#xA;&lt;p&gt;As the party explores the catacombs, they are hunted by the Snatcher.&lt;/p&gt;&#xA;&lt;p&gt;Each time a character goes down a corridor, roll a d4. On a 1 or 2, the monster appears at the opposite end and gives chase.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Empty Loom</title>
-      <link>//localhost:1313/locations/empty-loom/</link>
+      <link>/locations/empty-loom/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/locations/empty-loom/</guid>
+      <guid>/locations/empty-loom/</guid>
       <description>&lt;h1 id=&#34;-read-aloud-vision-of-the-empty-loom&#34;&gt;🌑 Read-Aloud: Vision of the Empty Loom&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;The world falls away like torn cloth.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;You stand in endless white, beneath a sky that has forgotten how to be blue.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Before you looms a colossal frame, ancient beyond reckoning — a loom whose threads once sang with light and life.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Now, you watch as strand by strand, the weave unravels.&lt;br&gt;&#xA;Names you once knew. Faces you once loved.&lt;br&gt;&#xA;Places you called home.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hag’s Lair</title>
-      <link>//localhost:1313/locations/hags-lair/</link>
+      <link>/locations/hags-lair/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/locations/hags-lair/</guid>
+      <guid>/locations/hags-lair/</guid>
       <description>&lt;p&gt;Deep within the enchanted embrace of the elven forest lies a simple cabin. As you venture closer, a sense of foreboding settles upon you, whispering warnings of the malevolent presence that resides within.&lt;/p&gt;&#xA;&lt;p&gt;The cabin, nestled amidst a grove of ancient and gnarled trees, appears deceptively serene at first glance. Yet, a haunting realization takes hold as your gaze sweeps across the surroundings. Once bursting with life and color, the vibrant hues of the elven forest now give way to a desolate grayscale.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Hollow Threshold</title>
-      <link>//localhost:1313/locations/hollow-threshold/</link>
+      <link>/locations/hollow-threshold/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/locations/hollow-threshold/</guid>
+      <guid>/locations/hollow-threshold/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The Hollow Threshold&lt;/strong&gt; is one of several unstable portals created by the &lt;strong&gt;Cult of the Eclipse&lt;/strong&gt; to connect the Material Plane to the &lt;strong&gt;Shadowfell&lt;/strong&gt;. Each portal is anchored by a powerful artifact steeped in darkness, and maintained through fear, ritual magic, and the weakening of the Elven barrier.&lt;/p&gt;&#xA;&lt;h3 id=&#34;-description&#34;&gt;🕳️ Description&lt;/h3&gt;&#xA;&lt;p&gt;A desolate and warped location, where the natural world seems to fray at the edges. Light bends strangely, shadows stretch too far, and the very air feels hollow—as though something essential has been removed. This eerie terrain marks the boundary between planes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Living Echoes of the Weaver&#39;s Garden</title>
-      <link>//localhost:1313/locations/living-echoes-of-the-weavers-garden/</link>
+      <link>/locations/living-echoes-of-the-weavers-garden/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/locations/living-echoes-of-the-weavers-garden/</guid>
+      <guid>/locations/living-echoes-of-the-weavers-garden/</guid>
       <description>&lt;h3 id=&#34;1-the-bloom-of-forgotten-names&#34;&gt;1. &lt;strong&gt;The Bloom of Forgotten Names&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;br&gt;&#xA;Nestled in a cracked stone planter along the left path.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;&#xA;A single &lt;strong&gt;silver-and-blue lily&lt;/strong&gt;, delicate but unearthly in color, grows stubbornly among withered vines.&lt;br&gt;&#xA;As the players approach, they notice faint glyphs carved into the planter — ancient Elvish sigils of &lt;em&gt;names, oaths, and promises&lt;/em&gt;.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Interaction:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;If a player speaks &lt;strong&gt;their own name aloud&lt;/strong&gt; while touching the lily,&lt;br&gt;&#xA;the flower &lt;strong&gt;flares with pale light&lt;/strong&gt;, and for a moment they hear a whispered memory — a voice they once loved, a forgotten friend, or an old teacher.&lt;/li&gt;&#xA;&lt;li&gt;Mechanically, this grants &lt;strong&gt;Advantage on the next Wisdom saving throw&lt;/strong&gt; made within the garden.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2-the-fountain-of-fading-dreams&#34;&gt;2. &lt;strong&gt;The Fountain of Fading Dreams&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt;&lt;br&gt;&#xA;Near the center, a cracked marble fountain choked with mist.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Medusa&#39;s Wake</title>
-      <link>//localhost:1313/locations/medusas-wake/</link>
+      <link>/locations/medusas-wake/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/locations/medusas-wake/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/medusas-wake.jpg&#34; alt=&#34;medusas-wake.jpg&#34;&gt;&lt;/p&gt;</description>
+      <guid>/locations/medusas-wake/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/medusas-wake.jpg&#34; alt=&#34;medusas-wake.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Order of Seasons Tomb</title>
-      <link>//localhost:1313/locations/order-of-seasons-tomb/</link>
+      <link>/locations/order-of-seasons-tomb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/locations/order-of-seasons-tomb/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/Order_of_the_Seasons_.jpg&#34; alt=&#34;Order_of_the_Seasons_.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Located north of the Shimmerwood, on the other side of the Misty Run river&lt;/li&gt;&#xA;&lt;li&gt;A simple wooden bridge allows crossing into the Enchanted Forest where the elves live&lt;/li&gt;&#xA;&lt;li&gt;The tomb is covered in a mix of vine/floral and raven motifs&lt;/li&gt;&#xA;&lt;li&gt;Crest of the knights is a blazing sun overlayed with the silhouette of a flying bird&lt;/li&gt;&#xA;&lt;li&gt;The mural inside depicts men and elves battling undead and shadows.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>/locations/order-of-seasons-tomb/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/Order_of_the_Seasons_.jpg&#34; alt=&#34;Order_of_the_Seasons_.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Located north of the Shimmerwood, on the other side of the Misty Run river&lt;/li&gt;&#xA;&lt;li&gt;A simple wooden bridge allows crossing into the Enchanted Forest where the elves live&lt;/li&gt;&#xA;&lt;li&gt;The tomb is covered in a mix of vine/floral and raven motifs&lt;/li&gt;&#xA;&lt;li&gt;Crest of the knights is a blazing sun overlayed with the silhouette of a flying bird&lt;/li&gt;&#xA;&lt;li&gt;The mural inside depicts men and elves battling undead and shadows.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Raven’s Perch Tavern</title>
-      <link>//localhost:1313/locations/ravens-perch-tavern/</link>
+      <link>/locations/ravens-perch-tavern/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/locations/ravens-perch-tavern/</guid>
+      <guid>/locations/ravens-perch-tavern/</guid>
       <description>&lt;p&gt;Run by [[Lerissa]]&lt;/p&gt;</description>
     </item>
     <item>
       <title>Secret Elven Forge</title>
-      <link>//localhost:1313/locations/secret-elven-forge/</link>
+      <link>/locations/secret-elven-forge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/locations/secret-elven-forge/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/secret-elven-forge.jpg&#34; alt=&#34;secret-elven-forge.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Forge below Elara&amp;rsquo;s workshop where her truly magical artifacts are created.  Here she can tap into the leyline energies to enhance her creations and give her the ability to breath life back into sentient artifacts, like [[Summer’s Edge (orig)]].&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-reforging-of-summers-edge&#34;&gt;&lt;strong&gt;The Reforging of Summer’s Edge&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Elara led them down a narrow stone staircase hidden behind her forge’s hearth, each step humming with a subtle warmth. The walls themselves seemed to glow with life, veins of feint golden leyline energy pulsing beneath translucent crystalline stone, illuminating their descent.&lt;/p&gt;</description>
+      <guid>/locations/secret-elven-forge/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/secret-elven-forge.jpg&#34; alt=&#34;secret-elven-forge.jpg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Forge below Elara&amp;rsquo;s workshop where her truly magical artifacts are created.  Here she can tap into the leyline energies to enhance her creations and give her the ability to breath life back into sentient artifacts, like [[Summer’s Edge (orig)]].&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-reforging-of-summers-edge&#34;&gt;&lt;strong&gt;The Reforging of Summer’s Edge&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Elara led them down a narrow stone staircase hidden behind her forge’s hearth, each step humming with a subtle warmth. The walls themselves seemed to glow with life, veins of feint golden leyline energy pulsing beneath translucent crystalline stone, illuminating their descent.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Shimmerwood</title>
-      <link>//localhost:1313/locations/shimmerwood/</link>
+      <link>/locations/shimmerwood/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/locations/shimmerwood/</guid>
+      <guid>/locations/shimmerwood/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;Locals hunt deer and boar here&lt;/li&gt;&#xA;&lt;li&gt;Dancing lights can be seen in the forest on full moons&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Pixies playing, casting minor illusions&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Druid grove where local sage, Vidrir, lives&lt;/li&gt;&#xA;&lt;li&gt;Lucky to see his ravens flying around, identifiable by violet markings&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Summer Court</title>
-      <link>//localhost:1313/locations/summer-court/</link>
+      <link>/locations/summer-court/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/locations/summer-court/</guid>
+      <guid>/locations/summer-court/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Architecture:&lt;/strong&gt; The Summer Court is styled like ancient Rome, with grand marble buildings, open courtyards, and majestic columns. The streets are bustling with activity, and the air is filled with the sounds of laughter, music, and the clang of metal from the forges.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;The Coliseum:&lt;/strong&gt; At the center of the Summer Court stands a massive coliseum, where games and contests of skill are held. The coliseum is an architectural marvel, with tiered seating that can accommodate thousands of spectators. The arena floor is versatile, capable of hosting a variety of events, from gladiatorial combat to archery contests.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tempus Map</title>
-      <link>//localhost:1313/locations/tempus-map/</link>
+      <link>/locations/tempus-map/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/locations/tempus-map/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/tempus-map.jpg&#34; alt=&#34;tempus-map.jpg&#34;&gt;&lt;/p&gt;</description>
+      <guid>/locations/tempus-map/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/images/tempus-map.jpg&#34; alt=&#34;tempus-map.jpg&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Vidrir’s Grove</title>
-      <link>//localhost:1313/locations/vidrirs-grove/</link>
+      <link>/locations/vidrirs-grove/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/locations/vidrirs-grove/</guid>
+      <guid>/locations/vidrirs-grove/</guid>
       <description>&lt;p&gt;Vidrir&amp;rsquo;s grove is a place of wild and untamed beauty, a testament to the druid&amp;rsquo;s deep connection with the natural world. The air is thick with the sweet scent of blooming flowers, and the sound of birdsong fills the air, a chorus of melody that seems to come from every tree and bush.&lt;/p&gt;&#xA;&lt;p&gt;The grove is a lush and verdant oasis, a riot of greenery and life that seems almost out of place amid the surrounding woods. Thick, gnarled oaks rise up from the earth like ancient sentinels, their branches stretching outwards to embrace the sun-dappled sky.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Weaver&#39;s Ancestral Home</title>
-      <link>//localhost:1313/locations/weavers-ancestral-home/</link>
+      <link>/locations/weavers-ancestral-home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/locations/weavers-ancestral-home/</guid>
+      <guid>/locations/weavers-ancestral-home/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;Party can discover the [[Weaver&amp;rsquo;s Journal]], depicting his growing interest in fear and illusion.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The Weaver&amp;rsquo;s abandoned journal charts his path from illusionist prodigy to would-be liberator of Nidhogg.&lt;/li&gt;&#xA;&lt;li&gt;It ends at the cusp of his rebellion against the Seasonal Courts, outlining his belief that unraveling the leyline barrier is the key to freeing the Great Shadow.&lt;/li&gt;&#xA;&lt;li&gt;No mention is made of the Cult of the Eclipse yet — their alliance will form after the Weaver leaves the ancestral home to build his new stronghold elsewhere.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;-5-room-dungeon-weavers-abandoned-castle&#34;&gt;🕸️ 5-Room Dungeon: Weaver’s Abandoned Castle&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;[!tip] Summary&lt;/p&gt;</description>
     </item>
     <item>
       <title>Winter Court</title>
-      <link>//localhost:1313/locations/winter-court/</link>
+      <link>/locations/winter-court/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/locations/winter-court/</guid>
+      <guid>/locations/winter-court/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;Restful Buck&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Inn and tavern; features a great mulled wine&lt;/li&gt;&#xA;&lt;li&gt;Jared is the head bartender&lt;/li&gt;&#xA;&lt;li&gt;Regular poker game with the local&lt;/li&gt;&#xA;&lt;li&gt;Small stage inviting performers&lt;/li&gt;&#xA;&lt;li&gt;Magical sonos system sounds fantastic&lt;/li&gt;&#xA;&lt;li&gt;Luxury&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Alora - Lady of Winter&lt;/li&gt;&#xA;&lt;li&gt;Trius - Winter Knight (oath of the ancients paladin and weilder of a Moonblade)&lt;/li&gt;&#xA;&lt;li&gt;Levi - Arch Magus (Alora’s court wizard)&lt;/li&gt;&#xA;&lt;li&gt;Night Garden’s Circle&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Apothecary and magic shop&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Winter Court Outpost</title>
-      <link>//localhost:1313/locations/winter-court-outpost/</link>
+      <link>/locations/winter-court-outpost/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/locations/winter-court-outpost/</guid>
+      <guid>/locations/winter-court-outpost/</guid>
       <description>&lt;p&gt;Nestled at the edge of the winter realm, the elven outpost stands adorned with ethereal silver banners, glinting like frost-kissed moonlight. Before you rises an awe-inspiring silver maple, its branches reaching skyward over 100 feet, crystalline leaves gently whispering the tales of ancient winters. The air is crisp, carrying the scent of pine and a distant promise of snow. Ice sculptures depicting elven lore flank the entrance, guiding visitors toward the heart of the Winter Court&amp;rsquo;s domain.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Winter Leyline Temple</title>
-      <link>//localhost:1313/locations/winter-leyline-temple/</link>
+      <link>/locations/winter-leyline-temple/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/locations/winter-leyline-temple/</guid>
+      <guid>/locations/winter-leyline-temple/</guid>
       <description>&lt;h1 id=&#34;chamber-1---entrance&#34;&gt;Chamber 1 - Entrance&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;When the entrance is approached, an Elvish voice asks for a token of proof they are worth of trust.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Solutions include an offer of blood, a symbol or amulet from the elves (Order of Seasons of the like), or a crystal leaf from the great maple tree.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;chamber-2---tomb-guardian&#34;&gt;Chamber 2 - Tomb Guardian&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A Spectral Knight wearing silver Elven armor materializes and say they may pass if someone is brave enough to fight him in single combat.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Casts a cylindrical barrier at the start of combat to isolate the contest&lt;/li&gt;&#xA;&lt;li&gt;AC = 17&lt;/li&gt;&#xA;&lt;li&gt;HP = 40&lt;/li&gt;&#xA;&lt;li&gt;Actions&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Armor of Frost - +10 temp HP, rebukes hits with 5 frost damage&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cast by crushing a crystal overhead; dust forms into ice armor&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Greatsword x2 - +5 to hit; 10 (2d6 + 3) slashing damage&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;chamber-3---chasm&#34;&gt;Chamber 3 - Chasm&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A narrow path over a “bottomless” chasm&lt;/li&gt;&#xA;&lt;li&gt;Anyone standing on the path is hit with beams of frost (+7 to hit; 2d8 cold damage) each round.&lt;/li&gt;&#xA;&lt;li&gt;The beams of frost emanate from 4 crystals 15 feet up on the walls of the cavern&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Crystals have an AC of 10 and 1 HP; crystals will regenerate after 1 hour.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;It will take 10 rounds to cross the path to the other side.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;chamber-4---leyline-crystal&#34;&gt;Chamber 4 - Leyline Crystal&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;In the center of the hexagonal chamber, a large purple crystal is embedded in the floor.&lt;/li&gt;&#xA;&lt;li&gt;It is surrounded by a circle of ancient runes feintly flowing with energy&lt;/li&gt;&#xA;&lt;li&gt;At equal intervals in the circle of runes are smaller, similarly shaped crystals embedded in slots surrounded by additional runes.&#xA;&lt;ul&gt;&#xA;&lt;li&gt;There are four slots, but only three are currently filled.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
   </channel>
