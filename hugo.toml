@@ -10,12 +10,22 @@ pagination.pagerSize = 5
   noClasses = false
 
 [params]
+  # Show recent posts on homepage
+  showRecentPosts = true
+  recentPostsCount = 5
+  
+  # Show section overview
+  showSectionOverview = true
+  
+  # Enable section menu auto-generation
+  sectionPagesMenu = "main"
+
   # dir name of your main content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
   contentTypeName = "posts"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  #showMenuItems = 2
 
   # show selector to switch language
   showLanguageSelector = false
@@ -97,13 +107,13 @@ pagination.pagerSize = 5
 
       [languages.en.menu]
         [[languages.en.menu.main]]
-          identifier = "about"
-          name = "About"
-          url = "/about"
+          identifier = "session-notes"
+          name = "Session Notes"
+          url = "/session-notes"
         [[languages.en.menu.main]]
-          identifier = "showcase"
-          name = "Showcase"
-          url = "/showcase"
+          identifier = "recap"
+          name = "Recap"
+          url = "/recap"
 
 # [module]
 #   # In case you would like to make changes to the theme and keep it locally in you repository,

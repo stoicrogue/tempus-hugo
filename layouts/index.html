@@ -1,0 +1,24 @@
+{{ define "main" }}
+<div class="homepage">
+  <!-- Content from _index.md -->
+  <div class="homepage-content">
+    {{ .Content }}
+  </div>
+
+  <!-- Optional: Show all sections with page counts -->
+  <section class="sections-overview">
+    <h2>Browse by Section</h2>
+    <div class="section-grid">
+      {{ range site.Sections }}
+      <div class="section-card">
+        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+        {{ if .Description }}
+        <p>{{ .Description }}</p>
+        {{ end }}
+        <span class="page-count">{{ len .Pages }} pages</span>
+      </div>
+      {{ end }}
+    </div>
+  </section>
+</div>
+{{ end }}

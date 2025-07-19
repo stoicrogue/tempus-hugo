@@ -1,0 +1,16 @@
+---
+tags:
+  - locations
+  - tempus
+created: 2025-04-10
+title: Aki Matsuri
+author:
+  - Mark Molea
+---
+
+
+“Fall Festival” in Japanese
+
+Tavern run by [[Hencelle]]
+
+A beautiful beer garden, nestled among serene Japanese maple trees of red and orange

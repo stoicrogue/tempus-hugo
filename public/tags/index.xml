@@ -7,5 +7,138 @@
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Allies</title>
+      <link>//localhost:1313/tags/allies/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/allies/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ally</title>
+      <link>//localhost:1313/tags/ally/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/ally/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Character</title>
+      <link>//localhost:1313/tags/character/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/character/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Characters</title>
+      <link>//localhost:1313/tags/characters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/characters/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Faction</title>
+      <link>//localhost:1313/tags/faction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/faction/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Item</title>
+      <link>//localhost:1313/tags/item/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/item/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Items</title>
+      <link>//localhost:1313/tags/items/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/items/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Location</title>
+      <link>//localhost:1313/tags/location/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/location/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Locations</title>
+      <link>//localhost:1313/tags/locations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/locations/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Main-Party</title>
+      <link>//localhost:1313/tags/main-party/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/main-party/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>NPC</title>
+      <link>//localhost:1313/tags/npc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/npc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Planning</title>
+      <link>//localhost:1313/tags/planning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/planning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Quest-Log</title>
+      <link>//localhost:1313/tags/quest-log/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/quest-log/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recap</title>
+      <link>//localhost:1313/tags/recap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/recap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rules</title>
+      <link>//localhost:1313/tags/rules/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/rules/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Session-Notes</title>
+      <link>//localhost:1313/tags/session-notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/session-notes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Setting</title>
+      <link>//localhost:1313/tags/setting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/setting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tempus</title>
+      <link>//localhost:1313/tags/tempus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/tempus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Villain</title>
+      <link>//localhost:1313/tags/villain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/villain/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

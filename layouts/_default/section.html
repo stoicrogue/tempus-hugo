@@ -1,0 +1,26 @@
+{{ define "main" }}
+<div class="section-page">
+  <header class="section-header">
+    <h1>{{ .Title }}</h1>
+    {{ if .Description }}
+    <p class="section-description">{{ .Description }}</p>
+    {{ end }}
+  </header>
+
+  <!-- Render the section's own content from _index.md -->
+  <div class="section-content">
+    {{ .Content }}
+  </div>
+
+  <!-- List all pages in this section -->
+  {{ if .Pages }}
+  <div class="section-pages">
+    <ul class="page-list">
+      {{ range .Pages.ByTitle }}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+      {{ end }}
+    </ul>
+  </div>
+  {{ end }}
+</div>
+{{ end }}
