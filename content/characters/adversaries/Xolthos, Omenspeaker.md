@@ -6,7 +6,7 @@ title: Xolthos, Omenspeaker
 dndbeyond: https://www.dndbeyond.com/characters/125398669/7WTtub
 ---
 
-![[xolthos.png]]
+!![xolthos.png](/images/xolthos.png)
 
 > [!tip] D&D Beyond Sheet
 > https://www.dndbeyond.com/characters/125398669/7WTtub

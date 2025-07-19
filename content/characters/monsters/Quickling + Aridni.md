@@ -4,8 +4,8 @@ tags:
 created: 2025-04-10
 title: Quickling + Aridni
 Files & media:
-  - "[[aridni.png]]"
-  - "[[qukckling.png]]"
+  - "![aridni.png](/images/aridni.png)"
+  - "![qukckling.png](/images/qukckling.png)"
 Last Edited: 2024-04-17T14:55
 ---
 

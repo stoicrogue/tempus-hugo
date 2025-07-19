@@ -18,4 +18,4 @@ As an action, you can expend 1 charge to reach inside and catch a handful of sta
 
 Once 3 handfuls of starlight have been pulled from the bag, the bag can’t be used again until the next dawn.
 
-![[/Untitled 5.png|Untitled 5.png]]
+!![bag-of-starlight.png](/images/bag-of-starlight.png)

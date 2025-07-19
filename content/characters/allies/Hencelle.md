@@ -8,7 +8,7 @@ title: Hencelle
 Last Edited: 2024-05-28T20:50
 ---
 
-![[hencelle.png]]
+!![hencelle.png](/images/hencelle.png)
 
 - Earth Genasi, former monk
 - Tavern keeper at the Aki Matsuri (Fall Festival in Japanese

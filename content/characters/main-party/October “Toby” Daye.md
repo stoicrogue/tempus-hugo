@@ -25,4 +25,4 @@ AC: 12
 HP: 76
 ---
 
-![[toby_daye.png]]
+!![toby_daye.png](/images/toby_daye.png)

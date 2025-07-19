@@ -22,4 +22,4 @@ The inside of the ring reveals what is within the object or on the other side of
 
 The vision can penetrate 1 foot of stone, 1 inch of common metal, or up to 3 feet of wood or dirt. Thicker substances block the vision, as does a thin sheet of lead.
 
-![[/Untitled 3.png|Untitled 3.png]]
+!![arcanroot-pipe.png](/images/arcanroot-pipe.png)

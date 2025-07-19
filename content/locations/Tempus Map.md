@@ -6,4 +6,4 @@ title: Tempus Map
 Last Edited: 2023-05-03T12:27
 ---
 
-![[tempus-map.jpg]]
+!![tempus-map.jpg](/images/tempus-map.jpg)

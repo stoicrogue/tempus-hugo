@@ -9,5 +9,5 @@ author:
 ---
 
 
-![[medusas-wake.jpg]]
+!![medusas-wake.jpg](/images/medusas-wake.jpg)
 

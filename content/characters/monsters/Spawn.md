@@ -6,4 +6,4 @@ title: Spawn
 Last Edited: 2023-01-11T12:35
 ---
 
-![[spawn-statblock.png]]
+!![spawn-statblock.png](/images/spawn-statblock.png)

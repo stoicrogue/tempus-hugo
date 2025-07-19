@@ -8,7 +8,7 @@ title: Elara Sunforge
 Last Edited: 2024-10-27T21:06
 ---
 
-![[elara-sunforge.png]]
+!![elara-sunforge.png](/images/elara-sunforge.png)
 
 ### Name
 

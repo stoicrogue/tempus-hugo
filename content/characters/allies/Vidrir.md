@@ -8,7 +8,7 @@ title: Vidrir
 Last Edited: 2023-05-31T16:43
 ---
 
-![[Druid.jpg]]
+!![Druid.jpg](/images/Druid.jpg)
 
 - Local loremaster that lives in a grove in the Shimmerwood
     - [[Vidrir’s Grove]]

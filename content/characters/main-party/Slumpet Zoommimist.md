@@ -24,4 +24,4 @@ AC: 14
 HP: 43
 ---
 
-![[slumpet_zoommimist.png]]
+!![slumpet_zoommimist.png](/images/slumpet_zoommimist.png)

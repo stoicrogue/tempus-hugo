@@ -8,7 +8,7 @@ title: Lerissa
 Last Edited: 2023-01-11T15:20
 ---
 
-![[Lerissa.jpeg]]
+!![Lerissa.jpeg](/images/Lerissa.jpeg)
 
 - tiefling bartender of the [[Raven’s Perch Tavern]] in Tannis
 - Former beast master ranger

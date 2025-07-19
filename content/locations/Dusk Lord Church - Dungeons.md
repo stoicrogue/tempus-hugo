@@ -6,7 +6,7 @@ title: Dusk Lord Church - Dungeons
 Last Edited: 2023-02-28T20:36
 ---
 
-![[dusk-lord-church-dungeons.png]]
+!![dusk-lord-church-dungeons.png](/images/dusk-lord-church-dungeons.png)
 
 These dungeon hallways are stalked by the monster from the catacombs (the Snatcher)
 

@@ -5,7 +5,7 @@ created: 2025-04-10
 title: Manus
 ---
 
-![[image.png]]
+!![image.png](/images/image.png)
 # Manus
 
 **Armor Class** 21 (natural armor)

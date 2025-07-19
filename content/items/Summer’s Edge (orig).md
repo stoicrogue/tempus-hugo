@@ -6,7 +6,7 @@ title: Summer’s Edge (orig)
 Last Edited: 2025-04-03T16:58
 ---
 
-![[summers-edge-final.png]]
+!![summers-edge-final.png](/images/summers-edge-final.png)
 
 ## Background
 
