@@ -1,40 +1,9 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Main-Party on Terminal</title>
-    <link>//localhost:1313/tags/main-party/</link>
-    <description>Recent content in Main-Party on Terminal</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/main-party/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>October “Toby” Daye</title>
-      <link>//localhost:1313/characters/main-party/october-toby-daye/</link>
-      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/characters/main-party/october-toby-daye/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/toby_daye.png&#34; alt=&#34;toby_daye.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Race/Class:&lt;/strong&gt; Half-Elf Blood Hunter&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt; A quiet and enigmatic figure, Toby walks the line between light and shadow. Trained to hunt monsters and empowered by forbidden rites, she does what must be done without complaint. Though she rarely speaks at length, her sharp observations often cut to the heart of the matter. She’s the one who reminds the group of the larger threat—the Cult of the Eclipse—and keeps them focused even when distractions abound. When tough calls are needed, she steps up, whether that means offering her own blood as tribute or striking a deal with a shady figure like Blackbird to further their cause.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Shadicar</title>
-      <link>//localhost:1313/characters/main-party/shadicar/</link>
-      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/characters/main-party/shadicar/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/shadicar.png&#34; alt=&#34;shadicar.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Race/Class:&lt;/strong&gt; Half-Elf Bard&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt; A charismatic performer and storyteller with a tragic past, Shadicar’s village was destroyed by a horrifying illusion conjured by the Weaver. Ever since, he&amp;rsquo;s pursued knowledge and justice, weaving his sorrow into songs that inspire allies and unnerve enemies. He has formed a subtle rivalry (and perhaps infatuation) with Trius of the Winter Court and is often the party’s spokesperson and moral compass. Recently gifted the Fochlucan Bandore, his bardic magic has grown even more formidable.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Skreek</title>
-      <link>//localhost:1313/characters/main-party/skreek/</link>
-      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/characters/main-party/skreek/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/skreek.png&#34; alt=&#34;skreek.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Race/Class:&lt;/strong&gt; Aarakocra Paladin&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt; A noble and devout warrior of the Dusk Lord, Skreek embodies steadfast duty and honor. He’s on a personal quest to recover a stolen relic tied to his faith and culture. His unwavering sense of justice led him to duel a spectral knight in an ancient leyline temple—and win. Skreek’s martial prowess and aerial advantage make him a fearsome combatant, while his healing touch saved Olivia, daughter of the Lady of Winter.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Slumpet Zoommimist</title>
-      <link>//localhost:1313/characters/main-party/slumpet-zoommimist/</link>
-      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/characters/main-party/slumpet-zoommimist/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/slumpet_zoommimist.png&#34; alt=&#34;slumpet_zoommimist.png&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Race/Class:&lt;/strong&gt; Gnome Rogue&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Background:&lt;/strong&gt; Clever, mischievous, and a bit impulsive, Slumpet has a knack for getting into—and out of—trouble. He’s bonded with fey creatures (notably Fannie the pixie), stolen from nobles, and even negotiated with a sarcastic flameskull named Francis. He carries Serenity’s cursed orb and is oddly protective of it despite its danger. He attempted to offer it to the leyline temple, which rejected it; only his gifted bow from the Winter Court proved acceptable. Though Slumpet plays the fool at times, his courage and cleverness are undeniable.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Main-Party on Terminal</title><link>/tags/main-party/</link><description>Recent content in Main-Party on Terminal</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/main-party/index.xml" rel="self" type="application/rss+xml"/><item><title>October “Toby” Daye</title><link>/characters/main-party/october-toby-daye/</link><pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate><guid>/characters/main-party/october-toby-daye/</guid><description>&lt;p>&lt;img src="/images/toby_daye.png" alt="toby_daye.png">&lt;/p>
+&lt;p>&lt;strong>Race/Class:&lt;/strong> Half-Elf Blood Hunter&lt;/p>
+&lt;p>&lt;strong>Background:&lt;/strong> A quiet and enigmatic figure, Toby walks the line between light and shadow. Trained to hunt monsters and empowered by forbidden rites, she does what must be done without complaint. Though she rarely speaks at length, her sharp observations often cut to the heart of the matter. She’s the one who reminds the group of the larger threat—the Cult of the Eclipse—and keeps them focused even when distractions abound. When tough calls are needed, she steps up, whether that means offering her own blood as tribute or striking a deal with a shady figure like Blackbird to further their cause.&lt;/p></description></item><item><title>Shadicar</title><link>/characters/main-party/shadicar/</link><pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate><guid>/characters/main-party/shadicar/</guid><description>&lt;p>&lt;img src="/images/shadicar.png" alt="shadicar.png">&lt;/p>
+&lt;p>&lt;strong>Race/Class:&lt;/strong> Half-Elf Bard&lt;/p>
+&lt;p>&lt;strong>Background:&lt;/strong> A charismatic performer and storyteller with a tragic past, Shadicar’s village was destroyed by a horrifying illusion conjured by the Weaver. Ever since, he&amp;rsquo;s pursued knowledge and justice, weaving his sorrow into songs that inspire allies and unnerve enemies. He has formed a subtle rivalry (and perhaps infatuation) with Trius of the Winter Court and is often the party’s spokesperson and moral compass. Recently gifted the Fochlucan Bandore, his bardic magic has grown even more formidable.&lt;/p></description></item><item><title>Skreek</title><link>/characters/main-party/skreek/</link><pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate><guid>/characters/main-party/skreek/</guid><description>&lt;p>&lt;img src="/images/skreek.png" alt="skreek.png">&lt;/p>
+&lt;p>&lt;strong>Race/Class:&lt;/strong> Aarakocra Paladin&lt;/p>
+&lt;p>&lt;strong>Background:&lt;/strong> A noble and devout warrior of the Dusk Lord, Skreek embodies steadfast duty and honor. He’s on a personal quest to recover a stolen relic tied to his faith and culture. His unwavering sense of justice led him to duel a spectral knight in an ancient leyline temple—and win. Skreek’s martial prowess and aerial advantage make him a fearsome combatant, while his healing touch saved Olivia, daughter of the Lady of Winter.&lt;/p></description></item><item><title>Slumpet Zoommimist</title><link>/characters/main-party/slumpet-zoommimist/</link><pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate><guid>/characters/main-party/slumpet-zoommimist/</guid><description>&lt;p>&lt;img src="/images/slumpet_zoommimist.png" alt="slumpet_zoommimist.png">&lt;/p>
+&lt;p>&lt;strong>Race/Class:&lt;/strong> Gnome Rogue&lt;/p>
+&lt;p>&lt;strong>Background:&lt;/strong> Clever, mischievous, and a bit impulsive, Slumpet has a knack for getting into—and out of—trouble. He’s bonded with fey creatures (notably Fannie the pixie), stolen from nobles, and even negotiated with a sarcastic flameskull named Francis. He carries Serenity’s cursed orb and is oddly protective of it despite its danger. He attempted to offer it to the leyline temple, which rejected it; only his gifted bow from the Winter Court proved acceptable. Though Slumpet plays the fool at times, his courage and cleverness are undeniable.&lt;/p></description></item></channel></rss>
