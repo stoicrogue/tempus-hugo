@@ -1,26 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Items on Terminal</title>
-    <link>//localhost:1313/tags/items/</link>
-    <description>Recent content in Items on Terminal</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/items/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Summer&#39;s Edge</title>
-      <link>//localhost:1313/items/summers-edge/</link>
-      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/items/summers-edge/</guid>
-      <description>&lt;p&gt;&lt;em&gt;The Blade of Dawning Light&lt;/em&gt;&lt;br&gt;&#xA;&lt;em&gt;Weapon (longsword), rare (requires attunement by a good-aligned creature)&lt;/em&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;[!tip] Legends Speak&amp;hellip;&#xA;&lt;em&gt;“As long as Summer’s Edge shines, the night shall never truly fall.”&lt;/em&gt;&lt;br&gt;&#xA;&lt;em&gt;— Inscription on the sword’s original scabbard&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;Forged in ages past by the smiths of the Summer Court, Summer’s Edge was once the blade of Sir Eirik, Champion of the Summer Court and Captain of the Order of Seasons. It gleamed with the light of the midday sun and cut down countless horrors in the battle against the undead. Though broken during the final stand at the Gates of Season’s End, the blade has been reforged—and its light is rising once again.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Weaver&#39;s Journal</title>
-      <link>//localhost:1313/items/weavers-journal/</link>
-      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/items/weavers-journal/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;[!quote] First Sparks&#xA;Today, I cast an illusion no one could see through.  Father called it child&amp;rsquo;s play — a trick for fairs and fools. But when I showed him the wolf at the window and watched the blood drain from his face, I knew: there is power in belief.&lt;/p&gt;&#xA;&lt;p&gt;Even without substance, fear is real.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;[!quote] The Dance of Triggers&#xA;Why rely on an audience’s gaze? Why perform for them when I can weave cause and effect into the very fabric of a place?  I have found a method to bind illusions to events — a sound, a footstep, a heartbeat. They spring to life when I command them, like faithful servants awaiting their cue. I call it a &amp;ldquo;programmed illusion.&amp;rdquo;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Items on Terminal</title><link>/tags/items/</link><description>Recent content in Items on Terminal</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/items/index.xml" rel="self" type="application/rss+xml"/><item><title>Summer's Edge</title><link>/items/summers-edge/</link><pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate><guid>/items/summers-edge/</guid><description>&lt;p>&lt;em>The Blade of Dawning Light&lt;/em>&lt;br>
+&lt;em>Weapon (longsword), rare (requires attunement by a good-aligned creature)&lt;/em>&lt;/p>
+&lt;blockquote>
+&lt;p>[!tip] Legends Speak&amp;hellip;
+&lt;em>“As long as Summer’s Edge shines, the night shall never truly fall.”&lt;/em>&lt;br>
+&lt;em>— Inscription on the sword’s original scabbard&lt;/em>&lt;/p>&lt;/blockquote>
+&lt;p>Forged in ages past by the smiths of the Summer Court, Summer’s Edge was once the blade of Sir Eirik, Champion of the Summer Court and Captain of the Order of Seasons. It gleamed with the light of the midday sun and cut down countless horrors in the battle against the undead. Though broken during the final stand at the Gates of Season’s End, the blade has been reforged—and its light is rising once again.&lt;/p></description></item><item><title>Weaver's Journal</title><link>/items/weavers-journal/</link><pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate><guid>/items/weavers-journal/</guid><description>&lt;blockquote>
+&lt;p>[!quote] First Sparks
+Today, I cast an illusion no one could see through. Father called it child&amp;rsquo;s play — a trick for fairs and fools. But when I showed him the wolf at the window and watched the blood drain from his face, I knew: there is power in belief.&lt;/p>
+&lt;p>Even without substance, fear is real.&lt;/p>&lt;/blockquote>
+&lt;blockquote>
+&lt;p>[!quote] The Dance of Triggers
+Why rely on an audience’s gaze? Why perform for them when I can weave cause and effect into the very fabric of a place? I have found a method to bind illusions to events — a sound, a footstep, a heartbeat. They spring to life when I command them, like faithful servants awaiting their cue. I call it a &amp;ldquo;programmed illusion.&amp;rdquo;&lt;/p></description></item></channel></rss>
