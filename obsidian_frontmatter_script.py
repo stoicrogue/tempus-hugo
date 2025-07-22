@@ -135,7 +135,7 @@ def update_frontmatter(file_path):
             # No existing frontmatter, add new one
             frontmatter_dict = {
                 'tags': [section_name, 'tempus'],
-                'created': created_date,
+                'date': created_date,
                 'title': file_name,
                 'author': ['Mark Molea']
             }
@@ -145,15 +145,17 @@ def update_frontmatter(file_path):
             if 'title' not in frontmatter_dict:
                 frontmatter_dict['title'] = file_name
             
-            # Add created if not present
-            if 'created' not in frontmatter_dict:
-                frontmatter_dict['created'] = created_date
+            # Set date field - use existing created_date if present, otherwise file creation date
+            if 'created' in frontmatter_dict:
+                frontmatter_dict['date'] = frontmatter_dict['created']
+            elif 'date' not in frontmatter_dict:
+                frontmatter_dict['date'] = created_date
         
         # Reconstruct frontmatter
         frontmatter_lines = ['---']
         
         # Preserve order: tags, created, title, author, then everything else
-        ordered_keys = ['tags', 'created', 'title', 'author']
+        ordered_keys = ['tags', 'date', 'title', 'author']
         
         for key in ordered_keys:
             if key in frontmatter_dict:
