@@ -1,9 +1,18 @@
 ---
 tags:
   - Villain
-created: 2025-04-10
+date: 2025-04-10
 title: Manus
+created: 2025-04-10
+cssclasses:
+  - image-borders
 ---
+
+
+
+
+
+
 
 ![image.png](/images/image.png)
 # Manus

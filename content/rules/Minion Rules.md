@@ -2,11 +2,18 @@
 tags:
   - rules
   - tempus
-created: 2025-04-10
+date: 2025-04-10
 title: Minion Rules
 author:
   - Mark Molea
+created: 2025-04-10
 ---
+
+
+
+
+
+
 
 
 A minion is a weak foe designed to allow GMs to create dramatic combat encounters with hordes of enemies without overwhelming the characters. In fact, an encounter with minions makes characters feel heroic since they can take on a myriad of foes and live to tell the tale. However, minions still make threatening foes. Killing a minion still requires penetrating their defenses, and characters can't just shrug off damage from minion attacks. So how do minions make running a horde of enemies quick and easy for the GM?

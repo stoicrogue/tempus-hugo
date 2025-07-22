@@ -2,11 +2,18 @@
 tags:
   - planning
   - tempus
-created: 2025-06-22
+date: 2025-06-22
 title: Survey Summary
 author:
   - Mark Molea
+created: 2025-06-22
 ---
+
+
+
+
+
+
 
 
 Thank you all for your thoughtful responses! Here’s a quick summary of what I heard and what it means for the campaign going forward:

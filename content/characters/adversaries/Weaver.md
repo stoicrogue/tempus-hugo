@@ -1,9 +1,16 @@
 ---
 tags:
   - Villain
-created: 2025-04-10
+date: 2025-04-10
 title: Weaver
+created: 2025-04-10
 ---
+
+
+
+
+
+
 
 - Wizard, illusionist experimenting on how far illusions can go
 - Responsible for the tragedy of Shad’s village. He made an illusion so realistic the frightening that the villagers literally died of fear

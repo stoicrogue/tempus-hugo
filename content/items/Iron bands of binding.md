@@ -1,13 +1,20 @@
 ---
 tags:
   - Item
-created: 2025-04-10
+date: 2025-04-10
 title: Iron bands of binding
+created: 2025-04-10
 Files & media:
   - "[[Iron bands of binding.jpeg]]"
 Last Edited: 2023-04-11T23:11
 dndbeyond: https://www.dndbeyond.com/magic-items/4665-iron-bands-of-binding
 ---
+
+
+
+
+
+
 
 _Wondrous Item, rare_
 

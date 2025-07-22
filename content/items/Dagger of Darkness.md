@@ -1,10 +1,17 @@
 ---
 tags:
   - Item
-created: 2025-04-10
+date: 2025-04-10
 title: Dagger of Darkness
+created: 2025-04-10
 Last Edited: 2023-04-11T23:19
 ---
+
+
+
+
+
+
 
 _Weapon (dagger), rare_
 

@@ -3,10 +3,17 @@ tags:
   - NPC
   - character
   - ally
-created: 2025-04-10
+date: 2025-04-10
 title: Vidrir
+created: 2025-04-10
 Last Edited: 2023-05-31T16:43
 ---
+
+
+
+
+
+
 
 ![Druid.jpg](/images/Druid.jpg)
 

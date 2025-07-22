@@ -2,11 +2,18 @@
 tags:
   - planning
   - tempus
-created: 2025-07-09
+date: 2025-07-09
 title: Character Cheat sheet
 author:
   - Mark Molea
+created: 2025-07-09
 ---
+
+
+
+
+
+
 
 
 ## Characters

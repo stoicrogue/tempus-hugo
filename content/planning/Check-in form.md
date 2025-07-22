@@ -2,11 +2,18 @@
 tags:
   - planning
   - tempus
-created: 2025-05-26
+date: 2025-05-26
 title: Check-in form
 author:
   - Mark Molea
+created: 2025-05-26
 ---
+
+
+
+
+
+
 
 
 # Tempus Campaign Check-In

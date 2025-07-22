@@ -1,10 +1,19 @@
 ---
 tags:
   - Villain
-created: 2025-04-10
+date: 2025-04-10
 title: Xolthos, Omenspeaker
+created: 2025-04-10
 dndbeyond: https://www.dndbeyond.com/characters/125398669/7WTtub
+cssclasses:
+  - image-borders
 ---
+
+
+
+
+
+
 
 ![xolthos.png](/images/xolthos.png)
 

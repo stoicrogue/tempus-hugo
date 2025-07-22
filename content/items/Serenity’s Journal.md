@@ -1,10 +1,17 @@
 ---
 tags:
   - Item
-created: 2025-04-10
+date: 2025-04-10
 title: Serenity’s Journal
+created: 2025-04-10
 Last Edited: 2023-08-30T20:39
 ---
+
+
+
+
+
+
 
 “I've never encountered a creature of such sorrow and powerful longing. If only I could share the depth of his darkness with the realm…”
 

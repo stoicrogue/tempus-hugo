@@ -2,11 +2,18 @@
 tags:
   - locations
   - tempus
-created: 2025-04-28
+date: 2025-04-28
 title: Empty Loom
 author:
   - Mark Molea
+created: 2025-04-28
 ---
+
+
+
+
+
+
 
 
 # 🌑 Read-Aloud: Vision of the Empty Loom

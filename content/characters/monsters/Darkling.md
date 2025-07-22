@@ -1,13 +1,20 @@
 ---
 tags:
   - Villain
-created: 2025-04-10
+date: 2025-04-10
 title: Darkling
+created: 2025-04-10
 Files & media:
   - https://www.dndbeyond.com/avatars/thumbnails/20487/262/1000/1000/637677950046587848.jpeg
 Last Edited: 2023-04-11T23:04
 dndbeyond: https://www.dndbeyond.com/monsters/17231-darkling
 ---
+
+
+
+
+
+
 
 _Small Fey, Typically Chaotic Neutral_
 

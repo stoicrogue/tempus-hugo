@@ -2,11 +2,18 @@
 tags:
   - session-notes
   - tempus
-created: 2024-02-21
+date: 2024-02-21
 title: Tempus Session 18
 author:
   - Mark Molea
+created: 2024-02-21
 ---
+
+
+
+
+
+
 
 
 # Characters

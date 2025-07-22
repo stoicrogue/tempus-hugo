@@ -2,11 +2,18 @@
 tags:
   - allies
   - tempus
-created: 2025-04-28
+date: 2025-04-28
 title: Vael
 author:
   - Mark Molea
+created: 2025-04-28
 ---
+
+
+
+
+
+
 
 
 ## Vael’s Explanation of the Anchors and Hollow Thresholds

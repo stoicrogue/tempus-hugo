@@ -2,11 +2,18 @@
 tags:
   - planning
   - tempus
-created: 2025-07-08
+date: 2025-07-08
 title: Reforging Summer's Edge
 author:
   - Mark Molea
+created: 2025-07-08
 ---
+
+
+
+
+
+
 
 
 Elara led them down a narrow stone staircase hidden behind her forge’s hearth, each step humming with a subtle warmth. The walls themselves seemed to glow with life, veins of feint golden leyline energy pulsing beneath translucent crystalline stone, illuminating their descent.

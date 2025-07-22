@@ -3,10 +3,17 @@ tags:
   - NPC
   - character
   - ally
-created: 2025-04-10
+date: 2025-04-10
 title: Trius
+created: 2025-04-10
 Last Edited: 2024-06-01T10:56
 ---
+
+
+
+
+
+
 
 ![trius-portrait.png](/images/trius-portrait.png)
 

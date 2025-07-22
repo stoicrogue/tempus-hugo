@@ -2,11 +2,18 @@
 tags:
   - planning
   - tempus
-created: 2025-05-26
+date: 2025-05-26
 title: Check-in questionnaire
 author:
   - Mark Molea
+created: 2025-05-26
 ---
+
+
+
+
+
+
 
 
 Absolutely. Here’s a facilitated question set you can use in conversation or survey form to help your players clarify what they want from the rest of the game. It balances emotional check-in, creative curiosity, and forward momentum.

@@ -4,7 +4,7 @@ import shutil
 
 # Paths
 posts_dir = "Z:\\code\\tempus\\content\\"
-attachments_dir = "Z:\\documents\\obsidian\\Mark\\assets"
+attachments_dir = "Z:\\documents\\obsidian\\Mark\\99 - Meta\\assets"
 static_images_dir = "Z:\\code\\tempus\\static\\images\\"
 
 # Step 1: Process each markdown file in the posts directory (recursively)

@@ -1,10 +1,17 @@
 ---
 tags:
   - Villain
-created: 2025-04-10
+date: 2025-04-10
 title: Shadow (MCDM)
+created: 2025-04-10
 Last Edited: 2023-08-30T15:52
 ---
+
+
+
+
+
+
 
 _Medium undead (incorporeal), typically chaotic evil_
 

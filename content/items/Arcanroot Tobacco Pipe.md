@@ -1,10 +1,17 @@
 ---
 tags:
   - Item
-created: 2025-04-10
+date: 2025-04-10
 title: Arcanroot Tobacco Pipe
+created: 2025-04-10
 Last Edited: 2023-05-31T17:32
 ---
+
+
+
+
+
+
 
 ## Arcanroot Tobacco Pipe
 

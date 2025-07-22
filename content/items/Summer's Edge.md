@@ -2,11 +2,18 @@
 tags:
   - items
   - tempus
-created: 2025-07-05
+date: 2025-07-05
 title: Summer's Edge
 author:
   - Mark Molea
+created: 2025-07-05
 ---
+
+
+
+
+
+
 
 
 *The Blade of Dawning Light*  

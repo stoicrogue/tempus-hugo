@@ -2,11 +2,18 @@
 tags:
   - session-notes
   - tempus
-created: 2023-02-08
+date: 2023-02-08
 title: Tempus Session 04
 author:
   - Mark Molea
+created: 2023-02-08
 ---
+
+
+
+
+
+
 
 
 # Characters

@@ -1,13 +1,20 @@
 ---
 tags:
   - Villain
-created: 2025-04-10
+date: 2025-04-10
 title: Redcap
+created: 2025-04-10
 Files & media:
   - https://www.dndbeyond.com/avatars/thumbnails/9/788/1000/1000/636332006160598385.jpeg
 Last Edited: 2023-10-17T20:15
 dndbeyond: https://www.dndbeyond.com/monsters/17300-redcap
 ---
+
+
+
+
+
+
 
 Small Fey, Typically Chaotic Evil
 

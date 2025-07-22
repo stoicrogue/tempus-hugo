@@ -1,10 +1,17 @@
 ---
 tags:
   - Location
-created: 2025-04-10
+date: 2025-04-10
 title: Autumn Court
+created: 2025-04-10
 Last Edited: 2024-05-28T21:08
 ---
+
+
+
+
+
+
 
 [https://drive.google.com/file/d/11SVgOBPBhz-RYuPdIPdf24Qa92KFOrVf/view?usp=drive_link](https://drive.google.com/file/d/11SVgOBPBhz-RYuPdIPdf24Qa92KFOrVf/view?usp=drive_link)
 

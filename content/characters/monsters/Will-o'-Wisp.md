@@ -1,12 +1,19 @@
 ---
 tags:
   - Villain
-created: 2025-04-10
+date: 2025-04-10
 title: Will-o'-Wisp
+created: 2025-04-10
 Files & media:
   - https://www.dndbeyond.com/avatars/thumbnails/16/585/1000/1000/636376363763232290.jpeg
 Last Edited: 2023-08-01T23:06
 ---
+
+
+
+
+
+
 
   
 

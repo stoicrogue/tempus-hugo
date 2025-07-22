@@ -3,12 +3,19 @@ tags:
   - NPC
   - character
   - ally
-created: 2025-04-10
+date: 2025-04-10
 title: Francis, the Flameskull
+created: 2025-04-10
 Files & media:
   - https://www.dndbeyond.com/avatars/thumbnails/14/487/1000/1000/636364325235118776.png
 Last Edited: 2023-10-18T11:21
 ---
+
+
+
+
+
+
 
 _Tiny undead_
 

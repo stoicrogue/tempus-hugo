@@ -2,11 +2,18 @@
 tags:
   - planning
   - tempus
-created: 2025-07-04
+date: 2025-07-04
 title: Slumpet Espionage
 author:
   - Mark Molea
+created: 2025-07-04
 ---
+
+
+
+
+
+
 
 
 Here is a structured **plan to integrate Slumpet’s espionage thread** based on his player’s responses, while keeping it subtle, impactful, and world-coherent:

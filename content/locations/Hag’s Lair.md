@@ -1,10 +1,17 @@
 ---
 tags:
   - Location
-created: 2025-04-10
+date: 2025-04-10
 title: Hag’s Lair
+created: 2025-04-10
 Last Edited: 2023-06-28T18:00
 ---
+
+
+
+
+
+
 
 Deep within the enchanted embrace of the elven forest lies a simple cabin. As you venture closer, a sense of foreboding settles upon you, whispering warnings of the malevolent presence that resides within.
 

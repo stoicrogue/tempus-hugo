@@ -2,11 +2,18 @@
 tags:
   - locations
   - tempus
-created: 2025-04-14
+date: 2025-04-14
 title: Chained Library
 author:
   - Mark Molea
+created: 2025-04-14
 ---
+
+
+
+
+
+
 
 
 ## 📚 The Chained Library

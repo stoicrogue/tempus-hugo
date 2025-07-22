@@ -2,11 +2,18 @@
 tags:
   - session-notes
   - tempus
-created: 2025-06-25
+date: 2025-06-25
 title: Tempus Session 39
 author:
   - Mark Molea
+created: 2025-06-25
 ---
+
+
+
+
+
+
 
 
 #### Characters

@@ -3,11 +3,18 @@ tags:
   - quest-log
   - tempus
   - recap
-created: 2025-07-16
+date: 2025-07-16
 title: Tempus Quest Log
 author:
   - Mark Molea
+created: 2025-07-16
 ---
+
+
+
+
+
+
 
 ## ✅ COMPLETED QUESTS
 

@@ -1,13 +1,20 @@
 ---
 tags:
   - Villain
-created: 2025-04-10
+date: 2025-04-10
 title: Darkling Elder
+created: 2025-04-10
 Files & media:
   - https://www.dndbeyond.com/avatars/thumbnails/20487/335/1000/1000/637677953105014863.jpeg
 Last Edited: 2023-04-11T23:02
 dndbeyond: https://www.dndbeyond.com/monsters/17232-darkling-elder
 ---
+
+
+
+
+
+
 
 _Medium Fey, Typically Chaotic Neutral_
 

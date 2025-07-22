@@ -1,10 +1,17 @@
 ---
 tags:
   - Location
-created: 2025-04-10
+date: 2025-04-10
 title: Tavern Ideas
+created: 2025-04-10
 Last Edited: 2025-02-05T13:36
 ---
+
+
+
+
+
+
 
 1. The Gilded Tankard - Roderick Hammerfist, a retired dwarven merchant
 2. Whistling Wyvern - Elara Nightwind, an elven former adventurer

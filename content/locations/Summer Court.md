@@ -1,12 +1,19 @@
 ---
 tags:
   - Location
-created: 2025-04-10
+date: 2025-04-10
 title: Summer Court
+created: 2025-04-10
 Files & media:
   - https://drive.google.com/file/d/1RAdEUG0213gdW7hJ5uzOwPvvj5ZEBrPx/view?usp=drivesdk
 Last Edited: 2024-09-18T19:25
 ---
+
+
+
+
+
+
 
 **Architecture:** The Summer Court is styled like ancient Rome, with grand marble buildings, open courtyards, and majestic columns. The streets are bustling with activity, and the air is filled with the sounds of laughter, music, and the clang of metal from the forges.
 

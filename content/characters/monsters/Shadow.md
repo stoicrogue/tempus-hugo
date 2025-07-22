@@ -1,12 +1,19 @@
 ---
 tags:
   - Villain
-created: 2025-04-10
+date: 2025-04-10
 title: Shadow
+created: 2025-04-10
 Files & media:
   - https://www.dndbeyond.com/avatars/thumbnails/30835/825/1000/1000/638063922274815873.png
 Last Edited: 2023-08-30T15:57
 ---
+
+
+
+
+
+
 
   
 

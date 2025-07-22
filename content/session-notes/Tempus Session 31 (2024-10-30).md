@@ -2,11 +2,18 @@
 tags:
   - session-notes
   - tempus
-created: 2024-10-30
+date: 2024-10-30
 title: Tempus Session 31
 author:
   - Mark Molea
+created: 2024-10-30
 ---
+
+
+
+
+
+
 
 
 _Here's a blank D&D session note page ready for you to use outlined according to [Return of the Lazy Dungeon Master](https://slyflourish.com/returnofthelazydm/index.html). Duplicate, date, and title the copy page for your new session._

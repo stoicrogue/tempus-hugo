@@ -1,12 +1,19 @@
 ---
 tags:
   - Villain
-created: 2025-04-10
+date: 2025-04-10
 title: Mimic
+created: 2025-04-10
 Files & media:
   - https://www.dndbeyond.com/avatars/thumbnails/30833/408/1000/1000/638063863232165584.png
 Last Edited: 2023-07-12T17:18
 ---
+
+
+
+
+
+
 
   
 

@@ -2,9 +2,16 @@
 tags:
   - session-notes
   - tempus
-created: 2025-XX-XX
+date: 2025-04-01
 title: Tempus Session XX
+created: 2025-04-01
 ---
+
+
+
+
+
+
 
 
 ## 🎭 Strong Start

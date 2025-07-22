@@ -1,10 +1,17 @@
 ---
 tags:
   - Villain
-created: 2025-04-10
+date: 2025-04-10
 title: Troll
+created: 2025-04-10
 Last Edited: 2025-03-19T15:03
 ---
+
+
+
+
+
+
 
 ## Troll
 

@@ -1,10 +1,17 @@
 ---
 tags:
   - Villain
-created: 2025-04-10
+date: 2025-04-10
 title: Troll (MCDM)
+created: 2025-04-10
 Last Edited: 2025-03-01T14:44
 ---
+
+
+
+
+
+
 
 ## Troll
 

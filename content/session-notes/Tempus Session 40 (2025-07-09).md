@@ -2,13 +2,19 @@
 tags:
   - session-notes
   - tempus
-created: 2025-07-09
+date: 2025-07-09
 title: Tempus Session 40
 author:
   - Mark Molea
+created: 2025-07-09
 ---
 
-# Tempus Session 40 (2025-07-09)
+
+
+
+
+
+
 ## 🎭 Strong Start
 
 > Investigate the Weaver's home and discover a leyline nexus and a standing stone that responds to the  leyline gate ring. Patchwork Guardian reveals itself and shows them the way if necessary.  Appears in leyline nexus otherwise.

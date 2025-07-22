@@ -1,12 +1,19 @@
 ---
 tags:
   - Villain
-created: 2025-04-10
+date: 2025-04-10
 title: Rug of Smothering
+created: 2025-04-10
 Files & media:
   - https://www.dndbeyond.com/avatars/thumbnails/30761/845/1000/1000/638061095923531915.png
 Last Edited: 2023-08-02T19:32
 ---
+
+
+
+
+
+
 
   
 

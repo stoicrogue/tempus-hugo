@@ -1,12 +1,21 @@
 ---
 tags:
   - Villain
-created: 2025-04-10
+date: 2025-04-10
 title: Bandersnatch
+created: 2025-04-10
 Files & media:
   - "[[bandersnatch.png]]"
 Last Edited: 2023-11-29T14:42
+cssclasses:
+  - image-borders
 ---
+
+
+
+
+
+
 
 _Large Fey, Typically Neutral Evil_
 
@@ -55,3 +64,6 @@ The bandersnatch can take 2 legendary actions, choosing from the options below. 
 > [!important] **Tactics**
 > 
 > This fast predator chases down prey much like a big cat. It stalks a target using its superior camouflage before running at a target to utilize its Pounce trait. Should it succeed in knocking its prey prone, the bandersnatch uses its bonus Bite attack. It singularly focuses on a target it has taken down and releases poisonous fumes to keep others at bay with its Noxious Stench legendary action. The bandersnatch instinctively backs down after it has been reduced to 20 or fewer hit points, taking the Disengage action before retreating.
+
+
+![bandersnatch.png](/images/bandersnatch.png)

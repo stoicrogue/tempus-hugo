@@ -2,11 +2,18 @@
 tags:
   - planning
   - tempus
-created: 2025-04-10
+date: 2025-04-10
 title: Secrets and Clues
 author:
   - Mark Molea
+created: 2025-04-10
 ---
+
+
+
+
+
+
 
 
 1. Vidrir was the leader of the Order of Seasons and once wielded Summer’s Edge in a great war against the Shadowfell

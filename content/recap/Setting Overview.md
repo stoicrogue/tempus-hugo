@@ -3,11 +3,18 @@ tags:
   - tempus
   - recap
   - setting
-created: 2023-07-16
+date: 2023-07-16
 title: Tempus Setting Overview
 author:
   - Mark Molea
+created: 2023-07-16
 ---
+
+
+
+
+
+
 
 
 # **Central Tension**

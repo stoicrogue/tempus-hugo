@@ -2,11 +2,18 @@
 tags:
   - locations
   - tempus
-created: 2025-04-28
+date: 2025-04-28
 title: Living Echoes of the Weaver's Garden
 author:
   - Mark Molea
+created: 2025-04-28
 ---
+
+
+
+
+
+
 
 
 ### 1. **The Bloom of Forgotten Names**

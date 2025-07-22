@@ -2,11 +2,18 @@
 tags:
   - planning
   - tempus
-created: 2025-04-10
+date: 2025-04-10
 title: Session Notes Template
 author:
   - Mark Molea
+created: 2025-04-10
 ---
+
+
+
+
+
+
 
 
 # Characters

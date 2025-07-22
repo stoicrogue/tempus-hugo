@@ -1,9 +1,16 @@
 ---
 tags:
   - Villain
-created: 2025-04-10
+date: 2025-04-10
 title: Kharvex, the Shadow Caller
+created: 2025-04-10
 ---
+
+
+
+
+
+
 
 ## Grimoire of the Eclipse
 

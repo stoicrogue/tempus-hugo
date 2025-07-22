@@ -1,10 +1,17 @@
 ---
 tags:
   - Villain
-created: 2025-04-10
+date: 2025-04-10
 title: Shade (CR1 Minion)
+created: 2025-04-10
 Last Edited: 2023-10-24T17:43
 ---
+
+
+
+
+
+
 
 _Medium Undead (Incorporeal), Typically Chaotic Evil_
 

@@ -1,13 +1,20 @@
 ---
 tags:
   - Villain
-created: 2025-04-10
+date: 2025-04-10
 title: Giant Rat
+created: 2025-04-10
 Files & media:
   - https://www.dndbeyond.com/avatars/thumbnails/16/538/1000/1000/636376332197953299.jpeg
 Last Edited: 2023-05-31T16:59
 dndbeyond: https://www.dndbeyond.com/monsters/16891-giant-rat
 ---
+
+
+
+
+
+
 
   
 

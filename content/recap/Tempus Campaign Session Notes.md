@@ -2,11 +2,18 @@
 tags:
   - tempus
   - recap
-created: 2023-07-16
+date: 2023-07-16
 title: Tempus Campaign Notes (Raw, On-going)
 author:
   - Mark Molea
+created: 2023-07-16
 ---
+
+
+
+
+
+
 
 ## Meeting in Tannis
 

@@ -2,11 +2,18 @@
 tags:
   - session-notes
   - tempus
-created: 2025-05-14
+date: 2025-05-14
 title: Tempus Session 38
 author:
   - Mark Molea
+created: 2025-05-14
 ---
+
+
+
+
+
+
 
 
 # Strong Start

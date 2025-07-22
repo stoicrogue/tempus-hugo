@@ -2,11 +2,18 @@
 tags:
   - locations
   - tempus
-created: 2025-07-05
+date: 2025-07-05
 title: Secret Elven Forge
 author:
   - Mark Molea
+created: 2025-07-05
 ---
+
+
+
+
+
+
 
 
 ![secret-elven-forge.jpg](/images/secret-elven-forge.jpg)

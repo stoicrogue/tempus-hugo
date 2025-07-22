@@ -2,11 +2,18 @@
 tags:
   - planning
   - tempus
-created: 2025-06-22
+date: 2025-06-22
 title: Check-In Summary
 author:
   - Mark Molea
+created: 2025-06-22
 ---
+
+
+
+
+
+
 
 
 # Tempus Campaign Check-In: Survey Summary

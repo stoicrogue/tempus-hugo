@@ -1,13 +1,20 @@
 ---
 tags:
   - Villain
-created: 2025-04-10
+date: 2025-04-10
 title: Quickling + Aridni
+created: 2025-04-10
 Files & media:
   - "[[aridni.png]]"
   - "[[qukckling.png]]"
 Last Edited: 2024-04-17T14:55
 ---
+
+
+
+
+
+
 
 _Tiny Fey, Chaotic Evil_
 

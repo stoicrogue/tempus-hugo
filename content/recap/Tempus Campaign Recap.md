@@ -2,11 +2,16 @@
 tags:
   - tempus
   - recap
-created: 2023-07-16
+date: 2023-07-16
 title: Tempus Campaign Recap
 author:
   - Mark Molea
+created: 2023-07-16
 ---
+
+
+
+
 
 
 ## 📍 _Prologue – Tannis and the Blacksmith’s Plea_

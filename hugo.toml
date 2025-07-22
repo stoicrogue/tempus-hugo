@@ -123,6 +123,12 @@ pagination.pagerSize = 5
           name = "Planning"
           url = "/planning"
 
+[frontmatter]
+  date = ['date', 'publishdate', 'pubdate', 'published', 'lastmod', 'modified']
+  expiryDate = ['expirydate', 'unpublishdate']
+  lastmod = [':git', 'lastmod', 'modified', 'date', 'publishdate', 'pubdate', 'published']
+  publishDate = ['publishdate', 'pubdate', 'published', 'date']
+
 # [module]
 #   # In case you would like to make changes to the theme and keep it locally in you repository,
 #   # uncomment the line below (and correct the local path if necessary).

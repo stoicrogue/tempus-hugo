@@ -1,10 +1,17 @@
 ---
 tags:
   - Location
-created: 2025-04-10
+date: 2025-04-10
 title: Chained Library (2)
+created: 2025-04-10
 Last Edited: 2024-07-20T15:45
 ---
+
+
+
+
+
+
 
 The Chained Library is a new location with creatures, magic items, and stories. "If a little knowledge is a dangerous thing, the Chained Library is a cataclysm lying in wait," says Indratha Nevarre, an antiquarian and sage.
 

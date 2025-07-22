@@ -2,11 +2,18 @@
 tags:
   - session-notes
   - tempus
-created: 2023-05-31
+date: 2023-05-31
 title: Tempus Session 08
 author:
   - Mark Molea
+created: 2023-05-31
 ---
+
+
+
+
+
+
 
 
 # Characters

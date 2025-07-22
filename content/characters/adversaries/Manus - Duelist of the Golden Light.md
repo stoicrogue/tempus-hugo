@@ -1,9 +1,16 @@
 ---
 tags:
   - Villain
-created: 2025-04-30
+date: 2025-04-30
 title: Manus - Duelist of the Golden Light
+created: 2025-04-30
 ---
+
+
+
+
+
+
 
 > [!tip] One Line Stat Block
 > AC/DC 17 | HP 155 (116-194) | Atk/Prof +9 | DPR 65 | # Atks 4 | Dmg 16 (3d8 + 3)

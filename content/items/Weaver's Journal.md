@@ -2,11 +2,18 @@
 tags:
   - items
   - tempus
-created: 2025-05-02
+date: 2025-05-02
 title: Weaver's Journal
 author:
   - Mark Molea
+created: 2025-05-02
 ---
+
+
+
+
+
+
 
 
 > [!quote] First Sparks

@@ -1,12 +1,19 @@
 ---
 tags:
   - Villain
-created: 2025-04-10
+date: 2025-04-10
 title: Flameskull
+created: 2025-04-10
 Files & media:
   - https://www.dndbeyond.com/avatars/thumbnails/14/487/1000/1000/636364325235118776.png
 Last Edited: 2023-08-30T15:57
 ---
+
+
+
+
+
+
 
 _Tiny undead, neutral evil_
 

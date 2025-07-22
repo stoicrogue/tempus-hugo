@@ -2,11 +2,18 @@
 tags:
   - characters
   - tempus
-created: 2025-04-20
+date: 2025-04-20
 title: Tempus Character Guide
 author:
   - Mark Molea
+created: 2025-04-20
 ---
+
+
+
+
+
+
 
 
 

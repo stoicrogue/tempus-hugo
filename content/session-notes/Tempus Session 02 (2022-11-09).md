@@ -2,11 +2,18 @@
 tags:
   - session-notes
   - tempus
-created: 2022-11-09
+date: 2022-11-09
 title: Tempus Session 02
 author:
   - Mark Molea
+created: 2022-11-09
 ---
+
+
+
+
+
+
 
 
 # Characters

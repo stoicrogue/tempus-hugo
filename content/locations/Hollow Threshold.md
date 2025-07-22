@@ -2,11 +2,18 @@
 tags:
   - locations
   - tempus
-created: 2025-04-14
+date: 2025-04-14
 title: Hollow Threshold
 author:
   - Mark Molea
+created: 2025-04-14
 ---
+
+
+
+
+
+
 
 
 **The Hollow Threshold** is one of several unstable portals created by the **Cult of the Eclipse** to connect the Material Plane to the **Shadowfell**. Each portal is anchored by a powerful artifact steeped in darkness, and maintained through fear, ritual magic, and the weakening of the Elven barrier.

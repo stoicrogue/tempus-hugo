@@ -2,11 +2,18 @@
 tags:
   - session-notes
   - tempus
-created: 2025-02-05
+date: 2025-02-05
 title: Tempus Session 34
 author:
   - Mark Molea
+created: 2025-02-05
 ---
+
+
+
+
+
+
 
 
 # Characters

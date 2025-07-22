@@ -1,12 +1,19 @@
 ---
 tags:
   - Location
-created: 2025-04-10
+date: 2025-04-10
 title: Winter Leyline Temple
+created: 2025-04-10
 Files & media:
   - "[[CauldronSigma.webp]]"
 Last Edited: 2024-02-07T17:09
 ---
+
+
+
+
+
+
 
 # Chamber 1 - Entrance
 

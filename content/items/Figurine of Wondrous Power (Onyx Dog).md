@@ -1,12 +1,19 @@
 ---
 tags:
   - Item
-created: 2025-04-10
+date: 2025-04-10
 title: Figurine of Wondrous Power (Onyx Dog)
+created: 2025-04-10
 Files & media:
   - "[[figurines-of-wonder.jpeg]]"
 Last Edited: 2023-08-16T15:28
 ---
+
+
+
+
+
+
 
   
 

@@ -2,11 +2,18 @@
 tags:
   - session-notes
   - tempus
-created: 2022-11-02
+date: 2022-11-02
 title: Tempus Session 00
 author:
   - Mark Molea
+created: 2022-11-02
 ---
+
+
+
+
+
+
 
 
 ## Campaign Pitch

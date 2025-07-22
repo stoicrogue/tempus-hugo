@@ -1,303 +1,110 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Planning on Terminal</title><link>/planning/</link><description>Recent content in Planning on Terminal</description><generator>Hugo</generator><language>en</language><atom:link href="/planning/index.xml" rel="self" type="application/rss+xml"/><item><title>Character Cheat sheet</title><link>/planning/character-cheat-sheet/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/planning/character-cheat-sheet/</guid><description>&lt;h2 id="characters">Characters&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Name&lt;/th>
- &lt;th>P. Pcpt&lt;/th>
- &lt;th>P. Inv&lt;/th>
- &lt;th>P. Ins&lt;/th>
- &lt;th>Max HP&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>[[October “Toby” Daye]]&lt;/td>
- &lt;td>15&lt;/td>
- &lt;td>14&lt;/td>
- &lt;td>12&lt;/td>
- &lt;td>76&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>[[Shadicar]]&lt;/td>
- &lt;td>14&lt;/td>
- &lt;td>11&lt;/td>
- &lt;td>14&lt;/td>
- &lt;td>43&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>[[Skreek]]&lt;/td>
- &lt;td>9&lt;/td>
- &lt;td>10&lt;/td>
- &lt;td>9&lt;/td>
- &lt;td>60&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>[[Slumpet Zoommimist]]&lt;/td>
- &lt;td>18&lt;/td>
- &lt;td>14&lt;/td>
- &lt;td>12&lt;/td>
- &lt;td>43&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table></description></item><item><title>Check-in form</title><link>/planning/check-in-form/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/planning/check-in-form/</guid><description>&lt;h1 id="tempus-campaign-check-in">Tempus Campaign Check-In&lt;/h1>
-&lt;h2 id="your-name">Your Name&lt;/h2>
-&lt;p>(Optional): ___________________&lt;/p>
-&lt;h2 id="1-current-feelings">1. Current Feelings&lt;/h2>
-&lt;h3 id="how-are-you-feeling-about-the-campaign-right-now">How are you feeling about the campaign right now?&lt;/h3>
-&lt;p>(Choose one or more if you&amp;rsquo;d like.)&lt;/p>
-&lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> Still energized and having fun&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> A little tired, but still interested&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Feeling burned out on my character&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Burned out on the campaign&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Curious about changing directions&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Not sure how I feel right now&lt;/li>
-&lt;/ul>
-&lt;h2 id="2-staying-in-tempus">2. Staying in Tempus&lt;/h2>
-&lt;h3 id="do-you-want-to-continue-playing-in-the-world-of-tempus">Do you want to continue playing in the world of Tempus?&lt;/h3>
-&lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> Yes, I love this world and want to keep exploring it&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Maybe, if we explore a new region or shift focus&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> I’d prefer a totally new world or genre&lt;/li>
-&lt;li>&lt;input disabled="" type="checkbox"> Not sure yet&lt;/li>
-&lt;/ul>
-&lt;h3 id="what-aspects-of-tempus-still-interest-or-excite-you">What aspects of Tempus still interest or excite you?&lt;/h3>
-&lt;blockquote>
-&lt;p>&lt;strong>free response&lt;/strong>&lt;/p></description></item><item><title>Check-in questionnaire</title><link>/planning/check-in-questionnaire/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/planning/check-in-questionnaire/</guid><description>&lt;p>Absolutely. Here’s a facilitated question set you can use in conversation or survey form to help your players clarify what they want from the rest of the game. It balances emotional check-in, creative curiosity, and forward momentum.&lt;/p>
-&lt;hr>
-&lt;p>Part 1: Emotional Pulse &amp;amp; Campaign World&lt;/p>
-&lt;ol>
-&lt;li>
-&lt;p>How are you feeling about the campaign right now?
-(Free response or options like: Still energized / A little tired / Burnt out / Curious but overwhelmed / Ready for something new)&lt;/p></description></item><item><title>Check-In Summary</title><link>/planning/check-in-summary/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/planning/check-in-summary/</guid><description>&lt;h1 id="tempus-campaign-check-in-survey-summary">Tempus Campaign Check-In: Survey Summary&lt;/h1>
-&lt;p>&lt;strong>Thanks to everyone who completed the survey! Here&amp;rsquo;s what I&amp;rsquo;m hearing from the group:&lt;/strong>&lt;/p>
-&lt;h2 id="whats-working-well">What&amp;rsquo;s Working Well&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>We love the world of Tempus&lt;/strong> - Everyone wants to keep exploring it&lt;/li>
-&lt;li>&lt;strong>Combat and tactical encounters&lt;/strong> remain engaging for most players&lt;/li>
-&lt;li>&lt;strong>The current storyline&lt;/strong> has momentum - everyone wants to see how this arc ends&lt;/li>
-&lt;li>&lt;strong>Group chemistry&lt;/strong> is strong, with interest in collaborative storytelling&lt;/li>
-&lt;/ul>
-&lt;h2 id="areas-for-change">Areas for Change&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Pacing&lt;/strong>: There&amp;rsquo;s appetite to move through story beats more quickly, potentially using time skips&lt;/li>
-&lt;li>&lt;strong>Setting variety&lt;/strong>: Strong interest in exploring different parts of Tempus (desert, cities, ocean, other planes)&lt;/li>
-&lt;li>&lt;strong>Character evolution&lt;/strong>: Mixed feelings - some ready for dramatic character endings, others want to continue current characters&lt;/li>
-&lt;li>&lt;strong>System exploration&lt;/strong>: Most are open to trying different RPG systems (Shadowdark, Blades in the Dark, narrative systems)&lt;/li>
-&lt;/ul>
-&lt;h2 id="what-you-want-more-of">What You Want More Of&lt;/h2>
-&lt;ul>
-&lt;li>&lt;strong>Puzzle-solving and social challenges&lt;/strong> (convincing guards, sneaking out of prison without combat)&lt;/li>
-&lt;li>&lt;strong>Character-driven roleplay scenes&lt;/strong>&lt;/li>
-&lt;li>&lt;strong>Exploration and discovery&lt;/strong>&lt;/li>
-&lt;li>&lt;strong>Big climactic moments&lt;/strong>&lt;/li>
-&lt;/ul>
-&lt;h2 id="moving-forward-my-proposal">Moving Forward: My Proposal&lt;/h2>
-&lt;p>Based on your feedback, here&amp;rsquo;s what I&amp;rsquo;m thinking:&lt;/p></description></item><item><title>hollow_thresholds_claude</title><link>/planning/hollow_thresholds_claude/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/planning/hollow_thresholds_claude/</guid><description>&lt;h1 id="hollow-threshold-1-the-tempest-gate">HOLLOW THRESHOLD 1: THE TEMPEST GATE&lt;/h1>
-&lt;p>&lt;strong>Plane Connection:&lt;/strong> Material Plane ↔ Elemental Plane of Air&lt;/p>
-&lt;h2 id="arena-layout">ARENA LAYOUT&lt;/h2>
-&lt;p>A 50-foot diameter circular platform of black stone floats in howling winds. Lightning crackles between three towering storm-spires (20ft tall, 5ft wide) arranged in a triangle around the center. The &lt;strong>Tempest Egg&lt;/strong> hovers 10 feet above the platform&amp;rsquo;s center, wreathed in electrical energy. A shimmering portal to the Material Plane sits at the platform&amp;rsquo;s edge (south), while violent winds from the Air Plane tear through an unstable rift (north).&lt;/p></description></item><item><title>Quest Outline (long term)</title><link>/planning/quest-outline-long-term/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/planning/quest-outline-long-term/</guid><description>&lt;h3 id="encounters-with-the-cult">Encounters with the Cult&lt;/h3>
-&lt;ol>
-&lt;li>&lt;strong>Initial Skirmishes:&lt;/strong> Early encounters with cultists and lower-ranking members of the Cult of the Eclipse can help the party gain experience and gather intelligence.&lt;/li>
-&lt;li>&lt;strong>Mid-tier Leaders:&lt;/strong> As the party progresses, they can face mid-tier leaders and more formidable cultists, each encounter increasing in difficulty and complexity.&lt;/li>
-&lt;li>&lt;strong>Major Confrontations:&lt;/strong> Key battles, such as the one with the Black Dragon Sorcerer, can serve as significant milestones, offering substantial experience and rewards.&lt;/li>
-&lt;/ol>
-&lt;h3 id="missions-for-reforging-summers-edge">Missions for Reforging Summer&amp;rsquo;s Edge&lt;/h3>
-&lt;ol>
-&lt;li>&lt;strong>Finding the Smiths:&lt;/strong> The journey to locate the great Smiths of the Summer Court can involve several quests and encounters with creatures or obstacles in the Elven Forest.&lt;/li>
-&lt;li>&lt;strong>Gathering Materials:&lt;/strong> Collecting rare and powerful materials needed for reforging the sword can involve dungeon crawls, battles with powerful guardians, and solving intricate puzzles.&lt;/li>
-&lt;li>&lt;strong>Trials of Worthiness:&lt;/strong> Proving their worth to the Smiths can involve completing a series of challenging trials, each designed to test different aspects of the party&amp;rsquo;s abilities.&lt;/li>
-&lt;/ol>
-&lt;h3 id="quests-related-to-the-chained-library">Quests Related to the Chained Library&lt;/h3>
-&lt;ol>
-&lt;li>&lt;strong>Proving Worth to the Massa&amp;rsquo;Ista:&lt;/strong> The series of quests given by the information guild to prove the party&amp;rsquo;s worth can be diverse and engaging, involving investigation, combat, and diplomacy.&lt;/li>
-&lt;li>&lt;strong>Journey to the Chained Library:&lt;/strong> The journey itself can be an epic adventure, with encounters against natural hazards, powerful enemies, and other seekers of forbidden knowledge.&lt;/li>
-&lt;li>&lt;strong>Exploring the Library:&lt;/strong> Navigating the dangers and mysteries of the Chained Library can be a high-stakes endeavor, filled with traps, powerful guardians, and ancient secrets.&lt;/li>
-&lt;/ol>
-&lt;h3 id="additional-content">Additional Content&lt;/h3>
-&lt;p>To ensure the party reaches the desired level, you can also include:&lt;/p></description></item><item><title>Reforging Summer's Edge</title><link>/planning/reforging-summers-edge/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/planning/reforging-summers-edge/</guid><description>&lt;p>Elara led them down a narrow stone staircase hidden behind her forge’s hearth, each step humming with a subtle warmth. The walls themselves seemed to glow with life, veins of feint golden leyline energy pulsing beneath translucent crystalline stone, illuminating their descent.&lt;/p>
-&lt;p>At the bottom, the air opened into a vast subterranean chamber. Water trickled in quiet streams along mossy rock ledges, pooling into a crystalline basin at the chamber’s center. Faint motes of golden light drifted lazily above the forge like fireflies caught in an unseen breeze. In the center of it all stood an ancient anvil, its surface etched with spiraling elven runes that flickered with the pulse of the leyline energies below.&lt;/p></description></item><item><title>Secrets and Clues</title><link>/planning/secrets-and-clues/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/planning/secrets-and-clues/</guid><description>&lt;ol>
-&lt;li>Vidrir was the leader of the Order of Seasons and once wielded Summer’s Edge in a great war against the Shadowfell&lt;/li>
-&lt;li>Vidrir is Odin in disguise&lt;/li>
-&lt;li>Elven control over magic is due to their proximity to a large rift between the mundane world and the elemental planes (Feywild and Shadowfell are closest)&lt;/li>
-&lt;li>A powerful magical barrier holds the elemental energies at bay (&lt;em>Forbiddence&lt;/em>) and allows the elves to tap into the planes with some level of control.
-&lt;ol>
-&lt;li>The original Matriarch organized the ritual that created the barrier and lent much of her power to its formation.&lt;/li>
-&lt;li>No one has been born with the Matriarch&amp;rsquo;s gift for barriers in two generations, and the barrier is beginning to weaken.&lt;/li>
-&lt;/ol>
-&lt;/li>
-&lt;li>A powerful entity from the Shadowfell seeks to take advantage of the weakening barrier to enter our world.&lt;/li>
-&lt;/ol></description></item><item><title>Session Notes Template</title><link>/planning/session-notes-template/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/planning/session-notes-template/</guid><description>&lt;h1 id="characters">Characters&lt;/h1>
-&lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> Review the characters&lt;/li>
-&lt;/ul>
-&lt;h4 id="characters-1">Characters&lt;/h4>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Name&lt;/th>
- &lt;th>P. Pcpt&lt;/th>
- &lt;th>P. Inv&lt;/th>
- &lt;th>P. Ins&lt;/th>
- &lt;th>Trained Skills&lt;/th>
- &lt;th>Languages&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>[[October “Toby” Daye]]&lt;/td>
- &lt;td>15&lt;/td>
- &lt;td>14&lt;/td>
- &lt;td>12&lt;/td>
- &lt;td>Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival&lt;/td>
- &lt;td>Abyssal, Common, Elvish&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>[[Shadicar]]&lt;/td>
- &lt;td>14&lt;/td>
- &lt;td>11&lt;/td>
- &lt;td>14&lt;/td>
- &lt;td>Deception, Insight, Perception, Performance, Persuasion, Sleight of Hand&lt;/td>
- &lt;td>Common, Elvish&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>[[Skreek]]&lt;/td>
- &lt;td>9&lt;/td>
- &lt;td>10&lt;/td>
- &lt;td>9&lt;/td>
- &lt;td>History, Medicine, Persuasion, Religion&lt;/td>
- &lt;td>Aarakocra, Common, Dwarvish, Elvish&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>[[Slumpet Zoommimist]]&lt;/td>
- &lt;td>18&lt;/td>
- &lt;td>14&lt;/td>
- &lt;td>12&lt;/td>
- &lt;td>Deception, Investigation, Perception, Persuasion, Sleight of Hand, Stealth&lt;/td>
- &lt;td>Common, Gnomish, Thieves&amp;rsquo; Cant&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;h1 id="strong-start">Strong Start&lt;/h1>
-&lt;h1 id="scenes">Scenes&lt;/h1>
-&lt;h1 id="secret-and-clues">Secret and Clues&lt;/h1>
-&lt;ul>
-&lt;li>&lt;input disabled="" type="checkbox"> &lt;/li>
-&lt;/ul>
-&lt;h1 id="fantastic-locations">Fantastic Locations&lt;/h1>
-&lt;ul>
-&lt;li>Build Fantastic [[Locations]]&lt;/li>
-&lt;/ul>
-&lt;h1 id="npcs">NPCs&lt;/h1>
-&lt;h1 id="monsters">Monsters&lt;/h1>
-&lt;ul>
-&lt;li>&lt;a href="https://slyflourish.com/5e_monsters/">https://slyflourish.com/5e_monsters/&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://slyflourish.com/sf_patreon_files_898123050001223/fof_stats.html">https://slyflourish.com/sf_patreon_files_898123050001223/fof_stats.html&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="deadly-encounter-benchmark">&lt;strong>Deadly Encounter Benchmark&lt;/strong>&lt;/h3>
-&lt;p>&lt;em>Calculate the deadly encounter benchmark by adding together all character levels and dividing by 2 if they&amp;rsquo;re 5th level or above or divide by 4 if they&amp;rsquo;re 1st to 4th level. An encounter may be deadly if the sum total of monster challenge ratings is greater than half the sum total of character levels or one quarter of character levels if the characters are 4th level or below.&lt;/em>&lt;/p></description></item><item><title>Slumpet Espionage</title><link>/planning/slumpet-espionage/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/planning/slumpet-espionage/</guid><description>&lt;p>Here is a structured &lt;strong>plan to integrate Slumpet’s espionage thread&lt;/strong> based on his player’s responses, while keeping it subtle, impactful, and world-coherent:&lt;/p>
-&lt;hr>
-&lt;h2 id="-key-takeaways-from-player-feedback">🎭 &lt;strong>Key Takeaways from Player Feedback&lt;/strong>&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;strong>Yes&lt;/strong>, Slumpet is conducting espionage.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>He &lt;strong>uses Thieves’ Cant&lt;/strong> to contact a comrade for message drops.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>He was &lt;strong>“brainwashed” in prison&lt;/strong> to work with the dwarves.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>The dwarves are likely a &lt;strong>splinter group&lt;/strong> rather than an official kingdom faction.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>He doesn’t want a solo side quest but does want an opportunity to &lt;strong>get a message out&lt;/strong>.&lt;/p></description></item><item><title>Survey Summary</title><link>/planning/survey-summary/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/planning/survey-summary/</guid><description>&lt;p>Thank you all for your thoughtful responses! Here’s a quick summary of what I heard and what it means for the campaign going forward:&lt;/p>
-&lt;hr>
-&lt;p>&lt;strong>We’re Staying in Tempus&lt;/strong>&lt;br>
-Everyone wants to keep playing in the world we’ve built together. There’s strong interest in seeing through key arcs like the Weaver’s legacy, Summer’s Edge, and the threat of the Cult. That’s awesome to hear.&lt;/p>
-&lt;p>&lt;strong>Character Arcs: Mythic Moments Ahead&lt;/strong>&lt;br>
-Two of you are excited about giving your current characters big, dramatic conclusions. One is undecided but open, and one wants to continue with their current PC long-term. We’ll be planning for Shad’s exit in a way that’s emotionally powerful and opens the door for a new character connected to factions like the Chained Library or Massa’ista.&lt;/p></description></item><item><title>Tavern Ideas</title><link>/planning/tavern-ideas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/planning/tavern-ideas/</guid><description>&lt;ol>
-&lt;li>The Gilded Tankard - Roderick Hammerfist, a retired dwarven merchant&lt;/li>
-&lt;li>Whistling Wyvern - Elara Nightwind, an elven former adventurer&lt;/li>
-&lt;li>Broken Barrel - Gus Barrelton, a portly human brewer&lt;/li>
-&lt;li>Moonlit Hearth - Seraphina Moonglow, a half-elf mystic&lt;/li>
-&lt;li>Rusty Anchor - Captain Marcus Drake, a weathered human sailor&lt;/li>
-&lt;li>Copper Dragon&amp;rsquo;s Den - Thorna Copperscale, a dragonborn trader&lt;/li>
-&lt;li>Laughing Rogue - Finn O&amp;rsquo;Malley, a charismatic human rogue&lt;/li>
-&lt;li>Whispering Willow - Aria Greenleaf, a gentle halfling herbalist&lt;/li>
-&lt;li>Crossroads Comfort - Willem Stonebridge, a pragmatic human innkeeper&lt;/li>
-&lt;li>Silvered Goblet - Lady Cordelia Silverhand, a noble with a passion for hospitality&lt;/li>
-&lt;li>Wandering Bard - Kaleb Stringsong, a charismatic half-elf musician&lt;/li>
-&lt;li>Thundering Hooves - Rorik Stormrider, a grizzled human horse trader&lt;/li>
-&lt;li>Crimson Cloak - Mara Redcloak, a mysterious tiefling&lt;/li>
-&lt;li>Stormy Seas - Garrick Wavecutter, a retired sea captain&lt;/li>
-&lt;li>Iron Wolf Tavern - Bjorn Ironheart, a stoic human blacksmith&lt;/li>
-&lt;/ol></description></item><item><title>Tempus Session XX</title><link>/planning/session-planner/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/planning/session-planner/</guid><description>&lt;h2 id="-strong-start">🎭 Strong Start&lt;/h2>
-&lt;ul>
-&lt;li>Quick hook or evocative question to open session energy.&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="-scenes-overview">🗺 Scenes Overview&lt;/h2>
-&lt;table>
- &lt;thead>
- &lt;tr>
- &lt;th>Scene&lt;/th>
- &lt;th>Location&lt;/th>
- &lt;th>Purpose&lt;/th>
- &lt;/tr>
- &lt;/thead>
- &lt;tbody>
- &lt;tr>
- &lt;td>&lt;strong>1. Explore Weaver&amp;rsquo;s Home&lt;/strong>&lt;/td>
- &lt;td>Weaver&amp;rsquo;s Castle&lt;/td>
- &lt;td>Discover leyline nexus &amp;amp; standing stone&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;strong>2. Return to Elara&lt;/strong>&lt;/td>
- &lt;td>Summer Court&lt;/td>
- &lt;td>Reforge Summer&amp;rsquo;s Edge&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;strong>3. Reforging Ceremony&lt;/strong>&lt;/td>
- &lt;td>Elara&amp;rsquo;s Secret Forge&lt;/td>
- &lt;td>Narrative milestone: Skreek connects to sword&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;strong>4. Slumpet Contact&lt;/strong>&lt;/td>
- &lt;td>Travel&lt;/td>
- &lt;td>Thieves Cant message&lt;/td>
- &lt;/tr>
- &lt;tr>
- &lt;td>&lt;strong>5. Hollow Threshold: The Tempest Gate&lt;/strong>&lt;/td>
- &lt;td>Forest Threshold&lt;/td>
- &lt;td>Combat encounter, foreshadow Vael&lt;/td>
- &lt;/tr>
- &lt;/tbody>
-&lt;/table>
-&lt;hr>
-&lt;h2 id="-secrets--clues">🔑 Secrets &amp;amp; Clues&lt;/h2>
-&lt;ul>
-&lt;li>Over two weeks have passed since entering the Feywild (1 fey day = 1 material week)&lt;/li>
-&lt;li>Weaver’s home recognizes party as new owners&lt;/li>
-&lt;li>Leyline nexus + standing stone work with gate ring; teleportation circle inscribed&lt;/li>
-&lt;li>Summer&amp;rsquo;s Edge is sentient and will communicate with Skreek upon reforging&lt;/li>
-&lt;li>Hollow Thresholds are created by the Cult of the Eclipse&lt;/li>
-&lt;li>Skreek&amp;rsquo;s royal egg is used as anchor for an Air-themed Hollow Threshold&lt;/li>
-&lt;li>Vael of the Chained Library is investigating the weakening barrier&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;h2 id="-monster-stat-blocks">🗡 Monster Stat Blocks&lt;/h2>
-&lt;h3 id="air-elemental-x2">Air Elemental (x2)&lt;/h3>
-&lt;blockquote>
-&lt;p>&lt;strong>CR 5 | AC/DC 15 | HP 95 (71-119) | Atk/Prof +7 | DPR 35 | # Atks 3 | Dmg 12 (3d6+2)&lt;/strong>&lt;/p></description></item><item><title>Upcoming Quests</title><link>/planning/upcoming-quests/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/planning/upcoming-quests/</guid><description>&lt;h2 id="1--duel-in-the-golden-light">1. 🌞 Duel in the Golden Light&lt;/h2>
-&lt;p>&lt;strong>Objective:&lt;/strong> Confront Manus at the summit of the Feywild mountain and secure the &lt;strong>First Kiss of the Midday Sun&lt;/strong>, the radiant essence needed to reforge Summer’s Edge.&lt;/p>
-&lt;p>&lt;strong>Location:&lt;/strong> Mountain peak in the Feywild, beneath the eternal summer sun.&lt;/p>
-&lt;p>&lt;strong>Narrative Beat: The Blade Remembers&lt;/strong>&lt;/p>
-&lt;ul>
-&lt;li>As the Fey sun reaches its zenith, &lt;strong>Skreek feels compelled&lt;/strong> to draw the shattered hilt of Summer’s Edge.&lt;/li>
-&lt;li>The shards begin to glow faintly, and he experiences a &lt;strong>vision of Eirik&lt;/strong>, the blade’s first wielder, receiving the sword from the Queen of the Summer Court.&lt;/li>
-&lt;li>The warmth of the sword lingers, foreshadowing its rebirth.&lt;/li>
-&lt;li>Manus arrives unaware of the sword&amp;rsquo;s legacy, taunting Skreek for carrying a broken relic.&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Outcome:&lt;/strong>&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Planning on Terminal</title>
+    <link>//localhost:1313/planning/</link>
+    <description>Recent content in Planning on Terminal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 09 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/planning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Character Cheat sheet</title>
+      <link>//localhost:1313/planning/character-cheat-sheet/</link>
+      <pubDate>Wed, 09 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/planning/character-cheat-sheet/</guid>
+      <description>&lt;h2 id=&#34;characters&#34;&gt;Characters&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Name&lt;/th&gt;&#xA;          &lt;th&gt;P. Pcpt&lt;/th&gt;&#xA;          &lt;th&gt;P. Inv&lt;/th&gt;&#xA;          &lt;th&gt;P. Ins&lt;/th&gt;&#xA;          &lt;th&gt;Max HP&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;[[October “Toby” Daye]]&lt;/td&gt;&#xA;          &lt;td&gt;15&lt;/td&gt;&#xA;          &lt;td&gt;14&lt;/td&gt;&#xA;          &lt;td&gt;12&lt;/td&gt;&#xA;          &lt;td&gt;76&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;[[Shadicar]]&lt;/td&gt;&#xA;          &lt;td&gt;14&lt;/td&gt;&#xA;          &lt;td&gt;11&lt;/td&gt;&#xA;          &lt;td&gt;14&lt;/td&gt;&#xA;          &lt;td&gt;43&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;[[Skreek]]&lt;/td&gt;&#xA;          &lt;td&gt;9&lt;/td&gt;&#xA;          &lt;td&gt;10&lt;/td&gt;&#xA;          &lt;td&gt;9&lt;/td&gt;&#xA;          &lt;td&gt;60&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;[[Slumpet Zoommimist]]&lt;/td&gt;&#xA;          &lt;td&gt;18&lt;/td&gt;&#xA;          &lt;td&gt;14&lt;/td&gt;&#xA;          &lt;td&gt;12&lt;/td&gt;&#xA;          &lt;td&gt;43&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;</description>
+    </item>
+    <item>
+      <title>hollow_thresholds_claude</title>
+      <link>//localhost:1313/planning/hollow_thresholds_claude/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/planning/hollow_thresholds_claude/</guid>
+      <description>&lt;h1 id=&#34;hollow-threshold-1-the-tempest-gate&#34;&gt;HOLLOW THRESHOLD 1: THE TEMPEST GATE&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Plane Connection:&lt;/strong&gt; Material Plane ↔ Elemental Plane of Air&lt;/p&gt;&#xA;&lt;h2 id=&#34;arena-layout&#34;&gt;ARENA LAYOUT&lt;/h2&gt;&#xA;&lt;p&gt;A 50-foot diameter circular platform of black stone floats in howling winds. Lightning crackles between three towering storm-spires (20ft tall, 5ft wide) arranged in a triangle around the center. The &lt;strong&gt;Tempest Egg&lt;/strong&gt; hovers 10 feet above the platform&amp;rsquo;s center, wreathed in electrical energy. A shimmering portal to the Material Plane sits at the platform&amp;rsquo;s edge (south), while violent winds from the Air Plane tear through an unstable rift (north).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reforging Summer&#39;s Edge</title>
+      <link>//localhost:1313/planning/reforging-summers-edge/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/planning/reforging-summers-edge/</guid>
+      <description>&lt;p&gt;Elara led them down a narrow stone staircase hidden behind her forge’s hearth, each step humming with a subtle warmth. The walls themselves seemed to glow with life, veins of feint golden leyline energy pulsing beneath translucent crystalline stone, illuminating their descent.&lt;/p&gt;&#xA;&lt;p&gt;At the bottom, the air opened into a vast subterranean chamber. Water trickled in quiet streams along mossy rock ledges, pooling into a crystalline basin at the chamber’s center. Faint motes of golden light drifted lazily above the forge like fireflies caught in an unseen breeze. In the center of it all stood an ancient anvil, its surface etched with spiraling elven runes that flickered with the pulse of the leyline energies below.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Slumpet Espionage</title>
+      <link>//localhost:1313/planning/slumpet-espionage/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/planning/slumpet-espionage/</guid>
+      <description>&lt;p&gt;Here is a structured &lt;strong&gt;plan to integrate Slumpet’s espionage thread&lt;/strong&gt; based on his player’s responses, while keeping it subtle, impactful, and world-coherent:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-key-takeaways-from-player-feedback&#34;&gt;🎭 &lt;strong&gt;Key Takeaways from Player Feedback&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Yes&lt;/strong&gt;, Slumpet is conducting espionage.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;He &lt;strong&gt;uses Thieves’ Cant&lt;/strong&gt; to contact a comrade for message drops.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;He was &lt;strong&gt;“brainwashed” in prison&lt;/strong&gt; to work with the dwarves.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The dwarves are likely a &lt;strong&gt;splinter group&lt;/strong&gt; rather than an official kingdom faction.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;He doesn’t want a solo side quest but does want an opportunity to &lt;strong&gt;get a message out&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Check-In Summary</title>
+      <link>//localhost:1313/planning/check-in-summary/</link>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/planning/check-in-summary/</guid>
+      <description>&lt;h1 id=&#34;tempus-campaign-check-in-survey-summary&#34;&gt;Tempus Campaign Check-In: Survey Summary&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Thanks to everyone who completed the survey! Here&amp;rsquo;s what I&amp;rsquo;m hearing from the group:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;whats-working-well&#34;&gt;What&amp;rsquo;s Working Well&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;We love the world of Tempus&lt;/strong&gt; - Everyone wants to keep exploring it&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Combat and tactical encounters&lt;/strong&gt; remain engaging for most players&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;The current storyline&lt;/strong&gt; has momentum - everyone wants to see how this arc ends&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Group chemistry&lt;/strong&gt; is strong, with interest in collaborative storytelling&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;areas-for-change&#34;&gt;Areas for Change&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Pacing&lt;/strong&gt;: There&amp;rsquo;s appetite to move through story beats more quickly, potentially using time skips&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Setting variety&lt;/strong&gt;: Strong interest in exploring different parts of Tempus (desert, cities, ocean, other planes)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Character evolution&lt;/strong&gt;: Mixed feelings - some ready for dramatic character endings, others want to continue current characters&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;System exploration&lt;/strong&gt;: Most are open to trying different RPG systems (Shadowdark, Blades in the Dark, narrative systems)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;what-you-want-more-of&#34;&gt;What You Want More Of&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Puzzle-solving and social challenges&lt;/strong&gt; (convincing guards, sneaking out of prison without combat)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Character-driven roleplay scenes&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Exploration and discovery&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Big climactic moments&lt;/strong&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;moving-forward-my-proposal&#34;&gt;Moving Forward: My Proposal&lt;/h2&gt;&#xA;&lt;p&gt;Based on your feedback, here&amp;rsquo;s what I&amp;rsquo;m thinking:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Survey Summary</title>
+      <link>//localhost:1313/planning/survey-summary/</link>
+      <pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/planning/survey-summary/</guid>
+      <description>&lt;p&gt;Thank you all for your thoughtful responses! Here’s a quick summary of what I heard and what it means for the campaign going forward:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;strong&gt;We’re Staying in Tempus&lt;/strong&gt;&lt;br&gt;&#xA;Everyone wants to keep playing in the world we’ve built together. There’s strong interest in seeing through key arcs like the Weaver’s legacy, Summer’s Edge, and the threat of the Cult. That’s awesome to hear.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Character Arcs: Mythic Moments Ahead&lt;/strong&gt;&lt;br&gt;&#xA;Two of you are excited about giving your current characters big, dramatic conclusions. One is undecided but open, and one wants to continue with their current PC long-term. We’ll be planning for Shad’s exit in a way that’s emotionally powerful and opens the door for a new character connected to factions like the Chained Library or Massa’ista.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Check-in form</title>
+      <link>//localhost:1313/planning/check-in-form/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/planning/check-in-form/</guid>
+      <description>&lt;h1 id=&#34;tempus-campaign-check-in&#34;&gt;Tempus Campaign Check-In&lt;/h1&gt;&#xA;&lt;h2 id=&#34;your-name&#34;&gt;Your Name&lt;/h2&gt;&#xA;&lt;p&gt;(Optional): ___________________&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-current-feelings&#34;&gt;1. Current Feelings&lt;/h2&gt;&#xA;&lt;h3 id=&#34;how-are-you-feeling-about-the-campaign-right-now&#34;&gt;How are you feeling about the campaign right now?&lt;/h3&gt;&#xA;&lt;p&gt;(Choose one or more if you&amp;rsquo;d like.)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Still energized and having fun&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; A little tired, but still interested&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Feeling burned out on my character&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Burned out on the campaign&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Curious about changing directions&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Not sure how I feel right now&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;2-staying-in-tempus&#34;&gt;2. Staying in Tempus&lt;/h2&gt;&#xA;&lt;h3 id=&#34;do-you-want-to-continue-playing-in-the-world-of-tempus&#34;&gt;Do you want to continue playing in the world of Tempus?&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Yes, I love this world and want to keep exploring it&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Maybe, if we explore a new region or shift focus&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; I’d prefer a totally new world or genre&lt;/li&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Not sure yet&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;what-aspects-of-tempus-still-interest-or-excite-you&#34;&gt;What aspects of Tempus still interest or excite you?&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;free response&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Check-in questionnaire</title>
+      <link>//localhost:1313/planning/check-in-questionnaire/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/planning/check-in-questionnaire/</guid>
+      <description>&lt;p&gt;Absolutely. Here’s a facilitated question set you can use in conversation or survey form to help your players clarify what they want from the rest of the game. It balances emotional check-in, creative curiosity, and forward momentum.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Part 1: Emotional Pulse &amp;amp; Campaign World&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;How are you feeling about the campaign right now?&#xA;(Free response or options like: Still energized / A little tired / Burnt out / Curious but overwhelmed / Ready for something new)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Upcoming Quests</title>
+      <link>//localhost:1313/planning/upcoming-quests/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/planning/upcoming-quests/</guid>
+      <description>&lt;h2 id=&#34;1--duel-in-the-golden-light&#34;&gt;1. 🌞 Duel in the Golden Light&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Objective:&lt;/strong&gt; Confront Manus at the summit of the Feywild mountain and secure the &lt;strong&gt;First Kiss of the Midday Sun&lt;/strong&gt;, the radiant essence needed to reforge Summer’s Edge.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Mountain peak in the Feywild, beneath the eternal summer sun.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Narrative Beat: The Blade Remembers&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;As the Fey sun reaches its zenith, &lt;strong&gt;Skreek feels compelled&lt;/strong&gt; to draw the shattered hilt of Summer’s Edge.&lt;/li&gt;&#xA;&lt;li&gt;The shards begin to glow faintly, and he experiences a &lt;strong&gt;vision of Eirik&lt;/strong&gt;, the blade’s first wielder, receiving the sword from the Queen of the Summer Court.&lt;/li&gt;&#xA;&lt;li&gt;The warmth of the sword lingers, foreshadowing its rebirth.&lt;/li&gt;&#xA;&lt;li&gt;Manus arrives unaware of the sword&amp;rsquo;s legacy, taunting Skreek for carrying a broken relic.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Outcome:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quest Outline (long term)</title>
+      <link>//localhost:1313/planning/quest-outline-long-term/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/planning/quest-outline-long-term/</guid>
+      <description>&lt;h3 id=&#34;encounters-with-the-cult&#34;&gt;Encounters with the Cult&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Initial Skirmishes:&lt;/strong&gt; Early encounters with cultists and lower-ranking members of the Cult of the Eclipse can help the party gain experience and gather intelligence.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Mid-tier Leaders:&lt;/strong&gt; As the party progresses, they can face mid-tier leaders and more formidable cultists, each encounter increasing in difficulty and complexity.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Major Confrontations:&lt;/strong&gt; Key battles, such as the one with the Black Dragon Sorcerer, can serve as significant milestones, offering substantial experience and rewards.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;missions-for-reforging-summers-edge&#34;&gt;Missions for Reforging Summer&amp;rsquo;s Edge&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Finding the Smiths:&lt;/strong&gt; The journey to locate the great Smiths of the Summer Court can involve several quests and encounters with creatures or obstacles in the Elven Forest.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Gathering Materials:&lt;/strong&gt; Collecting rare and powerful materials needed for reforging the sword can involve dungeon crawls, battles with powerful guardians, and solving intricate puzzles.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Trials of Worthiness:&lt;/strong&gt; Proving their worth to the Smiths can involve completing a series of challenging trials, each designed to test different aspects of the party&amp;rsquo;s abilities.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;quests-related-to-the-chained-library&#34;&gt;Quests Related to the Chained Library&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Proving Worth to the Massa&amp;rsquo;Ista:&lt;/strong&gt; The series of quests given by the information guild to prove the party&amp;rsquo;s worth can be diverse and engaging, involving investigation, combat, and diplomacy.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Journey to the Chained Library:&lt;/strong&gt; The journey itself can be an epic adventure, with encounters against natural hazards, powerful enemies, and other seekers of forbidden knowledge.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Exploring the Library:&lt;/strong&gt; Navigating the dangers and mysteries of the Chained Library can be a high-stakes endeavor, filled with traps, powerful guardians, and ancient secrets.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;additional-content&#34;&gt;Additional Content&lt;/h3&gt;&#xA;&lt;p&gt;To ensure the party reaches the desired level, you can also include:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Secrets and Clues</title>
+      <link>//localhost:1313/planning/secrets-and-clues/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/planning/secrets-and-clues/</guid>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;Vidrir was the leader of the Order of Seasons and once wielded Summer’s Edge in a great war against the Shadowfell&lt;/li&gt;&#xA;&lt;li&gt;Vidrir is Odin in disguise&lt;/li&gt;&#xA;&lt;li&gt;Elven control over magic is due to their proximity to a large rift between the mundane world and the elemental planes (Feywild and Shadowfell are closest)&lt;/li&gt;&#xA;&lt;li&gt;A powerful magical barrier holds the elemental energies at bay (&lt;em&gt;Forbiddence&lt;/em&gt;) and allows the elves to tap into the planes with some level of control.&#xA;&lt;ol&gt;&#xA;&lt;li&gt;The original Matriarch organized the ritual that created the barrier and lent much of her power to its formation.&lt;/li&gt;&#xA;&lt;li&gt;No one has been born with the Matriarch&amp;rsquo;s gift for barriers in two generations, and the barrier is beginning to weaken.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;A powerful entity from the Shadowfell seeks to take advantage of the weakening barrier to enter our world.&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Session Notes Template</title>
+      <link>//localhost:1313/planning/session-notes-template/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/planning/session-notes-template/</guid>
+      <description>&lt;h1 id=&#34;characters&#34;&gt;Characters&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; Review the characters&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;characters-1&#34;&gt;Characters&lt;/h4&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Name&lt;/th&gt;&#xA;          &lt;th&gt;P. Pcpt&lt;/th&gt;&#xA;          &lt;th&gt;P. Inv&lt;/th&gt;&#xA;          &lt;th&gt;P. Ins&lt;/th&gt;&#xA;          &lt;th&gt;Trained Skills&lt;/th&gt;&#xA;          &lt;th&gt;Languages&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;[[October “Toby” Daye]]&lt;/td&gt;&#xA;          &lt;td&gt;15&lt;/td&gt;&#xA;          &lt;td&gt;14&lt;/td&gt;&#xA;          &lt;td&gt;12&lt;/td&gt;&#xA;          &lt;td&gt;Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival&lt;/td&gt;&#xA;          &lt;td&gt;Abyssal, Common, Elvish&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;[[Shadicar]]&lt;/td&gt;&#xA;          &lt;td&gt;14&lt;/td&gt;&#xA;          &lt;td&gt;11&lt;/td&gt;&#xA;          &lt;td&gt;14&lt;/td&gt;&#xA;          &lt;td&gt;Deception, Insight, Perception, Performance, Persuasion, Sleight of Hand&lt;/td&gt;&#xA;          &lt;td&gt;Common, Elvish&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;[[Skreek]]&lt;/td&gt;&#xA;          &lt;td&gt;9&lt;/td&gt;&#xA;          &lt;td&gt;10&lt;/td&gt;&#xA;          &lt;td&gt;9&lt;/td&gt;&#xA;          &lt;td&gt;History, Medicine, Persuasion, Religion&lt;/td&gt;&#xA;          &lt;td&gt;Aarakocra, Common, Dwarvish, Elvish&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;[[Slumpet Zoommimist]]&lt;/td&gt;&#xA;          &lt;td&gt;18&lt;/td&gt;&#xA;          &lt;td&gt;14&lt;/td&gt;&#xA;          &lt;td&gt;12&lt;/td&gt;&#xA;          &lt;td&gt;Deception, Investigation, Perception, Persuasion, Sleight of Hand, Stealth&lt;/td&gt;&#xA;          &lt;td&gt;Common, Gnomish, Thieves&amp;rsquo; Cant&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;h1 id=&#34;strong-start&#34;&gt;Strong Start&lt;/h1&gt;&#xA;&lt;h1 id=&#34;scenes&#34;&gt;Scenes&lt;/h1&gt;&#xA;&lt;h1 id=&#34;secret-and-clues&#34;&gt;Secret and Clues&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; &lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;fantastic-locations&#34;&gt;Fantastic Locations&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Build Fantastic [[Locations]]&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;npcs&#34;&gt;NPCs&lt;/h1&gt;&#xA;&lt;h1 id=&#34;monsters&#34;&gt;Monsters&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://slyflourish.com/5e_monsters/&#34;&gt;https://slyflourish.com/5e_monsters/&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://slyflourish.com/sf_patreon_files_898123050001223/fof_stats.html&#34;&gt;https://slyflourish.com/sf_patreon_files_898123050001223/fof_stats.html&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;deadly-encounter-benchmark&#34;&gt;&lt;strong&gt;Deadly Encounter Benchmark&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;Calculate the deadly encounter benchmark by adding together all character levels and dividing by 2 if they&amp;rsquo;re 5th level or above or divide by 4 if they&amp;rsquo;re 1st to 4th level. An encounter may be deadly if the sum total of monster challenge ratings is greater than half the sum total of character levels or one quarter of character levels if the characters are 4th level or below.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tavern Ideas</title>
+      <link>//localhost:1313/planning/tavern-ideas/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/planning/tavern-ideas/</guid>
+      <description>&lt;ol&gt;&#xA;&lt;li&gt;The Gilded Tankard - Roderick Hammerfist, a retired dwarven merchant&lt;/li&gt;&#xA;&lt;li&gt;Whistling Wyvern - Elara Nightwind, an elven former adventurer&lt;/li&gt;&#xA;&lt;li&gt;Broken Barrel - Gus Barrelton, a portly human brewer&lt;/li&gt;&#xA;&lt;li&gt;Moonlit Hearth - Seraphina Moonglow, a half-elf mystic&lt;/li&gt;&#xA;&lt;li&gt;Rusty Anchor - Captain Marcus Drake, a weathered human sailor&lt;/li&gt;&#xA;&lt;li&gt;Copper Dragon&amp;rsquo;s Den - Thorna Copperscale, a dragonborn trader&lt;/li&gt;&#xA;&lt;li&gt;Laughing Rogue - Finn O&amp;rsquo;Malley, a charismatic human rogue&lt;/li&gt;&#xA;&lt;li&gt;Whispering Willow - Aria Greenleaf, a gentle halfling herbalist&lt;/li&gt;&#xA;&lt;li&gt;Crossroads Comfort - Willem Stonebridge, a pragmatic human innkeeper&lt;/li&gt;&#xA;&lt;li&gt;Silvered Goblet - Lady Cordelia Silverhand, a noble with a passion for hospitality&lt;/li&gt;&#xA;&lt;li&gt;Wandering Bard - Kaleb Stringsong, a charismatic half-elf musician&lt;/li&gt;&#xA;&lt;li&gt;Thundering Hooves - Rorik Stormrider, a grizzled human horse trader&lt;/li&gt;&#xA;&lt;li&gt;Crimson Cloak - Mara Redcloak, a mysterious tiefling&lt;/li&gt;&#xA;&lt;li&gt;Stormy Seas - Garrick Wavecutter, a retired sea captain&lt;/li&gt;&#xA;&lt;li&gt;Iron Wolf Tavern - Bjorn Ironheart, a stoic human blacksmith&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Tempus Session XX</title>
+      <link>//localhost:1313/planning/session-planner/</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/planning/session-planner/</guid>
+      <description>&lt;h2 id=&#34;-strong-start&#34;&gt;🎭 Strong Start&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Quick hook or evocative question to open session energy.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-scenes-overview&#34;&gt;🗺 Scenes Overview&lt;/h2&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Scene&lt;/th&gt;&#xA;          &lt;th&gt;Location&lt;/th&gt;&#xA;          &lt;th&gt;Purpose&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;1. Explore Weaver&amp;rsquo;s Home&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Weaver&amp;rsquo;s Castle&lt;/td&gt;&#xA;          &lt;td&gt;Discover leyline nexus &amp;amp; standing stone&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;2. Return to Elara&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Summer Court&lt;/td&gt;&#xA;          &lt;td&gt;Reforge Summer&amp;rsquo;s Edge&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;3. Reforging Ceremony&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Elara&amp;rsquo;s Secret Forge&lt;/td&gt;&#xA;          &lt;td&gt;Narrative milestone: Skreek connects to sword&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;4. Slumpet Contact&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Travel&lt;/td&gt;&#xA;          &lt;td&gt;Thieves Cant message&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;&lt;strong&gt;5. Hollow Threshold: The Tempest Gate&lt;/strong&gt;&lt;/td&gt;&#xA;          &lt;td&gt;Forest Threshold&lt;/td&gt;&#xA;          &lt;td&gt;Combat encounter, foreshadow Vael&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-secrets--clues&#34;&gt;🔑 Secrets &amp;amp; Clues&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Over two weeks have passed since entering the Feywild (1 fey day = 1 material week)&lt;/li&gt;&#xA;&lt;li&gt;Weaver’s home recognizes party as new owners&lt;/li&gt;&#xA;&lt;li&gt;Leyline nexus + standing stone work with gate ring; teleportation circle inscribed&lt;/li&gt;&#xA;&lt;li&gt;Summer&amp;rsquo;s Edge is sentient and will communicate with Skreek upon reforging&lt;/li&gt;&#xA;&lt;li&gt;Hollow Thresholds are created by the Cult of the Eclipse&lt;/li&gt;&#xA;&lt;li&gt;Skreek&amp;rsquo;s royal egg is used as anchor for an Air-themed Hollow Threshold&lt;/li&gt;&#xA;&lt;li&gt;Vael of the Chained Library is investigating the weakening barrier&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-monster-stat-blocks&#34;&gt;🗡 Monster Stat Blocks&lt;/h2&gt;&#xA;&lt;h3 id=&#34;air-elemental-x2&#34;&gt;Air Elemental (x2)&lt;/h3&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;CR 5 | AC/DC 15 | HP 95 (71-119) | Atk/Prof +7 | DPR 35 | # Atks 3 | Dmg 12 (3d6+2)&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
