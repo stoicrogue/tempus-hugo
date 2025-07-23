@@ -11,10 +11,10 @@ cssclasses:
   - center-images
   - image-borders
 ---
-![[arbiter-headshot2.webp|400]]
+![arbiter-headshot2.webp](/images/arbiter-headshot2.webp)
 
 
-![[arbiter-warrior.png|400]]
+![arbiter-warrior.png](/images/arbiter-warrior.png)
 
 - Angel of Justice
 - Serves the dusk lord

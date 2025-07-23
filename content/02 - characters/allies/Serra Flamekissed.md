@@ -11,7 +11,7 @@ cssclasses:
   - center-images
   - image-borders
 ---
-![[serra-flamekissed.png|400]]
+![serra-flamekissed.png](/images/serra-flamekissed.png)
 
   
 

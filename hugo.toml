@@ -25,7 +25,7 @@ pagination.pagerSize = 5
   contentTypeName = "posts"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
 
   # show selector to switch language
   showLanguageSelector = false
@@ -39,7 +39,7 @@ pagination.pagerSize = 5
   # if your resource directory contains an image called `cover.(jpg|png|webp)`,
   # then the file will be used as a cover automatically.
   # With this option you don't have to put the `cover` param in a front-matter.
-  autoCover = true
+  autoCover = false
 
   # set post to show the last updated
   # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
@@ -84,7 +84,7 @@ pagination.pagerSize = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Tempus"
+    title = "Tempus Campaign"
 
     [languages.en.params]
       subtitle = "A simple, retro theme for Hugo"
@@ -108,20 +108,36 @@ pagination.pagerSize = 5
       [languages.en.menu]
         [[languages.en.menu.main]]
           identifier = "1_session-notes"
-          name = "Session Notes"
-          url = "/session-notes"
-        [[languages.en.menu.main]]
-          identifier = "3_recap"
-          name = "Recap"
-          url = "/recap"
+          name = "01 - Session Notes"
+          url = "/01---session-notes"
         [[languages.en.menu.main]]
           identifier = "2_characters"
-          name = "Characters"
-          url = "/characters"
+          name = "02 - Characters"
+          url = "/02---characters"
         [[languages.en.menu.main]]
-          identifier = "planning"
-          name = "Planning"
-          url = "/planning"
+          identifier = "3_locations"
+          name = "03 - Locations"
+          url = "/03---locations"
+        [[languages.en.menu.main]]
+          identifier = "4_items"
+          name = "04 - Items"
+          url = "/04---items"
+        [[languages.en.menu.main]]
+          identifier = "5_planning"
+          name = "05 - Planning"
+          url = "/05---planning"
+        [[languages.en.menu.main]]
+          identifier = "6_factions"
+          name = "06 - Factions"
+          url = "/06---factions" 
+        [[languages.en.menu.main]]
+          identifier = "7_rules"
+          name = "07 - Rules"
+          url = "/07---rules" 
+        [[languages.en.menu.main]]
+          identifier = "8_recap"
+          name = "08 - Recap"
+          url = "/08---recap"
 
 [frontmatter]
   date = ['date', 'publishdate', 'pubdate', 'published', 'lastmod', 'modified']
@@ -133,6 +149,6 @@ pagination.pagerSize = 5
   # In case you would like to make changes to the theme and keep it locally in you repository,
   # uncomment the line below (and correct the local path if necessary).
   # --
-  replacements = "github.com/panr/hugo-theme-terminal/v4 -> themes/terminal"
+  # replacements = "github.com/panr/hugo-theme-terminal/v4 -> themes/terminal"
 # [[module.imports]]
 #   path = 'github.com/panr/hugo-theme-terminal/v4'

@@ -10,7 +10,7 @@ cssclasses:
   - center-images
   - image-borders
 ---
-![[alora.png|400]]
+![alora.png](/images/alora.png)
 
 - Lady of Winter
 - [[Alora]]

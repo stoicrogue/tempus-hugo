@@ -11,7 +11,7 @@ cssclasses:
   - center-images
   - image-borders
 ---
-![[blackbird.png|400]]
+![blackbird.png](/images/blackbird.png)
 
   
 

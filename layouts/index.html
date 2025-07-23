@@ -6,27 +6,15 @@
   </div>
 
   <!-- Optional: Show all sections with page counts -->
+  <!-- <hr/>
   <section class="sections-overview">
-    <div class="section-grid">
-      <table>
-        <thead>
-          <tr>
-            <th scope="col">Section</th>
-            <th scope="col">Description</th>
-            <th scope="col"># of Pages</th>
-          </tr>
-        </thead>
-      <tbody>
-      {{ range site.Sections }}
-      <tr class="section-card">
-        <td style="min-width: 15em" scope="row"><strong><a href="{{ .RelPermalink }}">{{ .Title }}</a></strong></td>
-        <td>{{ .Description }}</td>
-        <td style="width: 10em" class="page-count">{{ len .Pages }} pages</td>
-      </tr>
-      {{ end }}
-      </tbody>
-    </table>
-    </div>
-  </section>
+    <h2>Section Overview</h2>
+    <dl>
+    {{ range site.Sections }}
+      <dt><strong><a href="{{ .RelPermalink }}">{{ humanize .Section }}</a></strong> <small>({{ len .Pages }} pages)</small></dt>
+      <dd>{{ .Description }}</dd>
+    {{ end }}
+    </dl>
+  </section> -->
 </div>
 {{ end }}

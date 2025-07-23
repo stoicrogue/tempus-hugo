@@ -9,7 +9,7 @@ created: 2025-04-10
 Last Edited: 2024-10-27T15:02
 cssclasses:
 ---
-![[farkris.png|400]]
+![farkris.png](/images/farkris.png)
 
 ## Background
 

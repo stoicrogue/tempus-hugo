@@ -19,7 +19,7 @@ cssclasses:
 
 Forged in ages past by the smiths of the Summer Court, Summer’s Edge was once the blade of Sir Eirik, Champion of the Summer Court and Captain of the Order of Seasons. It gleamed with the light of the midday sun and cut down countless horrors in the battle against the undead. Though broken during the final stand at the Gates of Season’s End, the blade has been reforged—and its light is rising once again.
 
-![[summers-edge-final.png|600]]
+![summers-edge-final.png](/images/summers-edge-final.png)
 
 ---
 _Passive:_ You gain a **+1** bonus to attack rolls and damage rolls made with this magic weapon.

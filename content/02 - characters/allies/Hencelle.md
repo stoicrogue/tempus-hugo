@@ -11,7 +11,7 @@ cssclasses:
   - center-images
   - image-borders
 ---
-![[hencelle.png|400]]
+![hencelle.png](/images/hencelle.png)
 
 - Earth Genasi, former monk
 - Tavern keeper at the Aki Matsuri (Fall Festival in Japanese

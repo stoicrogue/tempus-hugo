@@ -9,7 +9,7 @@ cssclasses:
   - center-images
   - image-borders
 ---
-![[summers-edge-final.png|400]]
+![summers-edge-final.png](/images/summers-edge-final.png)
 
 ## Background
 

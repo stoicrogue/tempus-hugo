@@ -11,7 +11,7 @@ cssclasses:
   - center-images
   - image-borders
 ---
-![[vidrir.png|400]]
+![vidrir.png](/images/vidrir.png)
 
 - Local loremaster that lives in a grove in the Shimmerwood
     - [[Vidrir’s Grove]]

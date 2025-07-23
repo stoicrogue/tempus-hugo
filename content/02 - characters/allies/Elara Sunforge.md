@@ -10,7 +10,7 @@ Last Edited: 2024-10-27T21:06
 cssclasses:
   - center-images
 ---
-![[elara-sunforge.png|400]]
+![elara-sunforge.png](/images/elara-sunforge.png)
 
 ### Name
 

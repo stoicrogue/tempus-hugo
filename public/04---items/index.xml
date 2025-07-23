@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Items on Tempus</title>
+    <title>Items on Tempus Campaign</title>
     <link>//localhost:1313/04---items/</link>
-    <description>Recent content in Items on Tempus</description>
+    <description>Recent content in Items on Tempus Campaign</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
@@ -69,7 +69,7 @@
       <link>//localhost:1313/04---items/summers-edge-orig/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/04---items/summers-edge-orig/</guid>
-      <description>&lt;p&gt;![[summers-edge-final.png|400]]&lt;/p&gt;&#xA;&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;&#xA;&lt;p&gt;Summer&amp;rsquo;s Edge is an ancient elven sword passed down through generations of the noble and prestigious order of knights known as the Guardians of the Summer Court. The sword was crafted by the finest elven blacksmiths and enchanted by powerful elven mages during a time when the spread of the undead threatened the Summer Court.&lt;/p&gt;&#xA;&lt;p&gt;The sword&amp;rsquo;s first owner was a legendary elven knight, Eirik of the Summer Court, who led the charge against the undead hordes that threatened the safety of the Summer Court. Eirik was a skilled swordsman and a devoted protector of his people. With the help of Summer&amp;rsquo;s Edge, he and his fellow knights were able to successfully repel the undead invasion and restore peace to the Summer Court.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/summers-edge-final.png&#34; alt=&#34;summers-edge-final.png&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;&#xA;&lt;p&gt;Summer&amp;rsquo;s Edge is an ancient elven sword passed down through generations of the noble and prestigious order of knights known as the Guardians of the Summer Court. The sword was crafted by the finest elven blacksmiths and enchanted by powerful elven mages during a time when the spread of the undead threatened the Summer Court.&lt;/p&gt;&#xA;&lt;p&gt;The sword&amp;rsquo;s first owner was a legendary elven knight, Eirik of the Summer Court, who led the charge against the undead hordes that threatened the safety of the Summer Court. Eirik was a skilled swordsman and a devoted protector of his people. With the help of Summer&amp;rsquo;s Edge, he and his fellow knights were able to successfully repel the undead invasion and restore peace to the Summer Court.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Xolthos note</title>

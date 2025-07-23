@@ -61,4 +61,4 @@ The bandersnatch can take 2 legendary actions, choosing from the options below. 
 > This fast predator chases down prey much like a big cat. It stalks a target using its superior camouflage before running at a target to utilize its Pounce trait. Should it succeed in knocking its prey prone, the bandersnatch uses its bonus Bite attack. It singularly focuses on a target it has taken down and releases poisonous fumes to keep others at bay with its Noxious Stench legendary action. The bandersnatch instinctively backs down after it has been reduced to 20 or fewer hit points, taking the Disengage action before retreating.
 
 
-![[bandersnatch.png|500]]
+![bandersnatch.png](/images/bandersnatch.png)

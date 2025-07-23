@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Villain on Tempus</title>
+    <title>Villain on Tempus Campaign</title>
     <link>//localhost:1313/tags/villain/</link>
-    <description>Recent content in Villain on Tempus</description>
+    <description>Recent content in Villain on Tempus Campaign</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 30 Apr 2025 00:00:00 +0000</lastBuildDate>
@@ -195,7 +195,7 @@
       <link>//localhost:1313/02---characters/adversaries/xolthos-omenspeaker/</link>
       <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/02---characters/adversaries/xolthos-omenspeaker/</guid>
-      <description>&lt;p&gt;![[xolthos.png|300]]&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;[!tip] D&amp;amp;D Beyond Sheet&#xA;&lt;a href=&#34;https://www.dndbeyond.com/characters/125398669/7WTtub&#34;&gt;https://www.dndbeyond.com/characters/125398669/7WTtub&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Herald of the [[Weaver]] and the Cult of the Eclipse&lt;/li&gt;&#xA;&lt;li&gt;Black dragonborn sorcerer&lt;/li&gt;&#xA;&lt;li&gt;The omen bearer observes natural phenomenon, like a flock of crows circling a dead tree. He twists things like this as a sign of the dragon’s impending return and paints a doomsday picture, urging people to join the cult for salvation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The Herald of the Eclipse is a figure both fearsome and enigmatic, embodying the dark power and malevolent intent of the Cult of the Eclipse. As one of the cult’s main lieutenants, he commands respect and fear among his followers and strikes terror into the hearts of those who oppose him.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;//localhost:1313/images/xolthos.png&#34; alt=&#34;xolthos.png&#34;&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;[!tip] D&amp;amp;D Beyond Sheet&#xA;&lt;a href=&#34;https://www.dndbeyond.com/characters/125398669/7WTtub&#34;&gt;https://www.dndbeyond.com/characters/125398669/7WTtub&lt;/a&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Herald of the [[Weaver]] and the Cult of the Eclipse&lt;/li&gt;&#xA;&lt;li&gt;Black dragonborn sorcerer&lt;/li&gt;&#xA;&lt;li&gt;The omen bearer observes natural phenomenon, like a flock of crows circling a dead tree. He twists things like this as a sign of the dragon’s impending return and paints a doomsday picture, urging people to join the cult for salvation.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The Herald of the Eclipse is a figure both fearsome and enigmatic, embodying the dark power and malevolent intent of the Cult of the Eclipse. As one of the cult’s main lieutenants, he commands respect and fear among his followers and strikes terror into the hearts of those who oppose him.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -16,7 +16,7 @@ cssclasses:
 - Wielder of a moon blade
 - Daughter of Alora
 
-![[trius-portrait.png|400]]
+![trius-portrait.png](/images/trius-portrait.png)
 
 
-![[trius-horseback.png|400]]
+![trius-horseback.png](/images/trius-horseback.png)

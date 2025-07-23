@@ -9,7 +9,7 @@ cssclasses:
   - image-borders
   - center-images
 ---
-![[xolthos.png|300]]
+![xolthos.png](/images/xolthos.png)
 
 > [!tip] D&D Beyond Sheet
 > https://www.dndbeyond.com/characters/125398669/7WTtub
