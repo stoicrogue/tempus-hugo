@@ -1,26 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Factions on Tempus Campaign</title>
-    <link>//localhost:1313/06---factions/</link>
-    <description>Recent content in Factions on Tempus Campaign</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/06---factions/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Chained Library (2)</title>
-      <link>//localhost:1313/06---factions/chained-library/</link>
-      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/06---factions/chained-library/</guid>
-      <description>&lt;h1 id=&#34;background&#34;&gt;Background&lt;/h1&gt;&#xA;&lt;p&gt;The Chained Library is a new location with creatures, magic items, and stories. &amp;ldquo;If a little knowledge is a dangerous thing, the Chained Library is a cataclysm lying in wait,&amp;rdquo; says Indratha Nevarre, an antiquarian and sage.&lt;/p&gt;&#xA;&lt;h2 id=&#34;library-description&#34;&gt;Library Description&lt;/h2&gt;&#xA;&lt;p&gt;The Chained Library is a great fortress built into the black rock cliffs far from civilization. Spellbooks of liches and necromancers and ancient tomes of infernal secrets line the library’s prison-shelves, guarded by blind celestials. The library predates every known kingdom and even some of the younger gods.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Massa’Ista</title>
-      <link>//localhost:1313/06---factions/massaista/</link>
-      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/06---factions/massaista/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Information guild&lt;/li&gt;&#xA;&lt;li&gt;Name translates to “Shared Knowledge” in an odd Elvish dialect&lt;/li&gt;&#xA;&lt;li&gt;Based in Hunter’s Hollow - closest large city to Tannis&lt;/li&gt;&#xA;&lt;li&gt;Run by “The Fountain” (as in fountain of knowledge&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No one is allowed to directly meet the Fountain&lt;/li&gt;&#xA;&lt;li&gt;The fountain is secretly an elder Oblex&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Emblem is a skull with the floating above the rest of the skull&lt;/li&gt;&#xA;&lt;li&gt;Can obtain just about any information for a price&lt;/li&gt;&#xA;&lt;li&gt;Knows how to contact agent of the [[Chained Library|Chained Library]] or how to find it&lt;/li&gt;&#xA;&lt;li&gt;Bartender of the Iron Eagle tavern in Hunter’s Hollow can provide the password to enter the museum that’s used as a front for the Massa’Ista’s guild house&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Factions on Tempus Campaign</title><link>/06---factions/</link><description>Recent content in Factions on Tempus Campaign</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/06---factions/index.xml" rel="self" type="application/rss+xml"/><item><title>Chained Library (2)</title><link>/06---factions/chained-library/</link><pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate><guid>/06---factions/chained-library/</guid><description>&lt;h1 id="background">Background&lt;/h1>
+&lt;p>The Chained Library is a new location with creatures, magic items, and stories. &amp;ldquo;If a little knowledge is a dangerous thing, the Chained Library is a cataclysm lying in wait,&amp;rdquo; says Indratha Nevarre, an antiquarian and sage.&lt;/p>
+&lt;h2 id="library-description">Library Description&lt;/h2>
+&lt;p>The Chained Library is a great fortress built into the black rock cliffs far from civilization. Spellbooks of liches and necromancers and ancient tomes of infernal secrets line the library’s prison-shelves, guarded by blind celestials. The library predates every known kingdom and even some of the younger gods.&lt;/p></description></item><item><title>Massa’Ista</title><link>/06---factions/massaista/</link><pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate><guid>/06---factions/massaista/</guid><description>&lt;ul>
+&lt;li>Information guild&lt;/li>
+&lt;li>Name translates to “Shared Knowledge” in an odd Elvish dialect&lt;/li>
+&lt;li>Based in Hunter’s Hollow - closest large city to Tannis&lt;/li>
+&lt;li>Run by “The Fountain” (as in fountain of knowledge
+&lt;ul>
+&lt;li>No one is allowed to directly meet the Fountain&lt;/li>
+&lt;li>The fountain is secretly an elder Oblex&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Emblem is a skull with the floating above the rest of the skull&lt;/li>
+&lt;li>Can obtain just about any information for a price&lt;/li>
+&lt;li>Knows how to contact agent of the [[Chained Library|Chained Library]] or how to find it&lt;/li>
+&lt;li>Bartender of the Iron Eagle tavern in Hunter’s Hollow can provide the password to enter the museum that’s used as a front for the Massa’Ista’s guild house&lt;/li>
+&lt;/ul></description></item></channel></rss>

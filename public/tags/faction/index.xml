@@ -1,33 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Faction on Tempus Campaign</title>
-    <link>//localhost:1313/tags/faction/</link>
-    <description>Recent content in Faction on Tempus Campaign</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/faction/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Court of Autumn</title>
-      <link>//localhost:1313/03---locations/court-of-autumn/</link>
-      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/03---locations/court-of-autumn/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Farkris - Lord of Autumn&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Autumn Eladrin&lt;/li&gt;&#xA;&lt;li&gt;Legendary mediator&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Sovis - Prince of Autumn&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Court of Winter</title>
-      <link>//localhost:1313/03---locations/court-of-winter/</link>
-      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/03---locations/court-of-winter/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Alora - Lady of Winter&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Gifted the party with a Leyline Gate Ring &#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.dndbeyond.com/magic-items/8331580-leyline-gate-ring&#34;&gt;https://www.dndbeyond.com/magic-items/8331580-leyline-gate-ring&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Trius - Winter Knight / Oath of Ancients Paladin&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.dndbeyond.com/characters/120174039/sfrCbz&#34;&gt;https://www.dndbeyond.com/characters/120174039/sfrCbz&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Massa’Ista</title>
-      <link>//localhost:1313/06---factions/massaista/</link>
-      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/06---factions/massaista/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;Information guild&lt;/li&gt;&#xA;&lt;li&gt;Name translates to “Shared Knowledge” in an odd Elvish dialect&lt;/li&gt;&#xA;&lt;li&gt;Based in Hunter’s Hollow - closest large city to Tannis&lt;/li&gt;&#xA;&lt;li&gt;Run by “The Fountain” (as in fountain of knowledge&#xA;&lt;ul&gt;&#xA;&lt;li&gt;No one is allowed to directly meet the Fountain&lt;/li&gt;&#xA;&lt;li&gt;The fountain is secretly an elder Oblex&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Emblem is a skull with the floating above the rest of the skull&lt;/li&gt;&#xA;&lt;li&gt;Can obtain just about any information for a price&lt;/li&gt;&#xA;&lt;li&gt;Knows how to contact agent of the [[Chained Library|Chained Library]] or how to find it&lt;/li&gt;&#xA;&lt;li&gt;Bartender of the Iron Eagle tavern in Hunter’s Hollow can provide the password to enter the museum that’s used as a front for the Massa’Ista’s guild house&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Faction on Tempus Campaign</title><link>/tags/faction/</link><description>Recent content in Faction on Tempus Campaign</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="/tags/faction/index.xml" rel="self" type="application/rss+xml"/><item><title>Court of Autumn</title><link>/03---locations/court-of-autumn/</link><pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate><guid>/03---locations/court-of-autumn/</guid><description>&lt;ul>
+&lt;li>Farkris - Lord of Autumn
+&lt;ul>
+&lt;li>Autumn Eladrin&lt;/li>
+&lt;li>Legendary mediator&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Sovis - Prince of Autumn&lt;/li>
+&lt;/ul></description></item><item><title>Court of Winter</title><link>/03---locations/court-of-winter/</link><pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate><guid>/03---locations/court-of-winter/</guid><description>&lt;ul>
+&lt;li>
+&lt;p>Alora - Lady of Winter&lt;/p>
+&lt;ul>
+&lt;li>Gifted the party with a Leyline Gate Ring 
+&lt;ul>
+&lt;li>&lt;a href="https://www.dndbeyond.com/magic-items/8331580-leyline-gate-ring">https://www.dndbeyond.com/magic-items/8331580-leyline-gate-ring&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>
+&lt;p>Trius - Winter Knight / Oath of Ancients Paladin&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://www.dndbeyond.com/characters/120174039/sfrCbz">https://www.dndbeyond.com/characters/120174039/sfrCbz&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title>Massa’Ista</title><link>/06---factions/massaista/</link><pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate><guid>/06---factions/massaista/</guid><description>&lt;ul>
+&lt;li>Information guild&lt;/li>
+&lt;li>Name translates to “Shared Knowledge” in an odd Elvish dialect&lt;/li>
+&lt;li>Based in Hunter’s Hollow - closest large city to Tannis&lt;/li>
+&lt;li>Run by “The Fountain” (as in fountain of knowledge
+&lt;ul>
+&lt;li>No one is allowed to directly meet the Fountain&lt;/li>
+&lt;li>The fountain is secretly an elder Oblex&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Emblem is a skull with the floating above the rest of the skull&lt;/li>
+&lt;li>Can obtain just about any information for a price&lt;/li>
+&lt;li>Knows how to contact agent of the [[Chained Library|Chained Library]] or how to find it&lt;/li>
+&lt;li>Bartender of the Iron Eagle tavern in Hunter’s Hollow can provide the password to enter the museum that’s used as a front for the Massa’Ista’s guild house&lt;/li>
+&lt;/ul></description></item></channel></rss>
