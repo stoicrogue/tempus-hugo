@@ -102,7 +102,7 @@ pagination.pagerSize = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
+        logoText = "Tempus"
         logoHomeLink = "/"
 
       [languages.en.menu]
