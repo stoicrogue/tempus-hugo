@@ -1,12 +1,9 @@
 /* Placeholder file for your custom settings. */
 /* You can get the color scheme variables from https://panr.github.io/terminal-css/ */
 :root {
-  --background: #011228;
-  --foreground: #fee801;
-  --accent: #54c1e6;
-  --radius: 0;
-  --font-size: 1rem;
-  --line-height: 1.54em;
+  --background: #0b0c2d;
+  --foreground: #ece8fc;
+  --accent: #b399ff;
 }
 
 @media (max-width: 684px) {
