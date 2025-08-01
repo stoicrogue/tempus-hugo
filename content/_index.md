@@ -7,9 +7,20 @@ draft: false
 # Welcome to Tempus
 
 ![Tempus-website-banner.png](/images/Tempus-website-banner.png)
- On this site you will find my DM notes for my Tempus 5e D&D campaign. The notes structure is based on Mike Shea's [notion notebook](https://slyflourish.com/lazy_dnd_with_notion.html), which I have since ported over to [Obsidian](https://obsidian.md/) .  I'm a big fan of the Lazy DM Books by Mike Shea, and my GM prep is largely built on the advice in [The Eight Steps of the Lazy DM](https://slyflourish.com/eight_steps_2023.html) 
+
+On this site you will find my DM notes for my Tempus 5e D&D campaign. This campaign was my first foray into creating my own setting.  As with any creative endeavor, I pulled inspiration from a lot of sources, including:
+ 
+  - [Dresden Files](https://en.wikipedia.org/wiki/The_Dresden_Files)
+  - [Critical Role](https://en.wikipedia.org/wiki/Critical_Role)
+  - [Matt Colville](https://www.youtube.com/@mcolville), and [Arcadia](https://shop.mcdmproductions.com/collections/arcadia)
+  - [My Hidden Nerdy Side](https://www.youtube.com/c/hiddennerdyside) (YouTube channel)
+  - [Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)
+
+The structure of my notes is based on Mike Shea's [notion notebook](https://slyflourish.com/lazy_dnd_with_notion.html), which I have since ported over to [Obsidian](https://obsidian.md/) .  I'm a big fan of the Lazy DM Books by Mike Shea, and my GM prep is largely built on the advice in [The Eight Steps of the Lazy DM](https://slyflourish.com/eight_steps_2023.html) 
 
 ## Note & Prep Tour
+
+Below are the folders in my Obsidian notebook and my purpose of each folder.  You'll find a **menu** option on this site for each of them.
 
 ### Session Notes
 - Prep notes for individual sessions.

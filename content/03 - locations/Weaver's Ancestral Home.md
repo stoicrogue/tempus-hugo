@@ -6,13 +6,6 @@ title: Weaver's Ancestral Home
 created: 2025-06-24
 Last Edited: 2023-05-31T16:41
 ---
-
-
-
-
-
-
-
 - Party can discover the [[Weaver's Journal]], depicting his growing interest in fear and illusion.
 	- The Weaver's abandoned journal charts his path from illusionist prodigy to would-be liberator of Nidhogg.  
 	- It ends at the cusp of his rebellion against the Seasonal Courts, outlining his belief that unraveling the leyline barrier is the key to freeing the Great Shadow.  

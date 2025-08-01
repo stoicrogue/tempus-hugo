@@ -9,14 +9,6 @@ author:
   - Mark Molea
 created: 2023-07-16
 ---
-
-
-
-
-
-
-
-
 # **Central Tension**
 
 A tense stalemate exists between Elves, masters of magic and the planes, and Dwarves, experts of crafting and technology.  The nature vs technology worldviews of the Elves and Dwarves are at the heart of the lasting distrust and conflict.  Over the years, each side has tried pushing into each other's territory to gain natural resources or reclaim ancestral lands of cultural significance.

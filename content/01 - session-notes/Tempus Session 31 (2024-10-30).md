@@ -8,28 +8,20 @@ author:
   - Mark Molea
 created: 2024-10-30
 ---
-
-
-
-
-
-
-
-
 _Here's a blank D&D session note page ready for you to use outlined according to [Return of the Lazy Dungeon Master](https://slyflourish.com/returnofthelazydm/index.html). Duplicate, date, and title the copy page for your new session._
 
 # Characters
 
 - [ ] Review the characters
 
-#### Characters
+## Characters
 
-|Name|P. Pcpt|P. Inv|P. Ins|Trained Skills|Languages|
-|---|---|---|---|---|---|
-|[[October “Toby” Daye]]|15|14|12|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|Abyssal, Common, Elvish|
-|[[Shadicar]]|14|11|14|Deception, Insight, Perception, Performance, Persuasion, Sleight of Hand|Common, Elvish|
-|[[Skreek]]|9|10|9|History, Medicine, Persuasion, Religion|Aarakocra, Common, Dwarvish, Elvish|
-|[[Slumpet Zoommimist]]|18|14|12|Deception, Investigation, Perception, Persuasion, Sleight of Hand, Stealth|Common, Gnomish, Thieves' Cant|
+| Name                    | P. Pcpt | P. Inv | P. Ins | Trained Skills                                                                   | Languages                           |
+| ----------------------- | ------- | ------ | ------ | -------------------------------------------------------------------------------- | ----------------------------------- |
+| [[October “Toby” Daye]] | 15      | 14     | 12     | Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival | Abyssal, Common, Elvish             |
+| [[Shadicar]]            | 14      | 11     | 14     | Deception, Insight, Perception, Performance, Persuasion, Sleight of Hand         | Common, Elvish                      |
+| [[Skreek]]              | 9       | 10     | 9      | History, Medicine, Persuasion, Religion                                          | Aarakocra, Common, Dwarvish, Elvish |
+| [[Slumpet Zoommimist]]  | 18      | 14     | 12     | Deception, Investigation, Perception, Persuasion, Sleight of Hand, Stealth       | Common, Gnomish, Thieves' Cant      |
 
   
   
