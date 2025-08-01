@@ -88,9 +88,9 @@ pagination.pagerSize = 5
 
     [languages.en.params]
       subtitle = "A simple, retro theme for Hugo"
-      owner = ""
+      owner = "Mark Molea"
       keywords = ""
-      copyright = ""
+      copyright = "&copy; Mark Molea 2025"
       menuMore = "Show more"
       readMore = "Read more"
       readOtherPosts = "Read other posts"
