@@ -22,7 +22,7 @@ She laid the broken shards of Summer’s Edge upon the anvil with gentle, precis
 
 She lifted her hammer. For a moment, there was only silence, as if the entire chamber held its breath. Then she brought the hammer down in a bright, ringing strike that sent ripples of golden energy cascading through the veins of the forge floor. Each blow was like the toll of a temple bell, vibrating through stone and bone alike. Sparks danced from the impact, swirling around her like living embers.
 
-The Celestial Ore melted under her precise strikes, flowing like molten starlight into the fractured steel. The captured sun flared within its vial before bursting forth in a torrent of golden light, weaving itself into the reforged blade, illuminating the cavern in radiant dawn. You instinctively shield your eyes as the blade dranks in the sun’s essence, glowing brighter with each hammerfall.
+The Celestial Ore melted under her precise strikes, flowing like molten starlight into the fractured steel. The captured sun flared within its vial before bursting forth in a torrent of golden light, weaving itself into the reforged blade, illuminating the cavern in radiant dawn. You instinctively shield your eyes as the blade drank in the sun’s essence, glowing brighter with each hammer fall.
 
 When Elara landed the final strike, the light exploded outward in a silent wave, bathing the chamber in warmth and brilliance. The leyline veins beneath the forge pulsed in time with the sword’s glow, as though the world itself was welcoming its return.
 

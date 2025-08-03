@@ -926,3 +926,134 @@ Slumpet pocketed the journal and rifled through scattered scrolls until he found
 “Could be worth something to the dwarves,” he whispered to himself, careful that the others didn't notice him stow the map.
 
 Behind them, the castle seemed to sigh — the echo of a forgotten loom, waiting for its weaver to return.
+
+Here is the next chapter of the **Tempus Campaign Dramatization**, written in third-person and styled like Jim Butcher as requested:
+
+
+##  Stone and Seed
+
+The castle sighed.
+
+It wasn’t a literal sound, but the kind of hush that settles over a place when its purpose has changed. The party had braved illusions, battled memories, and struck down shadows—and in doing so, something fundamental had shifted. The haunted hush that had clung to the place like cobwebs was gone. The vine-choked gloom that had crept along the floorboards had receded. When dawn broke over the Feywild sky, it revealed not a cursed ruin—but a place on the cusp of healing.
+
+Slumpet was the first to rise, not that anyone had expected otherwise. The gnome was already padding down one of the upper corridors by the time the others stirred. Sunlight poured in through stained glass windows once dulled by decay, now radiant with golds and greens. The flickering illusions were gone, the colors no longer distorted by fear. The castle was still strange, still old—but no longer hostile.
+
+Shad emerged next, tousled and blinking, running a hand through his now-mostly-hair hair and humming a chord that hadn’t existed the day before. “Huh,” he said to no one in particular. “This place feels… less murdery.”
+
+“You’re welcome,” Skreek muttered, trudging past in full armor and no patience. He was still getting used to not having to rhyme. “Or maybe it’s thanking us.”
+
+They regrouped after a breakfast of ration crumbs and silence, exploring wings they’d missed during their battle-torn entry. A crumbling corridor behind a frayed tapestry revealed a narrow spiral stair that twisted downward into the bones of the earth. The walls shed illusion as they descended—shimmering marble giving way to raw stone, chiseled elegance surrendering to primordial bedrock.
+
+The air grew colder. Still. Sacred.
+
+At the bottom of the stairs, the chamber opened like a secret held too long. Veins of quartz glimmered faintly in the natural stone dome, untouched by tool or time. And at the center stood a tall obsidian monolith—black and smooth, marked near its apex with a hollow ring: the eye of a needle. A teleportation circle lay at its feet, faded but whole, drawn in lines of silver dust and dried leyline resin.
+
+Skreek stepped forward, reverent. “This is… familiar,” he said, voice catching. “We had one in the capital. But I never—never knew how to make it sing.”
+
+“Yet,” Shad said, with a little smile.
+
+The stone pulsed faintly. The air felt charged, ready. Older than the castle. Older than the forest. As if the land itself had whispered to someone once, _build above me._
+
+Then, from the shadows at the chamber’s edge, came a rustle. A patchwork figure stepped into the light—cloth and armor stitched together, faceless beneath a helm of thread and metal. The guardian.
+
+“You have severed the echo,” it said, voice neither loud nor soft. “You are now the castle’s rightful stewards.”
+
+Shad blinked. “I beg your pardon?”
+
+“Ownership,” the guardian clarified. “By blade and by burden. This place answers to you now.”
+
+“Well,” Toby said, crossing her arms, “that’s ominous.”
+
+“What’s your name?” Slumpet asked, narrowing one eye.
+
+“I have none.”
+
+“Alright then,” Shad said, clapping his hands once. “Welcome to the party, _Jeeves._”
+
+The guardian tilted its head as if consulting an internal ledger. “Accepted.”
+
+Jeeves explained—if such a word could be applied to his polite riddling—that he would restore the castle, reshape it to their needs given materials, time, and guidance. He required no reward, no command. Only a favor: “Bring me something worthy of planting,” he said. “The royal garden awaits beauty.”
+
+Toby smiled, touching a hand to her chest: “We can do that.”
+
+Slumpet stepped forward. The obsidian stone loomed above, humming like a struck bell only he could hear. He pressed his Leyline Gate Ring to the stone’s surface. It warmed in his hand... Attuned.
+
+The circle lit with a sudden flare of blue-white light. The obsidian shimmered, the chamber thrummed, and in the blink of an eye, they were gone.
+
+Back to the Summer Court. Back to the forge. Back to the fire.
+
+## The Blade That Remembers
+
+Elara didn’t say a word when she opened the door. She didn’t have to.
+
+Her expression alone told the story—half relief, half disbelief, and just a glimmer of that proud steel beneath. The party stumbled back into the Summer Court in various states of exhaustion, their boots crusted with Feywild dust, their nerves still raw from the castle’s unraveling.
+
+“You were gone nearly three weeks,” she said, folding her arms and looking them over. “I was beginning to worry you’d been eaten by sentient vines or married off to illusion spirits.”
+
+Shad tried to respond with a joke, but paused. His hair was no longer creeping with green tendrils—it was just hair again, swept over one eye like a bard with feelings. Toby laughed normally for the first time in days, and Skreek didn’t rhyme once, even when he tried to.
+
+The magic of the Feywild had loosened its grip.
+
+Elara’s eyes found the vial tucked into Skreek’s satchel—the liquid sunlight sealed within. She nodded once. “You found it,” she said. “The First Kiss of the Midday Sun.”
+
+“That means it’s time!”, Elara said, already moving. She led them to the forge.
+
+Not the one above ground, where weapons were shaped for coin and court. No—she led them behind the hearth, through a narrow door that hadn’t been there a moment before. Down stone stairs that thrummed with warm magic. The walls glowed faintly, crystalline veins of leyline energy pulsing with slow, golden rhythm.
+
+At the bottom, the air opened up into something older.
+
+A subterranean chamber stretched wide before them, where moss-covered ledges trickled water into a crystal-clear basin, and golden motes floated lazily in the stillness like fireflies trapped in amber. In the center stood an anvil—ancient, reverent, inscribed with elven runes that flickered like stars beneath the surface.
+
+Elara stepped forward like a priestess entering a holy sanctum. Her forge hammer pulsed with silent urgency at her hip.
+
+“Welcome,” she said, her voice trembling with something fierce and beautiful. “This place was old before the first Summer Lady donned her crown. Its heart beats with the sun’s song. Today, it shall wake a Guardian once more.”
+
+She laid the broken shards of **Summer’s Edge** on the anvil with care—a blade shattered in defiance, now laid to rest like a fallen comrade. Then, from a cloth-wrapped bundle, she withdrew the **Celestial Ore**, its mirrored surface shifting with impossible light. The vial of sunlight followed, glowing softly.
+
+“Your light will burn again,” she whispered to the broken blade. “The realms still need you.”
+
+She lifted her hammer. And the forge held its breath.
+
+The first strike rang out like a bell calling the world to attention. Light raced through the leyline veins underfoot. The Celestial Ore wept molten silver, flowing into the cracks of the blade. The captured sunlight flared—then burst into the forge in a torrent of radiant gold.
+
+Each strike sang with purpose. Sparks spun like fire spirits, weaving themselves into steel. The shattered sword drank in the light, growing brighter, purer, stronger. Runes along the blade flickered back to life.
+
+And then, with one final, ringing blow—silence. But not stillness.
+
+Light exploded outward in a silent wave, washing over the cavern in brilliance. The leyline pulse echoed in time with the blade’s heartbeat. Water in the basin shimmered. The air itself felt alive.
+
+Elara stepped back, chest heaving, eyes wide with quiet joy.
+
+She turned, lifting the reforged sword into the air. The golden runes blazed along the steel. Light clung to its edge. Power—earned, not granted—throbbed within the hilt.
+
+“It is done,” she breathed. “Summer’s Edge lives again. May it burn away all shadows.”
+
+She crossed the stone floor and held it out.
+
+Skreek hesitated. For all his honor, all his conviction, all his prayers—this was something else entirely. This was a moment that didn’t fit into rhyme or verse. This was history, not hope.
+
+He took the hilt.
+
+The moment his talons closed around it, the blade responded. Not in words. Not yet. But in feeling.
+
+A promise. Gratitude. Purpose. Unity. Together, they would stand against the dark. Together, they would bring dawn.
+
+The light around him dimmed to a gentle glow, curling around his shoulders like a cloak of morning sun. The others watched, silent.
+
+Elara handed him a simple scabbard, then laughed softly. “It deserves more,” she said. “We’ll work on something fitting.”
+
+---
+
+Later that evening, the party found their way to **Ember’s Embrace**, the Court’s favored tavern. Serra Flamekissed had drinks waiting—glasses that glowed, fizzed, and (in Toby’s case) bit back. The group eased into chairs and warmth and something like peace.
+
+They spoke of next steps.
+
+Tannis came up—of course it did. The last time they’d seen it, the village had still been wrapped in shadow, with the Arbiter preparing to lift her holy barrier. They remembered the standing stone near the Order’s tomb. They remembered promises.
+
+Before bed, Shad wandered out into the marketplace and returned with a scroll of _Legend Lore_, the coin pouch at his belt notably lighter. He didn’t say what he planned to learn—just that he’d know it when he saw it.
+
+And in the center of the room, resting against the wall beside Skreek, **Summer’s Edge** gleamed quietly. Watching. Waiting.
+
+The blade remembered.
+
+And soon, the world would too.
