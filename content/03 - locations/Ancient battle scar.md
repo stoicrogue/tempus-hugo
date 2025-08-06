@@ -7,7 +7,12 @@ created: 2025-04-10
 Files & media:
   - https://drive.google.com/file/d/16SgDbLWnh49xn6-jVjHCpERXGJtIc0sx/view?usp=drivesdk
 Last Edited: 2024-07-23T20:50
+cssclasses:
+  - center-images
+  - image-borders
 ---
+![GL_AncientBattlefield_MagicSymbol_Day.jpg](/images/GL_AncientBattlefield_MagicSymbol_Day.jpg)
+
 - Death cultist
     - Summons basilisk
 - Ogre

@@ -375,3 +375,20 @@ created: 2023-07-16
     - His final entries describe a plan to **weaken the leyline network** and release **Nidhogg** by unraveling the threads anchoring the planes.
     - A **spell that can tether his soul to paper**, known as **Silmirien**, can **call him home** if a page is burned.
 - Slumpet also found a **map of leyline energy** and leyline temple locations, marked with several **“Hollow Thresholds”**—unexplained but likely significant to the cult’s portal activities. He **kept this map secret**, considering its potential value to his mysterious dwarven contacts.
+
+## 🏰 _An Unexpected Refuge_
+
+- After defeating the Weaver’s Echo, the party rested within the now-quiet Feywild castle. By morning, the oppressive illusions had faded, revealing a place touched by warmth and light.
+- Exploring further, they discovered a hidden stairwell behind a tapestry, leading to an ancient chamber of quartz-veined stone beneath the castle.
+- At its center stood an obsidian standing stone—identical to others they had seen—surrounded by a dormant teleportation circle. Skreek recognized the design from his homeland.
+- The patchwork guardian returned, proclaiming the party the new owners of the castle. They named him “Jeeves,” and he pledged to restore the structure and shape it to their needs.
+- Slumpet attuned their Leyline Gate Ring to the stone, and the party used it to return to the Summer Court.
+
+## 🔨 _Reforging Summer’s Edge_
+
+- Elara welcomed the party back to the Summer Court, relieved after their long absence. The lingering Feywild magic faded, restoring the group to normal.
+- She confirmed the party had retrieved the “First Kiss of the Midday Sun” and led them to an ancient leyline forge beneath her shop.
+- Using the sun’s essence and celestial ore, Elara reforged the legendary blade with reverence. At the final strike, she offered the completed weapon to Skreek.
+- As Skreek took up Summer’s Edge, he felt its radiant will awaken—offering a wordless vow of purpose and unity.
+- Elara provided a temporary scabbard and promised to craft a more fitting one in time. The party departed to celebrate at Ember’s Embrace.
+- Over drinks with Serra Flamekissed, they planned their next journey—to check on Tannis via the standing stone near the Order’s tomb. Before retiring, Shad purchased a scroll of _Legend Lore_, eager to learn more about the looming darkness.

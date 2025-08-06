@@ -9,13 +9,6 @@ author:
   - Mark Molea
 created: 2025-07-16
 ---
-
-
-
-
-
-
-
 ## ✅ COMPLETED QUESTS
 
 ### 🛡️ Rescue the Blacksmith's Daughter
@@ -533,43 +526,52 @@ created: 2025-07-16
 
 ---
 
-## 🔄 ACTIVE QUESTS
-
 ### ⚔️ Reforge Summer's Edge
 
-**Location:** Summer Court (return to Elara Sunforge)  
+**Location:** Summer Court (Elara Sunforge's hidden forge)  
 **Quest Giver:** Elara Sunforge  
-**Status:** Ready to complete - have both required components
+**Status:** ✅ Completed
 
 - [x] Obtain Celestial Ore from Starfall Crater
-- [x] Capture First Kiss of Midday Sun from Feywild
-- [ ] Return to Summer Court from Feywild
-- [ ] Deliver components to Elara Sunforge
-- [ ] Witness/participate in reforging ritual
-- [ ] Determine who Summer's Edge chooses as wielder
-	- [ ] Skreek
+- [x] Capture First Kiss of Midday Sun in the Feywild
+- [x] Return to the Summer Court via standing stone network
+- [x] Deliver components to Elara Sunforge
+- [x] Participate in reforging of Summer’s Edge using radiant forge
+- [x] Witness Skreek chosen as the new wielder of Summer’s Edge
 
-**Current Status:** Party has both components and is exploring Weaver's castle for additional intelligence before returning to complete reforging.
+**Rewards:** Reforged Summer’s Edge, Skreek gains bonded artifact blade  
+**Key NPCs:** Elara Sunforge (master smith), Skreek (chosen champion)
 
 ---
 
-### 🔍 Complete Castle Investigation
+### 🏰 Claim the Weaver’s Castle
 
-**Location:** Weaver's Feywild Castle  
-**Quest Giver:** Party decision for thoroughness  
-**Status:** In progress - exploring for missed intelligence
+**Location:** Forgotten castle in the Feywild  
+**Quest Giver:** Self-directed exploration
+
+**Status:** ✅ Completed
 
 - [x] Defeat the Echo and recover Weaver's journal
 - [x] Discover spellbook Silmirien and its soul-calling properties
 - [x] Obtain secret leyline map with Hollow Thresholds
-- [ ] Search remaining castle areas for additional clues
-- [ ] Determine significance of "Hollow Thresholds" on leyline map
-- [ ] Decide whether to use Silmirien's soul-calling ability
-- [ ] Plan return journey to Material Plane
+- [x] Search remaining castle areas for additional clues
+- [x] Clear the castle of threats and dispel illusory decay
+-  Discover secret spiral staircase behind hidden tapestry
+-  Uncover leyline nexus chamber and ancient obsidian standing stone
+-  Attune ring to castle's standing stone for network travel
+-  Meet patchwork guardian (dubbed "Jeeves") and accept castle stewardship
+- [x]  Receive offer to customize and restore castle in time
 
-**Current Status:** Party cleared main threats but continues searching for any missed intelligence about the Weaver's plans or capabilities.
+**Rewards:** Ownership of the Weaver’s castle, standing stone network access  
+**Key NPCs:** Jeeves (patchwork guardian), Slumpet (ring attunement)
 
 ---
+
+## 🔄 ACTIVE QUESTS
+
+
+---
+
 
 ## 📋 ONGOING BACKGROUND QUESTS
 
