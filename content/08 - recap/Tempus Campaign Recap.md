@@ -8,12 +8,6 @@ author:
   - Mark Molea
 created: 2023-07-16
 ---
-
-
-
-
-
-
 ## 📍 _Prologue – Tannis and the Blacksmith’s Plea_
 
 - **The party meets in the Raven’s Perch Tavern** in the quiet village of Tannis and is introduced to key NPCs: Lerissa (retired adventurer), Serenity (mysterious singer), Hurmur (dwarven archaeologist), and Jax (Night Talons thief).    

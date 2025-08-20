@@ -22,8 +22,8 @@ created: 2025-07-21
 - [ ] [[Vidrir]] is much older than he seems and was the champion of the summer court that [[Skreek]] saw in his visions
 - [ ] [[Hollow Thresholds]] are being created by the Cult of the Eclipse
 - [ ] [[Vael]], agent of the [[Chained Library]], is investigating the weakening barrier and the hollow thresholds
-- [ ] Chained Library is located beneath the "Tael'anore", the central mountain in Elven territory
-	- [ ] “the roots beneath the seasons” / “vault at the world’s bloom.”
+- [x] Chained Library is located beneath the "Tael'anore", the central mountain in Elven territory
+	- [x] “the roots beneath the seasons” / “vault at the world’s bloom.”
 - [ ] Skreek's royal egg is being used as a Hollow Threshold anchor for a plane of air themed threshold
 
 ---
@@ -48,4 +48,7 @@ created: 2025-07-21
 
 # 📝 Session Notes
 
+- Skreek entered a dueling tournament at the Summer Court's colleseum to test out Summer's Edge.  He was victoreous against a human knight named Adamar in black armor that had been doing well in the tournaments recently.  The party all made decent wagers on Skreek winning with his new sword and they were all paid out handsomely based on his 4:1 odds because of his newcomer status.
+- The part journeyed northwest through the forest, towards a giant birch tree and the Spring Court.  Before they reach the tree, they come upon a strange active portal made of stone standing 10 feet tall in a clearing.  Shad animates a dead tree and sends it into the portal.  It returns a minute later with a wolf biting its leg, which eventaully lets go of the tree and bounds back into the portal.
+- Toby sends in Francis to scout since the tree couldn't report on what it had seen.  Francis reports it is a 50 circular area with another portal on the opposite side.  The area is closed off entirely by the largest trees he had ever seen.  In the center, an ominous alter with large glowing fang pulsing on top of it.  Scattered around the area are many beasts including a huge wolf, a pack of normal sized wolves, and an owlbear.
 - 
