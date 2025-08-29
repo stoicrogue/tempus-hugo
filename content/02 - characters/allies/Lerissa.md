@@ -9,8 +9,9 @@ created: 2025-04-10
 Last Edited: 2023-01-11T15:20
 cssclasses:
   - center-images
+  - image-borders
 ---
-![Lerissa.jpeg](/images/Lerissa.jpeg)
+![lerissa.png](/images/lerissa.png)
 
 - tiefling bartender of the [[Raven’s Perch Tavern]] in Tannis
 - Former beast master ranger

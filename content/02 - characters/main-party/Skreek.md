@@ -5,8 +5,7 @@ tags:
 date: 2025-04-10
 title: Skreek
 ---
-
-![skreek.png](/images/skreek.png)
+![skreek 1.png](/images/skreek%201.png)
 
 **Race/Class:** Aarakocra Paladin
 

@@ -23,81 +23,13 @@ cssclasses:
 - **Gently fatalistic**, but leaves space for hope — _if_ the party acts.
 - He does **not** beg, or command. He merely places the truth in their hands — what they do with it is their burden to bear.
 
-## Meeting Vael
+## Emergence and the Watcher in the Mist
 
-As the party approaches the swirling edge of a dying portal—runes flickering and the air tinged with cold—they spot a tall, robed figure standing at its edge. Chains float around them. An open tome hovers nearby, pages flipping slowly in windless air.
-
-Without turning, the figure speaks.
-
-> **Vael:**  
-> _“The breach here breathes still. Unfortunate.”_
-> 
-> (turns slowly to face the party)
-> 
-> _“I wondered who I would encounter here: the architects of this flaw… or its inheritors.”_
-> 
-> **Skreek (maybe cautiously):**  
-> “And who are _you_, exactly?”
-> 
-> **Vael (tilts head, one eye swirling with ink):**  
-> _“I am Vael. Fifth Binder of the Chained Library. Chainbearer of the Silent Vault. I walk where locks whisper, where truths should not echo.”_
-> 
-> (steps toward the party with eerie calm)
-> 
-> _“You carry scars of knowledge. Tainted relics. Curious alliances. That makes you… readable.”_
-> 
-> **Toby (hand on weapon):**  
-> “You with the Cult?”
-> 
-> **Vael (smiles faintly):**  
-> _“No. The Cult seeks to open. I exist to close.”_  
-> (he gestures, and one of the runes near the portal shrinks into nothing)
-> 
-> _“When minds shatter against what they should not know, we are the ones who pick up the pieces. Or burn them.”_
-> 
-> **Shadicar:**  
-> “What do _you_ want from us?”
-> 
-> **Vael:**  
-> _“You are entangled in their spiral—your presence here confirms it. This portal anchors itself to a realm not meant to touch yours… but the artifact binding it has not yet chosen its final master.”_
-> 
-> (gestures toward the portal)
-> 
-> _“I would see it unmade… or stored beyond reach. If you possess it, I offer a trade: memory for memory. Knowledge for silence. A lock, if you’ll turn the key.”_
-> 
-> **Slumpet (maybe suspicious):**  
-> “And if we don’t?”
-> 
-> **Vael (a flicker of power pulses in the halo above his head):**  
-> _“Then you walk forward holding fire in paper hands. The Library watches… and waits.”_
-> 
-> (pauses)
-> 
-> _“But I suspect you already feel it. The weight of unshelved truths. The burden of knowing.”_
-
-### **Optional Offer**
-
-If the party presses further or offers up the artifact:
-
-**Vael (placing a hand over the object, runes spinning faster):**  
-_“This shall be bound. It will not speak, nor call, nor reach beyond. You may know where it lies… but not how to wake it.”_
-
-**OR if they refuse:**
-
-_“Very well. The page turns regardless. But remember… not all chains are made of metal. Some grow from questions you wish you hadn’t asked.”_
-
-
-## ## _Emergence and the Watcher in the Mist_
-
-The air screamed as the Hollow Threshold collapsed behind them.
+The air screamed as the Hollow Threshold collapsed behind you.
 
 Ribbons of shadow peeled away from the edges of reality like burnt paper curling in a cold wind. Arcane static snapped across the clearing, and the scent of scorched ozone clung to their clothes. The last of the portal's violet sheen blinked out with a soundless shudder, leaving behind only silence—and a thin film of frost on the grass.
 
-Shad staggered forward, one hand clutching the hilt of Summer’s Edge, still glowing faintly from the radiant backlash. Skreek’s wings twitched, feathers smoldering at the edges. Toby wiped ichor from her blade. Slumpet landed lightly from wherever he hadn’t been seen.
-
-And then—
-
-A quiet clap echoed across the clearing.
+As you catch your breath, you hear a quiet clap echoed across the clearing.
 
 From the shadows beneath a crooked elm stepped a figure—tall, cloaked in layered grays and soft blacks, as though woven from the dusk itself. His face was pale, angular, ageless. A single silver ring glinted on one finger, the only metal visible. His eyes—no color, just depth—watched them with surgical calm.
 
@@ -105,7 +37,7 @@ From the shadows beneath a crooked elm stepped a figure—tall, cloaked in layer
 
 He didn’t draw a weapon. He didn’t need to. Presence alone filled the clearing like smoke. Whatever tension had ebbed from the party’s limbs returned tenfold.
 
-> “You entered a Threshold without preparation, knowledge, or sanction. And somehow… you survived. That is rare.”
+> “You entered a Threshold with the faintest of preparation and somehow… you survived. That is rare.”
 
 He looked at each of them in turn. Not appraising. Not judging. Measuring.
 
@@ -135,31 +67,51 @@ He knelt briefly, brushing two fingers against the frost-laced ground where the 
 
 (Vael stands still, his gloved hands clasped before him. His voice is quiet, but it carries — like a knife sliding under armor.)
 
-> Vael:
+> **Vael:**
 > 
-> "You have seen the cracks, have you not?
-> The fading stars... the twisted woods... the monsters that slip between places where no door should stand."
+> "You have seen the cracks, have you not? The fading stars... the twisted woods... the monsters that slip between places where no door should stand."
 > 
 > (He tilts his head slightly, studying each of you.)
 > 
-> "The Elven barrier is not a wall. It is a tapestry — a weave of light and will, stitched across the wounds of the world. Each Temple you know — Winter, Summer, Autumn, Spring — holds one of the great knots, where the threads are pulled tight."
+> "Long ago, your Matriarch wove a great working — a barrier of will and starlight, anchored by four mighty temples that drink from the leylines themselves. Winter, Summer, Autumn, Spring... each a pillar holding back the elemental chaos, keeping the planes in their proper order."
 > 
-> (He raises two fingers, sketching an invisible net between you.)
+> (He raises his hand, fingers spread like the points of a compass.)
 > 
-> "But the weave would tear under its own weight without its anchors — lesser nodes, quiet stones buried in forgotten glades, riverbeds, mountaintops.
+> "But the Matriarch is gone, and her gift seems lost. The knowledge of the great ritual fades from living memory. The barrier... endures, but it grows thin. Brittle."
 > 
-> They keep the barrier taut. They spread the strain. They preserve the balance."
+> (His voice drops to barely above a whisper.)
 > 
-> (His voice lowers, almost reverent.)
+> "And the Cult of the Eclipse has learned this weakness. They strike on two fronts — assaulting the temples themselves when they can, yes, but also accelerating the barrier's natural decay. They create wounds where none should be, points of deliberate instability that poison the very foundations of the Matriarch's work."
 > 
-> "And it is there — at these anchors — that the Cult of the Eclipse strikes. Not by tearing the Temples down... no. Not yet.
+> (Vael gestures toward where the portal once stood.)
 > 
-> They corrupt the anchors. Weaken them. And where the threads slacken and sag, Hollow Thresholds bloom like rot beneath skin."
+> "These Hollow Thresholds are not natural tears. They are _surgical incisions_ — deliberate gashes cut into reality itself. Each one siphons power from the leylines, draws energy away from the temples, weakens the barrier's foundation."
 > 
-> (Vael pauses, letting the image linger — the party can almost feel the weave trembling beneath their feet.)
+> (He pauses, letting the weight of his words settle.)
 > 
-> "Each Threshold is a wound... a door to the Shadowfell... and a noose tightening around this world’s throat. If enough anchors fail — if enough hollows bloom — the barrier will fall. And what has long been sealed will walk once more under a broken sky."
+> "Worse still, through these wounds they summon creatures of shadow and chaos — beasts that would never naturally walk this realm. Each incursion spreads instability like infection through a wound. The more thresholds they open, the faster the barrier crumbles."
 > 
-> (A breath.)
+> (His eyes meet each of yours in turn.)
 > 
-> "You must understand. Slay the cultists if you wish. But it is not they who tear the world. It is the weave itself — fraying, thread by thread — that you must mend... or survive what comes after."
+> "You have closed one wound. But understand — there will be others. And if too many bleed the leylines dry, if too much chaos floods through... the temples themselves will fail. And when they do, far more than the barrier will fall. The prison that holds the ancient dragon will shatter like glass."
+> 
+> (A long, heavy silence.)
+> 
+> "The Cult calls this the Eclipse — the moment when all barriers fail, when the planes collapse into one writhing mass of elemental fury. They believe chaos will remake the world into something... purer. They are, of course, quite mad."
+> 
+> (He straightens slightly.)
+> 
+> "But madness with purpose is still purpose. And they are winning, threshold by threshold, temple by temple. The question that remains is whether anyone still draws breath who remembers how to mend what the Matriarch wrought... or if you must find another way to hold back the dark."
+
+## An Exchange
+
+The party may gain information about the location of the Library and acccess in exchange for an artifact, like Serenity's orb or some of the artifacts anchoring the Hollow Thresholds.
+
+### Offering an artifact
+
+**Vael (placing a hand over the object, runes spinning faster):**  
+_“This shall be bound. It will not speak, nor call, nor reach beyond. You may know where it lies… but not how to wake it.”_
+
+### Refusing to give Vael an artifact
+
+_“Very well. The page turns regardless. But remember… not all chains are made of metal. Some grow from questions you wish you hadn’t asked.”_

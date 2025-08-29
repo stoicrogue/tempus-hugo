@@ -6,7 +6,7 @@ date: 2025-04-10
 title: Shadicar
 ---
 
-![shadicar.png](/images/shadicar.png)
+![shad.png](/images/shad.png)
 
 **Race/Class:** Half-Elf Bard
 

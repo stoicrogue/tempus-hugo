@@ -8,14 +8,6 @@ author:
   - Mark Molea
 created: 2023-04-05
 ---
-
-
-
-
-
-
-
-
 # Characters
 
 - [ ] Review the characters

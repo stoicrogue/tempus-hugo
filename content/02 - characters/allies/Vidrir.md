@@ -18,7 +18,7 @@ cssclasses:
 - Loves [[Lerissa]]'s beer
 - Has some magical talent, including some divination
 - Well-versed in the history of the local area and beyond
-- Former member of the order of seasons and wielder of [[Summer's Edge]]
+- Former member of the order of seasons and wielder of [[01 - Projects/tempus-campaign/04 - items/Summer's Edge]]
 - Secretly Odin in disguise, his powers very weak because he needed to contribute a piece of his power to sealing Nidhogg away
 
 ---

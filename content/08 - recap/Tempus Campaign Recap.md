@@ -59,7 +59,7 @@ created: 2023-07-16
 
 - Entered the corrupted woods and found a **cabin guarded by a Flameskull**. After defeating it, Slumpet kept the skull as a trophy.
 - Discovered signs of **Serenity’s presence** in the cabin and were attacked by a **Rug of Smothering**, later named “Sassy Tassels.”
-- Found a **defiled altar to a shadow dragon** with a **magical crystal orb** and a diorama of Tannis. Using their holy marks, they summoned the **Arbiter**, who confirmed this site as the source of the Dusk Lord’s wrath and cleansed it. She departed to lift the barrier over Tannis.
+- Found an **altar to a shadow dragon** with a **magical crystal orb** and a diorama of Tannis. Using their holy marks, they summoned the **Arbiter**, who confirmed this site as the source of the Dusk Lord’s wrath and cleansed it. She departed to lift the barrier over Tannis.
 - The next morning, the **hag Serenity revealed herself** and demanded the return of the orb. The party refused, and combat broke out.
 - Shad’s **charm person spell unexpectedly succeeded**, pacifying Serenity and allowing them to gather intel:
     - Serenity served a caster named **the Weaver**, a master of fear and illusion.
@@ -386,3 +386,14 @@ created: 2023-07-16
 - As Skreek took up Summer’s Edge, he felt its radiant will awaken—offering a wordless vow of purpose and unity.
 - Elara provided a temporary scabbard and promised to craft a more fitting one in time. The party departed to celebrate at Ember’s Embrace.
 - Over drinks with Serra Flamekissed, they planned their next journey—to check on Tannis via the standing stone near the Order’s tomb. Before retiring, Shad purchased a scroll of _Legend Lore_, eager to learn more about the looming darkness.
+
+## 🌱 _On to the Spring Court_
+
+- Shad cast **legend lore** using a purchased scroll to learn about the **Chained Library**. He saw a sand-formed vision describing it as an ancient fortress of forbidden knowledge, guarded by blind celestials. The library predates kingdoms and even some gods, never destroys texts, and is nearly impossible to reach. Hints of its location included being “among the roots beneath the seasons” or “in the vault at the world’s bloom.” Churches and pious orders may sometimes sway the librarians, but monarchs and wealth cannot.
+- Shad and Toby speculated that “the world’s bloom” might refer to the **Spring Court**.
+- At the **Summer Court colosseum**, Skreek tested Summer’s Edge in a duel, defeating the black-armored knight Adamar. The party bet on Skreek’s 4:1 odds as a newcomer and won substantial coin.
+- Traveling northwest toward the Spring Court, the group discovered a **stone portal** in a clearing. Shad animated a dead tree to scout; it returned with a wolf biting its trunk. Toby then sent Francis, who reported a sealed arena of massive trees, a second portal opposite, and an ominous altar bearing a glowing fang surrounded by wolves and an owlbear.
+- Entering the portal, the party fought waves of wolves and owlbears. Shad dispelled the glowing fang, halting the summons, but Skreek was later knocked unconscious. The collapsing chamber threatened to crush them, while wild magic tried to polymorph the group into beasts (turning Shad into a frog briefly). The party barely escaped as the pocket-realm collapsed, leaving only frost-scarred grass where the portal once stood.
+- As they caught their breath, a cloaked stranger emerged—**Vael, Fifth Binder, Chainbearer of the Silent Vault**. He revealed he was investigating these unstable portals, which he called **Hollow Thresholds**. Created by the **Cult of the Eclipse** using planar artifacts, they were “surgical incisions” weakening the Elven barrier by siphoning leyline power.
+- Skreek guessed correctly that Vael was tied to the **Chained Library**. Vael admitted as much and offered to lead them to the Library in exchange for dangerous artifacts: Serenity’s orb and the newly recovered fang. A compromise was struck: the party gave him the fang now and promised to relinquish the orb upon reaching the Library’s entrance.
+- After healing, the party continued to the **giant birch tree** marking Spring Court territory. Slumpet attuned the Leyline Gate Ring at the nearby standing stone. They made camp beneath the tree, resting before completing their journey into Spring lands.

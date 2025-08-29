@@ -565,10 +565,41 @@ created: 2025-07-16
 **Rewards:** Ownership of the Weaver’s castle, standing stone network access  
 **Key NPCs:** Jeeves (patchwork guardian), Slumpet (ring attunement)
 
+
+### 🌌 Disrupt Hollow Threshold & Meet Vael
+
+**Location:** Forest clearing en route to Spring Court  
+**Quest Giver:** Party decision / Vael encounter
+
+-  Discover strange stone portal and investigate its pocket-realm
+-  Battle owlbear, alpha wolf, and dire wolf packs
+-  Dispel glowing fang artifact to halt endless summons
+-  Escape collapsing chamber amid wild magic surge (Shad briefly polymorphed into frog)
+-  Survive final owlbear and drag Skreek to safety after he was knocked unconscious
+-  Meet **Vael, Fifth Binder of the Silent Vault** - agent of the Chained Library
+-  Learn Hollow Thresholds are **Cult-forged incisions** siphoning leyline energy
+-  Strike bargain: surrender fang now, deliver Serenity’s orb at Library gates
+
+**Rewards:** Survival, Vael’s guidance toward the Chained Library, critical intelligence on Hollow Thresholds  
+**Key NPCs:** Vael (mysterious Chainbearer), Francis (scouting ally)
+
 ---
 
 ## 🔄 ACTIVE QUESTS
 
+### 📚 Gain Entry to the Chained Library
+
+**Location:** Unknown (cryptic clues: “roots beneath the seasons” / “vault at the world’s bloom”)  
+**Quest Giver:** Implied by Vael / party’s own pursuit
+
+-  Learn of the Library’s nature via **Legend Lore** (Shad)
+-  Confirm Library’s agents exist (Vael encounter)
+-  Negotiate initial terms with Vael (surrender fang, hold orb until arrival)
+-  Travel under Vael’s guidance to the Library’s hidden entrance
+-  Surrender Serenity’s Orb as final toll for access
+-  Gain audience with the Librarians
+
+**Current Status:** The party has secured Vael as guide and is committed to relinquishing Serenity’s orb once they reach the Library gates.
 
 ---
 
@@ -596,9 +627,9 @@ created: 2025-07-16
 **Status:** Information obtained, significance unknown
 
 - [x] Secretly obtain leyline map from Weaver's study
-- [ ] Determine what "Hollow Thresholds" represent
+- [x] Determine what "Hollow Thresholds" represent
 - [ ] Investigate marked locations
-- [ ] Understand connection to cult's portal activities
+- [x] Understand connection to cult's portal activities
 - [ ] Decide whether to share information with party
 
 **Current Status:** Slumpet keeping this information secret, considering value to dwarven contacts.

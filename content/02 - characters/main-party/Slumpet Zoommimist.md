@@ -5,8 +5,7 @@ tags:
 date: 2025-04-10
 title: Slumpet Zoommimist
 ---
-
-![slumpet_zoommimist.png](/images/slumpet_zoommimist.png)
+![slumpet.png](/images/slumpet.png)
 
 **Race/Class:** Gnome Rogue  
 

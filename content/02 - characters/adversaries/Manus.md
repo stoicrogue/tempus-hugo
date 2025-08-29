@@ -6,8 +6,11 @@ title: Manus
 created: 2025-04-10
 cssclasses:
   - image-borders
+  - center-images
 ---
 ![image.png](/images/image.png)
+
+![manus.png](/images/manus.png)
 # Manus
 
 **Armor Class** 21 (natural armor)

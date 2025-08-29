@@ -5,7 +5,7 @@ tags:
 date: 2025-04-10
 title: October “Toby” Daye
 ---
-![toby_daye.png](/images/toby_daye.png)
+![toby.png](/images/toby.png)
 
 **Race/Class:** Half-Elf Blood Hunter  
 

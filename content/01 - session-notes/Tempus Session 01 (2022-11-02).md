@@ -8,13 +8,6 @@ author:
   - Mark Molea
 created: 2022-11-02
 ---
-
-
-
-
-
-
-
 ## Characters
 
 - Serenity - Hag disguised as a beautiful singer

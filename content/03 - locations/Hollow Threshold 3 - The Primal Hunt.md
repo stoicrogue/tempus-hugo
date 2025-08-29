@@ -14,19 +14,22 @@ A 50-foot diameter clearing of packed earth surrounded by towering primordial tr
 
 ## ENCOUNTER
 ### **1x Dire Wolf Pack Alpha**
-- CR 2 | AC/DC 14 | HP 45 (36-54) | Atk/Prof +5 | DPR 14 | # Atks 1 | Dmg 14 (2d8 + 5)
-- *Pack Leader:* Allied beasts within 30ft gain +2 to attack rolls. *Howl (Recharge 5-6):* All creatures within 60ft make DC 15 Wis save or be frightened for 1 minute.
+- CR 2 AC/DC 14 HP 45 (34-56) Atk/Prof +6 DPR 17 Atks 2 × 9 (2d6 + 2)
+- *Pack Leader:* Allied beasts within 30ft gain +2 to attack rolls. 
+- *Howl (Recharge 5-6):* All creatures within 60ft make DC 15 Wis save or be frightened for 1 minute.
 
 ### **2x Dire Wolves**
-- CR 1 | AC/DC 14 | HP 37 (30-44) | Atk/Prof +5 | DPR 14 | # Atks 1 | Dmg 14 (2d8 + 5)
-- *Pack Tactics:* Advantage on attacks if ally within 5ft of target. *Pounce:* If moved 20ft+ and hits, target makes DC 15 Str save or knocked prone.
+- CR 1 AC/DC 12 HP 33 (25-41) Atk/Prof +5 DPR 12 Atks 2 × 6 (1d8 + 2)
+- *Pack Tactics:* Advantage on attacks if ally within 5ft of target. 
+- *Pounce:* If moved 20ft+ and hits, target makes DC 15 Str save or knocked prone.
 
 ### **1x Owlbear**
-  - CR 3 | AC/DC 13 | HP 59 (47-71) | Atk/Prof +7 | DPR 22 | # Atks 2 | Dmg 11 (1d10 + 6) + 11 (2d6 + 4)
-  - *Keen Sight and Smell:* Advantage on Perception checks. *Pounce:* If moved 20ft+ and hits with claw, can make beak attack as bonus action.
+- CR 4 AC/DC 14 HP 84 (64-106) Atk/Prof +6 DPR 28 Atks 2 × 14 (3d8 + 1)
+- **_Pounce_** When this creature hits a target with a melee attack after moving 20ft, the target must succeed on a Strength saving throw (DC 15) or be knocked prone.
 
 **Reinforcements (1/6 chance after round 3):** **1d4 Wolves**
-AC/DC 13 | HP 11 (9-13) | Atk/Prof +4 | DPR 7 | # Atks 1 | Dmg 7 (2d4 + 2)
+CR 1/2 AC/DC 12 HP 22 (17-28) Atk/Prof +4 DPR 8 Atks 2 × 4 (1d4 + 2)
+*Pack Tactics:* Advantage on attacks if ally within 5ft of target.
 
 ## COLLAPSE MECHANICS
 **Round 1:** Trees begin to close in. All creatures make DC 15 Dex save or take 2d6 bludgeoning damage from falling branches. Arena size reduces to 40ft diameter.

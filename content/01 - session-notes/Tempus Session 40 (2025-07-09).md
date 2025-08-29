@@ -14,7 +14,7 @@ created: 2025-07-09
 ## 🗺 Scenes
 
 - [x] Explore [[Weaver's Ancestral Home]]
-- [x] Traveling back to [[Elara Sunforge]] to repair [[Summer's Edge]]
+- [x] Traveling back to [[Elara Sunforge]] to repair [[01 - Projects/tempus-campaign/04 - items/Summer's Edge]]
 - [x] Reforge the sword @ Elara's [[Secret Elven Forge]]
 	- [x] Skreek gets some communication from the sword
 - [ ] Slumpet makes contact via thieves cant with an ally
@@ -48,7 +48,7 @@ created: 2025-07-09
 - [Donjon Random Treasure Generator](https://donjon.bin.sh/5e/random/#type=treasure;treasure-cr=4;treasure-loot_type=treasure_hoard)
 - [[Weaver's Journal]]
 - [[leyline-map.jpg]]
-- [[Summer's Edge]]
+- [[01 - Projects/tempus-campaign/04 - items/Summer's Edge]]
 
 ## Session Notes
 
