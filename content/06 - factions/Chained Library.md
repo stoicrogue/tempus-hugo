@@ -49,9 +49,8 @@ The Deep Stacks are the lowest level of the library, a sump of threatening arcan
 Each book is capable of communicating and has its own agenda. The way the book communicates and its agenda can be chosen or rolled on the tables below.  
   
 
-|   |   |
-|---|---|
 |d6|Agenda|
+|-|-|
 |1|Summon a powerful extraplanar entity|
 |2|Reunite with its former master, a powerful wizard or lich|
 |3|Destroy an old enemy and everyone they hold dear|
@@ -59,12 +58,10 @@ Each book is capable of communicating and has its own agenda. The way the book c
 |5|Bring down a kingdom|
 |6|Destroy the Chained Library|
 
-  
-
-|   |   |
-|---|---|
-|01-70|The book communicates by transmitting emotions and images to creatures within 30 feet of it.|
-|71-00|The book can communicate telepathically with any creature that understands a language within 30 feet of it.|
+| d100  | Communication Style                                                                                         |
+| ----- | ----------------------------------------------------------------------------------------------------------- |
+| 01-70 | The book communicates by transmitting emotions and images to creatures within 30 feet of it.                |
+| 71-00 | The book can communicate telepathically with any creature that understands a language within 30 feet of it. |
 
 ## Encountering the Chained Library
 

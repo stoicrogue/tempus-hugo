@@ -6,60 +6,59 @@ tags:
 title: Timeline
 author: Mark Molea
 ---
-## **Phase 1: The Rescue (Days 1-2)**
+## **Phase 1: The Rescue
 
-- **Day 1**: Meet at Raven's Perch, track kidnappers, rescue Winry from tomb
-- **Day 2**: Return to Tannis, get gear from Sig, rest at windmill
+- **Day 1**: Meet at Raven's Perch, track kidnappers
+- Day 2: Rescue Winry from the tomb
+- **Day 3**: Return to Tannis, get gear from Sig, rest at windmill
 
-## **Phase 2: Darkness Falls (Days 3-5)**
+## **Phase 2: Darkness Falls**
 
-- **Day 3**: Darkness hits Tannis, escape through church, meet Arbiter
-- **Day 4**: Travel to Vidrir's grove
-- **Day 5**: Meet Vidrir, learn about Summer's Edge, rest
+- **Day 4**: Darkness hits Tannis, escape through church, meet Arbiter
+- **Day 5**: Travel to Vidrir's grove
+- **Day 6**: Meet Vidrir, learn about Summer's Edge, rest
 
-## **Phase 3: Tracking the Cult (Days 6-9)**
+## **Phase 3: Tracking the Cult**
 
-- **Day 6**: Travel toward silver maple, encounter pixies
-- **Day 7**: Rescue pixies from darklings, find Serenity's cabin
-- **Day 8**: Battle flameskull, encounter charmed Serenity, flee with orb
-- **Day 9**: Return to Vidrir, get Order medallion, meet Francis
+- **Day 7**: Travel toward silver maple, encounter pixies
+- **Day 8**: Rescue pixies from darklings, find Serenity's cabin
+- **Day 9**: Battle flameskull, encounter charmed Serenity, flee with orb
+- **Day 10**: Return to Vidrir, get Order medallion, meet Francis
 
-## **Phase 4: Winter Court (Days 10-15)**
+## **Phase 4: Winter Court**
 
-- **Day 10**: Travel to Winter Court, meet rangers
-- **Day 11**: Arrive at embassy, meet Alora, heal Olivia
-- **Day 12**: Hunt and kill Bandersnatch, get magic items
-- **Day 13**: Investigate Winter leyline temple (with Trius)
-- **Day 14**: Final battle with Serenity, burn cabin
-- **Day 15**: Debrief with Alora, receive teleportation ring
+- **Day 11**: Travel to Winter Court, meet rangers
+- **Day 12**: Arrive at embassy, meet Alora, heal Olivia
+- **Day 13**: Hunt and kill Bandersnatch, get magic items
+- **Day 14**: Investigate Winter leyline temple (with Trius)
+- **Day 15**: Final battle with Serenity, burn cabin
+- **Day 16**: Debrief with Alora, receive teleportation ring
 
-## **Phase 5: Autumn Court (Days 16-19)**
+## Phase 5: Autumn Court
 
-- **Day 16**: Travel to Autumn Court (fey thieves ambush)
-- **Day 17**: Festival, battle Xolthos, meet Ali/Arden
-- **Day 18**: Meet Lord Farkris, investigate Autumn temple
-- **Day 19**: Rest at treant's grove
+- **Day 17**: Travel to Autumn Court (fey thieves ambush)
+- **Day 18**: Festival, battle Xolthos, meet Ali/Arden
+- **Day 19**: Meet Lord Farkris, investigate Autumn temple
+- **Day 20**: Rest at treant's grove
 
-## **Phase 6: Summer Court (Days 20-23)**
+## Phase 6: Summer Court
 
-- **Day 20**: Travel to Summer border, fight cultists at battlefield
-- **Day 21**: Arrive Summer Court, meet Lady Sylvia, attune ring
-- **Day 22**: Investigate breached Summer temple, encounter Manus
-- **Day 23**: Meet Elara, plan Feywild expedition
+- **Day 21**: Travel to Summer border, fight cultists at battlefield
+- **Day 22**: Arrive Summer Court, meet Lady Sylvia, attune ring
+- **Day 23**: Investigate breached Summer temple, encounter Manus
+- **Day 24**: Meet Elara, plan Feywild expedition
 
-## **Phase 7: Feywild Adventure (Days 24-47)**
+## Phase 7: Feywild Adventure
 
-- **Day 24**: Shop, Blackbird contract night 1, travel to Starfall Crater
-- **Day 25**: Fight celestial guardians, get ore, contract night 2
-- **Day 26**: Travel to Shimmering Glade, contract night 3, enter Feywild
-- **Days 27-?**: Feywild time (mountain, castle, loom chamber, throne room)
-- **Day 47**: Return to Material Plane (3 weeks later), reforge Summer's Edge
+- **Day 25**: Shop, Blackbird contract night 1, travel to Starfall Crater
+- **Day 26**: Fight celestial guardians, get ore, contract night 2
+- **Day 27**: Travel to Shimmering Glade, contract night 3, enter Feywild
+- **Day 28:** Capture the first kiss of the midday sun and Manus encounter
+- **Day 29:** Weaver's ancestral home
 
-## **Total Estimated Time: ~7 weeks**
+## Phase 8: Summer's Edge and the Spring Court
 
-**Notes for Adjustment:**
-
-- Travel times will depend on distances in your world
-- The "3 weeks" in the Feywild could represent any amount of Feywild time
-- You might want to add extra rest days at major locations
-- Some events might happen on the same day rather than consecutive days
+- **Day 30:** Return to the summer court, reforge summer's edge (feywild timeskip)
+- **Day 31:** Journey to Spring Court, close Hollow Threshold, meet Vael
+- **Day 32:** Arrive at Spring Court
+- 
