@@ -60,5 +60,5 @@ author: Mark Molea
 
 - **Day 30:** Return to the summer court, reforge summer's edge (feywild timeskip)
 - **Day 31:** Journey to Spring Court, close Hollow Threshold, meet Vael
-- **Day 32:** Arrive at Spring Court
-- 
+- **Day 32:** Arrive at Spring Court, meet Faela Mossheart, rest at the Moonlit Hearth tavern
+- **Day 33:** Travel to the Spring Leyline Temple, investigate corruption, fight Bodak and other undead, find note from Manus detailing the Cult’s endgame

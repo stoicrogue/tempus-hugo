@@ -3,10 +3,13 @@ date: 2025-09-02
 tags:
   - characters
   - allies
-title: Seraphine Moonglow
+title: Seraphina Moonglow
 author: Mark Molea
+cssclasses:
+  - center-images
+  - image-borders
 ---
-Seraphina Moonglow, a half-elf mystic, owner of the [[Moonlit Hearth]]
+Seraphina Moonglow, a half-elf mystic, owner of the [[Moonlit Hearth]] tavern in the [[Spring Court]].
 
 ![Seraphina_Moonglow.png](/images/Seraphina_Moonglow.png)
 
@@ -77,7 +80,7 @@ Seraphina Moonglow, a half-elf mystic, owner of the [[Moonlit Hearth]]
 - **Hostile NPC enters:** she steps in front of the Hearth; blue flame bends into a crescent. “Not here.”
 - **Short on coin:** “Moon Tokens spend as well as gold. A song, a story, or a promise kept.”
 
-## One-liners you can drop in anytime
+## One-liners
 
 - “Tea is how water remembers a plant.”
 - “You’ve been walking in winter inside your ribs.”
