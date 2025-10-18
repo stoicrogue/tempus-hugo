@@ -53,12 +53,14 @@ author: Mark Molea
 - **Day 25**: Shop, Blackbird contract night 1, travel to Starfall Crater
 - **Day 26**: Fight celestial guardians, get ore, contract night 2
 - **Day 27**: Travel to Shimmering Glade, contract night 3, enter Feywild
-- **Day 28:** Capture the first kiss of the midday sun and Manus encounter
-- **Day 29:** Weaver's ancestral home
+- **Day 28:** Join a feast at the Satyr camp
+- **Day 29:** Capture the first kiss of the midday sun and Manus encounter
+- **Day 30:** Weaver's ancestral home
 
 ## Phase 8: Summer's Edge and the Spring Court
 
-- **Day 30:** Return to the summer court, reforge summer's edge (feywild timeskip)
-- **Day 31:** Journey to Spring Court, close Hollow Threshold, meet Vael
-- **Day 32:** Arrive at Spring Court, meet Faela Mossheart, rest at the Moonlit Hearth tavern
-- **Day 33:** Travel to the Spring Leyline Temple, investigate corruption, fight Bodak and other undead, find note from Manus detailing the Cult’s endgame
+- **Day 31:** Return to the summer court, reforge summer's edge (feywild timeskip)
+- **Day 32:** Journey to Spring Court, close Hollow Threshold, meet Vael
+- **Day 33:** Arrive at Spring Court, meet Faela Mossheart, rest at the Moonlit Hearth tavern
+- **Day 34:** Travel to the Spring Leyline Temple, investigate corruption, fight Bodak and other undead, find note from Manus detailing the Cult’s endgame
+- **Day 35:** 

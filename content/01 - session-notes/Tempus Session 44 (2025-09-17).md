@@ -14,10 +14,10 @@ created: 2025-09-17
 
 ## 🔑 Secrets & Clues 
 
-- [ ] Cult of the Eclipse placed a [[Bodak]] inside the leyline crystal chamber of the Spring Temple, causing disruption to the barrier in the area.
-- [ ] Mocking note from Manus hidden in Bodak's robes: [[Bodak Note]]
+- [x] Cult of the Eclipse placed a [[Bodak]] inside the leyline crystal chamber of the Spring Temple, causing disruption to the barrier in the area.
+- [x] Mocking note from Manus hidden in Bodak's robes: [[Bodak Note]]
 - [ ] Skreek's royal egg is being used as a Hollow Threshold anchor for a plane of air themed threshold.
-- [ ] The Ashen Shrine is a location where the Chained Library can be accessed - north side of **Mount Vesithar**
+- [ ] The Ashen Shrine is a location where the [[Chained Library]] can be accessed - north side of **Mount Vesithar**
 
 
 ## 🗡 Monsters (Spring Temple)
@@ -56,35 +56,9 @@ created: 2025-09-17
 - [Oil of Etherealness](https://rpg.zennotes.net/lazy_gm_tools/5e_artisanal_database/magic_items/html/5.1_srd_\(d&d_2014\)/oil-of-etherealness.html) => [Etherealness spell](https://rpg.zennotes.net/lazy_gm_tools/5e_artisanal_database/spells/html/5.2_srd_(d&d_2024)/etherealness.html) , [Potion of Healing](https://rpg.zennotes.net/lazy_gm_tools/5e_artisanal_database/magic_items/html/5.1_srd_\(d&d_2014\)/potion-of-healing.html) (Superior)
 - Figurine of caged bird that casts [Private Sanctum](https://rpg.zennotes.net/lazy_gm_tools/5e_artisanal_database/spells/html/5.2_srd_\(d&d_2024\)/private-sanctum.html) once (4th level, DC 15, +7 Spell Attack)
 
-## Chained Library Access
-
-### The Ashen Shrine
-
-> “There are sanctioned gates. Places written in the margins of the world. The Ashen Shrine is one such place—a whisper of a path left open for those who do not wear the chains but have earned the Library’s regard. You would not have found it unless you were already being watched.” 
-> *- Vael, Fifth Binder and Chainbearer of the Silent Vault*
-
-- Atop a moss-laced clearing at the base of **Mount Vesithar**, surrounded by scorched trees that have since regrown with silver-veined bark. Faint leyline currents hum in the air.
-- Half-buried in volcanic stone and time, the shrine is circular, with four broken plinths in a compass-like pattern—one for each season.
-- Vines and ash cover its etched walls, which depict ancient Elven rites that predate the Courts themselves.
-- In the center lies a flat, star-shaped platform with an **indentation shaped like a sword’s blade**—not a full socket, but more of a ceremonial resting groove.
-	- When the reforged **Summer’s Edge** is laid in the groove, the shrine **awakens**—but not with magic alone.
-	- **A pulse of radiant warmth ripples outward**, and the sword begins to hum with an ancient chord of sunlight. The ash lifts into the air like it’s remembering the heat of the forge. Faint **whispers in Elvish** echo between the plinths, saying: _"He returns. The Blade of Light. The Guardian’s Promise.  We remember. We recognize. We release."_
-- The plinths, responding to Summer’s Edge, glow faintly with their respective seasonal hues—even if the party hasn’t gathered all tokens. **The sword’s presence alone serves as proof of purpose.**
-- Then, with a deep grinding of earth and an exhale of long-trapped air, the star-shaped dais begins to descend—slowly, reverently—on a **platform of interlocking roots, obsidian, and starlight.**
-
-### The Hollow Veins
-
-- A vast underground chamber where magma once flowed but now pulses with planar magic and leyline energy.
-- A **soulwrought bridge** (a bridge formed by sacrifice or memory) must be constructed to reach the sealed library doors.
-- Echoes of failed seekers (spirits or memories) whisper warnings here.
-
-### Final Seal: The Library’s Chains
-
-- A massive **adamantine seal etched with runes and chains of radiant and shadow magic**.
-- Cannot be opened by force or conventional magic.
-- **Vael** offers the key—a phrase, ritual, or relic known only to the Chained Library’s agents.
-- The seal unbinds in **reversed time**, as if the chains were never placed—revealing a **spiral stair descending into black mist**.
-
 # 📝 Session Notes
 
-- 
+- Defeated the Bodak encounter
+- Found note from Manus detailing the Weaver’s plan to execute his ritual at the next new moon (~10 days time) → [[Bodak Note]] 
+- Went back to the Spring court and rested.
+- Planned to meet [[Vael]] in the morning to travel to the entrance to the [[Chained Library]]
