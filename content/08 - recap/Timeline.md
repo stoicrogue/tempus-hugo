@@ -63,4 +63,5 @@ author: Mark Molea
 - **Day 32:** Journey to Spring Court, close Hollow Threshold, meet Vael
 - **Day 33:** Arrive at Spring Court, meet Faela Mossheart, rest at the Moonlit Hearth tavern
 - **Day 34:** Travel to the Spring Leyline Temple, investigate corruption, fight Bodak and other undead, find note from Manus detailing the Cult’s endgame
-- **Day 35:** 
+- **Day 35**: Journey to the Chained Library, learn critical information about repairing the barrier and discover Vidrir's true identity as the Knight of Ravens and leader of the Order of Seasons.
+- **Day 36:** Visit Vidrir to debrief about Summer’s Edge and Nidhogg

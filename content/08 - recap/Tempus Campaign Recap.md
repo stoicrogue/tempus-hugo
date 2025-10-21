@@ -397,3 +397,81 @@ created: 2023-07-16
 - As they caught their breath, a cloaked stranger emerged—**Vael, Fifth Binder, Chainbearer of the Silent Vault**. He revealed he was investigating these unstable portals, which he called **Hollow Thresholds**. Created by the **Cult of the Eclipse** using planar artifacts, they were “surgical incisions” weakening the Elven barrier by siphoning leyline power.
 - Skreek guessed correctly that Vael was tied to the **Chained Library**. Vael admitted as much and offered to lead them to the Library in exchange for dangerous artifacts: Serenity’s orb and the newly recovered fang. A compromise was struck: the party gave him the fang now and promised to relinquish the orb upon reaching the Library’s entrance.
 - After healing, the party continued to the **giant birch tree** marking Spring Court territory. Slumpet attuned the Leyline Gate Ring at the nearby standing stone. They made camp beneath the tree, resting before completing their journey into Spring lands.
+
+## 🌸 _Welcome to the Spring Court_
+
+- **Vael guided the party** toward the Spring Court, describing it as a realm of **renewal, new beginnings, and acceptance**. He suggested visiting the **Moonlit Hearth tavern** to sample the legendary tea.
+- The Spring Court is led by **Faela Mossheart**, the High Druid, known for her deep connection to nature and the cycles of growth.
+- At the **Moonlit Hearth**, the party met **Seraphina Moonglow**, the proprietor:
+    - Shadâ€™s allergies flared up upon arrival, but Seraphina brewed him a **cleansing tea** that cured them completely.
+    - Toby traded a moonstone for drinks, impressing Seraphina with fruit wine and tea for the group.
+    - Skreek requested an **augury** and asked: _"Will I find the royal artifact stolen from my people?"_ Seraphina's answer: **"You will have that chance soon."**
+- The party located the **standing stone in the royal garden** behind the High Druid's residence. Slumpet climbed it and **attuned the Leyline Gate Ring**.
+- A guard escorted them to meet **Faela Mossheart**, who admitted she hadnâ€™t checked the Spring Leyline Temple recently but had noticed **strange disturbances in the forest**.
+- Faela offered to escort them to the temple in the morning. **Vael** departed to investigate the forest independently.
+- The party did some shopping (**Skreek bought a cloak of billowing**) and rested at the Moonlit Hearth.
+
+## 🌿 _The Withering Temple_
+
+- The next morning, **Skreek summoned a warhorse** instead of his usual camel. The party met Faela in the garden and set out for the temple.
+- The journey was surreal: the forest **opened a path wherever Faela walked**, and **wildflowers bloomed in her footsteps**.
+- When the party teased Faela about needing protection due to her age, she **wildshape into a sabertooth tiger** and continued through the forest without missing a beat.
+- Upon arrival, they found the forest around the temple **withering and corrupted**, a stark contrast to the vibrant Spring Court.
+- Faela asked each party member to **plant a magical seed** as a personal vow:
+    - **Shad**: _"Make the world better through music."_
+    - **Skreek**: _"Restore order by retrieving the stolen artifact of my people."_
+    - **Toby**: _"With this seed I do plant, may my bitterness wane. In the future, it shall grant, my companions and I less pain."_
+    - **Slumpet**: _"The dwarves will get what's coming to them."_
+- The seeds **sprouted into beautiful flowers immediately**â€"the only healthy growth near the corrupted temple.
+- The temple itself was a **massive willow tree** that had grown around the entrance. Winding passages led them deep underground to the **leyline crystal chamber**.
+
+## ⚔️ _Corruption and Undeath_
+
+- As soon as the party entered the chamber, they were **struck by necrotic damage** from an unseen source and quickly retreated.
+- Slumpet fetched **Faela** for assistance. Upon re-entering, **Skreek spotted a hooded figure**â€"locking eyes with it caused more necrotic damage.
+- The figure was revealed to be a **Bodak**, accompanied by **two wraiths and several shadows**.
+- The battle was brutal:
+    - The Bodak's **death gaze** dealt ongoing necrotic damage
+    - The undead **phased through walls and players**, making them difficult to target
+    - **Faela focused on healing** while the party fought
+- After a hard-won victory, **Slumpet found a note** sewn into the Bodak's robes, written by **Manus**:
+    - The undead were placed as a **test for the party**
+    - The Cult of the Eclipse was **frustrated by the party's continued success**
+    - They were **accelerating their timeline**: instead of waiting for the **winter solstice**, they would perform the **final ritual on the next new moon** (~10 days away)
+    - Manus hinted that the party was becoming **more interesting than the Weaver** and hoped they would attempt to stop the ritual at the **ancient battlefield where Nidhogg was sealed**
+- The party also found **gold and a vial of Oil of Etherealness**â€"likely how Manus snuck the Bodak into the chamber.
+- **Faela confirmed** the Bodak was the source of the corruption affecting the forest. She escorted the party back to the Spring Court.
+- The party took a **long rest** and prepared to journey with **Vael** to the **Chained Library entrance** the next morning, seeking answers about repairing the Elven barrier.
+
+## 📚 _The Ashen Shrine and the Chained Library_
+
+- Before departing, **Slumpet revealed** a secret: he had stolen a **leyline map** from the Weaver's study, showing:
+    - The locations of **leylines throughout the Elven forest**
+    - The **four seasonal leyline temples**
+    - **Four Hollow Threshold locations** (the planar rifts created by the Cult)
+- **Vael** advised the party that a **Hollow Threshold tied to the elemental plane of air** was open to the west, within **Winter Court territory**.
+- Vael led them to the **Ashen Shrine**, located at the base of **Mount Vesithar**â€"the entrance to the Chained Library.
+    - _"There are sanctioned gates. Places written in the margins of the world. The Ashen Shrine is one such placeâ€"a whisper of a path left open for those who do not wear the chains but have earned the Library's regard. You would not have found it unless you had already plucked the threads of fate."_ â€" Vael
+- **Summer's Edge** was used as a **"key"** to activate the shrine, revealing an **elevator that descended deep beneath the mountain**.
+- In the chamber below, a **chasm separated them from massive locked doors**. To prove their resolve, each party member made a **vow and sacrifice**:
+    - **Toby**: blood
+    - **Shad**: an original song
+    - **Skreek**: a prayer and promise
+    - **Slumpet**: his thieves' tools
+- As they completed their sacrifices, a **bridge formed across the chasm** and the doors unlocked.
+- Vael approached the chained entrance, spoke **an ancient elven phrase**, and the chains retracted, revealing the Library.
+
+## 👁️ _The Silent Vault_
+
+- Inside, the party was met by **Samaris**, the **head librarian**, a black-skinned tiefling who was deeply suspicious of outsiders.
+- She questioned the party about their intentions. **Vael's endorsement** and the party's willingness to surrender **Serenity's Orb** helped earn a small measure of trust.
+- Samaris insisted the party be **marked by the Eyeless Guardians**, **blind celestials** who watch over the Library, so they could be tracked during their visit.
+- **Slumpet** used the Library's **card catalogue** to locate a book about the **Elven barrier**:
+    - On his way to retrieve it, another tome **spoke to him telepathically**, offering to help. **Slumpet wisely ignored it**
+    - He learned that the barrier **can be repaired**, but it would take **several mages a month or more** to perform the full ritual
+- **Toby** used her **blood magic** to locate a tome about **crystals**:
+    - She discovered a location **south of the Elven forest** where the crystals used in the barrier's construction could be **mined**
+- **Shad** used the card catalogue to find a book about the **Order of Seasons**:
+    - He learned that **Vidrir once led the Order** and is **over 300 years old**
+    - In fact, Vidrir was **the Knight of Ravens himself**!
+- With critical information in hand, the party departed the Library, now armed with knowledge about how to repair the barrier and stop the Cult's final ritual.
