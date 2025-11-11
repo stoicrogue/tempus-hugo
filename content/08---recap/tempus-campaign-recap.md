@@ -13,7 +13,7 @@ created: 2023-07-16
 - **The party meets in the Raven’s Perch Tavern** in the quiet village of Tannis and is introduced to key NPCs: Lerissa (retired adventurer), Serenity (mysterious singer), Hurmur (dwarven archaeologist), and Jax (Night Talons thief).    
 - **Blacksmith Sig Rockwell bursts in**, begging for help to rescue his kidnapped daughter, Winry. He offers his finest work as payment.
 
-## 🛡️ _Quest: Rescue the Blacksmith’s Daughter_
+## 🛡️ _Rescue the Blacksmith’s Daughter_
 
 - **Tracked the captors north**, crossing into the enchanted Elven forest and finding a strange **obsidian standing stone** with a vision of landmarks to the NW and SE.
 - Discovered an **ancient tomb of the Order of Seasons**, a knightly group sworn to fight darkness.
@@ -36,7 +36,7 @@ created: 2023-07-16
 - The Arbiter **destroyed remaining shadows** in the village but maintained the barrier until the source of the corruption could be found.
 - **Skreek claimed a +1 Shield of the Dusk Lord** from the crypt.
 
-## 🌿 _Journey to the Sage, Vidrir_
+## 🌿 _Journey to the Sage_
 
 - **Used the Arbiter’s holy mark** to leave Tannis and travel through the Shimmerwood.
 - **Met the sage Vidrir**, a friendly ally of Lerissa with mysterious insight and purple-winged raven familiars.
@@ -443,7 +443,7 @@ created: 2023-07-16
 - **Faela confirmed** the Bodak was the source of the corruption affecting the forest. She escorted the party back to the Spring Court.
 - The party took a **long rest** and prepared to journey with **Vael** to the **Chained Library entrance** the next morning, seeking answers about repairing the Elven barrier.
 
-## 📚 _The Ashen Shrine and the Chained Library_
+## ⛰️ _The Ashen Shrine_
 
 - Before departing, **Slumpet revealed** a secret: he had stolen a **leyline map** from the Weaver's study, showing:
     - The locations of **leylines throughout the Elven forest**
@@ -461,9 +461,9 @@ created: 2023-07-16
 - As they completed their sacrifices, a **bridge formed across the chasm** and the doors unlocked.
 - Vael approached the chained entrance, spoke **an ancient elven phrase**, and the chains retracted, revealing the Library.
 
-## 👁️ _The Silent Vault_
+## ⛓️ _Chained Library_
 
-- Inside, the party was met by **Samaris**, the **head librarian**, a black-skinned tiefling who was deeply suspicious of outsiders.
+- Inside the Chained Library, the party was met by **Samaris**, the **head librarian**, a black-skinned tiefling who was deeply suspicious of outsiders.
 - She questioned the party about their intentions. **Vael's endorsement** and the party's willingness to surrender **Serenity's Orb** helped earn a small measure of trust.
 - Samaris insisted the party be **marked by the Eyeless Guardians**, **blind celestials** who watch over the Library, so they could be tracked during their visit.
 - **Slumpet** used the Library's **card catalogue** to locate a book about the **Elven barrier**:
