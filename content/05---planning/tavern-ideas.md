@@ -9,7 +9,7 @@ Last Edited: 2025-02-05T13:36
 1. The Gilded Tankard - Roderick Hammerfist, a retired dwarven merchant
 2. Whistling Wyvern - Elara Nightwind, an elven former adventurer
 3. Broken Barrel - Gus Barrelton, a portly human brewer
-4. Moonlit Hearth - Seraphina Moonglow, a half-elf mystic
+4. ✅ Moonlit Hearth - Seraphina Moonglow, a half-elf mystic
 5. Rusty Anchor - Captain Marcus Drake, a weathered human sailor
 6. Copper Dragon's Den - Thorna Copperscale, a dragonborn trader
 7. Laughing Rogue - Finn O'Malley, a charismatic human rogue
