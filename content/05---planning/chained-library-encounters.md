@@ -1,6 +1,6 @@
 ---
-date: 2025-10-12
 tags: []
+date: 2025-10-12
 title: Chained Library Encounters
 author: Mark Molea
 ---

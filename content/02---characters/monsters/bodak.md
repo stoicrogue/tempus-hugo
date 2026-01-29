@@ -1,9 +1,9 @@
 ---
-date: 2025-08-29
 tags:
   - monsters
   - adversaries
   - character
+date: 2025-08-29
 title: Bodak
 author: Mark Molea
 cssclasses:

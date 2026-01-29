@@ -1,8 +1,8 @@
 ---
-date: 2025-08-06
 tags: []
-title: ""
-author: "Mark Molea"
+date: 2025-08-06
+title: Rift Warden
+author: Mark Molea
 ---
 > [!tip] Rift Warden 
 > The Warden of the Rift is a role born out of necessity—someone who must remain at the fracture point between the Shadowfell and the Material Plane to ensure the seal holds. It’s not a title anyone seeks, but one that's accepted in a moment of profound sacrifice.

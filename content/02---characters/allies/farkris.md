@@ -7,7 +7,7 @@ date: 2025-04-10
 title: Farkris
 created: 2025-04-10
 Last Edited: 2024-10-27T15:02
-cssclasses:
+cssclasses: []
 ---
 ![farkris.png](/images/farkris.png)
 

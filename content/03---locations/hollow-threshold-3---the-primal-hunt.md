@@ -1,3 +1,12 @@
+---
+tags:
+  - 03 - locations
+  - tempus
+date: 2026-01-28
+title: Hollow Threshold 3 - The Primal Hunt
+author:
+  - Mark Molea
+---
 # HOLLOW THRESHOLD 3: THE PRIMAL HUNT
 
 A 50-foot diameter clearing of packed earth surrounded by towering primordial trees. Ancient stone cairns (10ft tall, 3ft wide) mark the cardinal directions, each carved with bestial totems. Thick roots create natural barriers and elevated platforms throughout the space. The **Bloodfang Talisman** rests atop a moss-covered altar at the center, pulsing with primal energy. A stone archway portal leads to the Material Plane (south), while a living tree-portal writhes with wild energy from the Beastlands (north).

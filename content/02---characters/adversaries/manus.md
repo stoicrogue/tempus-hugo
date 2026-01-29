@@ -9,8 +9,6 @@ cssclasses:
   - center-images
 ---
 ![image.png](/images/image.png)
-
-![manus.png](/images/manus.png)
 # Manus
 
 **Armor Class** 21 (natural armor)

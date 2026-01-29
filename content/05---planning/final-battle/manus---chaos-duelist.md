@@ -1,0 +1,143 @@
+---
+tags:
+  - tempus
+  - characters
+  - adversaries
+date: 2025-08-24
+title: Manus, the Chaos Duelist
+author: Mark Molea
+---
+# Manus, the Chaos Duelist
+*Medium humanoid (variant human), chaotic neutral*
+
+**Armor Class** 19 (Natural Armor)  
+**Hit Points** 285 (30d10 + 120)  
+DPR: 69 (2d8 + 7) + (2d6)
+**Speed** 50 ft.  
+**Challenge** 11 (7,200 XP)  
+**Proficiency Bonus** +4
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 12 (+1) | 24 (+7) | 18 (+4) | 18 (+4) | 16 (+3) | 22 (+6) |
+
+**Saving Throws** Dex +11, Con +8, Wis +7, Cha +10  
+**Skills** Acrobatics +11, Deception +10, Insight +7, Intimidation +10, Performance +10  
+**Condition Immunities** Frightened, Grappled, Restrained  
+**Damage Resistances** Fire, Cold, Lightning, Poison  
+**Senses** Darkvision 120 ft., Passive Perception 13  
+**Languages** Common, Draconic, Infernal
+
+---
+
+## Features
+
+**Advanced Shapechanger.** As a bonus action, Manus can alter his appearance, including size, race, and basic physical features. His statistics don't change.
+
+**Elemental Weapons.** As a bonus action, Manus can conjure elemental weapons (fire, cold, lightning, or poison damage). He can create two blades or one bow, switching between them as a bonus action.
+
+**Evasion.** When subjected to an effect requiring a Dex save for half damage, takes no damage on success, half on failure.
+
+**One With Darkness.** Can see normally in all darkness within 120 ft., and dim light beyond that up to 300 ft.
+
+**Shadow Passage.** As a bonus action in dim light or darkness, teleport up to 60 ft. to another area of dim light or darkness.
+
+**Spellcasting.** 12th-level spellcaster, save DC 18, +11 to hit.  
+**Spell Slots:** 1st(4), 2nd(3), 3rd(3), 4th(3), 5th(2), 6th(1)
+
+**Known Spells:**
+- **Cantrips:** *mage hand, minor illusion, prestidigitation, ray of frost, chill touch*
+- **1st:** *detect magic, disguise self, shield*
+- **2nd:** *darkness, invisibility, misty step, silence*  
+- **3rd:** *counterspell, dispel magic*
+- **4th:** *dimension door*
+- **5th:** *passwall*
+
+---
+
+## Actions
+
+**Multiattack.** Manus makes three elemental weapon attacks or two ranged attacks.
+
+**Elemental Blade.** *Melee Weapon Attack:* +11 to hit, reach 5 ft., one target.  
+*Hit:* 16 (2d8 + 7) slashing + 7 (2d6) elemental damage (fire, cold, lightning, or poison).
+
+**Elemental Bow.** *Ranged Weapon Attack:* +11 to hit, range 150/450 ft., one target.  
+*Hit:* 14 (2d6 + 7) piercing + 7 (2d6) elemental damage.
+
+**Taunting Challenge (1/Day).** Target within 60 ft. must make DC 18 Wisdom save or be compelled to attack Manus with disadvantage on attacks against other targets for 1 minute. Save ends effect.
+
+**Conjure Shadow Self (Recharge 5–6).** Manus has become one with darkness and has mastered the ability to transfer his life into it. **At the start of Manus’s turn**, if this ability isn’t available, roll a d6. On a **5–6**, the ability recharges. **When available**, Manus conjures **up to two** shadow copies of himself in unoccupied spaces within 60 feet. **Manus can have at most 4 shadow copies at a time**; if he conjures beyond this limit, he chooses which existing copies collapse into shadow.
+
+- To create a shadow copy, Manus must sacrifice 45 of his remaining hit points, giving those HP to the shadow copy.
+- These copies are indistinguishable from how Manus appears currently and are capable of anything Manus is capable of doing except cast spells or use Conjure Shadow Self.
+- Manus’ original body and any shadow copies he currently controls are also allowed to swap places within that 60 feet. 
+- Manus can have a maximum of four shadow copies active at any given time. 
+- Shadow copies use Manus’ stats for any checks or saving throws.
+- Manus cannot drop to 0 hit points or below by using this ability. These clones stay active so long as Manus is conscious.
+- To command these shadow copies, Manus must use a legendary action. The shadow copies then use that legendary action to take a full turn (action, bonus action, movement, reaction, etc.). *Clones can’t use reactions other than opportunity attacks*
+
+**Spellcasting.** His spellcasting ability is Charisma (spell save DC 18, +11 to hit with spell attacks).
+
+- **Cantrips (at will):** mage hand, minor illusion, prestidigitation, ray of frost, chill touch
+- **1st level (5 slots):** _detect magic, disguise self, shield
+- **2nd level (4 slots):** _darkness, invisibility, misty step, silence_
+- **3rd level (4 slots):** _counterspell, dispel magic_
+- **4th level (3 slots):** _dimension door_
+- **5th level (2 slots):** _passwall_
+
+---
+
+## Bonus Actions
+
+- **Shadow Passage.** Teleport up to 60 ft. (dim light/darkness only).
+- \**Weapon Swap.** Change between elemental blades and bow.
+- **Combat Flourish.** After hitting with a weapon attack, can push target 10 ft. or knock prone (target's choice).
+
+---
+
+## Reactions
+
+- **Parry and Riposte.** When hit by a melee attack, +4 AC against that attack. If it misses, make one weapon attack against the attacker.
+- **Spell Turning.** When targeted by a spell of 3rd level or lower, make DC 15 Charisma save. On success, Manus redirects the spell to a new target of his choosing.
+
+---
+
+## Legendary Actions (3 per turn)
+
+- **Move.** Manus moves his speed without provoking opportunity attacks.
+- **Attack.** Makes one weapon attack.  
+- **Shadow Step (Costs 2).** Uses Shadow Passage and makes one attack.
+- **Command Shadow Copy.** Manus mentally commands a shadow copy to take a full turn.
+
+---
+
+## Encounter-Specific Behavior
+
+- **Opening Rounds:** Manus creates 1-2 shadow copies and positions them tactically. Uses hit-and-run tactics, testing the party's abilities.
+- **Mid-Combat:** Becomes more aggressive as he realizes the party's strength. Uses *Taunting Challenge* to isolate strong fighters.
+- **Late Combat:** If the Weaver is in serious trouble OR if Nidhogg's emergence threatens reality itself, Manus may switch sides, shouting something like "This isn't the fight I wanted!" 
+- **Defeat Condition:** If reduced to 25% HP, Manus may attempt to flee via *dimension door*, respecting the party's strength.
+
+---
+
+## Tactical Notes
+
+- **Primary Role:** Divide party attention, control battlefield positioning
+- **Secondary Threat:** Dangerous but not overwhelming while Weaver is active
+- **Character Arc:** May betray Weaver if ritual goes too far
+- **Escape Route:** Has multiple mobility options, doesn't fight to the death
+
+---
+
+## Scaling Notes
+
+**If Encounter Too Easy:** 
+- Manus creates maximum shadow copies
+- Uses higher-level spell slots more freely
+- Shadow copies gain +25 HP
+
+**If Encounter Too Hard:**
+- Manus focuses on one party member (his "chosen opponent")
+- Reduces shadow copy creation
+- May spend rounds taunting rather than attacking

@@ -109,6 +109,7 @@ def convert_vault(vault_dir: Path, content_dir: Path, clean=False):
     index = build_note_index(vault_dir)
     for src in vault_dir.rglob('*.md'):
         rel = src.relative_to(vault_dir)
+        print(f"Processing: {rel}")
         out_parts = [slugify(p) for p in rel.parts[:-1]] + [slugify(src.stem) + '.md']
         dst = content_dir.joinpath(*out_parts)
         dst.parent.mkdir(parents=True, exist_ok=True)

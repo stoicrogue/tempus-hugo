@@ -8,14 +8,6 @@ author:
   - Mark Molea
 created: 2025-06-25
 ---
-
-
-
-
-
-
-
-
 #### Characters
 
 | Name                    | P. Pcpt | P. Inv | P. Ins | Max HP |

@@ -1,8 +1,8 @@
 ---
-date: 2025-09-02
 tags:
   - characters
   - allies
+date: 2025-09-02
 title: Seraphina Moonglow
 author: Mark Molea
 cssclasses:

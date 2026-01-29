@@ -8,14 +8,6 @@ author:
   - Mark Molea
 created: 2025-04-30
 ---
-
-
-
-
-
-
-
-
 # Strong Start
 
 - Duel Manus in the golden light of the Feywild

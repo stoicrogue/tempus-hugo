@@ -20,14 +20,14 @@ And descend it did.
 
 What they discovered changed everything. The cult sought to corrupt the **leyline temples of the Fey Courts**—ancient structures maintaining the barrier between worlds. If the barrier fell, the dragon **Nidhogg** would be freed from the Shadowfell, and eternal darkness would reign.
 
-**Across the four Courts they traveled**, earning the trust of fey nobility. In Winter, they hunted a Bandersnatch and defeated **Serenity**—a night hag agent of the cult who had been posing as a tavern singer. In Autumn, they faced the demon Xolthos at a harvest festival. In Summer, they encountered **Manus**, an enigmatic figure who mocks seemingly everyone, including the Weaver despite his cult affiliation.
+**Across the four Courts they traveled**, earning the trust of fey nobility. In Winter, they hunted a Bandersnatch and defeated **Serenity**—a night hag agent of the cult who had been posing as a tavern singer. In Autumn, they faced the dragonborn sorcerer Xolthos at a harvest festival. In Summer, they encountered **Manus**, an enigmatic figure who mocks seemingly everyone, including the Weaver despite his cult affiliation.
 
-To reforge **Summer's Edge**—a legendary blade of the Order of Seasons—the heroes journeyed deep into the Feywild to secure celestial ore and capture the first kiss of the midday sun. But time flows differently in that realm. While only days passed for them, weeks slipped by in the material plane.
+To reforge **Summer's Edge**—a legendary blade of the Order of Seasons—the heroes journeyed to acquire celestial ore and dive deep into the Feywild to capture the first kiss of the midday sun. But time flows differently in that realm. While only days passed for them, weeks slipped by in the material plane.
 
-**The cult seized their absence.** Orchestrated by **the Weaver**—a shadowy master of illusion serving the mysterious Lady of the Eclipse—cultists opened **Hollow Thresholds** across the realm: tears in reality where darkness bled through. By the time the party returned, the Spring temple had been corrupted. The heroes raced to the **Chained Library**, an ancient repository of forbidden knowledge, where they learned the terrible truth: Vidrir himself was the **Knight of Ravens**, the last survivor of the Order of Seasons, and he had been fighting this war for centuries.
+**The cult seized their absence.** Orchestrated by **the Weaver**, a shadowy master of illusion and leader of the Cult of the Eclipse, cultists opened **Hollow Thresholds** across the realm: tears in reality where darkness bled through. By the time the party returned, the Spring temple had been corrupted. The heroes raced to the **Chained Library**, an ancient repository of forbidden knowledge, where they learned the terrible truth: Vidrir himself was the **Knight of Ravens**, the last survivor of the Order of Seasons, and he had been fighting this war for centuries.
 
 Now the final confrontation looms. The Weaver prepares his ultimate ritual, seeking to tear open a portal and unleash Nidhogg upon the world. The heroes stand between civilization and annihilation, bearing a reforged blade and the hopes of two realms.
 
 **Thirty-six days.** Four Courts. One legendary weapon. And the fate of all existence hanging in the balance.
 
-The question is no longer whether darkness will come—but whether the light can hold.
+The question is no longer whether darkness will come, but whether the light can hold.

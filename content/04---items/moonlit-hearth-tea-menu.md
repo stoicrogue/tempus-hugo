@@ -1,3 +1,12 @@
+---
+tags:
+  - 04 - items
+  - tempus
+date: 2026-01-28
+title: Moonlit Hearth Tea Menu
+author:
+  - Mark Molea
+---
 _Only one potent tea per guest between long rests. Effects last 1 hour unless noted. Teas don’t stack with themselves._
 
 - **Moon’s Rest** – velvety lavender & oat.  

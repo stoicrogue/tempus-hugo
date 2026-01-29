@@ -1,6 +1,6 @@
 ---
-date: 2025-10-15
 tags: []
+date: 2025-10-15
 title: Session 45 Intro
 author: Mark Molea
 ---

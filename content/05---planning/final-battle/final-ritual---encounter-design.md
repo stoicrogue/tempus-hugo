@@ -1,15 +1,12 @@
 ---
 tags:
-  - characters
   - tempus
 date: 2025-08-24
-title: Weaver - Stat Block
+title: Final Ritual - Encounter Design
 author:
   - Mark Molea
 created: 2025-08-24
 ---
-# The Weaver's Final Ritual - Encounter Design
-
 ## Encounter Overview
 **Location:** The Ancient Sealing Grounds (where Nidhogg was originally imprisoned)  
 **Party Level:** 13  

@@ -14,9 +14,9 @@ author: Mark Molea
 
 ## 🔑 Secrets & Clues
 
-- [ ] [Vidrir](/02---characters/allies/vidrir) is secretly Odin in disguise
-- [ ] [Skreek](/02---characters/main-party/skreek)’s squires are resting and training in [Vidrir’s Grove](/03---locations/vidrirs-grove)
-	- [ ] Vidrir’s ravens found and escorted them to the grove while Skreek was away
+- [x] [Vidrir](/02---characters/allies/vidrir) is secretly Odin in disguise
+- [x] [Skreek](/02---characters/main-party/skreek)’s squires are resting and training in [Vidrir’s Grove](/03---locations/vidrirs-grove)
+	- [x] Vidrir’s ravens found and escorted them to the grove while Skreek was away
 
 ## 🗡 Monster Stat Blocks
 
@@ -66,4 +66,15 @@ author: Mark Molea
 
 # 📝 Session Notes
 
-- 
+> **NOTE:** skipped golem encounter for pacing purposes
+ 
+- Enjoyed breakfast at the Moonlit Hearth.  They bought gifts for Vidrir from Seraphina before leaving: loose leaf tea and a bottle of mead.
+- Used Leyline Gate Network to travel from Spring Court to the Order of Seasons Tomb
+	- this is technically a mistake since the party never went back to the Tomb to attune their leyline gate ring after getting the ring from Alora. They would have needed to travel to one of the Autumn Court standing stones and progress from there.
+- Traveled by river from the Tomb to Vidrir’s grove using Shad’s folding boat.  It was an easy journey down river. Spotted a unique raven along the way.  Skreek read its thoughts, which the raven allowed without resistance, learning that it was Vidrir’s familiar.  The raven told Skreek he would inform his master of their approach.
+- Vidrir appreciate the gifts and the chance to see Summer’s Edge once again.  
+- “Vidrir - The Glamour Fades” scene played out as planned.
+- Vidrir revealed the name of his familiar that the party met is Huginn.
+- Vidrir used his connection to Summer’s Edge to fully awaken it, giving it additional abilities, including bestowing limited truesight.
+- Party traveled upriver to Tannis, using Skreek’s warhorse to pull the boat upstream.
+- Visited Sig and Winry.  Sig gave Toby the wrist blade he crafted for her.  Because he had extra time, he used a gem from the Arbiter to give the blade the ability to inflict radiant damage. The extra time gave him the opportunity to practice his filigree work. He thusly referred to the blade as a “Dagger of Brightness”

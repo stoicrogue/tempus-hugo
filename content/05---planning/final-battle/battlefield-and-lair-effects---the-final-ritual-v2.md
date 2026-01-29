@@ -2,19 +2,17 @@
 tags:
   - locations
   - tempus
-date: 2025-08-24
-title: Ritual & Battlefield Effects
+date: 2025-04-10
+title: Ritual and Battlefield Effects
 author:
   - Mark Molea
 created: 2025-04-10
 ---
-# Battlefield & Lair Effects - The Final Ritual
-
 ## Initiative Count 20 - Lair Actions
 *Roll 1d3 to determine which effect occurs, or choose based on tactical needs*
 
 ### Phase 1-2 Effects
-1. **Shifting Shadows** - All shadows in the area move 15 feet in a direction of your choice. Any creature ending its turn in a shadow takes 1d6 necrotic damage.
+1. **Shadow Tendrils Erupt** - All creatures within 60ft of the portal must make DC 15 Dexterity save. On fail, the creature is grappled by a tendril of shadow sprouting from the ground (DC 12 escape) and take 1d8 cold damage. On success, creature takes 1d8 cold damage and is not grappled.
 
 2. **Disorienting Echoes** - Ghostly whispers fill the air. All creatures must make a DC 15 Wisdom save or have disadvantage on their next attack roll and ability check.
 
@@ -23,7 +21,7 @@ created: 2025-04-10
 ### Phase 3-4 Effects  
 1. **Portal Magnetism** - All creatures within 60 feet of the portal must make a DC 16 Strength save or be pulled 15 feet toward it. Creatures pulled into the portal take 2d8 force damage.
 
-2. **Reality Fracture** - Choose a 30-foot cone. All creatures in the area must make a DC 17 Intelligence save or be stunned until the end of their next turn as reality warps around them.
+2. **Reality Fracture** - Choose a 30-foot cone. All creatures in the area must make a DC 16 Intelligence save or be stunned until the end of their next turn as reality warps around them.
 
 3. **Nidhogg's Whispers** - All creatures hear the shadow dragon's voice. Make a DC 16 Charisma save or be charmed by the Weaver until the end of your next turn.
 
@@ -49,7 +47,6 @@ created: 2025-04-10
 **Phase 3-4: Shadowfell Influence**  
 - All creatures have disadvantage on Wisdom (Perception) checks
 - Undead and shadow creatures have advantage on attack rolls
-- Magic items flicker and temporarily lose properties (1 round, DM's choice)
 - Gravitational anomalies: some areas have reduced/increased gravity
 
 **Phase 5+: Reality Breakdown**

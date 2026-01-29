@@ -1,8 +1,8 @@
 ---
-date: 2025-08-19
 tags:
   - allies
   - characters
+date: 2025-08-19
 title: Faela Mossheart
 author:
   - Mark Molea

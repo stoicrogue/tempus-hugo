@@ -8,14 +8,6 @@ author:
   - Mark Molea
 created: 2025-05-14
 ---
-
-
-
-
-
-
-
-
 # Strong Start
 
 - Enter the royal garden of the [Weaver's Ancestral Home](/03---locations/weavers-ancestral-home)

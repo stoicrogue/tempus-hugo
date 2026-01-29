@@ -1,6 +1,6 @@
 ---
-date: 2025-09-01
 tags: []
+date: 2025-09-01
 title: Bodak Note
 author: Mark Molea
 ---

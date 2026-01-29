@@ -2,7 +2,7 @@
 tags:
   - session-notes
   - tempus
-date: 2025-09-01
+date: 2025-08-29
 title: Tempus Session 43
 author:
   - Mark Molea

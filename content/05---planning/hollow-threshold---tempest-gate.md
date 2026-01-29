@@ -1,7 +1,7 @@
 ---
-date: 2025-10-15
 tags: []
-title: ""
+date: 2025-10-15
+title: Hollow Threshold - Tempus Gate
 author: Mark Molea
 ---
 # HOLLOW THRESHOLD 1: THE TEMPEST GATE
@@ -27,13 +27,42 @@ A 50-foot diameter circular platform of black stone floats in howling winds. Lig
 
 ## ENCOUNTER
 **Primary Enemies (In Arena):**
-- **2x Air Elementals** 
-  - CR 5 | AC/DC 15 | HP 95 (71-119) | Atk/Prof +7 | DPR 35 | # Atks 3 | Dmg 12 (3d6 + 2)
-  - *Whirlwind (Recharge 4-6):* 10ft radius, 30ft tall cylinder. Creatures inside: DC 15 Dex save or 3d6 bludgeoning + restrained. Whirlwind moves 30ft each turn.
 
-- **1x Storm Herald** (Modified Djinni)
-  - CR 11 | AC/DC 17 | HP 165 (132-198) | Atk/Prof +9 | DPR 44 | # Atks 3 | Dmg 15 (2d8 + 6)
-  - *Lightning Bolt (3/day):* 100ft line, DC 17 Dex save, 8d6 lightning damage. *Tempest Aura:* Creatures within 10ft take 1d6 lightning damage at start of their turn.
+### Invisible Stalker (CR 6)
+
+> AC/DC 14 | HP 97 (52–155) | Atk/Prof +7/+3 | DPR 33 | # Atks 3 | Dmg 11 (2d6 + 4)
+
+- **Invisibility:** Permanently invisible unless revealed by special senses or effects.
+- **Air Form:** Can enter enemy spaces; squeeze through 1-inch gaps.
+- **Wind Swipe (3x):** reach 5 ft. 11 (2d6 + 4) Force damage.
+- **Vortex (Control):** Con save DC 14; 7 (1d8 + 3) thunder + grappled (escape DC 13). Grappled target can’t cast spells with verbal components and takes 7 (2d6) thunder at start of stalker’s turns.
+- **Damage Resistances:** Bludgeoning, piercing, slashing
+- **Damage Immunities:** Poison
+- **Condition Immunities:** Exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+
+### Air Elemental (CR 5)
+
+> AC/DC 15 | HP 90 (48–144) | Atk/Prof +8/+3 | DPR 28 | # Atks 2 | Dmg 14 (2d8 + 5)
+
+- **Air Form:** Can enter enemy spaces; squeeze through 1-inch gaps.
+- **Thunderous Slam (2x):** reach 10 ft. 14 (2d8 + 5) Thunder damage.
+- **Whirlwind (Recharge 4–6):** Str save DC 13; 24 (4d10 + 2) thunder, push 20 ft., prone (half on success).
+- **Damage Resistances:** Bludgeoning, piercing, slashing, lightning
+- **Damage Immunities:** Thunder, poison
+- **Condition Immunities:** Exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
+
+### Storm Herald (CR 11)
+
+> AC/DC 17 | HP 218 (130–300) | Atk/Prof +9/+4 | DPR 45 | # Atks 3 | Dmg 19 (2d6 + 5 + 2d6) | Fly 90ft
+
+- **Storm Arsenal:** Three attacks per turn, Storm Blade (melee) or Storm Bolt (ranged, prone).
+- **Storm Blade:** Melee; slashing + lightning damage.
+- **Storm Bolt:** 120 ft.; thunder damage and knocks Large or smaller targets prone.
+- **Whirlwind:** DC 17 Str; restrained, carried, 21 (6d6) thunder/round; save ends.
+- **Magic Resistance:** Advantage on saves vs spells and magical effects.
+- **Damage Immunities:** Lightning, thunder
+- **Elemental Persistence:** Reform on the Plane of Air if destroyed elsewhere.
+
 
 **Reinforcements (1/6 chance after round 3):**
 - **1d4 Lightning Mephits**

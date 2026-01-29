@@ -1,8 +1,8 @@
 ---
-date: 2025-08-19
 tags:
   - tempus
   - Location
+date: 2025-08-19
 title: Spring Court
 author:
   - Mark Molea

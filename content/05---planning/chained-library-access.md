@@ -1,6 +1,6 @@
 ---
-date: 2025-10-15
 tags: []
+date: 2025-10-15
 title: Chained Library Access
 author: Mark Molea
 ---

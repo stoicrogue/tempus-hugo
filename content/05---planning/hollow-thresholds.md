@@ -3,7 +3,7 @@ tags:
   - planning
   - tempus
 date: 2025-07-08
-title: hollow_thresholds_claude
+title: Hollow Thresholds
 author:
   - Mark Molea
 created: 2025-07-08

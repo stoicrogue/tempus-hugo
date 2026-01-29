@@ -1,7 +1,7 @@
 ---
-date: 2025-11-06
 tags:
   - planning
+date: 2025-11-06
 title: Epilogue
 author: Mark Molea
 ---
