@@ -23,11 +23,15 @@ The structure of my notes is based on Mike Shea's [notion notebook](https://slyf
 Below are the folders in my Obsidian notebook and my purpose of each folder.  You'll find a **menu** option on this site for each of them.
 
 ### Session Notes
-- Prep notes for individual sessions.
-- These evolved over time and I find what worked best for me at the table. 
-- Originally, I used my iPad at the table to access my prep notes in Notion. I included links to D&D Beyond for monsters and split content into different Notion pages, like pages for individual monsters or locations. 
-- In a effort to be more present at the table, I changed my approach and only worked off a set of printed notes. One or two pages if I could get away with it. 
-- I now take in-game notes on these printed pages and transfer anything important back to Obsidian after the session.
+Prep notes for individual sessions. These evolved significantly over the course of the campaign as I discovered what worked best for me at the table.
+
+**Early Sessions (Sessions 1-5):** I used my iPad at the table to access my prep notes in Notion. I included links to D&D Beyond for monsters and split content into different Notion pages. The format was still experimental—I was figuring out what information I actually needed at the table versus what just cluttered my view.
+
+**Middle Sessions (Sessions 10-25):** In an effort to be more present at the table, I changed my approach and worked off printed notes—one or two pages if I could get away with it. The structure became consistent: a Strong Start to kick off the session, a list of possible Scenes, Secrets & Clues to reveal, and key NPCs/Monsters. I took handwritten notes during play and transferred anything important back to Obsidian afterward.
+
+**Later Sessions (Sessions 30+):** My prep became more elaborate while still fitting on a few pages. I started including detailed stat blocks so I didn't need to look things up mid-combat. I also began writing "Cold Open" descriptions—evocative prose to set the scene when we started each session. For complex situations, I'd prepare encounter tables with multiple options so I could respond to whatever direction you all took the story.
+
+The irony of following a "Lazy DM" philosophy is that my notes actually got *more* detailed over time—but that extra preparation was about giving myself tools for improvisation, not scripting outcomes. The goal was always to be ready for wherever the story went, not to force it down a particular path.
 
 ### Characters 
 - Significant NPCs and monsters

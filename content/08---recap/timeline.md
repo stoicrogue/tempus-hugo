@@ -6,7 +6,7 @@ date: 2025-08-23
 title: Timeline
 author: Mark Molea
 ---
-## **Phase 1: The Rescue
+## **Phase 1: The Rescue**
 
 - **Day 1**: Meet at Raven's Perch, track kidnappers
 - Day 2: Rescue Winry from the tomb

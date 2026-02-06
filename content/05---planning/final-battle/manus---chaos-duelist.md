@@ -75,6 +75,7 @@ DPR: 69 (2d8 + 7) + (2d6)
 - Manus can have a maximum of four shadow copies active at any given time. 
 - Shadow copies use Manus’ stats for any checks or saving throws.
 - Manus cannot drop to 0 hit points or below by using this ability. These clones stay active so long as Manus is conscious.
+- The shadow copies only take actions, other than reactions, when Manus uses a legendary action to command them.
 - To command these shadow copies, Manus must use a legendary action. The shadow copies then use that legendary action to take a full turn (action, bonus action, movement, reaction, etc.). *Clones can’t use reactions other than opportunity attacks*
 
 **Spellcasting.** His spellcasting ability is Charisma (spell save DC 18, +11 to hit with spell attacks).

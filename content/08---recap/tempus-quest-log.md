@@ -628,9 +628,9 @@ created: 2025-07-16
 
 - [x] Secretly obtain leyline map from Weaver's study
 - [x] Determine what "Hollow Thresholds" represent
-- [ ] Investigate marked locations
+- [x] Investigate marked locations
 - [x] Understand connection to cult's portal activities
-- [ ] Decide whether to share information with party
+- [x] Decide whether to share information with party
 
 **Current Status:** Slumpet keeping this information secret, considering value to dwarven contacts.
 

@@ -54,10 +54,10 @@ author: Mark Molea
 
 ## Actions
 
-**Multiattack.** The Weaver makes three attacks: 
-- two Shadowweave Bolts 
-- one Shadowweave Bolt and one spell (3rd level or lower).
-- cast one spell 
+**Multiattack.** The Weaver makes attacks using of these 3 options: 
+- a) two Shadowweave Bolts 
+- b) one Shadowweave Bolt and one spell (3rd level or lower).
+- c) cast one spell 
 
 **Shadowweave Bolt.** *Ranged Spell Attack:* +11 to hit, range 120 ft., one target.  
 *Hit:* 14 (2d8 + 5) force damage + 7 (2d6) psychic damage. If target is frightened, +1d8 psychic damage.
@@ -65,24 +65,9 @@ author: Mark Molea
 **Summon Shadows (Recharge 5-6).** The Weaver summons 1d4 Shadows within 30ft of himself. They act at the end of the Weaver’s turn.
 
 **Spellcasting.** Casts a spell of 4th level or higher.
-
-## Ritual Actions (Available during ritual phases)
-
-**Phase 1-2: Weave Reality (1/turn).** 
-- **Shadow Bind:** Target within 60 ft. makes DC 19 Dex save or restrained by shadow tendrils (escape DC 19).
-- **False Images:** Create 3 illusory duplicates that last until hit or end of turn.
-
-**Phase 3: Channel Nidhogg (1/turn).**
-- **Dragon's Fear:** All creatures within 60 ft. make DC 19 Wis save or frightened and must move away from Weaver.
-- **Reality Tear:** Create 20 ft. radius difficult terrain that damages creatures for 2d8 necrotic (Dex save negates).
-
-**Phase 4: Desperate Summoning (1/turn).**
-- **Portal Pulse:** All creatures within 30 ft. of portal make DC 20 Str save or pulled 15 ft. toward portal and take 3d8 force damage.
-- **Sacrifice Self:** Weaver can sacrifice 50 HP to advance ritual by one round's progress.
-
 ## Legendary Actions (3 per turn)
 
-- **Move.** The Weaver moves without provoking opportunity attacks.  
+- **Move.** The Weaver moves without provoking opportunity attacks. 
 - **Cantrip.** Casts a cantrip.  
 - **Shadowweave Bolt (Costs 2).** Makes one Shadowweave Bolt attack. 
 - **Spell (Costs 3).** Casts a spell of 3rd level or lower.
@@ -90,13 +75,6 @@ author: Mark Molea
 ## Legendary Resistances (3/Day)
 
 If the Weaver fails a saving throw, he can choose to succeed instead.
-
-## Ritual Mechanics
-
-- **Ritual Progress:** Advances 1 stage per round while Weaver is conscious and not incapacitated
-- **Interruption:** If Weaver is incapacitated for 1 full round, ritual pauses
-- **Failure:** If Weaver is incapacitated for 2+ consecutive rounds, ritual fails
-- **Completion:** After 7 rounds of progress, Nidhogg begins to emerge (campaign consequence)
 
 ## Tactics
 - **Opening:** Casts *greater invisibility* and begins ritual
