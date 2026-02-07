@@ -2,11 +2,15 @@
 date: 2025-07-19
 title: "Recap"
 created: 2025-07-19
-description: "Notes about what the party has accomplished.  Some of these notes are raw GM notes while others are summaries or dramatizations of the events."
+description: "Campaign summaries, session logs, timeline, quest log, and a dramatized narrative retelling of the Tempus campaign."
 ---
-> [!info]
-> Various types of notes capturing the ongoing campaign.
-> - **Tempus Campaign Session Notes:** a fairly raw combination of all of session notes captured during play and transferred back to my Obsidian Session Notes.
-> - **Tempus Campaign Recap:** a summary of the raw session notes. I start by feeding a section of raw session notes into ChatGPT and refine a bit from there. These are ready to share with the players. 
-> - **Tempus Campaign Dramatization:** a prose version of the raw session notes. Again, I start by feeding a section of raw session notes into ChatGPT and refine a bit from there. Throughout the campaign, I've been updating this document and sharing it with the players. In a long running campaign, I feel like this has ended up being very helpful for the entire group.
+Various ways of looking back at what happened in the campaign:
+
+- **Session Notes** -- Raw notes captured during play, transferred from my handwritten notes back into Obsidian after each session.
+- **Campaign Recap** -- A cleaned-up summary of those raw notes, ready to share with the players.
+- **Campaign Dramatization** -- A prose retelling of the campaign's events. Throughout our three-year run, I shared updated sections with the players to help everyone remember where we'd been.
+- **Quest Log** -- A running list of active, completed, and abandoned quests.
+- **Timeline** -- Key events in chronological order.
+- **Setting Overview** -- The world-building foundations of Tempus.
+- **Session Prep Evolution** -- An analysis of how my DM prep style changed over 45+ sessions.
 

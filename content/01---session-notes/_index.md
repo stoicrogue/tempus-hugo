@@ -2,12 +2,9 @@
 date: 2025-07-19
 title: "Session Notes"
 created: 2025-07-19
-description: "Session Notes for the campaign"
+description: "DM prep notes for each individual session of the Tempus campaign, spanning Sessions 00 through 47."
 ---
-> [!info]
-> - Prep notes for individual sessions.
-> - These evolved over time and I find what worked best for me at the table.
-> - Originally, I used my iPad at the table to access my prep notes in Notion. I included links to D&D Beyond for monsters and split content into different Notion pages, like pages for individual monsters or locations.
-> - In a effort to be more present at the table, I changed my approach and only worked off a set of printed notes. One or two pages if I could get away with it.
-> - I now take in-game notes on these printed pages and transfer anything important back to Obsidian after the session.
+DM prep notes for each session of the Tempus campaign, from our first session in November 2022 through Session 47 in January 2026. These notes evolved significantly over three years as I figured out what worked best for me at the table.
+
+**Early sessions** used a loose, experimental format while I ran off my iPad. **Middle sessions** adopted the Lazy Dungeon Master template (Strong Start, Scenes, Secrets & Clues, NPCs, Monsters) and I switched to printed notes to stay more present at the table. **Later sessions** became more elaborate with detailed stat blocks, Cold Open prose, and d12 encounter tables -- more prep in service of better improvisation.
 
