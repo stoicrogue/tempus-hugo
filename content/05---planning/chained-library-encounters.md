@@ -12,7 +12,7 @@ Once inside, the party is met by **Samaris** (the ancient tiefling librarian who
 
 - **Questions about their intentions**: Why do they seek knowledge about the barrier? What will they do with it?
 - **Tests of character**: Present hypothetical scenarios where they must choose between power and safety
-- **The Orb Inspection**: Samaris examines Serenity's Orb with great suspicion - this artifact reeks of corruption. Why should they trust people carrying such a thing?
+- **The Orb Inspection**: Samaris examines [Serenity](/02---characters/adversaries/serenity)'s Orb with great suspicion - this artifact reeks of corruption. Why should they trust people carrying such a thing?
 
 **Skill Challenge**: The party must succeed on multiple checks (Persuasion, Insight, History to demonstrate knowledge of elven culture, etc.) to convince Samaris they're worthy. If they fail badly, they're escorted out. If they barely pass, they get limited access with a guardian escort.
 
@@ -26,7 +26,7 @@ Regardless of the interview's outcome, each party member receives a **Guardian's
 
 As they walk through the Howling Shelves toward the information they need, the chained books whisper to them:
 
-- **Shad**: Books about illusion magic, perhaps even containing techniques the Weaver used
+- **Shad**: Books about illusion magic, perhaps even containing techniques the [Weaver](/02---characters/adversaries/weaver) used
 - **Skreek**: Tomes promising the location of his stolen relic
 - **Slumpet**: Knowledge about the Hollow Thresholds he's been secretly investigating
 - **Toby**: Information about her mysterious past or family

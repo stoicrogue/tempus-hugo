@@ -18,4 +18,4 @@ The windows, framed by twisted branches, offer a glimpse into the heart of the h
 
 Around the cabin's perimeter, peculiar symbols etched into the walls pulse with a sickly, dim light. These ancient runes and sigils, their vibrant enchantments tainted by malevolence, contribute to the encroaching shadow that smothers the area.
 
-A chill wind stirs as you stand before the cabin, carrying with it the haunting melody of a distant song. It is the siren's call of the Serenity, her enchanting voice masking the darkness that engulfs the surroundings. You steel yourself, for beyond that threshold lies a realm where vibrant life fades and the elven forest withers, consumed by the insidious shadows centered around the cabin.
+A chill wind stirs as you stand before the cabin, carrying with it the haunting melody of a distant song. It is the siren's call of the [Serenity](/02---characters/adversaries/serenity), her enchanting voice masking the darkness that engulfs the surroundings. You steel yourself, for beyond that threshold lies a realm where vibrant life fades and the elven forest withers, consumed by the insidious shadows centered around the cabin.

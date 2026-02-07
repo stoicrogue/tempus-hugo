@@ -10,7 +10,7 @@ created: 2022-11-02
 ---
 ## Characters
 
-- Serenity - Hag disguised as a beautiful singer
+- [Serenity](/02---characters/adversaries/serenity) - Hag disguised as a beautiful singer
     - Gets friendly with Shadicar
     - Steals a hair off his cloak
     - Real name - Old Polly Pigtooth
@@ -19,7 +19,7 @@ created: 2022-11-02
 - Jax - Thief
     - Steals from Skreek or his retainers
     - Visitor from a nearby town, member of their thieves guild - Night Talons
-- Lerissa - Tiefling barkeep
+- [Lerissa](/02---characters/allies/lerissa) - Tiefling barkeep
     - Former beast master ranger
     - Pet gray wolf, Duchess
     - Brews her own ale, favorite of the local druid
@@ -42,7 +42,7 @@ created: 2022-11-02
 - Locals hunt deer and boar here
 - Dancing lights can be seen in the forest on full moons
     - Pixies playing, casting minor illusions
-- Druid grove where local sage, Vidrir, lives
+- Druid grove where local sage, [Vidrir](/02---characters/allies/vidrir), lives
 - Lucky to see his ravens flying around, identifiable by violet markings
 
 ### Order of Seasons Tomb

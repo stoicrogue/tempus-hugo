@@ -13,7 +13,7 @@ Thank you all for your thoughtful responses! Here’s a quick summary of what I 
 ---
 
 **We’re Staying in Tempus**  
-Everyone wants to keep playing in the world we’ve built together. There’s strong interest in seeing through key arcs like the Weaver’s legacy, Summer’s Edge, and the threat of the Cult. That’s awesome to hear.
+Everyone wants to keep playing in the world we’ve built together. There’s strong interest in seeing through key arcs like the [Weaver](/02---characters/adversaries/weaver)’s legacy, Summer’s Edge, and the threat of the Cult. That’s awesome to hear.
 
 **Character Arcs: Mythic Moments Ahead**  
 Two of you are excited about giving your current characters big, dramatic conclusions. One is undecided but open, and one wants to continue with their current PC long-term. We’ll be planning for Shad’s exit in a way that’s emotionally powerful and opens the door for a new character connected to factions like the Chained Library or Massa’ista.
@@ -27,4 +27,4 @@ While no one’s asking to change systems now, there’s interest in trying othe
 ---
 
 **Next Steps**  
-We’ll stay in the world of Tempus and continue through the Weaver arc, moving toward reforging Summer’s Edge and confronting the portals. Steve will transition to a new character soon, which will give us a great story moment to rally around. I’ll aim to pace things more tightly and keep sessions focused on the emotional and narrative high points.
+We’ll stay in the world of Tempus and continue through the [Weaver](/02---characters/adversaries/weaver) arc, moving toward reforging Summer’s Edge and confronting the portals. Steve will transition to a new character soon, which will give us a great story moment to rally around. I’ll aim to pace things more tightly and keep sessions focused on the emotional and narrative high points.

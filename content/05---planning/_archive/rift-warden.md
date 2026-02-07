@@ -9,7 +9,7 @@ author: Mark Molea
 
 ## Origin
 
-Long ago, when Nidhogg was first sealed, it wasn’t enough to just close the rift. A guardian had to stay behind, bound to the place, to become part of the lock. That original Warden may have been a member of the Order of Seasons, possibly even Vidrir himself—explaining his strange age and fading memory. Or perhaps the Weaver was once destined to be the Warden… and ran from it.
+Long ago, when [Nidhogg](/02---characters/adversaries/nidhogg) was first sealed, it wasn’t enough to just close the rift. A guardian had to stay behind, bound to the place, to become part of the lock. That original Warden may have been a member of the Order of Seasons, possibly even [Vidrir](/02---characters/allies/vidrir) himself—explaining his strange age and fading memory. Or perhaps the [Weaver](/02---characters/adversaries/weaver) was once destined to be the Warden… and ran from it.
 
 ## Role and Power
 
@@ -19,7 +19,7 @@ Isolation: The Warden cannot leave the Rift. Doing so weakens the seal.
 
 Transformation: Over time, they may start to reflect the place they guard—becoming spectral, ageless, or something stranger.
 
-Temptation: Nidhogg whispers constantly. Not just to break free—but to offer the Warden dominion in exchange for release.
+Temptation: [Nidhogg](/02---characters/adversaries/nidhogg) whispers constantly. Not just to break free—but to offer the Warden dominion in exchange for release.
 
 ## Dramatic Potential
 

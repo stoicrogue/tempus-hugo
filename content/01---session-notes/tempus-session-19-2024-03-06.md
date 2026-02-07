@@ -34,13 +34,13 @@ created: 2024-03-06
 
 # Strong Start
 
-- [x] Alora rewards the party with magic items from her armory as a reward for saving her daughter, Olivia, and bringing dealing with the Bandersnatch.
+- [x] [Alora](/02---characters/allies/alora) rewards the party with magic items from her armory as a reward for saving her daughter, Olivia, and bringing dealing with the Bandersnatch.
 
 # Scenes
 
-- [x] Meet with Alora and get rewards
+- [x] Meet with [Alora](/02---characters/allies/alora) and get rewards
 - [x] Learn about the Leyline powered barrier and how it is weakening
-- [x] Alora asks the party to investigate the [Winter Leyline Temple](/03---locations/winter-leyline-temple) whose magic supports the barrier
+- [x] [Alora](/02---characters/allies/alora) asks the party to investigate the [Winter Leyline Temple](/03---locations/winter-leyline-temple) whose magic supports the barrier
 
 # Secret and Clues
 
@@ -49,7 +49,7 @@ created: 2024-03-06
 - [x] Temples near leylines in each seasons’ domain hold a crystal meant to stabilize the barrier
 - [ ] The standing stones can be used for rapid transit via the ley lines that connect them
 - [x] Summer’s Edge can be reforged by any master elven smith, but rare materials from the summer court’s domain (sun crystals from the Great Golden tree)
-- [ ] Serenity did cross into the feywild
+- [ ] [Serenity](/02---characters/adversaries/serenity) did cross into the feywild
 
 # Fantastic Locations
 
@@ -67,7 +67,7 @@ _Link to fantastic locations. Use the @ symbol to internally link to a Location 
 NPC link. _Use the @ symbol to internally link to an NPC page._
 
 - [Vidrir](/02---characters/allies/vidrir)
-- Winter court eladrin - Alora
+- Winter court eladrin - [Alora](/02---characters/allies/alora)
 
 # Monsters
 
@@ -93,11 +93,11 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
 
 ### Session Notes
 
-- Met Trius in the morning
-- PIcked up some horses and traveled to the Leyline Temple, led by Trius
+- Met [Trius](/02---characters/allies/trius) in the morning
+- PIcked up some horses and traveled to the Leyline Temple, led by [Trius](/02---characters/allies/trius)
 - Each member presented something important to them to prove their worth to enter the temple
 - A tomb guardian in the first chamber materialized and challenged someone to single combat. Skreek stepped up to the challenge and was able to emerge victorious
 - …
 - Continued into the second chamber, which was a trapped bridge flanked by “ice lasers” that shot the party if they stepped on the wrong tiles covering the bridge
 - Continued to the final chamber, which contained the leyline crystal and the surrounding arcane circle meant to establish the barrier.
-- Left the temple and road back home, only to encounter Serenity on the way, seemingly out for blood and desperate to get her dark crystal back.
+- Left the temple and road back home, only to encounter [Serenity](/02---characters/adversaries/serenity) on the way, seemingly out for blood and desperate to get her dark crystal back.

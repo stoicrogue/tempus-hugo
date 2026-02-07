@@ -9,5 +9,5 @@ Last Edited: 2022-11-08T23:01
 - Locals hunt deer and boar here
 - Dancing lights can be seen in the forest on full moons
     - Pixies playing, casting minor illusions
-- Druid grove where local sage, Vidrir, lives
+- Druid grove where local sage, [Vidrir](/02---characters/allies/vidrir), lives
 - Lucky to see his ravens flying around, identifiable by violet markings

@@ -33,16 +33,16 @@ created: 2025-08-24
 
 **Magic Resistance.** Advantage on saving throws against spells and other magical effects.
 
-**Master of Illusions.** The Weaver can cast illusion spells as if they were one spell level higher than the slot used (maximum 9th level).
+**Master of Illusions.** The [Weaver](/02---characters/adversaries/weaver) can cast illusion spells as if they were one spell level higher than the slot used (maximum 9th level).
 
-**Vulnerability to Truth:** When affected by True Sight or similar divination magic, the Weaver loses his damage resistances and has disadvantage on spell attack rolls. Additionally, Summer's Edge can target him through any illusion as if he were visible and unobscured.
+**Vulnerability to Truth:** When affected by True Sight or similar divination magic, the [Weaver](/02---characters/adversaries/weaver) loses his damage resistances and has disadvantage on spell attack rolls. Additionally, Summer's Edge can target him through any illusion as if he were visible and unobscured.
 
-**Ritual Focus.** While concentrating on the Nidhogg Summoning ritual, the Weaver gains the following benefits:
+**Ritual Focus.** While concentrating on the [Nidhogg](/02---characters/adversaries/nidhogg) Summoning ritual, the [Weaver](/02---characters/adversaries/weaver) gains the following benefits:
 - +2 to spell attack rolls and save DCs
 - Resistance to all damage types
 - Can maintain concentration on two spells simultaneously
 
-**Spellcasting.** The Weaver is an 18th-level spellcaster. Spell save DC 19, +12 to hit.  
+**Spellcasting.** The [Weaver](/02---characters/adversaries/weaver) is an 18th-level spellcaster. Spell save DC 19, +12 to hit.  
 **Spell Slots:** 1st(4), 2nd(3), 3rd(3), 4th(3), 5th(3), 6th(1), 7th(1), 8th(1), 9th(1)
 
 **Known Spells:**
@@ -61,7 +61,7 @@ created: 2025-08-24
 
 ## Actions
 
-**Multiattack.** The Weaver makes three attacks: two Shadowweave Bolts and one spell (3rd level or lower).
+**Multiattack.** The [Weaver](/02---characters/adversaries/weaver) makes three attacks: two Shadowweave Bolts and one spell (3rd level or lower).
 
 **Shadowweave Bolt.** *Ranged Spell Attack:* +12 to hit, range 120 ft., one target.  
 *Hit:* 14 (2d8 + 5) force damage + 7 (2d6) psychic damage. If target is frightened, +1d8 psychic damage.
@@ -78,18 +78,18 @@ created: 2025-08-24
 - **Shadow Bind:** Target within 60 ft. makes DC 19 Dex save or restrained by shadow tendrils (escape DC 19).
 - **False Images:** Create 3 illusory duplicates that last until hit or end of turn.
 
-**Phase 3: Channel Nidhogg (1/turn).**
-- **Dragon's Fear:** All creatures within 60 ft. make DC 19 Wis save or frightened and must move away from Weaver.
+**Phase 3: Channel [Nidhogg](/02---characters/adversaries/nidhogg) (1/turn).**
+- **Dragon's Fear:** All creatures within 60 ft. make DC 19 Wis save or frightened and must move away from [Weaver](/02---characters/adversaries/weaver).
 - **Reality Tear:** Create 20 ft. radius difficult terrain that damages creatures for 2d8 necrotic (Dex save negates).
 
 **Phase 4: Desperate Summoning (1/turn).**
 - **Portal Pulse:** All creatures within 30 ft. of portal make DC 20 Str save or pulled 15 ft. toward portal and take 3d8 force damage.
-- **Sacrifice Self:** Weaver can sacrifice 50 HP to advance ritual by one round's progress.
+- **Sacrifice Self:** [Weaver](/02---characters/adversaries/weaver) can sacrifice 50 HP to advance ritual by one round's progress.
 
 ---
 
 ## Legendary Actions (3 per turn)
-**Move.** The Weaver moves without provoking opportunity attacks.  
+**Move.** The [Weaver](/02---characters/adversaries/weaver) moves without provoking opportunity attacks.  
 **Cantrip.** Casts a cantrip.  
 **Shadowweave Bolt (Costs 2).** Makes one Shadowweave Bolt attack.  
 **Spell (Costs 3).** Casts a spell of 3rd level or lower.
@@ -97,15 +97,15 @@ created: 2025-08-24
 ---
 
 ## Legendary Resistances (3/Day)
-If the Weaver fails a saving throw, he can choose to succeed instead.
+If the [Weaver](/02---characters/adversaries/weaver) fails a saving throw, he can choose to succeed instead.
 
 ---
 
 ## Ritual Mechanics
-- **Ritual Progress:** Advances 1 stage per round while Weaver is conscious and not incapacitated
-- **Interruption:** If Weaver is incapacitated for 1 full round, ritual pauses
-- **Failure:** If Weaver is incapacitated for 2+ consecutive rounds, ritual fails
-- **Completion:** After 7 rounds of progress, Nidhogg begins to emerge (campaign consequence)
+- **Ritual Progress:** Advances 1 stage per round while [Weaver](/02---characters/adversaries/weaver) is conscious and not incapacitated
+- **Interruption:** If [Weaver](/02---characters/adversaries/weaver) is incapacitated for 1 full round, ritual pauses
+- **Failure:** If [Weaver](/02---characters/adversaries/weaver) is incapacitated for 2+ consecutive rounds, ritual fails
+- **Completion:** After 7 rounds of progress, [Nidhogg](/02---characters/adversaries/nidhogg) begins to emerge (campaign consequence)
 
 ---
 

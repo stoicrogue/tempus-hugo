@@ -19,7 +19,7 @@ cssclasses:
 - Has some magical talent, including some divination
 - Well-versed in the history of the local area and beyond
 - Former member of the order of seasons and wielder of [[01 - Projects/tempus-campaign/04 - items/Summer's Edge]]
-- Secretly Odin in disguise, his powers very weak because he needed to contribute a piece of his power to sealing Nidhogg away.  His divine power is actively maintaining the seal holding Nidhogg.
+- Secretly Odin in disguise, his powers very weak because he needed to contribute a piece of his power to sealing [Nidhogg](/02---characters/adversaries/nidhogg) away.  His divine power is actively maintaining the seal holding [Nidhogg](/02---characters/adversaries/nidhogg).
 
 ---
 
@@ -45,7 +45,7 @@ cssclasses:
 **The Long Timeline**: He's not recovering—he's _stuck_. He's been maintaining the seal personally for centuries. The only way he goes home is if the party either:
 
 - Strengthens the barrier enough that he can withdraw his power safely
-- Defeats Nidhogg permanently (freeing the power he invested)
+- Defeats [Nidhogg](/02---characters/adversaries/nidhogg) permanently (freeing the power he invested)
 
 # Vidrir/Odin Reveal - FAQ for DM
 
@@ -61,7 +61,7 @@ cssclasses:
 
 ### **"Is everything you told us a lie?"** 
 
-> "I never lied about what mattered. My friendship with Lerissa is real. My knowledge of Summer's Edge is genuine. My concern for this realm is true. I simply... omitted certain details about who I was before I became the sage in the grove. The best disguises are built on truth."
+> "I never lied about what mattered. My friendship with [Lerissa](/02---characters/allies/lerissa) is real. My knowledge of Summer's Edge is genuine. My concern for this realm is true. I simply... omitted certain details about who I was before I became the sage in the grove. The best disguises are built on truth."
 
 ### **"Do you still have your godly powers?"** 
 
@@ -75,7 +75,7 @@ cssclasses:
 
 ### **"If you're so powerful, why didn't you just kill Nidhogg?"** 
 
-> "Shadow dragons are not so easily unmade, even by gods. Nidhogg is ancient, cunning, and was at the height of his power. The Order fell before him. I could wound him, bind him, seal him away—but destroying him utterly would have required power I could not spare without abandoning other duties. So I chose imprisonment over annihilation."
+> "Shadow dragons are not so easily unmade, even by gods. [Nidhogg](/02---characters/adversaries/nidhogg) is ancient, cunning, and was at the height of his power. The Order fell before him. I could wound him, bind him, seal him away—but destroying him utterly would have required power I could not spare without abandoning other duties. So I chose imprisonment over annihilation."
 
 ### **"Is your power still holding the seal right now?"** 
 
@@ -83,21 +83,21 @@ cssclasses:
 
 ### **"What happens if the seal breaks?"** 
 
-> "Two things. First, Nidhogg escapes—and this time he has allies, a cult, and centuries of rage fueling him. Second, the power I invested in the seal... I don't know if I'd get it back or if it would be lost with the breaking. I could be stranded here, diminished, possibly forever."
+> "Two things. First, [Nidhogg](/02---characters/adversaries/nidhogg) escapes—and this time he has allies, a cult, and centuries of rage fueling him. Second, the power I invested in the seal... I don't know if I'd get it back or if it would be lost with the breaking. I could be stranded here, diminished, possibly forever."
 
 ### **"So you're trapped here?"** 
 
-> "In a sense. I am the final failsafe. If I leave, the seal collapses immediately. If I pull my power back to recover, Nidhogg walks free. I chose this burden willingly, but yes—I am bound here until this is resolved."
+> "In a sense. I am the final failsafe. If I leave, the seal collapses immediately. If I pull my power back to recover, [Nidhogg](/02---characters/adversaries/nidhogg) walks free. I chose this burden willingly, but yes—I am bound here until this is resolved."
 
 ## **WHY HE NEEDS THE PARTY**
 
 ### **"If you're Odin, why do you need us? Can't you just fix this?"** 
 
-> "If I could, I would have done so centuries ago. But there are rules—cosmic balances that even gods must respect. Direct divine intervention invites divine response. I draw the attention of powers that would make the Weaver look like a hedge wizard. This must be a mortal victory, won with mortal hands, or it will not hold."
+> "If I could, I would have done so centuries ago. But there are rules—cosmic balances that even gods must respect. Direct divine intervention invites divine response. I draw the attention of powers that would make the [Weaver](/02---characters/adversaries/weaver) look like a hedge wizard. This must be a mortal victory, won with mortal hands, or it will not hold."
 
 ### **"What can we do that you can't?"** 
 
-> "You can act freely. You can repair the barrier—I cannot, for my power is already woven into it. You can hunt the Weaver and dismantle his cult—I cannot leave my post. You can rally the Courts and unite them—my presence would overshadow their agency. You are not constrained as I am. That makes you more powerful than you know."
+> "You can act freely. You can repair the barrier—I cannot, for my power is already woven into it. You can hunt the [Weaver](/02---characters/adversaries/weaver) and dismantle his cult—I cannot leave my post. You can rally the Courts and unite them—my presence would overshadow their agency. You are not constrained as I am. That makes you more powerful than you know."
 
 ### **"Are we your pawns? Have you been manipulating us?"** 
 
@@ -105,13 +105,13 @@ cssclasses:
 
 ### **"What happens to you if we succeed?"** 
 
-> "If you strengthen the barrier sufficiently, I can withdraw my power and finally go home. If you destroy Nidhogg entirely, the seal becomes unnecessary and I am freed. Either way, your success is my liberation. Our fates are bound together now."
+> "If you strengthen the barrier sufficiently, I can withdraw my power and finally go home. If you destroy [Nidhogg](/02---characters/adversaries/nidhogg) entirely, the seal becomes unnecessary and I am freed. Either way, your success is my liberation. Our fates are bound together now."
 
 ## **THE ORDER OF SEASONS**
 
 ### **"Were you really part of the Order of Seasons?"** 
 
-> "I founded it. When Nidhogg's undead legions threatened to drown the Feywild in shadow, I came to the Courts and proposed an alliance—one champion from each season, united in purpose. They trusted me then. I led them into battle. Most of them died buying time for the seal to be completed."
+> "I founded it. When [Nidhogg](/02---characters/adversaries/nidhogg)'s undead legions threatened to drown the Feywild in shadow, I came to the Courts and proposed an alliance—one champion from each season, united in purpose. They trusted me then. I led them into battle. Most of them died buying time for the seal to be completed."
 
 ### **"Is your Order medallion real?"** 
 
@@ -139,7 +139,7 @@ cssclasses:
 
 ### **"Who else knows who you really are?"** 
 
-> "Fewer than you might think. Lerissa suspects, I believe, though we've never spoken of it directly. Alora may have pieced it together—she's ancient and wise. But most believe Vidrir is simply a talented druid who survived the old war. I've worked hard to maintain that illusion."
+> "Fewer than you might think. [Lerissa](/02---characters/allies/lerissa) suspects, I believe, though we've never spoken of it directly. [Alora](/02---characters/allies/alora) may have pieced it together—she's ancient and wise. But most believe Vidrir is simply a talented druid who survived the old war. I've worked hard to maintain that illusion."
 
 ### **"Why this form? Why 'Vidrir'?"** 
 
@@ -157,7 +157,7 @@ cssclasses:
 
 ### **"What should we do differently now that we know?"** 
 
-"Nothing. Keep doing what you've been doing. Repair the barrier. Hunt the Weaver. Close the Hollow Thresholds. Unite the Courts. The mission hasn't changed—you simply understand the stakes better now."
+"Nothing. Keep doing what you've been doing. Repair the barrier. Hunt the [Weaver](/02---characters/adversaries/weaver). Close the Hollow Thresholds. Unite the Courts. The mission hasn't changed—you simply understand the stakes better now."
 
 ### **"Will you help us more directly now?"** 
 
@@ -183,7 +183,7 @@ cssclasses:
 
 ### **"Why do you care about our realm specifically?"** 
 
-> "Because I helped build it. Because the Order bled for it. Because if Nidhogg escapes, he won't stop here—he'll spread like a plague to other realms, other worlds. And because... sometimes the stakes don't matter. Sometimes you protect something simply because it deserves to exist."
+> "Because I helped build it. Because the Order bled for it. Because if [Nidhogg](/02---characters/adversaries/nidhogg) escapes, he won't stop here—he'll spread like a plague to other realms, other worlds. And because... sometimes the stakes don't matter. Sometimes you protect something simply because it deserves to exist."
 
 ## **IF THEY GET HOSTILE/SUSPICIOUS**
 

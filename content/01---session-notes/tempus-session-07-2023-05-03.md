@@ -38,8 +38,8 @@ created: 2023-05-03
 
 _Check off when revealed_
 
-- [x] Serenity is a night hag
-- [ ] Serenity’s lair is in the elven forest
+- [x] [Serenity](/02---characters/adversaries/serenity) is a night hag
+- [ ] [Serenity](/02---characters/adversaries/serenity)’s lair is in the elven forest
     - [ ] Shadows seem abnormally gaunt and sometimes move on their own as though alive.
     - [ ] Creatures are transported to a harmless but eerie demiplane filled with shadowy forms, waxy corpses, and cackling. The creatures are trapped there for a minute or two, and then returned to the place where they vanished from.
     - [ ] Intelligent creatures see hallucinations of dead friends, family members, and even themselves littering the hag’s realm. Any attempt to interact with a hallucinatory image causes it to disappear.
@@ -63,8 +63,8 @@ _Link to fantastic locations. Use the @ symbol to internally link to a Location 
 NPC link. _Use the @ symbol to internally link to an NPC page._
 
 - [Vidrir](/02---characters/allies/vidrir)
-- Serenity
-- Arbiter
+- [Serenity](/02---characters/adversaries/serenity)
+- [Arbiter](/02---characters/allies/arbiter)
 
 # Monsters
 
@@ -92,7 +92,7 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
 
 - [Shadicar](/02---characters/main-party/shadicar) had vivid nightmares of the day his village was destroyed
     - [Serenity](/02---characters/adversaries/serenity) was in his dream, chaos all around her. When Shad noticed her, he was thrust out of the dream
-- Vidrir asked to hold the pieces of [Summer’s Edge (orig)](/04---items/summers-edge-orig) before the party left.
+- [Vidrir](/02---characters/allies/vidrir) asked to hold the pieces of [Summer’s Edge (orig)](/04---items/summers-edge-orig) before the party left.
     - When he held the sword, his hair slightly stood on end, and a warm smile washed over his face. He seemed grateful and made the party promise to return when the sword is reforged so he could see it in all its glory.
 - Befriended a pixie named Fannie in the forest by playing along with her pranks.
 - Fannie’s friends are being held captive by a group of grey-skinned halflings ([Darkling](/02---characters/monsters/darkling))?

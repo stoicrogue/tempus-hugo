@@ -43,7 +43,7 @@ created: 2024-06-12
 
 # Secret and Clues
 
-- [ ] Weaver’s tower is in the feywild
+- [ ] [Weaver](/02---characters/adversaries/weaver)’s tower is in the feywild
 - [ ] On the way to Summer from Autumn, you will find the site of the final battle with the Shadow dragon and see remnants of the magic ritual used in sealing him away in the Shadowfell
 
 # Fantastic Locations
@@ -52,7 +52,7 @@ created: 2024-06-12
 
 _Link to fantastic locations. Use the @ symbol to internally link to a Location page._
 
-- [Autumn Court](/03---locations/autumn-court)
+- [Autumn Court](/06---factions/autumn-court)
 - [Aki Matsuri](/03---locations/aki-matsuri)
 
 # NPCs
@@ -88,6 +88,6 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
 
 Defeated the Herald of the Eclipse
 
-Convinced the captive mage to identify the magic items found on xolthos
+Convinced the captive mage to identify the magic items found on [xolthos](/02---characters/adversaries/xolthos-omenspeaker)
 
 Planned to stay the night at the Aki Matsuri

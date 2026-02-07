@@ -130,7 +130,7 @@ By piecing together this information, the party will have a clear roadmap of the
 ### 2. **Outer Threshold: The Ashen Shrine**
 
 > “There are sanctioned gates. Places written in the margins of the world. The Ashen Shrine is one such place—a whisper of a path left open for those who do not wear the chains but have earned the Library’s regard. You would not have found it unless you were already being watched.” 
-> *- Vael, Fifth Binder and Chainbearer of the Silent Vault*
+> *- [Vael](/02---characters/allies/vael), Fifth Binder and Chainbearer of the Silent Vault*
 
 - Atop a moss-laced plateau near the summit of **Mount Vesithar**, surrounded by scorched trees that have since regrown with silver-veined bark. Faint leyline currents hum in the air. The site is marked on few maps, and only those with all four seasonal tokens (or their equivalent experiences) can even _see_ the structure for what it truly is.
 - Half-buried in volcanic stone and time, the shrine is circular, with four broken plinths in a compass-like pattern—one for each season.
@@ -151,10 +151,10 @@ By piecing together this information, the party will have a clear roadmap of the
 
 - A massive **adamantine seal etched with runes and chains of radiant and shadow magic**.
 - Cannot be opened by force or conventional magic.
-- **Vael** offers the key—a phrase, ritual, or relic known only to the Chained Library’s agents.
+- **[Vael](/02---characters/allies/vael)** offers the key—a phrase, ritual, or relic known only to the Chained Library’s agents.
 
 #### 🔐 Suggested Conditions:
 
-- Vael demands Serenity’s orb in exchange for the key or for guiding the ritual.
+- [Vael](/02---characters/allies/vael) demands [Serenity](/02---characters/adversaries/serenity)’s orb in exchange for the key or for guiding the ritual.
 - The seal reacts to **forbidden knowledge or forbidden intent**—the orb must be placed in a pedestal and willingly surrendered.
 - When done, the seal unbinds in **reversed time**, as if the chains were never placed—revealing a **spiral stair descending into black mist**.

@@ -50,7 +50,7 @@ _Check off when revealed._
 _Link to fantastic locations. Use the @ symbol to internally link to a Location page._
 
 - Endlessly looping path in the forest
-- Elara’s forge
+- [Elara](/02---characters/allies/elara-sunforge)’s forge
 
 # NPCs
 
@@ -206,9 +206,9 @@ These techniques allow you to build a sense of unease and mystery without direct
 
 ### Session Notes
 
-- Contacted Arbiter; got advice to cleanse crystal, which Shad did with dispel magic late in the afternoon.
+- Contacted [Arbiter](/02---characters/allies/arbiter); got advice to cleanse crystal, which Shad did with dispel magic late in the afternoon.
     - tried to repair the broken runes in the leyline magic circle w/candle wax, which did not work
-- Shad used contact other plane to talk to Alora’s mother (Maria)
+- Shad used contact other plane to talk to [Alora](/02---characters/allies/alora)’s mother (Maria)
     - “are we equipped to fix the crystal?” - NO
     - “is summer court equipped to fix the crystal or the runes?” - NO
     - “does the chained library have the answers to help us?” - YES
@@ -220,4 +220,4 @@ These techniques allow you to build a sense of unease and mystery without direct
 - Met [Blackbird](/02---characters/allies/blackbird) - demonic/fey creature 
     - offered to help get an item for them to help escape the loop.
     - amulet the played music that let them find the way out of the loop
-    - didn’t want payment, but signed a binding contract with Toby instead. For three nights, she must pay for everyone’s drinks at any tavern they visit. Otherwise, Blackbird’s Geas will harm her (psychic damage)
+    - didn’t want payment, but signed a binding contract with Toby instead. For three nights, she must pay for everyone’s drinks at any tavern they visit. Otherwise, [Blackbird](/02---characters/allies/blackbird)’s Geas will harm her (psychic damage)

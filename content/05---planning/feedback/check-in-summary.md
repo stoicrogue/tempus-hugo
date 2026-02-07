@@ -33,7 +33,7 @@ created: 2025-06-22
 ## Moving Forward: My Proposal
 Based on your feedback, here's what I'm thinking:
 
-1. **Accelerate current arc** - Let's push toward resolution of the Weaver/Summer's Edge storyline
+1. **Accelerate current arc** - Let's push toward resolution of the [Weaver](/02---characters/adversaries/weaver)/Summer's Edge storyline
 2. **Plan character transitions** - For those ready, we'll craft meaningful endings; others can continue
 3. **Explore new settings** - After this arc, venture into unexplored parts of Tempus
 4. **System experiments** - Try some one-shots with different systems to see what clicks

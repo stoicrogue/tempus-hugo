@@ -33,38 +33,38 @@ created: 2025-07-16
 ### 🌒 Break the Darkness Over Tannis
 
 **Location:** Tannis Village  
-**Quest Giver:** Village crisis/Lerissa's guidance
+**Quest Giver:** Village crisis/[Lerissa](/02---characters/allies/lerissa)'s guidance
 
-- [x] Consult with Lerissa about the Order of Seasons and Knight of Ravens
+- [x] Consult with [Lerissa](/02---characters/allies/lerissa) about the Order of Seasons and Knight of Ravens
 - [x] Survive the magical darkness that engulfed Tannis
 - [x] Fight off shadowy hands dragging villagers into the abyss
 - [x] Reach the church of the Dusk Lord (only sanctuary with light)
 - [x] Meet Father Samael and learn about the missing holy symbol
 - [x] Explore the church catacombs and avoid deadly shadow entity
-- [x] Discover and parley with the Arbiter (Angel of Justice)
-- [x] Convince the Arbiter to delay her purge ritual
-- [x] Earn the Arbiter's favor and holy mark for safe passage
+- [x] Discover and parley with the [Arbiter](/02---characters/allies/arbiter) (Angel of Justice)
+- [x] Convince the [Arbiter](/02---characters/allies/arbiter) to delay her purge ritual
+- [x] Earn the [Arbiter](/02---characters/allies/arbiter)'s favor and holy mark for safe passage
 
-**Rewards:** Arbiter's holy mark, +1 Shield of the Dusk Lord (Skreek)  
-**Key NPCs:** Lerissa (wise retired adventurer), Father Samael (concerned priest), The Arbiter (stern but just angel)
+**Rewards:** [Arbiter](/02---characters/allies/arbiter)'s holy mark, +1 Shield of the Dusk Lord (Skreek)  
+**Key NPCs:** [Lerissa](/02---characters/allies/lerissa) (wise retired adventurer), Father Samael (concerned priest), The [Arbiter](/02---characters/allies/arbiter) (stern but just angel)
 
 ---
 
 ### 🌿 Consult the Sage Vidrir
 
 **Location:** Shimmerwood  
-**Quest Giver:** Lerissa's recommendation
+**Quest Giver:** [Lerissa](/02---characters/allies/lerissa)'s recommendation
 
-- [x] Travel through Shimmerwood using the Arbiter's holy mark
-- [x] Bring a cask of Lerissa's ale as goodwill offering
-- [x] Meet Vidrir and his purple-winged raven familiars
+- [x] Travel through Shimmerwood using the [Arbiter](/02---characters/allies/arbiter)'s holy mark
+- [x] Bring a cask of [Lerissa](/02---characters/allies/lerissa)'s ale as goodwill offering
+- [x] Meet [Vidrir](/02---characters/allies/vidrir) and his purple-winged raven familiars
 - [x] Learn Summer's Edge's true identity as a legendary Summer Court blade
 - [x] Discover the Eclipse medallion is magically trackable (signal leads northwest)
 - [x] Inquire about Skreek's stolen relic (rumors of djinn in southern desert)
-- [x] Witness Summer's Edge react faintly to Vidrir's touch
+- [x] Witness Summer's Edge react faintly to [Vidrir](/02---characters/allies/vidrir)'s touch
 
 **Rewards:** Knowledge of Summer's Edge, tracking information  
-**Key NPCs:** Vidrir (mysterious sage with deep historical knowledge)
+**Key NPCs:** [Vidrir](/02---characters/allies/vidrir) (mysterious sage with deep historical knowledge)
 
 ---
 
@@ -93,69 +93,69 @@ created: 2025-07-16
 
 - [x] Enter the corrupted woods and locate the cabin
 - [x] Defeat the Flameskull guardian
-- [x] Investigate signs of Serenity's presence
+- [x] Investigate signs of [Serenity](/02---characters/adversaries/serenity)'s presence
 - [x] Survive attack by "Sassy Tassels" (Rug of Smothering)
 - [x] Discover defiled altar to shadow dragon with crystal orb
-- [x] Summon the Arbiter using holy marks
-- [x] Have the Arbiter cleanse the corruption source
-- [x] Confront and charm Serenity (night hag) to gather intelligence
-- [x] Learn about the Weaver, Nidhogg, and Shad's village massacre
-- [x] Escape while Serenity was charmed
-- [x] Recruit Francis the Flameskull as party ally
+- [x] Summon the [Arbiter](/02---characters/allies/arbiter) using holy marks
+- [x] Have the [Arbiter](/02---characters/allies/arbiter) cleanse the corruption source
+- [x] Confront and charm [Serenity](/02---characters/adversaries/serenity) (night hag) to gather intelligence
+- [x] Learn about the [Weaver](/02---characters/adversaries/weaver), [Nidhogg](/02---characters/adversaries/nidhogg), and Shad's village massacre
+- [x] Escape while [Serenity](/02---characters/adversaries/serenity) was charmed
+- [x] Recruit [Francis](/02---characters/allies/francis-the-flameskull) the Flameskull as party ally
 
-**Rewards:** Corruption cleansed, Serenity's dark orb, Francis as ally  
-**Key NPCs:** Serenity (revealed night hag), The Arbiter (divine cleanser), Francis (enthusiastic undead ally)
+**Rewards:** Corruption cleansed, [Serenity](/02---characters/adversaries/serenity)'s dark orb, [Francis](/02---characters/allies/francis-the-flameskull) as ally  
+**Key NPCs:** [Serenity](/02---characters/adversaries/serenity) (revealed night hag), The [Arbiter](/02---characters/allies/arbiter) (divine cleanser), [Francis](/02---characters/allies/francis-the-flameskull) (enthusiastic undead ally)
 
 ---
 
 ### 🐉 Gain Intelligence on Nidhogg
 
-**Location:** Vidrir's grove  
+**Location:** [Vidrir](/02---characters/allies/vidrir)'s grove  
 **Quest Giver:** Party investigation
 
-- [x] Return to Vidrir with Serenity's orb for analysis
+- [x] Return to [Vidrir](/02---characters/allies/vidrir) with [Serenity](/02---characters/adversaries/serenity)'s orb for analysis
 - [x] Learn the orb is a "seeing stone" for communication and divination
-- [x] Receive alarming news about Nidhogg being a shadow dragon sealed in Shadowfell
-- [x] Understand Vidrir's personal history with the ancient war
+- [x] Receive alarming news about [Nidhogg](/02---characters/adversaries/nidhogg) being a shadow dragon sealed in Shadowfell
+- [x] Understand [Vidrir](/02---characters/allies/vidrir)'s personal history with the ancient war
 - [x] Receive guidance to seek the Winter Court for further knowledge
-- [x] Obtain Vidrir's Order of Seasons medallion for Winter Court audience
+- [x] Obtain [Vidrir](/02---characters/allies/vidrir)'s Order of Seasons medallion for Winter Court audience
 
-**Rewards:** Vidrir's Order of Seasons medallion, crucial lore  
-**Key NPCs:** Vidrir (revealed ancient warrior), Francis (repelled by undead wards)
+**Rewards:** [Vidrir](/02---characters/allies/vidrir)'s Order of Seasons medallion, crucial lore  
+**Key NPCs:** [Vidrir](/02---characters/allies/vidrir) (revealed ancient warrior), [Francis](/02---characters/allies/francis-the-flameskull) (repelled by undead wards)
 
 ---
 
 ### ❄️ Gain Audience with the Winter Court
 
 **Location:** Journey to Winter Court embassy  
-**Quest Giver:** Vidrir's guidance
+**Quest Giver:** [Vidrir](/02---characters/allies/vidrir)'s guidance
 
 - [x] Travel north toward the silver maple tree
 - [x] Defeat Redcap assassin hired to stop the party
 - [x] Avoid the reality-tearing feline predator
-- [x] Make peaceful contact with elven rangers using Vidrir's medallion
+- [x] Make peaceful contact with elven rangers using [Vidrir](/02---characters/allies/vidrir)'s medallion
 - [x] Arrive at Winter Court embassy and settle at The Restful Buck inn
-- [x] Perform at the inn and gather intelligence about Lady Alora
+- [x] Perform at the inn and gather intelligence about Lady [Alora](/02---characters/allies/alora)
 - [x] Learn about Olivia's poisoning by possible Bandersnatch
 - [x] Heal Olivia using Skreek's Lay on Hands
-- [x] Earn private audience with grateful Lady Alora
+- [x] Earn private audience with grateful Lady [Alora](/02---characters/allies/alora)
 - [x] Learn about the weakening interplanar barrier
 
-**Rewards:** Winter Court alliance, audience with Alora  
-**Key NPCs:** Lady Alora (Winter Court leader), Olivia (poisoned daughter), Trius (eldest daughter, paladin)
+**Rewards:** Winter Court alliance, audience with [Alora](/02---characters/allies/alora)  
+**Key NPCs:** Lady [Alora](/02---characters/allies/alora) (Winter Court leader), Olivia (poisoned daughter), [Trius](/02---characters/allies/trius) (eldest daughter, paladin)
 
 ---
 
 ### 🦷 Hunt the Bandersnatch
 
 **Location:** Winter Court territory  
-**Quest Giver:** Lady Alora
+**Quest Giver:** Lady [Alora](/02---characters/allies/alora)
 
-- [x] Accept Alora's quest to hunt the creature that poisoned Olivia
+- [x] Accept [Alora](/02---characters/allies/alora)'s quest to hunt the creature that poisoned Olivia
 - [x] Use Slumpet's squirrel network to track and bait the beast
 - [x] Employ clever tactics to trap the Bandersnatch
 - [x] Defeat the creature despite its poison gas and deadly claws
-- [x] Return the severed head to Lady Alora as proof
+- [x] Return the severed head to Lady [Alora](/02---characters/allies/alora) as proof
 
 **Rewards:** Powerful magic items for each party member:
 
@@ -164,75 +164,75 @@ created: 2025-07-16
 - Toby: _Blinkback Belt_ (auto-retrieving thrown weapons)
 - Skreek: _Frostbrand Scimitar_ (cold damage)
 
-**Key NPCs:** Lady Alora (generous patron), Trius (impressed observer)
+**Key NPCs:** Lady [Alora](/02---characters/allies/alora) (generous patron), [Trius](/02---characters/allies/trius) (impressed observer)
 
 ---
 
 ### 🛡️ Investigate the Winter Leyline Temple
 
 **Location:** Ancient temple embedded in hillside  
-**Quest Giver:** Lady Alora
+**Quest Giver:** Lady [Alora](/02---characters/allies/alora)
 
-- [x] Persuade Trius to join the expedition
-- [x] Travel east on horseback (Trius riding majestic unicorn)
+- [x] Persuade [Trius](/02---characters/allies/trius) to join the expedition
+- [x] Travel east on horseback ([Trius](/02---characters/allies/trius) riding majestic unicorn)
 - [x] Prove worthiness to magical temple guardian:
     - Shadicar: bardic song of Elven legend
     - Skreek: genealogy scroll
-    - Slumpet: Alora's gifted bow (after orb failed)
+    - Slumpet: [Alora](/02---characters/allies/alora)'s gifted bow (after orb failed)
     - Toby: blood sacrifice
-    - Trius: family Moonblade
+    - [Trius](/02---characters/allies/trius): family Moonblade
 - [x] Enter through mechanical iris door
 - [x] Defeat holographic knight in honorable duel (Skreek)
 - [x] Navigate the 300-foot bridge with seasonal glyph tiles and laser traps
 - [x] Reach the leyline crystal nexus chamber
 - [x] Discover one of six focus crystals is cracked and flickering
 - [x] Document the arcane runes and glyph meanings
-- [x] Consult with the Arbiter about leyline magic
+- [x] Consult with the [Arbiter](/02---characters/allies/arbiter) about leyline magic
 
 **Rewards:** Leyline knowledge, runic documentation  
-**Key NPCs:** Trius (Winter Court paladin ally), The Arbiter (magical consultant)
+**Key NPCs:** [Trius](/02---characters/allies/trius) (Winter Court paladin ally), The [Arbiter](/02---characters/allies/arbiter) (magical consultant)
 
 ---
 
 ### 🌑 Defeat Serenity Permanently
 
 **Location:** Return journey from leyline temple  
-**Quest Giver:** Serenity's ambush
+**Quest Giver:** [Serenity](/02---characters/adversaries/serenity)'s ambush
 
 - [x] Survive the forest's color drain into grayscale
-- [x] Confront Serenity in her true night hag form
-- [x] Battle alongside Trius and her inspiring mental battle hymn
-- [x] Defeat Serenity's animated shadow duplicates
+- [x] Confront [Serenity](/02---characters/adversaries/serenity) in her true night hag form
+- [x] Battle alongside [Trius](/02---characters/allies/trius) and her inspiring mental battle hymn
+- [x] Defeat [Serenity](/02---characters/adversaries/serenity)'s animated shadow duplicates
 - [x] Overcome her manta-like damage-absorbing cloak creature
-- [x] Slay Serenity in brutal combat
+- [x] Slay [Serenity](/02---characters/adversaries/serenity) in brutal combat
 - [x] Use Speak with Dead to extract final intelligence:
-    - Serenity was over 300 years old
-    - The Weaver destroyed Shad's village "for amusement"
+    - [Serenity](/02---characters/adversaries/serenity) was over 300 years old
+    - The [Weaver](/02---characters/adversaries/weaver) destroyed Shad's village "for amusement"
     - She wasn't responsible for barrier weakening
 - [x] Loot emerald storage ring and gold mind-protection necklace
 - [x] Burn body and cabin to prevent resurrection
 
 **Rewards:** Emerald dimensional storage ring, gold mind-protection necklace  
-**Key NPCs:** Serenity (permanently defeated), Trius (battle ally)
+**Key NPCs:** [Serenity](/02---characters/adversaries/serenity) (permanently defeated), [Trius](/02---characters/allies/trius) (battle ally)
 
 ---
 
 ### 🧭 Report to Alora and Learn the Larger Plan
 
 **Location:** Winter Court embassy  
-**Quest Giver:** Lady Alora
+**Quest Giver:** Lady [Alora](/02---characters/allies/alora)
 
-- [x] Report Serenity's permanent defeat
-- [x] Inform Alora about the damaged leyline crystal
+- [x] Report [Serenity](/02---characters/adversaries/serenity)'s permanent defeat
+- [x] Inform [Alora](/02---characters/allies/alora) about the damaged leyline crystal
 - [x] Receive silver teleportation ring (attunes to obsidian standing stones)
 - [x] Meet with Arch Magus Levi for crucial briefing:
     - Barrier anchored by four leyline temples (one per season)
-    - Alora's mother's journal mentions "The Chained Library"
+    - [Alora](/02---characters/allies/alora)'s mother's journal mentions "The Chained Library"
     - Chained Library may seek forbidden artifacts like the orb
 - [x] Witness Slumpet steal map of Dwarven capital
 
 **Rewards:** Silver teleportation ring, critical strategic intelligence  
-**Key NPCs:** Lady Alora (strategic ally), Arch Magus Levi (knowledgeable advisor)
+**Key NPCs:** Lady [Alora](/02---characters/allies/alora) (strategic ally), Arch Magus Levi (knowledgeable advisor)
 
 ---
 
@@ -254,21 +254,21 @@ created: 2025-07-16
 ### 🍁 Defend the Fall Festival
 
 **Location:** Aki Matsuri beer garden  
-**Quest Giver:** Xolthos's attack
+**Quest Giver:** [Xolthos](/02---characters/adversaries/xolthos-omenspeaker)'s attack
 
-- [x] Enjoy festival hospitality from Hencelle (Master of Feasts)
+- [x] Enjoy festival hospitality from [Hencelle](/02---characters/allies/hencelle) (Master of Feasts)
 - [x] Befriend Ali (Massa'Ista bounty hunter) and meet captive Arden
-- [x] Survive Xolthos's ominous proclamation about Nidhogg's return
+- [x] Survive [Xolthos](/02---characters/adversaries/xolthos-omenspeaker)'s ominous proclamation about [Nidhogg](/02---characters/adversaries/nidhogg)'s return
 - [x] Endure Shad's banishment mid-taunt
-- [x] Defeat Xolthos in difficult battle using Slumpet's anti-shadow stardust
+- [x] Defeat [Xolthos](/02---characters/adversaries/xolthos-omenspeaker) in difficult battle using Slumpet's anti-shadow stardust
 - [x] Loot magic items: dragon figurine, invisibility ring, enchanted robes, magic staff
-- [x] Recover letter from the Weaver confirming:
+- [x] Recover letter from the [Weaver](/02---characters/adversaries/weaver) confirming:
     - Winter leyline crystal already damaged
     - Summer Court leyline is next target
     - All marked by Dusk Lord are enemies
 
-**Rewards:** Xolthos's magic items, critical intelligence about cult plans  
-**Key NPCs:** Hencelle (generous host), Ali (helpful bounty hunter), Xolthos (defeated cultist)
+**Rewards:** [Xolthos](/02---characters/adversaries/xolthos-omenspeaker)'s magic items, critical intelligence about cult plans  
+**Key NPCs:** [Hencelle](/02---characters/allies/hencelle) (generous host), Ali (helpful bounty hunter), [Xolthos](/02---characters/adversaries/xolthos-omenspeaker) (defeated cultist)
 
 ---
 
@@ -278,8 +278,8 @@ created: 2025-07-16
 **Quest Giver:** Lord Farkris
 
 - [x] Secure audience with Lord Farkris
-- [x] Learn about his regret over failed peace with Nidhogg
-- [x] Inform him about barrier weakening (Alora hadn't warned him)
+- [x] Learn about his regret over failed peace with [Nidhogg](/02---characters/adversaries/nidhogg)
+- [x] Inform him about barrier weakening ([Alora](/02---characters/allies/alora) hadn't warned him)
 - [x] Receive permission to explore Autumn Leyline Temple
 - [x] Prove worth to guardian treant by saving baby unicorn from bloodthirsty vines
 - [x] Survive dire wolf ambush during rescue
@@ -310,7 +310,7 @@ created: 2025-07-16
 
 ### ⚔️ Disrupt Eclipse Ritual at Ancient Battlefield
 
-**Location:** Site of Nidhogg's original sealing  
+**Location:** Site of [Nidhogg](/02---characters/adversaries/nidhogg)'s original sealing  
 **Quest Giver:** Cult activity discovery
 
 - [x] Investigate arcane runes burned into battlefield ground
@@ -318,13 +318,13 @@ created: 2025-07-16
 - [x] Defeat mage Kharvax, ogre, and mercenaries
 - [x] Spare two surrendering mercenaries for information
 - [x] Use Mantle of Whispers to absorb Kharvax's shadow and learn:
-    - Weaver's stronghold is in the Feywild
+    - [Weaver](/02---characters/adversaries/weaver)'s stronghold is in the Feywild
     - Cult hopes to enhance summoning magic using old sealing ritual
     - Kharvax tested this by summoning basilisk (killed some cultists)
 - [x] Loot +1 Vampiric Scythe and Grimoire of the Eclipse
 
 **Rewards:** +1 Vampiric Scythe, Grimoire of the Eclipse (contains _Summon Shadowspawn_, _Shadow Blade_, _Contact Other Plane_)  
-**Key NPCs:** Kharvax (defeated mage), Francis (delighted in laser combat), surrendering mercenaries
+**Key NPCs:** Kharvax (defeated mage), [Francis](/02---characters/allies/francis-the-flameskull) (delighted in laser combat), surrendering mercenaries
 
 ---
 
@@ -351,14 +351,14 @@ created: 2025-07-16
 
 - [x] Discover temple already breached with destroyed guardian constructs
 - [x] Find leyline crystal chamber missing one of eight rune crystals
-- [x] Encounter Manus posing as Trius
-- [x] Learn Manus mocks Weaver/cult despite apparent alliance
+- [x] Encounter [Manus](/02---characters/adversaries/manus) posing as [Trius](/02---characters/allies/trius)
+- [x] Learn [Manus](/02---characters/adversaries/manus) mocks [Weaver](/02---characters/adversaries/weaver)/cult despite apparent alliance
 - [x] Accept his challenge to land one blow for the crystal
 - [x] Succeed when Slumpet's ball bearings strike him
 - [x] Receive stolen crystal as promised
 - [x] Attempt to restore crystal (failed - appears tainted)
-- [x] Consult Arbiter about restoration needs
-- [x] Use Contact Other Plane to reach Maria (Alora's mother):
+- [x] Consult [Arbiter](/02---characters/allies/arbiter) about restoration needs
+- [x] Use Contact Other Plane to reach Maria ([Alora](/02---characters/allies/alora)'s mother):
     - Party cannot fix crystal alone
     - Summer Court lacks necessary means
     - Chained Library holds answers
@@ -366,7 +366,7 @@ created: 2025-07-16
     - Center of Elven territory may help
 
 **Rewards:** Recovered tainted crystal, divine guidance from Maria  
-**Key NPCs:** Manus (honorable trickster), Lady Sylvia (concerned leader), The Arbiter (advisor), Maria (distant oracle)
+**Key NPCs:** [Manus](/02---characters/adversaries/manus) (honorable trickster), Lady Sylvia (concerned leader), The [Arbiter](/02---characters/allies/arbiter) (advisor), Maria (distant oracle)
 
 ---
 
@@ -377,21 +377,21 @@ created: 2025-07-16
 
 - [x] Recognize repeating scenery and time distortions
 - [x] Notice signs of escaped basilisk from Kharvax's failed ritual
-- [x] Encounter Blackbird (raven-like eldritch merchant)
+- [x] Encounter [Blackbird](/02---characters/allies/blackbird) (raven-like eldritch merchant)
 - [x] Negotiate contract with Toby: pay for everyone's drinks for three nights
 - [x] Receive charm playing metal tune ("take control")
 - [x] Use charm to navigate loop successfully
 - [x] Lead party to safety outside temporal trap
 
-**Rewards:** Escape from time loop, Blackbird's magical charm  
-**Key NPCs:** Blackbird (contract merchant), Toby (contract bearer)
+**Rewards:** Escape from time loop, [Blackbird](/02---characters/allies/blackbird)'s magical charm  
+**Key NPCs:** [Blackbird](/02---characters/allies/blackbird) (contract merchant), Toby (contract bearer)
 
 ---
 
 ### 🍺 Fulfill Blackbird's Contract
 
 **Location:** Wherever party drinks at a tavern  
-**Quest Giver:** Blackbird (eldritch merchant)
+**Quest Giver:** [Blackbird](/02---characters/allies/blackbird) (eldritch merchant)
 
 - [x] Night 1: Pay for everyone's drinks (98 drinks = 19gp)
 - [x] Night 2: Pay for everyone's drinks (more expensive)
@@ -403,12 +403,12 @@ created: 2025-07-16
 ### ⚔️ Gather Components for Summer's Edge
 
 **Location:** Summer Court and surrounding areas  
-**Quest Giver:** Elara Sunforge
+**Quest Giver:** [Elara Sunforge](/02---characters/allies/elara-sunforge)
 
-- [x] Fulfill night 1 of Blackbird's contract (98 drinks = 19gp)
+- [x] Fulfill night 1 of [Blackbird](/02---characters/allies/blackbird)'s contract (98 drinks = 19gp)
 - [x] Meet with Lady Sylvia about Summer's Edge
 - [x] Learn sword chooses its wielder
-- [x] Consult Elara Sunforge about reforging requirements
+- [x] Consult [Elara Sunforge](/02---characters/allies/elara-sunforge) about reforging requirements
 - [x] Learn need for two components:
     - Celestial Ore from Starfall Crater
     - First Kiss of Midday Sun from Feywild
@@ -416,17 +416,17 @@ created: 2025-07-16
 - [x] Battle four Starfall Sentinels and intelligent Celestial Guardian
 - [x] Crack pedestal to reveal sufficient Celestial Ore
 - [x] Shop at Glittering Cavern for Fey crossing supplies
-- [x] Fulfill night 2 of Blackbird's contract
+- [x] Fulfill night 2 of [Blackbird](/02---characters/allies/blackbird)'s contract
 
 **Rewards:** Celestial Ore, Fey crossing supplies  
-**Key NPCs:** Lady Sylvia (supportive), Elara Sunforge (master smith), Celestial Guardian (defeated), Blackbird (contract enforcer)
+**Key NPCs:** Lady Sylvia (supportive), [Elara Sunforge](/02---characters/allies/elara-sunforge) (master smith), Celestial Guardian (defeated), [Blackbird](/02---characters/allies/blackbird) (contract enforcer)
 
 ---
 
 ### 🐾 Navigate the Shimmering Glade
 
 **Location:** Fey crossing at Shimmering Glade  
-**Quest Giver:** Elara's guidance
+**Quest Giver:** [Elara](/02---characters/allies/elara-sunforge)'s guidance
 
 - [x] Locate Fey crossing at radiant clearing with ancient standing stones
 - [x] Encounter six-legged "squid cat" mother and cubs (Displacer Beast)
@@ -446,7 +446,7 @@ created: 2025-07-16
 ### 🌈 Establish Feywild Base and Locate Sun Mountain
 
 **Location:** Feywild  
-**Quest Giver:** Elara's component requirements
+**Quest Giver:** [Elara](/02---characters/allies/elara-sunforge)'s component requirements
 
 - [x] Emerge in lush, colorful Feywild with exaggerated flora
 - [x] Scout from above to spot mountain northwest
@@ -468,9 +468,9 @@ created: 2025-07-16
 ### ☀️ Capture the First Kiss of Midday Sun
 
 **Location:** Feywild mountain peak  
-**Quest Giver:** Elara's component requirements
+**Quest Giver:** [Elara](/02---characters/allies/elara-sunforge)'s component requirements
 
-- [x] Begin mountain ascent with Elara's capturing device
+- [x] Begin mountain ascent with [Elara](/02---characters/allies/elara-sunforge)'s capturing device
 - [x] Encounter and defeat moss-covered fey troll
 - [x] Overcome animated flesh clones spawned by troll strikes
 - [x] Reach mountain peak with ceremonial altar
@@ -478,17 +478,17 @@ created: 2025-07-16
     - Memory of sword's gifting by Summer Court Queen
     - Battlefield vision disrupted by darkness
 - [x] Observe distant twisted black castle (gothic, shifting, watching)
-- [x] Place Elara's device at altar for sun essence capture
+- [x] Place [Elara](/02---characters/allies/elara-sunforge)'s device at altar for sun essence capture
 - [x] Witness Summer's Edge resonating with sunlight and Skreek's presence
-- [x] Survive second duel with Manus:
+- [x] Survive second duel with [Manus](/02---characters/adversaries/manus):
     - Endured magical darkness around device
-    - Fought Manus and his two cliff-positioned clones
+    - Fought [Manus](/02---characters/adversaries/manus) and his two cliff-positioned clones
     - Relied on Skreek's blindsight in darkness
-    - Watched Manus call off battle and vanish
+    - Watched [Manus](/02---characters/adversaries/manus) call off battle and vanish
 - [x] Complete capture of First Kiss of Midday Sun
 
 **Rewards:** First Kiss of Midday Sun essence, Summer's Edge resonance awakening  
-**Key NPCs:** Fey troll (defeated), Manus (honorable opponent), Skreek (vision recipient)
+**Key NPCs:** Fey troll (defeated), [Manus](/02---characters/adversaries/manus) (honorable opponent), Skreek (vision recipient)
 
 ---
 
@@ -506,41 +506,41 @@ created: 2025-07-16
     - Toby embraced monstrous reflection (gained luck boon)
 - [x] Discover massive broken loom pulsing with dark illusion magic
 - [x] Disrupt loom with Shad's thunderwave
-- [x] Have Francis incinerate loom at Shad's request
+- [x] Have [Francis](/02---characters/allies/francis-the-flameskull) incinerate loom at Shad's request
 - [x] Experience hallucinations and memory loss from loom chamber
-- [x] Confront the Echo (Weaver's soul remnant) in throne room
+- [x] Confront the Echo ([Weaver](/02---characters/adversaries/weaver)'s soul remnant) in throne room
 - [x] Refuse Echo's demand for a soul to rebuild loom
 - [x] Survive Echo's soul extraction attempt on Shad
 - [x] Defeat Echo and his two shadow wolves (Slumpet's decisive strike)
 - [x] Discover hidden study behind tapestry
-- [x] Recover Weaver's journal revealing:
+- [x] Recover [Weaver](/02---characters/adversaries/weaver)'s journal revealing:
     - Philosophy of fear and illusion mastery
     - Techniques for binding illusions to triggers and events
     - Discovery and mastery of Mirage Arcane
-    - Plan to weaken leyline network and release Nidhogg
+    - Plan to weaken leyline network and release [Nidhogg](/02---characters/adversaries/nidhogg)
     - Spellbook "Silmirien" tethered to soul (burning page calls him home)
 - [x] Secretly obtain map of leyline energy and temple locations with "Hollow Thresholds"
 
-**Rewards:** Weaver's journal, spellbook Silmirien, secret leyline map, luck boons  
-**Key NPCs:** Patchwork knight (riddle guardian), The Echo (defeated soul remnant), Francis (loom destroyer)
+**Rewards:** [Weaver](/02---characters/adversaries/weaver)'s journal, spellbook Silmirien, secret leyline map, luck boons  
+**Key NPCs:** Patchwork knight (riddle guardian), The Echo (defeated soul remnant), [Francis](/02---characters/allies/francis-the-flameskull) (loom destroyer)
 
 ---
 
 ### ⚔️ Reforge Summer's Edge
 
-**Location:** Summer Court (Elara Sunforge's hidden forge)  
-**Quest Giver:** Elara Sunforge  
+**Location:** Summer Court ([Elara Sunforge](/02---characters/allies/elara-sunforge)'s hidden forge)  
+**Quest Giver:** [Elara Sunforge](/02---characters/allies/elara-sunforge)  
 **Status:** ✅ Completed
 
 - [x] Obtain Celestial Ore from Starfall Crater
 - [x] Capture First Kiss of Midday Sun in the Feywild
 - [x] Return to the Summer Court via standing stone network
-- [x] Deliver components to Elara Sunforge
+- [x] Deliver components to [Elara Sunforge](/02---characters/allies/elara-sunforge)
 - [x] Participate in reforging of Summer’s Edge using radiant forge
 - [x] Witness Skreek chosen as the new wielder of Summer’s Edge
 
 **Rewards:** Reforged Summer’s Edge, Skreek gains bonded artifact blade  
-**Key NPCs:** Elara Sunforge (master smith), Skreek (chosen champion)
+**Key NPCs:** [Elara Sunforge](/02---characters/allies/elara-sunforge) (master smith), Skreek (chosen champion)
 
 ---
 
@@ -551,7 +551,7 @@ created: 2025-07-16
 
 **Status:** ✅ Completed
 
-- [x] Defeat the Echo and recover Weaver's journal
+- [x] Defeat the Echo and recover [Weaver](/02---characters/adversaries/weaver)'s journal
 - [x] Discover spellbook Silmirien and its soul-calling properties
 - [x] Obtain secret leyline map with Hollow Thresholds
 - [x] Search remaining castle areas for additional clues
@@ -562,26 +562,26 @@ created: 2025-07-16
 -  Meet patchwork guardian (dubbed "Jeeves") and accept castle stewardship
 - [x]  Receive offer to customize and restore castle in time
 
-**Rewards:** Ownership of the Weaver’s castle, standing stone network access  
+**Rewards:** Ownership of the [Weaver](/02---characters/adversaries/weaver)’s castle, standing stone network access  
 **Key NPCs:** Jeeves (patchwork guardian), Slumpet (ring attunement)
 
 
 ### 🌌 Disrupt Hollow Threshold & Meet Vael
 
 **Location:** Forest clearing en route to Spring Court  
-**Quest Giver:** Party decision / Vael encounter
+**Quest Giver:** Party decision / [Vael](/02---characters/allies/vael) encounter
 
 -  Discover strange stone portal and investigate its pocket-realm
 -  Battle owlbear, alpha wolf, and dire wolf packs
 -  Dispel glowing fang artifact to halt endless summons
 -  Escape collapsing chamber amid wild magic surge (Shad briefly polymorphed into frog)
 -  Survive final owlbear and drag Skreek to safety after he was knocked unconscious
--  Meet **Vael, Fifth Binder of the Silent Vault** - agent of the Chained Library
+-  Meet **[Vael](/02---characters/allies/vael), Fifth Binder of the Silent Vault** - agent of the Chained Library
 -  Learn Hollow Thresholds are **Cult-forged incisions** siphoning leyline energy
--  Strike bargain: surrender fang now, deliver Serenity’s orb at Library gates
+-  Strike bargain: surrender fang now, deliver [Serenity](/02---characters/adversaries/serenity)’s orb at Library gates
 
-**Rewards:** Survival, Vael’s guidance toward the Chained Library, critical intelligence on Hollow Thresholds  
-**Key NPCs:** Vael (mysterious Chainbearer), Francis (scouting ally)
+**Rewards:** Survival, [Vael](/02---characters/allies/vael)’s guidance toward the Chained Library, critical intelligence on Hollow Thresholds  
+**Key NPCs:** [Vael](/02---characters/allies/vael) (mysterious Chainbearer), [Francis](/02---characters/allies/francis-the-flameskull) (scouting ally)
 
 ---
 
@@ -590,16 +590,16 @@ created: 2025-07-16
 ### 📚 Gain Entry to the Chained Library
 
 **Location:** Unknown (cryptic clues: “roots beneath the seasons” / “vault at the world’s bloom”)  
-**Quest Giver:** Implied by Vael / party’s own pursuit
+**Quest Giver:** Implied by [Vael](/02---characters/allies/vael) / party’s own pursuit
 
 -  Learn of the Library’s nature via **Legend Lore** (Shad)
--  Confirm Library’s agents exist (Vael encounter)
--  Negotiate initial terms with Vael (surrender fang, hold orb until arrival)
--  Travel under Vael’s guidance to the Library’s hidden entrance
--  Surrender Serenity’s Orb as final toll for access
+-  Confirm Library’s agents exist ([Vael](/02---characters/allies/vael) encounter)
+-  Negotiate initial terms with [Vael](/02---characters/allies/vael) (surrender fang, hold orb until arrival)
+-  Travel under [Vael](/02---characters/allies/vael)’s guidance to the Library’s hidden entrance
+-  Surrender [Serenity](/02---characters/adversaries/serenity)’s Orb as final toll for access
 -  Gain audience with the Librarians
 
-**Current Status:** The party has secured Vael as guide and is committed to relinquishing Serenity’s orb once they reach the Library gates.
+**Current Status:** The party has secured [Vael](/02---characters/allies/vael) as guide and is committed to relinquishing [Serenity](/02---characters/adversaries/serenity)’s orb once they reach the Library gates.
 
 ---
 
@@ -612,7 +612,7 @@ created: 2025-07-16
 **Quest Giver:** Personal quest  
 **Status:** Information gathered, not yet pursued
 
-- [x] Learn from Vidrir about djinn rumors in southern desert
+- [x] Learn from [Vidrir](/02---characters/allies/vidrir) about djinn rumors in southern desert
 - [ ] Travel to southern desert
 - [ ] Locate djinn searching for elemental artifacts
 - [ ] Negotiate or fight for relic's return
@@ -626,7 +626,7 @@ created: 2025-07-16
 **Quest Giver:** Slumpet's secret discovery  
 **Status:** Information obtained, significance unknown
 
-- [x] Secretly obtain leyline map from Weaver's study
+- [x] Secretly obtain leyline map from [Weaver](/02---characters/adversaries/weaver)'s study
 - [x] Determine what "Hollow Thresholds" represent
 - [x] Investigate marked locations
 - [x] Understand connection to cult's portal activities
@@ -645,17 +645,17 @@ created: 2025-07-16
 
 **Known Elements:**
 
-- Cult of Eclipse serves "Lady of the Eclipse" working to free Nidhogg
-- Weaver (master of fear/illusion) orchestrating weakening of leyline network
+- Cult of Eclipse serves "Lady of the Eclipse" working to free [Nidhogg](/02---characters/adversaries/nidhogg)
+- [Weaver](/02---characters/adversaries/weaver) (master of fear/illusion) orchestrating weakening of leyline network
 - Barrier anchored by four seasonal leyline temples (Winter damaged, Summer missing crystal)
-- Serenity (defeated) served Nidhogg and cursed Tannis
-- Nidhogg "hates the Dusk Lord" - religious conflict element
+- [Serenity](/02---characters/adversaries/serenity) (defeated) served [Nidhogg](/02---characters/adversaries/nidhogg) and cursed Tannis
+- [Nidhogg](/02---characters/adversaries/nidhogg) "hates the Dusk Lord" - religious conflict element
 
 **Immediate Concerns:**
 
 - Repair damaged leyline crystals
 - Prevent further temple sabotage
-- Locate and stop the Weaver
+- Locate and stop the [Weaver](/02---characters/adversaries/weaver)
 - Find the mysterious "Chained Library"
 
 ### 🕸️ The Weaver
@@ -666,7 +666,7 @@ created: 2025-07-16
 **Known Capabilities:**
 
 - Mastery of Mirage Arcane (reality reshaping)
-- Destroyed Shad's village "for amusement" using false Nidhogg vision
+- Destroyed Shad's village "for amusement" using false [Nidhogg](/02---characters/adversaries/nidhogg) vision
 - Created soul-tethered spell - Silmirien
 - Orchestrating systematic weakening of planar barriers
 
@@ -674,7 +674,7 @@ created: 2025-07-16
 
 - Party has his journal and spellbook
 - Burning Silmirien page would call him "home"
-- Manus appears to mock the Weaver despite apparent alliance
+- [Manus](/02---characters/adversaries/manus) appears to mock the [Weaver](/02---characters/adversaries/weaver) despite apparent alliance
 - Castle exploration may reveal additional weaknesses
 
 ### 🌌 The Weakening Barrier

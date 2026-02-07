@@ -29,7 +29,7 @@ To seal the Hollow Threshold, the party must:
 3. Withstand the collapsing energies as the portal implodes
 
 ### 🧥 Story Hooks
-- Vael, an agent of the **Chained Library**, may appear—offering cryptic insight or asking for Serenity’s orb.
+- [Vael](/02---characters/allies/vael), an agent of the **Chained Library**, may appear—offering cryptic insight or asking for [Serenity](/02---characters/adversaries/serenity)’s orb.
 - The party may discover that **multiple thresholds** exist, and this is only the beginning of a larger planar unraveling.
 
 ---

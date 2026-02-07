@@ -14,7 +14,7 @@ cssclasses:
 - Princess of the winter Court
 - Oath of ancients paladin
 - Wielder of a moon blade
-- Daughter of Alora
+- Daughter of [Alora](/02---characters/allies/alora)
 
 ![trius-portrait.png](/images/trius-portrait.png)
 

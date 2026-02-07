@@ -22,14 +22,14 @@ author: Mark Molea
 
 ## Did Seraphina create him?
 
-**She awakened him.** The vessel is an antique dwarven samovar she bartered from a caravan. Using a **Spring Court rite** Faela once taught her—moonwater, a sliver of hearth-ember, and a spoken vow “never to boil in anger”—Seraphina **bound** the water-spirit and set the tavern’s warding sigils in his base. So: the brass body is old; the **soul** inside is Seraphina’s doing (with Faela’s blessing).
+**She awakened him.** The vessel is an antique dwarven samovar she bartered from a caravan. Using a **Spring Court rite** [Faela](/02---characters/allies/faela-mossheart) once taught her—moonwater, a sliver of hearth-ember, and a spoken vow “never to boil in anger”—[Seraphina](/02---characters/allies/seraphina-moonglow) **bound** the water-spirit and set the tavern’s warding sigils in his base. So: the brass body is old; the **soul** inside is [Seraphina](/02---characters/allies/seraphina-moonglow)’s doing (with [Faela](/02---characters/allies/faela-mossheart)’s blessing).
 
 ## What he does (beyond pouring)
 
 - **Precision Brewmaster:** keeps multiple infusions at different temps; hums a soft 3-note cadence to mark brew times (you’ll hear it shift when a pot is perfectly steeped).
 - **Safety & Wards:** senses rising tempers; lanterns dim and he releases a **cooling jasmine mist** (mechanically, think _calm emotions_ flavor, no compulsion—just a morale nudge).
 - **Tea-Sense:** can “taste” a pot for **poisons or spoilage**; if something’s off, he clicks, then puffs a small skull-shaped wisp.
-- **Hearth Aura:** while he’s stationed by the crescent fire, guests within a table’s reach feel subtly steadier—advantage on **one** fear check or Concentration save per visit (Seraphina’s house rule).
+- **Hearth Aura:** while he’s stationed by the crescent fire, guests within a table’s reach feel subtly steadier—advantage on **one** fear check or Concentration save per visit ([Seraphina](/02---characters/allies/seraphina-moonglow)’s house rule).
 - **Clean-handed:** insists on wiping tables; extends a felted pad from a hidden hatch and polishes brass railings when bored.
 
 ## Personality & quirks
@@ -43,7 +43,7 @@ author: Mark Molea
 
 - **Spill/grease fire:** sharp whistle + a short **cone of hissing steam** to snuff it.
 - **Brawl starting:** floor-level **fog veil** around ankles; visibility drops, tempers with it.
-- **Threat to Seraphina:** he’ll plant himself between her and danger and vent scalding bursts (nonlethal unless she says otherwise).
+- **Threat to [Seraphina](/02---characters/allies/seraphina-moonglow):** he’ll plant himself between her and danger and vent scalding bursts (nonlethal unless she says otherwise).
 
 ## Adventure bits you can use
 

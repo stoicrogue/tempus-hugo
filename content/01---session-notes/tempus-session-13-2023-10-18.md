@@ -34,13 +34,13 @@ created: 2023-10-18
 
 # Strong Start
 
-- [x] Francis runs into a force field trying to enter Vidrir’s grove Or is attacked by his ravens?
+- [x] [Francis](/02---characters/allies/francis-the-flameskull) runs into a force field trying to enter [Vidrir](/02---characters/allies/vidrir)’s grove Or is attacked by his ravens?
 
 # Scenes
 
-- [x] Vidrir’s grove debrief
+- [x] [Vidrir](/02---characters/allies/vidrir)’s grove debrief
 - [ ] Try to find the fey crossing
-- [x] Ambushed by serenity’s lackeys at the fey crossing
+- [x] Ambushed by [serenity](/02---characters/adversaries/serenity)'s lackeys at the fey crossing
     - [x] [Redcap](/02---characters/monsters/redcap)
     - [ ] 5 x Shade minions
 - [ ] Enter the feywild
@@ -54,7 +54,7 @@ created: 2023-10-18
 - [ ] The stand stones can be used for rapid transit via the ley lines that connect them
 - [x] The veil between this world and the feywild is thinning, which is how the Bandersnatch got here
 - [ ] The [Bandersnatch](/02---characters/monsters/bandersnatch) poisioned a winter court member and they need a poision gland to craft an antidote.
-- [ ] Serenity did cross into the feywild
+- [ ] [Serenity](/02---characters/adversaries/serenity) did cross into the feywild
 
 # Fantastic Locations
 
@@ -94,7 +94,7 @@ _Calculate the deadly encounter benchmark by adding together all character level
 
 - [Donjon Random Treasure Generator](https://donjon.bin.sh/5e/random/#type=treasure;treasure-cr=4;treasure-loot_type=treasure_hoard)
 - Dark crystal sphere
-    - Used by serenity to scry on her enemies and commune with the shadow dragon
+    - Used by [serenity](/02---characters/adversaries/serenity) to scry on her enemies and commune with the shadow dragon
 
   
 

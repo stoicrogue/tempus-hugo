@@ -34,18 +34,18 @@ created: 2024-03-20
 
 # Strong Start
 
-- [x] Serenity confronts the party on their way back to the Winter Court and battle ensues
+- [x] [Serenity](/02---characters/adversaries/serenity) confronts the party on their way back to the Winter Court and battle ensues
 
 # Scenes
 
-- [x] Fight Serenity
+- [x] Fight [Serenity](/02---characters/adversaries/serenity)
 - [ ] Investigate her cabin and magic items
 
 # Secret and Clues
 
 - [ ] The standing stones can be used for rapid transit via the ley lines that connect them
 - [x] Summer’s Edge can be reforged by any master elven smith, but rare materials from the summer court’s domain (sun crystals from the Great Golden tree)
-- [ ] Serenity did cross into the feywild
+- [ ] [Serenity](/02---characters/adversaries/serenity) did cross into the feywild
 
 # Fantastic Locations
 
@@ -62,8 +62,8 @@ _Link to fantastic locations. Use the @ symbol to internally link to a Location 
 
 NPC link. _Use the @ symbol to internally link to an NPC page._
 
-- Trius
-- Winter court eladrin - Alora
+- [Trius](/02---characters/allies/trius)
+- Winter court eladrin - [Alora](/02---characters/allies/alora)
 
 # Monsters
 
@@ -92,6 +92,6 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
 
 ### Session Notes
 
-- Defeated Serenity, although her cloaker did escape into the woods
-- Party plans on casting speak with dead to ask Serenity some questions
-- Party also plans on investigating Serenity’s cabin and magic items
+- Defeated [Serenity](/02---characters/adversaries/serenity), although her cloaker did escape into the woods
+- Party plans on casting speak with dead to ask [Serenity](/02---characters/adversaries/serenity) some questions
+- Party also plans on investigating [Serenity](/02---characters/adversaries/serenity)’s cabin and magic items

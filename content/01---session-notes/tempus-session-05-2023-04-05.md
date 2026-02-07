@@ -47,7 +47,7 @@ _Check off when revealed_
 - [ ] Only those with holy symbols of the Dusk Lord can pass the barrier encircling the town.
 - [ ] The first floor of the church is holy ground that the Spawn can’t penetrate
 - [ ] Darkness and barrier created by Dusk Lord as punishment for disrespect
-    - [ ] Caused by Serenity
+    - [ ] Caused by [Serenity](/02---characters/adversaries/serenity)
 
 # Fantastic Locations
 

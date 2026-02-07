@@ -16,14 +16,14 @@ created: 2025-05-14
 - Guardian of Forgotten Threads (Entrance Challenge)
 - The Mirror of Inner Truth (Puzzle/Roleplay Challenge)
 - The Frayed Loom (Trick/Setback)
-- The Echo of the Weaver (Climactic Battle or Challenge)
+- The Echo of the [Weaver](/02---characters/adversaries/weaver) (Climactic Battle or Challenge)
 - The Journal (Reward/Revelation)
 
 # Secret and Clues
 
 - [ ] The mountain’s real name is “Evenode Peak”, or "Tael'anore" in elvish
-- [x] The Weaver's family home is near the mountain.
-- [ ] The Weaver was once a **child of nobility** before his family allied themselves with Niddhog and was later humiliated by agents of the Dusk Lord.
+- [x] The [Weaver](/02---characters/adversaries/weaver)'s family home is near the mountain.
+- [ ] The [Weaver](/02---characters/adversaries/weaver) was once a **child of nobility** before his family allied themselves with Niddhog and was later humiliated by agents of the Dusk Lord.
 
 ### Monsters
 
@@ -34,7 +34,7 @@ created: 2025-05-14
 **Shadow Wolf**
 - AC/DC 13 | HP 45 (34-56) | Atk/Prof +5 | DPR 17 | # Atks 2 | Dmg 9 (2d6 + 2)
 
-**Echo of the Weaver**
+**Echo of the [Weaver](/02---characters/adversaries/weaver)**
 - AC/DC 16 | HP 145 (109-181) | Atk/Prof +8 | DPR 59 | # Atks 3 | Dmg 22 (3d12 + 3)
 - **Fracture Reality:** (Recharge 6) — The Echo fractures the terrain. Players must succeed on a Dexterity save (DC 15) or become Restrained by ghostly threads for 1 round.
 - **Legendary Action** (3 per round):
@@ -48,8 +48,8 @@ created: 2025-05-14
 - Toby was presented with the empty loom vision
 - Slumpet got caught in the illusion in the room with loom and thought he was falling to his death over lava
 - Shad used thunderwave to damage a major thread in the loom, disrupting its illusion magic, snapping Slumpet out of it
-- After piecing together this might be the Weaver's home, Shad asked Francis to completely destroy the great loom, which he did with great pleasure
-- The party found the throne room and were just about to interact with the Weaver's echo when the session ended.
+- After piecing together this might be the [Weaver](/02---characters/adversaries/weaver)'s home, Shad asked [Francis](/02---characters/allies/francis-the-flameskull) to completely destroy the great loom, which he did with great pleasure
+- The party found the throne room and were just about to interact with the [Weaver](/02---characters/adversaries/weaver)'s echo when the session ended.
 
 ### Todd's notes
 - Still must speak in rhymes for 5 more days
@@ -108,7 +108,7 @@ created: 2025-05-14
 - Toby gets a vision of a sky that has forgotten how to be blue. Feels like she’s forgetting everyone & everything she knew
 - Detect magic shows illusion magic imbued in some of the thread
 - Looks like a professional operation, not a hobbyist thing
-- Francis blows up the loom and enjoys it, at shad’s request after realizing this is the Weaver’s stronghold
+- [Francis](/02---characters/allies/francis-the-flameskull) blows up the loom and enjoys it, at shad’s request after realizing this is the [Weaver](/02---characters/adversaries/weaver)’s stronghold
 - Door we didn’t see before
 - Throne room, stained glass with color flickering in & out
 - Semi transparent figure of an elven man on the throne. About to start monologuing

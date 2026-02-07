@@ -22,20 +22,20 @@ cssclasses:
 > 
 > A hush falls the moment you cross the threshold. Lanterns with frosted glass petals cast soft halos, and a pale-blue fire curls in the crescent-shaped hearth, as if the moon itself decided to sit and warm its hands. The counter is a single ribbon of living wood, polished smooth; constellations drift lazily in the steam above clay cups, then fade when you try to count them twice. Somewhere in the rafters a barn owl blinks, unbothered and watchful.
 
-Seraphina Moonglow—half-elf mystic, proprietor, and reader of star-tea—moves like a quiet tide. One silver, one spring-green eye catch the light behind round spectacles. Indigo shawl, thin bracelets etched with lunar phases, vine-tattoos at her wrists that glimmer when she pours. She asks what you need, not what you want, and the kettle answers first.
+[Seraphina Moonglow](/02---characters/allies/seraphina-moonglow)—half-elf mystic, proprietor, and reader of star-tea—moves like a quiet tide. One silver, one spring-green eye catch the light behind round spectacles. Indigo shawl, thin bracelets etched with lunar phases, vine-tattoos at her wrists that glimmer when she pours. She asks what you need, not what you want, and the kettle answers first.
 
 ## Look & Feel
 
 - **Palette:** indigo, lavender, dew-white, warm honeywood.
 - **Sound:** soft chimes; low strings; the small creak of living timber.
 - **Scent:** night-blooming jasmine, fresh mint, rain on stone.
-- **Details:** shelves of glazed jars labeled in star-script; a skylight of leaded glass shaped like a waxing moon; tiny bioluminescent blossoms tucked into cracks of the beamwork. The hearth’s flame bends into a crescent when Seraphina wards the room.
+- **Details:** shelves of glazed jars labeled in star-script; a skylight of leaded glass shaped like a waxing moon; tiny bioluminescent blossoms tucked into cracks of the beamwork. The hearth’s flame bends into a crescent when [Seraphina](/02---characters/allies/seraphina-moonglow) wards the room.
 
 ## House Customs
 
 - **Whisper Rule:** voices fall to tavern-quiet; arguments cool at the door.
 - **Moon Tokens:** your first cup comes with a stamped clay token—trade it back for a small blessing before you leave.
-- **Reading the Cup:** Seraphina will read the constellations that settle on the tea’s surface (insight, omens, or a single honest question answered in metaphor).
+- **Reading the Cup:** [Seraphina](/02---characters/allies/seraphina-moonglow) will read the constellations that settle on the tea’s surface (insight, omens, or a single honest question answered in metaphor).
 
 ## Tea Menu (beneficial brews)
 
@@ -56,18 +56,18 @@ _Only one potent tea per guest between long rests. Effects last 1 hour unless no
 - **Starfall Memory** – blue cornflower, elderflower.  
     _Old knowledge falls into place._ (Advantage on **one** **Arcana**, **History**, or **Religion** check; if reading text, gain **Comprehend Languages (written only)** for **10 minutes**.)
 - **Silver Augury** (ceremonial, 10 minutes) – moonwater, verbena, silent stir.  
-    _The surface shows a pattern like spilled stars._ (Once, within the next hour, ask Seraphina a **yes/no** about a course of action within 30 minutes; she performs a gentle **Augury-style** reading.)
+    _The surface shows a pattern like spilled stars._ (Once, within the next hour, ask [Seraphina](/02---characters/allies/seraphina-moonglow) a **yes/no** about a course of action within 30 minutes; she performs a gentle **Augury-style** reading.)
 
 > **Pricing guide:** Common brews 3–5 gp; stronger effects 15–50 gp; **Silver Augury** 75 gp (or a favor sealed with a Moon Token).
 
 ## Staff & Oddities
 
-- **Seraphina Moonglow**, innkeep and seer; her barn owl **Thimble** patrols the rafters.    
+- **[Seraphina Moonglow](/02---characters/allies/seraphina-moonglow)**, innkeep and seer; her barn owl **Thimble** patrols the rafters.    
 - **Liraehl Dewstride**, server and herb-runner who swears the back garden changes its paths at night.
 - **The [Samovar](/02---characters/allies/samovar)**, a waist-high brass kettle golem that hums in three notes and insists on wiping tables.
 	- - A **waist-high brass kettle golem** animated by a gentle **water-spirit** bound to a moonstone “heart.”
 	- He moves on three trivet feet with a soft clink-clink, vents steam through star-shaped filigree, and communicates with **three musical hums** (low = “working,” middle = “ready,” high = “warning/please don’t.”)
-	- Using a **Spring Court rite** Faela once taught her—moonwater, a sliver of hearth-ember, and a spoken vow “never to boil in anger”—Seraphina **bound** the water-spirit and set the tavern’s warding sigils in his base.
+	- Using a **Spring Court rite** [Faela](/02---characters/allies/faela-mossheart) once taught her—moonwater, a sliver of hearth-ember, and a spoken vow “never to boil in anger”—[Seraphina](/02---characters/allies/seraphina-moonglow) **bound** the water-spirit and set the tavern’s warding sigils in his base.
 
 ## Back Garden (for those invited)
 
@@ -75,13 +75,13 @@ A pocket of midnight in perpetual spring. Narrow paths fold between trellises of
 
 ## Adventure Hooks
 
-- **Sundered Blend:** A rare bloom Seraphina needs for _Spring’s Breath_ grows only along the rim of a nearby Hollow Threshold—safe enough at dawn, perilous by dusk.    
-- **Broken Vow Brambles:** The vines around the Spring Leyline crystal thicken whenever someone breaks a promise made over **Petal Pact**. Seraphina asks the party to help untangle a web of oaths gone wrong.
+- **Sundered Blend:** A rare bloom [Seraphina](/02---characters/allies/seraphina-moonglow) needs for _Spring’s Breath_ grows only along the rim of a nearby Hollow Threshold—safe enough at dawn, perilous by dusk.    
+- **Broken Vow Brambles:** The vines around the Spring Leyline crystal thicken whenever someone breaks a promise made over **Petal Pact**. [Seraphina](/02---characters/allies/seraphina-moonglow) asks the party to help untangle a web of oaths gone wrong.
 - **Moon Token Debt:** A patron vanished after exchanging three tokens at once—an impossible breach of custom. The owl keeps staring at the empty chair.
 
 ## If they ask, “What refreshment do you have?”
 
-**Seraphina (warm, unhurried):**  
+**[Seraphina](/02---characters/allies/seraphina-moonglow) (warm, unhurried):**  
 “Clarity in cups. Comfort in steam. Tell me what the road has left aching, and I’ll steep what mends.”
 
 _(She sets out saucers, letting them choose by need rather than name.)_

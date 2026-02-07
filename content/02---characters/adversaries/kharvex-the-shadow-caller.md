@@ -26,4 +26,4 @@ However, the book is cursed—anyone who attempts to learn its secrets must make
 > 
 > Take meticulous notes; every detail could prove crucial in our future endeavors. Remember, this experiment is of utmost importance. The success of our grand design hinges on your ability to wield these ancient powers. Do not fail me.
 > 
-> The Weaver
+> The [Weaver](/02---characters/adversaries/weaver)

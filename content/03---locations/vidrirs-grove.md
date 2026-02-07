@@ -6,7 +6,7 @@ title: Vidrir’s Grove
 created: 2025-04-10
 Last Edited: 2023-05-31T16:41
 ---
-Vidrir's grove is a place of wild and untamed beauty, a testament to the druid's deep connection with the natural world. The air is thick with the sweet scent of blooming flowers, and the sound of birdsong fills the air, a chorus of melody that seems to come from every tree and bush.
+[Vidrir](/02---characters/allies/vidrir)'s grove is a place of wild and untamed beauty, a testament to the druid's deep connection with the natural world. The air is thick with the sweet scent of blooming flowers, and the sound of birdsong fills the air, a chorus of melody that seems to come from every tree and bush.
 
 The grove is a lush and verdant oasis, a riot of greenery and life that seems almost out of place amid the surrounding woods. Thick, gnarled oaks rise up from the earth like ancient sentinels, their branches stretching outwards to embrace the sun-dappled sky.
 

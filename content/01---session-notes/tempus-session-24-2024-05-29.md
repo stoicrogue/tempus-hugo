@@ -40,9 +40,9 @@ created: 2024-05-29
 
 - [x] Arrive in Autumn territory and find a standing-stone along the way
 - [x] Festival - food stands, artists, vendors, entertainers
-    - [x] [Autumn Court](/03---locations/autumn-court)
-- [x] Festival interrupted by the Weaver’s herald - [Xolthos, Omenspeaker](/02---characters/adversaries/xolthos-omenspeaker)
-    - [x] “Festival revelers! Gather! A message not of merriment but of fate! I am Xolthos Omenspeaker. For too long, you elves have basked in the illusion of safety. But the shadows lengthen. The darkness that consumed Tannis… the fey monsters roaming your langs… a mere taste of the totality to come! The ancient hunger stirs. The shadow dragon Nidhogg will return, and with it, unending night! Only those who submit to the Eclipse will find refuge in the coming darkness! Heed my words!”
+    - [x] [Autumn Court](/06---factions/autumn-court)
+- [x] Festival interrupted by the [Weaver](/02---characters/adversaries/weaver)’s herald - [Xolthos, Omenspeaker](/02---characters/adversaries/xolthos-omenspeaker)
+    - [x] “Festival revelers! Gather! A message not of merriment but of fate! I am [Xolthos Omenspeaker](/02---characters/adversaries/xolthos-omenspeaker). For too long, you elves have basked in the illusion of safety. But the shadows lengthen. The darkness that consumed Tannis… the fey monsters roaming your langs… a mere taste of the totality to come! The ancient hunger stirs. The shadow dragon [Nidhogg](/02---characters/adversaries/nidhogg) will return, and with it, unending night! Only those who submit to the Eclipse will find refuge in the coming darkness! Heed my words!”
 - [x] Meet [Hencelle](/02---characters/allies/hencelle)
     - [x] Tavern keeper at the [Aki Matsuri](/03---locations/aki-matsuri) (aka Fall Festival in Japanese)
     - [x] Master of Feasts
@@ -52,9 +52,9 @@ created: 2024-05-29
 
 # Secret and Clues
 
-- [ ] Weaver’s tower is in the feywild
+- [ ] [Weaver](/02---characters/adversaries/weaver)’s tower is in the feywild
 - [x] [Massa’Ista](/06---factions/massaista) Knows how to contact agents of the [[Tempus/Tempus Campaign/Campaign Database/Chained Library]] or how to find it
-- [x] The Cult of the Eclipse is far from dead. Serenity was just one of its high level members
+- [x] The Cult of the Eclipse is far from dead. [Serenity](/02---characters/adversaries/serenity) was just one of its high level members
 
 # Fantastic Locations
 
@@ -62,7 +62,7 @@ created: 2024-05-29
 
 _Link to fantastic locations. Use the @ symbol to internally link to a Location page._
 
-- [Autumn Court](/03---locations/autumn-court)
+- [Autumn Court](/06---factions/autumn-court)
 - [Aki Matsuri](/03---locations/aki-matsuri)
 
 # NPCs
@@ -98,7 +98,7 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
 
 Arrived at Autumn Court
 
-Met Hencelle
+Met [Hencelle](/02---characters/allies/hencelle)
 
 Met bounty hunter and his prisoner; learned about the Massa’Ista and where to try to find them
 

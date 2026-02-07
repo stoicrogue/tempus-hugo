@@ -51,7 +51,7 @@ created: 2024-07-24
 
 # Secret and Clues
 
-- [ ] Weaver’s tower is in the feywild
+- [ ] [Weaver](/02---characters/adversaries/weaver)’s tower is in the feywild
 - [x] On the way to Summer from Autumn, you will find the site of the final battle with the Shadow dragon and see remnants of the magic ritual used in sealing him away in the Shadowfell
 
 # Fantastic Locations
@@ -60,7 +60,7 @@ created: 2024-07-24
 
 _Link to fantastic locations. Use the @ symbol to internally link to a Location page._
 
-- [Summer Court](/03---locations/summer-court)
+- [Summer Court](/06---factions/summer-court)
 
 # NPCs
 

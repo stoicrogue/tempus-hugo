@@ -32,7 +32,24 @@ The vault uses numbered prefixes for organization:
 - `07 - rules/` - Homebrew mechanics (Minion Rules)
 - `08 - recap/` - Campaign summaries, quest log, timeline, dramatized narratives
 
-## Automation Scripts (Hugo Integration)
+## Automation Scripts
+
+### `_link_characters.py`
+Scans markdown files for unlinked character name references and converts them to Obsidian `[[wiki-links]]`. Run from the `tempus-campaign` directory:
+```bash
+python _link_characters.py          # apply changes
+python _link_characters.py --dry-run  # preview without modifying files
+```
+- Targets: `01 - session-notes/`, `02 - characters/`, `03 - locations/`, `05 - planning/`, `08 - recap/` (recursive)
+- Skips: `Tempus Campaign Dramatization.md`
+- Links 21 characters from `02 - characters/adversaries/` and `02 - characters/allies/`
+- Case-insensitive matching with proper display text (e.g., `serenity` → `[serenity](/02---characters/adversaries/serenity)`)
+- Uses pipe syntax for partial names (e.g., `Elara` → `[Elara](/02---characters/allies/elara-sunforge)`)
+- Skips: frontmatter, code blocks, headings, text already inside `[[...]]`, self-references (e.g., `Manus.md` won't link to `[Manus](/02---characters/adversaries/manus)`)
+- Safe to re-run — idempotent (0 changes if already linked)
+- To add new characters: update the `CHARACTERS` list at the top of the script
+
+### Hugo Integration
 
 These scripts ensure frontmatter compatibility for publishing campaign notes to a Hugo-based website. A separate project contains the Hugo site and copy scripts.
 

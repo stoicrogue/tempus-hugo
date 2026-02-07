@@ -10,15 +10,15 @@ created: 2025-07-05
 ---
 ![secret-elven-forge.jpg](/images/secret-elven-forge.jpg)
 
-Forge below Elara's workshop where her truly magical artifacts are created.  Here she can tap into the leyline energies to enhance her creations and give her the ability to breath life back into sentient artifacts, like [Summer’s Edge (orig)](/04---items/summers-edge-orig).
+Forge below [Elara](/02---characters/allies/elara-sunforge)'s workshop where her truly magical artifacts are created.  Here she can tap into the leyline energies to enhance her creations and give her the ability to breath life back into sentient artifacts, like [Summer’s Edge (orig)](/04---items/summers-edge-orig).
 
 ## **The Reforging of Summer’s Edge**
 
-Elara led them down a narrow stone staircase hidden behind her forge’s hearth, each step humming with a subtle warmth. The walls themselves seemed to glow with life, veins of feint golden leyline energy pulsing beneath translucent crystalline stone, illuminating their descent.
+[Elara](/02---characters/allies/elara-sunforge) led them down a narrow stone staircase hidden behind her forge’s hearth, each step humming with a subtle warmth. The walls themselves seemed to glow with life, veins of feint golden leyline energy pulsing beneath translucent crystalline stone, illuminating their descent.
 
 At the bottom, the air opened into a vast subterranean chamber. Water trickled in quiet streams along mossy rock ledges, pooling into a crystalline basin at the chamber’s center. Faint motes of golden light drifted lazily above the forge like fireflies caught in an unseen breeze. In the center of it all stood an ancient anvil, its surface etched with spiraling elven runes that flickered with the pulse of the leyline energies below.
 
-Elara stepped forward, eyes wide with reverence despite having seen this place countless times before. Her forge hammer hummed softly at her side, as if eager to begin.
+[Elara](/02---characters/allies/elara-sunforge) stepped forward, eyes wide with reverence despite having seen this place countless times before. Her forge hammer hummed softly at her side, as if eager to begin.
 
 > _“Welcome,”_ she said, her voice carrying a fierce, hopeful joy. _“This place was old before the first Summer Lady donned her crown. Its heart beats with the sun’s song. Today, it shall wake a Guardian once more.”_
 
@@ -30,11 +30,11 @@ She lifted her hammer. For a moment, there was only silence, as if the entire ch
 
 The Celestial Ore melted under her precise strikes, flowing like molten starlight into the fractured steel. The captured sun flared within its vial before bursting forth in a torrent of golden light, weaving itself into the reforged blade, illuminating the cavern in radiant dawn. You instinctively shield your eyes as the blade dranks in the sun’s essence, glowing brighter with each hammerfall.
 
-When Elara landed the final strike, the light exploded outward in a silent wave, bathing the chamber in warmth and brilliance. The leyline veins beneath the forge pulsed in time with the sword’s glow, as though the world itself was welcoming its return.
+When [Elara](/02---characters/allies/elara-sunforge) landed the final strike, the light exploded outward in a silent wave, bathing the chamber in warmth and brilliance. The leyline veins beneath the forge pulsed in time with the sword’s glow, as though the world itself was welcoming its return.
 
 She stepped back, chest heaving with exertion, sweat glistening on her brow. But her eyes shone with unhidden joy.
 
-Elara turned and held the sword aloft. **Summer’s Edge** gleamed with a brilliance that defied shadow, its runes alive with radiant gold. The blade pulsed once, sending ripples across the still waters of the cavern pool.
+[Elara](/02---characters/allies/elara-sunforge) turned and held the sword aloft. **Summer’s Edge** gleamed with a brilliance that defied shadow, its runes alive with radiant gold. The blade pulsed once, sending ripples across the still waters of the cavern pool.
 
 > _“It is done,”_ she said softly, awe in her voice. _“Summer’s Edge lives again. May it burn away all shadows.”_
 

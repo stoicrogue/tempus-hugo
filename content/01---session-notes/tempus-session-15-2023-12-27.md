@@ -34,12 +34,12 @@ created: 2023-12-27
 
 # Strong Start
 
-- [x] Meet with Alora to get info
+- [x] Meet with [Alora](/02---characters/allies/alora) to get info
 
 # Scenes
 
-- [x] Meet with Alora
-    - [x] Alora offers them a reward of magic items and information for anyone who brings her a sample of the creature’s venom
+- [x] Meet with [Alora](/02---characters/allies/alora)
+    - [x] [Alora](/02---characters/allies/alora) offers them a reward of magic items and information for anyone who brings her a sample of the creature’s venom
     - [ ] Asks party to investigate the leyline nexus supporting the barrier
 - [x] Track the [Bandersnatch](/02---characters/monsters/bandersnatch)
 - [ ] Try to find the fey crossing
@@ -53,7 +53,7 @@ created: 2023-12-27
 - [ ] The veil is being reinforced by a barrier constructed by a previous matriarch of the winter court.
 - [ ] Temples near leylines in each seasons’ domain hold a crystal meant to stabilize the barrier
 - [ ] Summer’s Edge can be reforged by any master elven smith, but rare materials from the summer court’s domain (sun crystals from the Great Golden tree)
-- [ ] Serenity did cross into the feywild
+- [ ] [Serenity](/02---characters/adversaries/serenity) did cross into the feywild
 
 # Fantastic Locations
 
@@ -71,7 +71,7 @@ _Link to fantastic locations. Use the @ symbol to internally link to a Location 
 NPC link. _Use the @ symbol to internally link to an NPC page._
 
 - [Vidrir](/02---characters/allies/vidrir)
-- Winter court eladrin - Alora
+- Winter court eladrin - [Alora](/02---characters/allies/alora)
 
 # Monsters
 
@@ -107,11 +107,11 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
 - Found a nice inn to rest for the night, the Restful Buck, relishing in the chance to sleep in a proper bed for the first time in weeks
     - Jared - elven bartender
     - Shad performed for tips and some free drinks; not his greatest performance but he did take a nice pot off the smithy in a game of poker after catching his tell
-    - Discovered the court is headed by Alora, the Lady of Winter
-    - Heard rumors that Alora’s daughter, Olivia, had been poisoned
-- Sought an audience with Alora the next day, around noon
-    - Alora was guarded at first by softened when the party showed her Vidrir’s medallion from the Order of Seasons
+    - Discovered the court is headed by [Alora](/02---characters/allies/alora), the Lady of Winter
+    - Heard rumors that [Alora](/02---characters/allies/alora)’s daughter, Olivia, had been poisoned
+- Sought an audience with [Alora](/02---characters/allies/alora) the next day, around noon
+    - [Alora](/02---characters/allies/alora) was guarded at first by softened when the party showed her [Vidrir](/02---characters/allies/vidrir)’s medallion from the Order of Seasons
     - She was obviously distracted by her daughter’s illness and would focus on little else until her daughter was safe
 - Skreek used his lay on hands to heal Olivia
-    - Alora was overjoyed and thanked the party, promising to discuss their topics of interest now that her daughter is safe
-    - Alora is still concerned about the creature that poisoned her daughter.
+    - [Alora](/02---characters/allies/alora) was overjoyed and thanked the party, promising to discuss their topics of interest now that her daughter is safe
+    - [Alora](/02---characters/allies/alora) is still concerned about the creature that poisoned her daughter.

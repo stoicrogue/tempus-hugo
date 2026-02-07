@@ -40,7 +40,7 @@ created: 2023-07-12
     - [x] Shad
     - [x] Slumpet back in jail
     - [x] Toby turned into a fish on dry land
-    - [x] Skreek sees the arbiter cleansing the town of Tannis
+    - [x] Skreek sees the [arbiter](/02---characters/allies/arbiter) cleansing the town of Tannis
         - [x] “Wrath of god”
 
 # Scenes
@@ -54,15 +54,15 @@ created: 2023-07-12
     - [ ] [Mimic](/02---characters/monsters/mimic) in the main room as a guard
     - [ ] Investigate voodoo of town and tainted medallion
     - [ ] Find alter to the shadow dragon
-- [ ] Serenity appears to defend her lair
+- [ ] [Serenity](/02---characters/adversaries/serenity) appears to defend her lair
 - [ ] Animates the shadows of the players as an action
 
 # Secret and Clues
 
 _Check off when revealed_
 
-- [ ] Darklings work for Serenity
-- [ ] Serenity’s lair is in the elven forest north of the camp
+- [ ] Darklings work for [Serenity](/02---characters/adversaries/serenity)
+- [ ] [Serenity](/02---characters/adversaries/serenity)’s lair is in the elven forest north of the camp
     - [ ] Shadows seem abnormally gaunt and sometimes move on their own as though alive.
     - [x] Creatures are transported to a harmless but eerie demiplane filled with shadowy forms, waxy corpses, and cackling. The creatures are trapped there for a minute or two, and then returned to the place where they vanished from.
     - [ ] Intelligent creatures see hallucinations of dead friends, family members, and even themselves littering the hag’s realm. Any attempt to interact with a hallucinatory image causes it to disappear.
@@ -84,8 +84,8 @@ _Link to fantastic locations. Use the @ symbol to internally link to a Location 
 NPC link. _Use the @ symbol to internally link to an NPC page._
 
 - [Vidrir](/02---characters/allies/vidrir)
-- Serenity
-- Arbiter
+- [Serenity](/02---characters/adversaries/serenity)
+- [Arbiter](/02---characters/allies/arbiter)
 
 # Monsters
 

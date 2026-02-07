@@ -37,7 +37,7 @@ Not sure yet
 
 Part 2: Location, Scope, and Focus
 
-4. Do you want to continue with the current storyline (Weaver, sword, the Cult, portals)?
+4. Do you want to continue with the current storyline ([Weaver](/02---characters/adversaries/weaver), sword, the Cult, portals)?
 
 Yes, I want to see how it all resolves
 

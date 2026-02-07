@@ -9,7 +9,7 @@ cssclasses:
   - center-images
   - image-borders
 ---
-Seraphina Moonglow, a half-elf mystic, owner of the [Moonlit Hearth](/03---locations/moonlit-hearth) tavern in the [Spring Court](/03---locations/spring-court).
+Seraphina Moonglow, a half-elf mystic, owner of the [Moonlit Hearth](/03---locations/moonlit-hearth) tavern in the [Spring Court](/06---factions/spring-court).
 
 ![Seraphina_Moonglow.png](/images/Seraphina_Moonglow.png)
 
@@ -64,13 +64,13 @@ Seraphina Moonglow, a half-elf mystic, owner of the [Moonlit Hearth](/03---locat
 
 ## Boundaries & truth
 
-- She won’t name secrets that aren’t hers (Faela’s rites, exact temple wards).
+- She won’t name secrets that aren’t hers ([Faela](/02---characters/allies/faela-mossheart)’s rites, exact temple wards).
 - She _will_ point: “The garden keeps a door for those who make promises out loud.”
 - If pressed too hard, she smiles: “Some cups must steep longer.”
 
 ## Hooks & escalations
 
-- **Mention Faela Mossheart:** her expression softens. “High Druidess taught me to _listen_ to water. If she sent you, the Hearth will stand with you.”
+- **Mention [Faela Mossheart](/02---characters/allies/faela-mossheart):** her expression softens. “High Druidess taught me to _listen_ to water. If she sent you, the Hearth will stand with you.”
 - **Ask for help with the Spring Temple:** “I can lend you the **Silver Augury**—but you must make your question _smaller_ before it will answer.”
 - **Bring up a broken vow:** lanterns dim; the Samovar gives a warning hum. “Then let us brew **Petal Pact** and say the words again.”
 

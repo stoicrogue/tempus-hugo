@@ -34,17 +34,17 @@ created: 2024-04-03
 
 # Strong Start
 
-- [x] Shad uses speak with dead to interrogate Serenity
+- [x] Shad uses speak with dead to interrogate [Serenity](/02---characters/adversaries/serenity)
 
 # Scenes
 
-- [x] Investigate Serenity’s cabin and magic items
+- [x] Investigate [Serenity](/02---characters/adversaries/serenity)’s cabin and magic items
 
 # Secret and Clues
 
 - [x] The standing stones can be used for rapid transit via the ley lines that connect them
 - [x] Summer’s Edge can be reforged by any master elven smith, but rare materials from the summer court’s domain (sun crystals from the Great Golden tree)
-- [ ] Serenity did cross into the feywild
+- [ ] [Serenity](/02---characters/adversaries/serenity) did cross into the feywild
 
 # Fantastic Locations
 
@@ -61,8 +61,8 @@ _Link to fantastic locations. Use the @ symbol to internally link to a Location 
 
 NPC link. _Use the @ symbol to internally link to an NPC page._
 
-- Trius
-- Winter court eladrin - Alora
+- [Trius](/02---characters/allies/trius)
+- Winter court eladrin - [Alora](/02---characters/allies/alora)
 
 # Monsters
 
@@ -91,22 +91,22 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
 
 ### Session Notes
 
-- Cast speak with dead to ask Serenity some questions
+- Cast speak with dead to ask [Serenity](/02---characters/adversaries/serenity) some questions
     - How old are you?
         - 300 years
-    - Why did the Weaver destroy Shad’s village?
+    - Why did the [Weaver](/02---characters/adversaries/weaver) destroy Shad’s village?
         - For the fun of it
-    - Where is the Weaver?
+    - Where is the [Weaver](/02---characters/adversaries/weaver)?
         - Idiot… I already told you that
     - Are you responsible for the Elves’ barrier weakening?
         - No, but took advantage of it
     - Will you give me the recipe for the breakfast you made us?
         - No.
-- Investigates Serenity’s cabin and magic items
+- Investigates [Serenity](/02---characters/adversaries/serenity)’s cabin and magic items
     - Cabin: books on local flora (including feywild), shrunken head of a dwarf
-- Reports back to Alora
-- Alora gifts the part with a ring that will allow they to fast-travel between standing stones they have visited
+- Reports back to [Alora](/02---characters/allies/alora)
+- [Alora](/02---characters/allies/alora) gifts the part with a ring that will allow they to fast-travel between standing stones they have visited
 - Next steps?
-    - Talk to Alora’s court wizard about barrier repair options
-    - Pick up standing stones from order of seasons and talk to Vidrir?
+    - Talk to [Alora](/02---characters/allies/alora)’s court wizard about barrier repair options
+    - Pick up standing stones from order of seasons and talk to [Vidrir](/02---characters/allies/vidrir)?
     - Visit Autumn/Summer courts to gather intel and learn about repairing Summer’s Edge

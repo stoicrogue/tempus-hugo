@@ -52,8 +52,8 @@ created: 2023-06-28
 
 _Check off when revealed_
 
-- [ ] Darklings work for Serenity
-- [ ] Serenity’s lair is in the elven forest north of the camp
+- [ ] Darklings work for [Serenity](/02---characters/adversaries/serenity)
+- [ ] [Serenity](/02---characters/adversaries/serenity)’s lair is in the elven forest north of the camp
     - [ ] Shadows seem abnormally gaunt and sometimes move on their own as though alive.
     - [x] Creatures are transported to a harmless but eerie demiplane filled with shadowy forms, waxy corpses, and cackling. The creatures are trapped there for a minute or two, and then returned to the place where they vanished from.
     - [ ] Intelligent creatures see hallucinations of dead friends, family members, and even themselves littering the hag’s realm. Any attempt to interact with a hallucinatory image causes it to disappear.
@@ -75,8 +75,8 @@ _Link to fantastic locations. Use the @ symbol to internally link to a Location 
 NPC link. _Use the @ symbol to internally link to an NPC page._
 
 - [Vidrir](/02---characters/allies/vidrir)
-- Serenity
-- Arbiter
+- [Serenity](/02---characters/adversaries/serenity)
+- [Arbiter](/02---characters/allies/arbiter)
 
 # Monsters
 

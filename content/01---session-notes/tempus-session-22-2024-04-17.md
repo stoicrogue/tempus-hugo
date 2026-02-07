@@ -34,16 +34,16 @@ created: 2024-04-17
 
 # Strong Start
 
-- [x] Visit Alora and her court wizard
+- [x] Visit [Alora](/02---characters/allies/alora) and her court wizard
 
 # Scenes
 
-- [x] Alora’s meeting w/court wizard (Levi, Arch Magus)
+- [x] [Alora](/02---characters/allies/alora)’s meeting w/court wizard (Levi, Arch Magus)
 - [ ]
 
 # Secret and Clues
 
-- [ ] Weaver’s tower is in the feywild
+- [ ] [Weaver](/02---characters/adversaries/weaver)’s tower is in the feywild
 - [ ]
 
 # Fantastic Locations
@@ -61,8 +61,8 @@ _Link to fantastic locations. Use the @ symbol to internally link to a Location 
 
 NPC link. _Use the @ symbol to internally link to an NPC page._
 
-- Trius
-- Winter court eladrin - Alora
+- [Trius](/02---characters/allies/trius)
+- Winter court eladrin - [Alora](/02---characters/allies/alora)
 
 # Monsters
 
@@ -86,10 +86,10 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
 
 ### Session Notes
 
-- Shad convinces Francis he deserves a hug because they have grown so close after defeating Serenity
-- Meet with Alora and her wizard, Levi
-- Levi and Alora told the party about the [[Tempus/Tempus Campaign/Campaign Database/Chained Library]]
-    - Alora said her mother’s journal mentions the library and surmises that she may have learned about the barrier ritual from a forbidden tome from the library.
+- Shad convinces [Francis](/02---characters/allies/francis-the-flameskull) he deserves a hug because they have grown so close after defeating [Serenity](/02---characters/adversaries/serenity)
+- Meet with [Alora](/02---characters/allies/alora) and her wizard, Levi
+- Levi and [Alora](/02---characters/allies/alora) told the party about the [[Tempus/Tempus Campaign/Campaign Database/Chained Library]]
+    - [Alora](/02---characters/allies/alora) said her mother’s journal mentions the library and surmises that she may have learned about the barrier ritual from a forbidden tome from the library.
     - Unfortunately, almost no one knows where the library is located
     - Library agents are rumored to search for forbidden knowledge, books, and artifacts. They may seek out the party if they know they possess such an artifact.
 - Party attunes their teleportation ring to two standing stones in Winter’s domain: outside the court and next to the great silver tree.

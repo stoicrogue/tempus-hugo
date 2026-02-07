@@ -46,7 +46,7 @@ _Check off when revealed_
 - [ ] [Serenity](/02---characters/adversaries/serenity) visited the Dusk Lord temple in Tannis; was very interested in seeing a holy symbol.
 - [ ] Barrier can only be passed by those with holy symbols
 - [ ] Darkness and barrier created by Dusk Lord as punishment for disrespect
-    - [ ] Caused by Serenity
+    - [ ] Caused by [Serenity](/02---characters/adversaries/serenity)
 
 # Fantastic Locations
 
@@ -55,7 +55,7 @@ _Check off when revealed_
 _Link to fantastic locations. Use the @ symbol to internally link to a Location page._
 
 - Tannis windmill
-    - Lerissa has this setup for overflow ale storage as well as a potential place of lodging, which she offers to the players for the night
+    - [Lerissa](/02---characters/allies/lerissa) has this setup for overflow ale storage as well as a potential place of lodging, which she offers to the players for the night
 - Church dedicated to the Dusk Lord
 
 # NPCs
@@ -83,7 +83,7 @@ _Calculate the deadly encounter benchmark by adding together all character level
     - Might be called Summer’s Edge?
         - Hilt has a blazing sun on one side and a bird in flight on the other
 - [Bag of Starlight](/04---items/bag-of-starlight)
-- Shield token from Lerissa (casts [aid](https://www.dndbeyond.com/spells/aid))
+- Shield token from [Lerissa](/02---characters/allies/lerissa) (casts [aid](https://www.dndbeyond.com/spells/aid))
 
 ## Scratchpad
 
@@ -97,8 +97,8 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
     - Thinks she has a vendetta against the Order or Seasons
     - Wanted to desecrate the tomb
 - Party found the secret room in the tomb and recovered the elven sword
-    - Lerissa told the party there are folktales about the Raven Knight
-- Lerissa suggested the seek out the sage, Vidrir, in the shimmerwood to get info about the Order of Seasons and the broken sword
+    - [Lerissa](/02---characters/allies/lerissa) told the party there are folktales about the Raven Knight
+- [Lerissa](/02---characters/allies/lerissa) suggested the seek out the sage, [Vidrir](/02---characters/allies/vidrir), in the shimmerwood to get info about the Order of Seasons and the broken sword
 - Sig the blacksmith was very grateful after being reunited with Winry
     - Gave [Slumpet Zoommimist](/02---characters/main-party/slumpet-zoommimist) a masterwork short sword
     - Gave [Shadicar](/02---characters/main-party/shadicar) studded leather armor

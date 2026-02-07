@@ -12,13 +12,13 @@ Last Edited: 2024-09-18T19:25
 
 **The Coliseum:** At the center of the Summer Court stands a massive coliseum, where games and contests of skill are held. The coliseum is an architectural marvel, with tiered seating that can accommodate thousands of spectators. The arena floor is versatile, capable of hosting a variety of events, from gladiatorial combat to archery contests.
 
-**The Forge:** Elara's forge is located near the coliseum, a large open-air workshop filled with enchanted tools and materials. The forge's centerpiece is a massive anvil, inscribed with ancient runes, and a roaring forge fire that never seems to dim. The air is thick with the scent of molten metal and the hum of magical energy.
+**The Forge:** [Elara](/02---characters/allies/elara-sunforge)'s forge is located near the coliseum, a large open-air workshop filled with enchanted tools and materials. The forge's centerpiece is a massive anvil, inscribed with ancient runes, and a roaring forge fire that never seems to dim. The air is thick with the scent of molten metal and the hum of magical energy.
 
 ---
 
-By introducing Elara Sunforge, the master smith of the Summer Court, you provide your party with a memorable and skilled NPC who can reforge the legendary blade, Summer's Edge. The setting of the Summer Court, with its Roman-inspired architecture and vibrant atmosphere, adds depth and richness to your campaign world. If you need further details or adjustments, feel free to let me know!
+By introducing [Elara Sunforge](/02---characters/allies/elara-sunforge), the master smith of the Summer Court, you provide your party with a memorable and skilled NPC who can reforge the legendary blade, Summer's Edge. The setting of the Summer Court, with its Roman-inspired architecture and vibrant atmosphere, adds depth and richness to your campaign world. If you need further details or adjustments, feel free to let me know!
 
-Here are a couple of brief ideas for materials the party could gather to earn Elara's trust and aid in reforging Summer's Edge:
+Here are a couple of brief ideas for materials the party could gather to earn [Elara](/02---characters/allies/elara-sunforge)'s trust and aid in reforging Summer's Edge:
 
 ### Practical Material: Celestial Ore
 
@@ -27,7 +27,7 @@ Here are a couple of brief ideas for materials the party could gather to earn El
 **Quest Idea:**
 
 - **Location:** The party must travel to a remote and dangerous region where a meteorite has recently crashed. The crater is guarded by elemental creatures drawn to the powerful energies of the ore.
-- **Challenge:** The party must navigate treacherous terrain, defeat elemental guardians, and mine the Celestial Ore from the heart of the crater. The ore is heavy and must be transported back to Elara's forge.
+- **Challenge:** The party must navigate treacherous terrain, defeat elemental guardians, and mine the Celestial Ore from the heart of the crater. The ore is heavy and must be transported back to [Elara](/02---characters/allies/elara-sunforge)'s forge.
 
 ### Fantastical Material: The Kiss of the Midday Sun from the Feywild
 
@@ -51,7 +51,7 @@ Here are a couple of brief ideas for materials the party could gather to earn El
 
 ## **Introduction to the Quest:**
 
-Elara examines the broken pieces of Summer's Edge with a critical eye, her fingers tracing the intricate runes etched into the blade. She looks up at you, her emerald eyes sparkling with determination.
+[Elara](/02---characters/allies/elara-sunforge) examines the broken pieces of Summer's Edge with a critical eye, her fingers tracing the intricate runes etched into the blade. She looks up at you, her emerald eyes sparkling with determination.
 
 "To reforge Summer's Edge, we need materials of extraordinary power. The blade was crafted with the essence of the sun and the strength of the stars. We will need Celestial Ore, a rare metal that fell from the heavens, and the Kiss of the Midday Sun from the Feywild. Only then can we restore this legendary weapon to its former glory."
 

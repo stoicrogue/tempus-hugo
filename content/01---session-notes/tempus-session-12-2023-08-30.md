@@ -36,21 +36,21 @@ created: 2023-08-30
 
 # Strong Start
 
-- [x] Wake after a dream of Tannis being restored and the Arbiter granting then a boon of setting sun (1d8 radiant damage once per long rest)
+- [x] Wake after a dream of Tannis being restored and the [Arbiter](/02---characters/allies/arbiter) granting then a boon of setting sun (1d8 radiant damage once per long rest)
 
 # Scenes
 
 - [x] [Serenity](/02---characters/adversaries/serenity) appears to defend her lair
-    - [x] [Flameskull](/02---characters/monsters/flameskull) is named Francis. Serenity asks party where he is. Let's party keep remains with a smile
+    - [x] [Flameskull](/02---characters/monsters/flameskull) is named [Francis](/02---characters/allies/francis-the-flameskull). [Serenity](/02---characters/adversaries/serenity) asks party where he is. Let's party keep remains with a smile
     - [ ] Animates the 2x [Shadow (MCDM)](/02---characters/monsters/shadow-mcdm) the players as an action
-    - [ ] [Cloaker (mini)](/02---characters/monsters/cloaker-mini) attacks if Serenity needs to stall the party
-- [x] Find serenity’s journal in the aftermath
+    - [ ] [Cloaker (mini)](/02---characters/monsters/cloaker-mini) attacks if [Serenity](/02---characters/adversaries/serenity) needs to stall the party
+- [x] Find [serenity](/02---characters/adversaries/serenity)'s journal in the aftermath
 
 # Secret and Clues
 
 _Check off when revealed_
 
-- [x] Serenity worships the shadow dragon
+- [x] [Serenity](/02---characters/adversaries/serenity) worships the shadow dragon
 - [x] Flame skulls reanimate!
 
 # Fantastic Locations
@@ -70,8 +70,8 @@ _Link to fantastic locations. Use the @ symbol to internally link to a Location 
 NPC link. _Use the @ symbol to internally link to an NPC page._
 
 - [Vidrir](/02---characters/allies/vidrir)
-- Serenity
-- Arbiter
+- [Serenity](/02---characters/adversaries/serenity)
+- [Arbiter](/02---characters/allies/arbiter)
 
 # Monsters
 
@@ -91,7 +91,7 @@ _Calculate the deadly encounter benchmark by adding together all character level
 - [Donjon Random Treasure Generator](https://donjon.bin.sh/5e/random/#type=treasure;treasure-cr=4;treasure-loot_type=treasure_hoard)
 - [Dagger of Darkness](/04---items/dagger-of-darkness)
 - Dark crystal sphere
-    - Used by serenity to scry on her enemies and commune with the shadow dragon
+    - Used by [serenity](/02---characters/adversaries/serenity) to scry on her enemies and commune with the shadow dragon
 - Heartstone
 - Spell scrolls
     - Gate
@@ -106,14 +106,14 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
 
 ### Session Notes
 
-- Serenity shows up and questions the party
-- Demands her crystal sphere back. The party denies the request, Slumpet throws the sphere out the window, and they try to leave. Serenity magically slams the doors shut and attacks the party
-- Shad tries to use the gate spell scroll to summon the Arbiter but it doesn’t work
+- [Serenity](/02---characters/adversaries/serenity) shows up and questions the party
+- Demands her crystal sphere back. The party denies the request, Slumpet throws the sphere out the window, and they try to leave. [Serenity](/02---characters/adversaries/serenity) magically slams the doors shut and attacks the party
+- Shad tries to use the gate spell scroll to summon the [Arbiter](/02---characters/allies/arbiter) but it doesn’t work
 - Physical attacks are not proving to be very effective against the Hag while her claws seem formidable.
-- In an act of desperation, Shad casts charm person on serenity. It succeeds!?!
-- The party begins talking to serenity as she apologizes and begins making the party tea and breakfast.
-- They acquire a journal serenity dropped during the fight. Between the journal and the conversation with the charmed serenity, the party learns she has been working with a spell caster named the Weaver.
-- The Weaver specializes in fear and illusion magic. The party learns he was behind the tragedy of Shad’s village, where the Weaver conjured an illusion of a shadow dragon so convincing and fearsome that the villagers literally died of fright…
+- In an act of desperation, Shad casts charm person on [serenity](/02---characters/adversaries/serenity). It succeeds!?!
+- The party begins talking to [serenity](/02---characters/adversaries/serenity) as she apologizes and begins making the party tea and breakfast.
+- They acquire a journal [serenity](/02---characters/adversaries/serenity) dropped during the fight. Between the journal and the conversation with the charmed [serenity](/02---characters/adversaries/serenity), the party learns she has been working with a spell caster named the [Weaver](/02---characters/adversaries/weaver).
+- The [Weaver](/02---characters/adversaries/weaver) specializes in fear and illusion magic. The party learns he was behind the tragedy of Shad’s village, where the [Weaver](/02---characters/adversaries/weaver) conjured an illusion of a shadow dragon so convincing and fearsome that the villagers literally died of fright…
 - The party slips out hoping to be miles away before the charm spell wears off.
-- Slumpet takes the lead with the dark crystal in tow, trying to keep it away from serenity, and heads towards the safety of Vidrir’s grove.
-- Along the way Slumpet discovers that the flame skull corpses has revived itself. The party catches up and parlays with the skull named Francis. The skull agrees to forming a pact with the party, agreeing to show him adventures in exchange for his arcane knowledge.
+- Slumpet takes the lead with the dark crystal in tow, trying to keep it away from [serenity](/02---characters/adversaries/serenity), and heads towards the safety of [Vidrir](/02---characters/allies/vidrir)’s grove.
+- Along the way Slumpet discovers that the flame skull corpses has revived itself. The party catches up and parlays with the skull named [Francis](/02---characters/allies/francis-the-flameskull). The skull agrees to forming a pact with the party, agreeing to show him adventures in exchange for his arcane knowledge.

@@ -9,7 +9,7 @@ author:
 cssclasses:
   - center-images
 ---
-**Faela Mossheart - High Druid of the [Spring Court](/03---locations/spring-court)**
+**Faela Mossheart - High Druid of the [Spring Court](/06---factions/spring-court)**
 
 - Embodies the idea of gentle guidance and transformation
 - Recognizes how far they’ve come and encourages them to embrace all the changes they’ve experienced along the way.

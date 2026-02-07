@@ -20,8 +20,8 @@ Last Edited: 2024-05-01T16:43
     - Small stage inviting performers
     - Magical sonos system sounds fantastic
     - Luxury
-- Alora - Lady of Winter
-- Trius - Winter Knight (oath of the ancients paladin and weilder of a Moonblade)
-- Levi - Arch Magus (Alora’s court wizard)
+- [Alora](/02---characters/allies/alora) - Lady of Winter
+- [Trius](/02---characters/allies/trius) - Winter Knight (oath of the ancients paladin and weilder of a Moonblade)
+- Levi - Arch Magus ([Alora](/02---characters/allies/alora)’s court wizard)
 - Night Garden’s Circle
     - Apothecary and magic shop

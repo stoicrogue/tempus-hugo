@@ -7,7 +7,7 @@ author: Mark Molea
 ## The Ashen Shrine
 
 > “There are sanctioned gates. Places written in the margins of the world. The Ashen Shrine is one such place—a whisper of a path left open for those who do not wear the chains but have earned the Library’s regard. You would not have found it unless you had alredy plucked the threads of fate.”
-> *- Vael, Fifth Binder and Chainbearer of the Silent Vault*
+> *- [Vael](/02---characters/allies/vael), Fifth Binder and Chainbearer of the Silent Vault*
 
 - Atop a moss-laced clearing at the base of **Mount Vesithar**, surrounded by scorched trees that have since regrown with silver-veined bark. Faint leyline currents hum in the air.
 - Half-buried in volcanic stone and time, the shrine is circular, with four broken plinths in a compass-like pattern—one for each season.
@@ -42,7 +42,7 @@ As each party member approaches the edge of the chasm, the stone floor **tremble
 - **Toby's pillar:** Shadow and blood-red veins pulse through the stone
 - **Slumpet's pillar:** Fey runes shimmer and fade across its face
 
-Vael steps forward, but the ground beneath him remains still. He glances back with a slight smile: _"The library already knows me. This test is yours alone."_
+[Vael](/02---characters/allies/vael) steps forward, but the ground beneath him remains still. He glances back with a slight smile: _"The library already knows me. This test is yours alone."_
 
 ### The Soulwrought Bridge
 
@@ -90,7 +90,7 @@ Along with the vow, the character must choose what they're willing to sacrifice:
 
 ### Vael's Contribution
 
-After the party activates the pillars and the bridge forms, Vael steps forward:
+After the party activates the pillars and the bridge forms, [Vael](/02---characters/allies/vael) steps forward:
 
 > _"You've proven yourselves worthy. The library respects sacrifice, and so do I."_
 
@@ -101,4 +101,4 @@ He approaches the sealed doors and speaks a phrase in an ancient elven dialect, 
 ### DM Notes
 
 - Encourage them to think about what drives their character
-- If they're stuck, Vael can offer cryptic hints: _"The library values truth over power, sacrifice over strength"_
+- If they're stuck, [Vael](/02---characters/allies/vael) can offer cryptic hints: _"The library values truth over power, sacrifice over strength"_

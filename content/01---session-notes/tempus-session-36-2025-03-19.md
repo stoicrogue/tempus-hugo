@@ -42,7 +42,7 @@ created: 2025-03-19
 - Journey up the mountain
 - Troll encounter
     - As the party reaches a narrow mountain pass, they encounter **Borbak the Toll-Troll**, a massive, moss-covered fey troll who blocks the only safe path forward. Unlike normal trolls, Borbak is infused with Feywild magic, giving him an unusual trickster-like nature.
-- Glimpse the Weaver's ancestral home
+- Glimpse the [Weaver](/02---characters/adversaries/weaver)'s ancestral home
     - Asthe party ascends the mountain, they reach a **high vantage point** where the Feywild mist parts, revealing a **dark, looming castle** in the valley below. The **architecture is warped**, with elongated spires, stained-glass windows that seem to shift images, and a **haunted, dreamlike quality**.
 - Face [Manus](/02---characters/adversaries/manus) at the peak
 - Gather the final material needed to reforge [Summer’s Edge (orig)](/04---items/summers-edge-orig)
@@ -51,8 +51,8 @@ created: 2025-03-19
 
 - [ ] The ruling family of the summer court has worshiped the Dusk Lord for generations
 - [ ] The mountain’s real name is “Evenode Peak”, or "Tael'anore" in elvish
-- [ ] The Weaver's family home is near the mountain.
-- [ ] The Weaver was once a **child of nobility** before his family allied themselves with Niddhog and was later humiliated by agents of the Dusk Lord.
+- [ ] The [Weaver](/02---characters/adversaries/weaver)'s family home is near the mountain.
+- [ ] The [Weaver](/02---characters/adversaries/weaver) was once a **child of nobility** before his family allied themselves with Niddhog and was later humiliated by agents of the Dusk Lord.
 
 # Fantastic Locations
 
@@ -116,13 +116,13 @@ Watching.
 
 ### Scene Setup
 
-The party reaches the mountain peak, the **thin Feywild air humming with magic**. The sky above is **clear and golden**, the **Midday Sun** shining down on the device Elara Sunforge gave them. As they begin setting it up, shadows **lengthen unnaturally**—stretching like ink across the white stone beneath their feet. A low chuckle **echoes from nowhere**... then everywhere.
+The party reaches the mountain peak, the **thin Feywild air humming with magic**. The sky above is **clear and golden**, the **Midday Sun** shining down on the device [Elara Sunforge](/02---characters/allies/elara-sunforge) gave them. As they begin setting it up, shadows **lengthen unnaturally**—stretching like ink across the white stone beneath their feet. A low chuckle **echoes from nowhere**... then everywhere.
 
 **Then, a figure steps out of the party’s own shadows**, a cocky grin on his face, twirling an **elemental blade crackling with energy** between his fingers.
 
 ### Manus' Opening Taunt
 
-**Manus (grinning, arms spread wide)**
+**[Manus](/02---characters/adversaries/manus) (grinning, arms spread wide)**
 
 _"Awww, look at you. So determined. So hopeful. Setting up your little science fair project, thinking you're about to save the day. Honestly? It’s adorable."_
 
@@ -136,7 +136,7 @@ _"Kinda underwhelming, don’t you think?"_
 
 ### If the Party Demands He Leave
 
-**Manus (mock gasp, placing a hand on his chest)**
+**[Manus](/02---characters/adversaries/manus) (mock gasp, placing a hand on his chest)**
 
 _"Leave? Now? But we’re just getting started!"_
 
@@ -150,7 +150,7 @@ _"Oops. Looks like your precious **kiss of the sun** just got lost in the dark. 
 
 ### If the Party Tries to Fight Him Immediately
 
-**Manus (laughing as he dodges effortlessly, teleporting behind them)**
+**[Manus](/02---characters/adversaries/manus) (laughing as he dodges effortlessly, teleporting behind them)**
 
 _"Ooooh, feisty! I like that! You think you can just punch your way out of this one? Adorable._
 
@@ -160,7 +160,7 @@ _"I’m just here to **ruin your day.**"_
 
 ### If the Party Tries to Bargain
 
-**Manus (mock thoughtful, tapping his chin)**
+**[Manus](/02---characters/adversaries/manus) (mock thoughtful, tapping his chin)**
 
 _"Oh, a deal? Interesting. Let me think about it… No."_
 
@@ -174,9 +174,9 @@ _"Don’t worry, I’ll even let you keep breathing—**for now**."_
 
 ### If the Party Dispels the Darkness
 
-(Manus **flinches** slightly as sunlight pierces through the shadows. He squints, then lets out a slow, amused whistle.)
+([Manus](/02---characters/adversaries/manus) **flinches** slightly as sunlight pierces through the shadows. He squints, then lets out a slow, amused whistle.)
 
-**Manus (grinning)**
+**[Manus](/02---characters/adversaries/manus) (grinning)**
 
 _"Well, well, well. Color me impressed. Didn’t think you had that in you."_
 

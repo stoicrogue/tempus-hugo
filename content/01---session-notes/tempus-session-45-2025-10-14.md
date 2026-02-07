@@ -13,7 +13,7 @@ author: Mark Molea
 
 ## 🗺 Scenes Overview
 
-- Meet Vael and prepare for their journey
+- Meet [Vael](/02---characters/allies/vael) and prepare for their journey
 - Travel to the northern side of **Mount Vesithar** to reach the Ashen Shrine.
 - [Chained Library Access](/05---planning/chained-library-access)
 - [Chained Library Encounters](/05---planning/chained-library-encounters)
@@ -47,14 +47,14 @@ The young human Alois is the newest addition to the library’s staff. They arri
 
 - [Slumpet Zoommimist](/02---characters/main-party/slumpet-zoommimist) revealed the [[leyline-map.jpg]] to the party
 	- He got this from the [Weaver](/02---characters/adversaries/weaver)’s study but has been keeping it to himself until now.
-- Vael advised a hollow threshold with ties to the elemental plane of air is open to the west, inside Winter Court territory
+- [Vael](/02---characters/allies/vael) advised a hollow threshold with ties to the elemental plane of air is open to the west, inside Winter Court territory
 	[Vael](/02---characters/allies/vael) brought the party to the Ashen Shrine, at the base of **Mount Vesithar**, from which they could enter the [Chained Library](/06---factions/chained-library)
-	- “There are sanctioned gates. Places written in the margins of the world. The Ashen Shrine is one such place—a whisper of a path left open for those who do not wear the chains but have earned the Library’s regard. You would not have found it unless you had alredy plucked the threads of fate.”	- Vael
+	- “There are sanctioned gates. Places written in the margins of the world. The Ashen Shrine is one such place—a whisper of a path left open for those who do not wear the chains but have earned the Library’s regard. You would not have found it unless you had alredy plucked the threads of fate.”	- [Vael](/02---characters/allies/vael)
 - [Summer's Edge](/04---items/summers-edge) was used as a “key” to activate the Ashen Shrine, which contained an elevator that brought them deep under the mountain.	In the chamber below, a chasm separated them from the massive locked doors of the library.  When each party member made a  vow and sacrifice to prove their resolve and intent to the library, a bridge formed spanning the chasm and unlocking the door.  
 	- Toby - blood; Shad - an original song; Skreek - a prayer and promise; Slumpet - his thieves tools
-- Vael then approached the chained door, spoke a phrase in an ancient elven dialect, and the chains retracted, revealing the entrance to the Library.
-- They were met by the head librarian, Samaris, an untrusting black skinned tiefling.  She questioned the party about their intentions.  Vael bringing them here and giving up Serenity’s orb gave them the advantage in gaining a small amount of trust.  She still insisted the party be marked by the Eyeless Guardians, blind celestials watched over the library, so they could be tracked.
+- [Vael](/02---characters/allies/vael) then approached the chained door, spoke a phrase in an ancient elven dialect, and the chains retracted, revealing the entrance to the Library.
+- They were met by the head librarian, Samaris, an untrusting black skinned tiefling.  She questioned the party about their intentions.  [Vael](/02---characters/allies/vael) bringing them here and giving up [Serenity](/02---characters/adversaries/serenity)’s orb gave them the advantage in gaining a small amount of trust.  She still insisted the party be marked by the Eyeless Guardians, blind celestials watched over the library, so they could be tracked.
 - Slumpet used the library’s card catalogue to track down a book about the elven barrier, located on the floor below.  On his way to the book, another tome spoke to him telepathically and offered to help.  Slumpet wisely ignored the offer. He learned that the barrier can be repaired, but it would take several mages a month or more do perform the full ritual. 
 - Toby used her blood magic to help her locate a tome about crystals.  She learned of a a location south of the elven forest where the crystals used in the barrier’s construction could be mined.
-- Shad use the card  catalogue to track down a book about the Order of Seasons.  He learned that Vidrir once led the order and is over 300 years old.  In fact, he was the Knight of Ravens himself!
-- They party planned to travel back to the Spring Court to regroup before traveling via the leyline gate network to visit Vidrir to discuss what they have learned and to seek his advice.
+- Shad use the card  catalogue to track down a book about the Order of Seasons.  He learned that [Vidrir](/02---characters/allies/vidrir) once led the order and is over 300 years old.  In fact, he was the Knight of Ravens himself!
+- They party planned to travel back to the Spring Court to regroup before traveling via the leyline gate network to visit [Vidrir](/02---characters/allies/vidrir) to discuss what they have learned and to seek his advice.

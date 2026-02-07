@@ -26,7 +26,7 @@ created: 2023-04-12
 
 # Strong Start
 
-- [x] After exiting the church, you see a flash of light as the Arbiter teleports to a spot high above the great oak tree, her wings unfurling with a thunderous clap that sends a shockwave through the town. Her divine aura emanates outwards, causing the town square below her to glow with a brilliant golden light. With a swift motion, the Arbiter unsheathes her greatsword, its gleaming blade pulsing with divine energy. She raises it high above her head, and in a voice that echoes through the town, she intones an ancient incantation in celestial. As she finishes the incantation, the blade of her sword shatters into a thousand shards of light, each one piercing the darkness like a bolt of lightning. The shards arc outwards, each seeking out a shadow monster with deadly precision. In an instant, the creatures are destroyed. The Arbiter lowers her sword, the shards reforming into the sword’s original shape with a brilliant flash of light. As she sheathes her weapon, the divine aura around her begins to fade as the darkness returns. True to the angel’s word, the town is now safe from the monsters, but the darkness returns.
+- [x] After exiting the church, you see a flash of light as the [Arbiter](/02---characters/allies/arbiter) teleports to a spot high above the great oak tree, her wings unfurling with a thunderous clap that sends a shockwave through the town. Her divine aura emanates outwards, causing the town square below her to glow with a brilliant golden light. With a swift motion, the [Arbiter](/02---characters/allies/arbiter) unsheathes her greatsword, its gleaming blade pulsing with divine energy. She raises it high above her head, and in a voice that echoes through the town, she intones an ancient incantation in celestial. As she finishes the incantation, the blade of her sword shatters into a thousand shards of light, each one piercing the darkness like a bolt of lightning. The shards arc outwards, each seeking out a shadow monster with deadly precision. In an instant, the creatures are destroyed. The [Arbiter](/02---characters/allies/arbiter) lowers her sword, the shards reforming into the sword’s original shape with a brilliant flash of light. As she sheathes her weapon, the divine aura around her begins to fade as the darkness returns. True to the angel’s word, the town is now safe from the monsters, but the darkness returns.
 
 # Scenes
 
@@ -42,12 +42,12 @@ created: 2023-04-12
 _Check off when revealed_
 
 - [x] The barrier created by Dusk Lord as punishment for disrespect
-- [ ] Serenity is a night hag
-- [ ] Serenity’s lair is in the elven forest
+- [ ] [Serenity](/02---characters/adversaries/serenity) is a night hag
+- [ ] [Serenity](/02---characters/adversaries/serenity)’s lair is in the elven forest
     - [ ] Shadows seem abnormally gaunt and sometimes move on their own as though alive.
     - [ ] Creatures are transported to a harmless but eerie demiplane filled with shadowy forms, waxy corpses, and cackling. The creatures are trapped there for a minute or two, and then returned to the place where they vanished from.
     - [ ] Intelligent creatures see hallucinations of dead friends, family members, and even themselves littering the hag’s realm. Any attempt to interact with a hallucinatory image causes it to disappear.
-- [ ] Vidrir has wielded [Summer’s Edge (orig)](/04---items/summers-edge-orig)
+- [ ] [Vidrir](/02---characters/allies/vidrir) has wielded [Summer’s Edge (orig)](/04---items/summers-edge-orig)
 
 # Fantastic Locations
 
@@ -66,9 +66,9 @@ _Link to fantastic locations. Use the @ symbol to internally link to a Location 
 
 NPC link. _Use the @ symbol to internally link to an NPC page._
 
-- Vidrir
-- Serenity
-- Arbiter
+- [Vidrir](/02---characters/allies/vidrir)
+- [Serenity](/02---characters/adversaries/serenity)
+- [Arbiter](/02---characters/allies/arbiter)
 
 # Monsters
 

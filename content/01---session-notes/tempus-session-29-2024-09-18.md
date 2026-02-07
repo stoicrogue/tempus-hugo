@@ -34,13 +34,13 @@ created: 2024-09-18
 
 # Strong Start
 
-- [x] Find another note from the Weaver
+- [x] Find another note from the [Weaver](/02---characters/adversaries/weaver)
 
 # Scenes
 
 - [x] Loot the enemy and investigate the ancient battlefield
     - [x] [Kharvex, the Shadow Caller](/02---characters/adversaries/kharvex-the-shadow-caller)
-- [x] Visit the [Summer Court](/03---locations/summer-court)
+- [x] Visit the [Summer Court](/06---factions/summer-court)
     - [x] Learn of the coliseum and the tournament
 - [ ] Meet [Elara Sunforge](/02---characters/allies/elara-sunforge)
     - [ ] Learn how to reforge [Summer’s Edge (orig)](/04---items/summers-edge-orig)
@@ -48,8 +48,8 @@ created: 2024-09-18
 
 # Secret and Clues
 
-- [x] Weaver’s tower is in the feywild
-- [ ] Elara can reforge the blade with two items
+- [x] [Weaver](/02---characters/adversaries/weaver)’s tower is in the feywild
+- [ ] [Elara](/02---characters/allies/elara-sunforge) can reforge the blade with two items
     - [ ] Celestial ore
     - [ ] Kiss of the summer sun from a holy site in the feywild
 - [x] The party interrupted a ritual at the ancient battleground but earlier that day a basilisk was summoned.
@@ -61,7 +61,7 @@ created: 2024-09-18
 
 _Link to fantastic locations. Use the @ symbol to internally link to a Location page._
 
-- [Summer Court](/03---locations/summer-court)
+- [Summer Court](/06---factions/summer-court)
 - Portal to the feywild
 
 # NPCs
@@ -102,7 +102,7 @@ A maze of wet webs and grasping thorns
 
 - Interrogated the cultists on the ancient battlefield
     - Jenny (archer) and Kurt (swordsman) - mercenaries from the Stone Valley (far south, near the Dwarven territory)
-    - Learned the Weaver’s stronghold is in the Feywild
+    - Learned the [Weaver](/02---characters/adversaries/weaver)’s stronghold is in the Feywild
 - Looted a +1 vampiric scythe from Kharvax (mage/summoner) as well a Grimoire of the Eclipse which contained several spells:
     - [summon shadowspawn](https://www.dndbeyond.com/spells/719948-summon-shadowspawn)
     - [shadow blade](https://www.dndbeyond.com/spells/14595-shadow-blade)

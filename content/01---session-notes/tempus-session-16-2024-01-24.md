@@ -34,12 +34,12 @@ created: 2024-01-24
 
 # Strong Start
 
-- [x] Meet with Alora to get info
+- [x] Meet with [Alora](/02---characters/allies/alora) to get info
 
 # Scenes
 
-- [x] Meet with Alora
-    - [x] Alora offers them a reward of magic items and information for anyone who brings her a sample of the creature’s venom
+- [x] Meet with [Alora](/02---characters/allies/alora)
+    - [x] [Alora](/02---characters/allies/alora) offers them a reward of magic items and information for anyone who brings her a sample of the creature’s venom
     - [ ] Asks party to investigate the leyline nexus supporting the barrier
 - [x] Track the [Bandersnatch](/02---characters/monsters/bandersnatch)
 
@@ -50,7 +50,7 @@ created: 2024-01-24
 - [ ] The veil is being reinforced by a barrier constructed by a previous matriarch of the winter court.
 - [ ] Temples near leylines in each seasons’ domain hold a crystal meant to stabilize the barrier
 - [ ] Summer’s Edge can be reforged by any master elven smith, but rare materials from the summer court’s domain (sun crystals from the Great Golden tree)
-- [ ] Serenity did cross into the feywild
+- [ ] [Serenity](/02---characters/adversaries/serenity) did cross into the feywild
 
 # Fantastic Locations
 
@@ -68,7 +68,7 @@ _Link to fantastic locations. Use the @ symbol to internally link to a Location 
 NPC link. _Use the @ symbol to internally link to an NPC page._
 
 - [Vidrir](/02---characters/allies/vidrir)
-- Winter court eladrin - Alora
+- Winter court eladrin - [Alora](/02---characters/allies/alora)
 
 # Monsters
 

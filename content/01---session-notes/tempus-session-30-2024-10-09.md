@@ -44,7 +44,7 @@ _Here's a blank D&D session note page ready for you to use outlined according to
     - [ ] Learn that a creepy guy in a red leather jacket was poking around asking about the leyline temple a couple days ago.
 - [x] Meet [[Sylvia]], Lady of Summer
 - [x] Visit the Summer Leyline Temple
-    - [x] Meet Manus and have a “duel”; get the crystal back for landing a hit on him
+    - [x] Meet [Manus](/02---characters/adversaries/manus) and have a “duel”; get the crystal back for landing a hit on him
 - [ ] Meet [Elara Sunforge](/02---characters/allies/elara-sunforge)
     - [ ] Learn how to reforge [Summer’s Edge (orig)](/04---items/summers-edge-orig)
 
@@ -52,8 +52,8 @@ _Here's a blank D&D session note page ready for you to use outlined according to
 
 _Check off when revealed._
 
-- [x] Manus, an assassin working with the cult of the Eclipse, visited the Summer Court’s leyline temple yesterday
-- [x] Manus stole one of the smaller crystals in the leyline crystal chamber
+- [x] [Manus](/02---characters/adversaries/manus), an assassin working with the cult of the Eclipse, visited the Summer Court’s leyline temple yesterday
+- [x] [Manus](/02---characters/adversaries/manus) stole one of the smaller crystals in the leyline crystal chamber
 - [ ] [[Sylvia]] and her family have worshiped the Dusk Lord for generations
 
 # Fantastic Locations
@@ -94,6 +94,6 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
 - Visit the coliseum and take note of upcoming events
 - Investigate the summer leyline temple
 - Find it has been broken into already, guardians defeated and a crystal stolen
-- Encountered the thief outside as they left. Disguised as Trius but revealed to be am assassin named Manus working with the cult of the eclipse.
-- Manus gave them the crystal back after challenging the party to land a hit on him. The party cheated in Manus’ eyes by throwing a handful of ball bearings at him, but he honored the deal.
-- Manus seemed to be helping the cult but not committed to their goals. He seemed to be more interested in finding powerful foes
+- Encountered the thief outside as they left. Disguised as [Trius](/02---characters/allies/trius) but revealed to be am assassin named [Manus](/02---characters/adversaries/manus) working with the cult of the eclipse.
+- [Manus](/02---characters/adversaries/manus) gave them the crystal back after challenging the party to land a hit on him. The party cheated in [Manus](/02---characters/adversaries/manus)’ eyes by throwing a handful of ball bearings at him, but he honored the deal.
+- [Manus](/02---characters/adversaries/manus) seemed to be helping the cult but not committed to their goals. He seemed to be more interested in finding powerful foes

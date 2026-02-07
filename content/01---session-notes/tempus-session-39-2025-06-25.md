@@ -20,8 +20,8 @@ created: 2025-06-25
 # Scenes
 
 - [x] Facing off with the Echo in the throne room
-- [x] Investigating the Weaver's study and finding the journal
-- [ ] Traveling back to Elara Sunforge to repair [Summer’s Edge (orig)](/04---items/summers-edge-orig)
+- [x] Investigating the [Weaver](/02---characters/adversaries/weaver)'s study and finding the journal
+- [ ] Traveling back to [Elara Sunforge](/02---characters/allies/elara-sunforge) to repair [Summer’s Edge (orig)](/04---items/summers-edge-orig)
 
 # Monsters
 

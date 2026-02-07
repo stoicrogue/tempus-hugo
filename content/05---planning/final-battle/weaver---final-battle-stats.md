@@ -29,15 +29,15 @@ author: Mark Molea
 
 **Magic Resistance.** Advantage on saving throws against spells and other magical effects.
 
-**Master of Illusions.** The Weaver can cast illusion spells as if they were one spell level higher than the slot used (maximum 9th level).
+**Master of Illusions.** The [Weaver](/02---characters/adversaries/weaver) can cast illusion spells as if they were one spell level higher than the slot used (maximum 9th level).
 
-**Vulnerability to Truth:** When affected by True Sight or similar divination magic, the Weaver loses his damage resistances and has disadvantage on spell attack rolls. Additionally, Summer's Edge can target him through any illusion as if he were visible and unobscured.
+**Vulnerability to Truth:** When affected by True Sight or similar divination magic, the [Weaver](/02---characters/adversaries/weaver) loses his damage resistances and has disadvantage on spell attack rolls. Additionally, Summer's Edge can target him through any illusion as if he were visible and unobscured.
 
-**Ritual Focus.** While concentrating on the Nidhogg Summoning ritual, the Weaver gains the following benefits:
+**Ritual Focus.** While concentrating on the [Nidhogg](/02---characters/adversaries/nidhogg) Summoning ritual, the [Weaver](/02---characters/adversaries/weaver) gains the following benefits:
 - Resistance to non-magical weapons
 - Can maintain concentration on two spells simultaneously
 
-**Spellcasting.** The Weaver is an 18th-level spellcaster. Spell save DC 19, +12 to hit.  
+**Spellcasting.** The [Weaver](/02---characters/adversaries/weaver) is an 18th-level spellcaster. Spell save DC 19, +12 to hit.  
 **Spell Slots:** 1st(4), 2nd(3), 3rd(3), 4th(3), 5th(3), 6th(1), 7th(1), 8th(1), 9th(1)
 
 **Known Spells:**
@@ -54,7 +54,7 @@ author: Mark Molea
 
 ## Actions
 
-**Multiattack.** The Weaver makes attacks using of these 3 options: 
+**Multiattack.** The [Weaver](/02---characters/adversaries/weaver) makes attacks using of these 3 options: 
 - a) two Shadowweave Bolts 
 - b) one Shadowweave Bolt and one spell (3rd level or lower).
 - c) cast one spell 
@@ -62,19 +62,19 @@ author: Mark Molea
 **Shadowweave Bolt.** *Ranged Spell Attack:* +11 to hit, range 120 ft., one target.  
 *Hit:* 14 (2d8 + 5) force damage + 7 (2d6) psychic damage. If target is frightened, +1d8 psychic damage.
 
-**Summon Shadows (Recharge 5-6).** The Weaver summons 1d4 Shadows within 30ft of himself. They act at the end of the Weaver’s turn.
+**Summon Shadows (Recharge 5-6).** The [Weaver](/02---characters/adversaries/weaver) summons 1d4 Shadows within 30ft of himself. They act at the end of the [Weaver](/02---characters/adversaries/weaver)’s turn.
 
 **Spellcasting.** Casts a spell of 4th level or higher.
 ## Legendary Actions (3 per turn)
 
-- **Move.** The Weaver moves without provoking opportunity attacks. 
+- **Move.** The [Weaver](/02---characters/adversaries/weaver) moves without provoking opportunity attacks. 
 - **Cantrip.** Casts a cantrip.  
 - **Shadowweave Bolt (Costs 2).** Makes one Shadowweave Bolt attack. 
 - **Spell (Costs 3).** Casts a spell of 3rd level or lower.
 
 ## Legendary Resistances (3/Day)
 
-If the Weaver fails a saving throw, he can choose to succeed instead.
+If the [Weaver](/02---characters/adversaries/weaver) fails a saving throw, he can choose to succeed instead.
 
 ## Tactics
 - **Opening:** Casts *greater invisibility* and begins ritual

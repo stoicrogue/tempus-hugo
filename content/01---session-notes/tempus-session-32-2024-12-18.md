@@ -32,8 +32,8 @@ Meet with [Elara Sunforge](/02---characters/allies/elara-sunforge) and discuss S
 
 # Scenes
 
-- Work around Blackbird’s contract
-- Meet Elara Sunforge
+- Work around [Blackbird](/02---characters/allies/blackbird)’s contract
+- Meet [Elara Sunforge](/02---characters/allies/elara-sunforge)
 - Travel to the crater in search of celestial ore
 
 # Secret and Clues
@@ -47,7 +47,7 @@ _Check off when revealed._
         
         ![celestial_ore.webp](/images/celestial_ore.webp)
         
-    - [x] **The Kiss of the Midday Sun from the Feywild** – A magical, radiant essence that must be captured using a special device crafted by Elara, the Summer Court's master smith.
+    - [x] **The Kiss of the Midday Sun from the Feywild** – A magical, radiant essence that must be captured using a special device crafted by [Elara](/02---characters/allies/elara-sunforge), the Summer Court's master smith.
         
         ![sunlight-capture-device.webp](/images/sunlight-capture-device.webp)
         
@@ -58,7 +58,7 @@ _Check off when revealed._
 
 _Link to fantastic locations. Use the @ symbol to internally link to a Location page._
 
-- Elara’s forge
+- [Elara](/02---characters/allies/elara-sunforge)’s forge
 - Celestial crater
 
 # NPCs
@@ -244,7 +244,7 @@ In the center of the crater, a fractured pedestal of stone and crystal stands am
     - **Special Ability:** Once per round, the Guardian releases a **Radiant Pulse** (20 ft burst) that deals radiant damage and forces a DC 14 Dexterity save to avoid being knocked prone.
     - **Flavor:** _"A towering figure of crystalline light rises from the pedestal, its form radiant and formless—a silhouette of a knight forged from pure starlight. It raises a massive blade of glowing crystal and speaks in a voice like distant thunder: ‘Prove your worth, mortals, or be undone.’”_
 
-**Outcome:** If the party defeats the guardian, the crystal pedestal cracks, revealing enough **Celestial Ore** to fulfill Elara's requirements. If they fail to defeat the guardian but survive, it may challenge them to “return when they are worthy.”
+**Outcome:** If the party defeats the guardian, the crystal pedestal cracks, revealing enough **Celestial Ore** to fulfill [Elara](/02---characters/allies/elara-sunforge)'s requirements. If they fail to defeat the guardian but survive, it may challenge them to “return when they are worthy.”
 
 ## Weakening Barrier Encounters
 
@@ -266,13 +266,13 @@ In the center of the crater, a fractured pedestal of stone and crystal stands am
 ### Session Notes
 
 - Went to the Ember’s Embrace to enjoy some drinks
-    - Paid 19 gold for the 98 drinks ordered at the bar that night in order to satisfy the contract that Toby signed with Blackbird
+    - Paid 19 gold for the 98 drinks ordered at the bar that night in order to satisfy the contract that Toby signed with [Blackbird](/02---characters/allies/blackbird)
     - Shad volunteered to perform at the bar and attempted to play poorly enough to scare away customers. His natural instincts and talent were too good and the best he could muster was average
 - The next morning the party visited Sylvia at the Summer Court palace to fill her in on what they had discovered at the leyline temple. The party also asked her point them in the direction of a smith that could help them reforge Summer’s Edge. The party was pleasantly surprised that Sylvia was not angry about them having the sword. Sylvia told them that artifacts like Summer’s Edge had a mind of their own and wouldn’t let itself fall into the hands of someone unworthy.
-- Based on Sylvia’s advice, the party decided to visit the large blacksmith’s forge next to the Colleseum. There they met with Elara Sunforge, the most talented smith of the summer court.
-    - Elara was thrilled at the prospect of reforging the sword, but informed the party they would need two rare materials: celestial ore and the first kiss of the midday sun from the feywild
-    - Elara knew where to find the ore and directed the party to visit a crater where a meteor fell long ago.
-    - Elara also had a device capable of capturing the kiss of the midday sun, but would need to help the party track down a favorable crossing to the feywild.
+- Based on Sylvia’s advice, the party decided to visit the large blacksmith’s forge next to the Colleseum. There they met with [Elara Sunforge](/02---characters/allies/elara-sunforge), the most talented smith of the summer court.
+    - [Elara](/02---characters/allies/elara-sunforge) was thrilled at the prospect of reforging the sword, but informed the party they would need two rare materials: celestial ore and the first kiss of the midday sun from the feywild
+    - [Elara](/02---characters/allies/elara-sunforge) knew where to find the ore and directed the party to visit a crater where a meteor fell long ago.
+    - [Elara](/02---characters/allies/elara-sunforge) also had a device capable of capturing the kiss of the midday sun, but would need to help the party track down a favorable crossing to the feywild.
 - The party journeyed north to the crater to find the ore
     - at the crater, they found a natural pedestal in the center where it looked like some of the ore could be seen. When approach, 4 Starfall Sentinels appeared from the surrounding rock and attempted to defend the pedestal.
     - After the sentinels were defeated, a single large construct of starlight and crystal assembles before the party and tells them to leave this sacred place or prove their worth.

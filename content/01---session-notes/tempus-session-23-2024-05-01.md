@@ -44,7 +44,7 @@ created: 2024-05-01
 
 # Secret and Clues
 
-- [ ] Weaver’s tower is in the feywild
+- [ ] [Weaver](/02---characters/adversaries/weaver)’s tower is in the feywild
 - [ ]
 
 # Fantastic Locations
@@ -62,8 +62,8 @@ _Link to fantastic locations. Use the @ symbol to internally link to a Location 
 
 NPC link. _Use the @ symbol to internally link to an NPC page._
 
-- Trius
-- Winter court eladrin - Alora
+- [Trius](/02---characters/allies/trius)
+- Winter court eladrin - [Alora](/02---characters/allies/alora)
 
 # Monsters
 

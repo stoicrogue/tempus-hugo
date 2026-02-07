@@ -55,7 +55,7 @@ He gave the faintest of smiles. There was no humor in it.
 
 Vael stepped closer. The sunlight didn’t seem to touch him.
 
-> “You carry something dangerous.” His gaze flicked to the pack where Slumpet kept Serenity’s orb, though the orb itself was hidden. “It has already drawn things to you. It will draw more.”
+> “You carry something dangerous.” His gaze flicked to the pack where Slumpet kept [Serenity](/02---characters/adversaries/serenity)’s orb, though the orb itself was hidden. “It has already drawn things to you. It will draw more.”
 
 A pause.
 
@@ -105,7 +105,7 @@ He knelt briefly, brushing two fingers against the frost-laced ground where the 
 
 ## An Exchange
 
-The party may gain information about the location of the Library and acccess in exchange for an artifact, like Serenity's orb or some of the artifacts anchoring the Hollow Thresholds.
+The party may gain information about the location of the Library and acccess in exchange for an artifact, like [Serenity](/02---characters/adversaries/serenity)'s orb or some of the artifacts anchoring the Hollow Thresholds.
 
 ### Offering an artifact
 

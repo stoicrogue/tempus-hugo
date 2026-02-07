@@ -10,19 +10,19 @@ created: 2025-04-30
 ---
 # Strong Start
 
-- Duel Manus in the golden light of the Feywild
+- Duel [Manus](/02---characters/adversaries/manus) in the golden light of the Feywild
 # Scenes
 
 - "The Blade Remembers" w/Skreek
-- Face [Manus - Duelist of the Golden Light](/02---characters/adversaries/manus---duelist-of-the-golden-light) at the peak
+- Face [Manus - Duelist of the Golden Light](/02---characters/adversaries/_archive/manus---duelist-of-the-golden-light) at the peak
 - Gather the final material needed to reforge [Summer’s Edge (orig)](/04---items/summers-edge-orig)
-- Travel to the Weaver's Ancestral home
+- Travel to the [Weaver](/02---characters/adversaries/weaver)'s Ancestral home
 
 # Secret and Clues
 
 - [ ] The mountain’s real name is “Evenode Peak”, or "Tael'anore" in elvish
-- [ ] The Weaver's family home is near the mountain.
-- [ ] The Weaver was once a **child of nobility** before his family allied themselves with Niddhog and was later humiliated by agents of the Dusk Lord.
+- [ ] The [Weaver](/02---characters/adversaries/weaver)'s family home is near the mountain.
+- [ ] The [Weaver](/02---characters/adversaries/weaver) was once a **child of nobility** before his family allied themselves with Niddhog and was later humiliated by agents of the Dusk Lord.
 ## The Blade Remembers
 
 As the party crests the mountaintop, the light of the **Feywild’s eternal midday sun** cascades across the landscape. It’s unlike any sunlight Skreek has felt—**pure, golden, weightless**, yet brimming with life and ancient purpose. As the First Kiss of the Midday Sun begins to coalesce in the air above the peak, Skreek feels an almost magnetic pull to his pack.
@@ -41,10 +41,10 @@ Suddenly, the field turns dark—invading shadows, a massive battle. The knight 
 
 ---
 
-Skreek snaps back to the present just as **Manus** arrives.  
+Skreek snaps back to the present just as **[Manus](/02---characters/adversaries/manus)** arrives.  
 The sword’s light fades, but the warmth lingers in Skreek’s hand—and heart.
 
-Manus, amused and unknowing of what just occurred, makes a taunt:
+[Manus](/02---characters/adversaries/manus), amused and unknowing of what just occurred, makes a taunt:
 
 > “Drawing broken swords now, bird? I do hope you brought sharper company.”
 
@@ -55,13 +55,13 @@ And it’s waking up.
 
 ### Scene Setup
 
-The party reaches the mountain peak, the **thin Feywild air humming with magic**. The sky above is **clear and golden**, the **Midday Sun** shining down on the device Elara Sunforge gave them. As they begin setting it up, shadows **lengthen unnaturally**—stretching like ink across the white stone beneath their feet. A low chuckle **echoes from nowhere**... then everywhere.
+The party reaches the mountain peak, the **thin Feywild air humming with magic**. The sky above is **clear and golden**, the **Midday Sun** shining down on the device [Elara Sunforge](/02---characters/allies/elara-sunforge) gave them. As they begin setting it up, shadows **lengthen unnaturally**—stretching like ink across the white stone beneath their feet. A low chuckle **echoes from nowhere**... then everywhere.
 
 **Then, a figure steps out of the party’s own shadows**, a cocky grin on his face, twirling an **elemental blade crackling with energy** between his fingers.
 
 ### Manus' Opening Taunt
 
-**Manus (grinning, arms spread wide)**
+**[Manus](/02---characters/adversaries/manus) (grinning, arms spread wide)**
 
 _"Awww, look at you. So determined. So hopeful. Setting up your little science fair project, thinking you're about to save the day. Honestly? It’s adorable."_
 
@@ -75,7 +75,7 @@ _"Kinda underwhelming, don’t you think?"_
 
 ### If the Party Demands He Leave
 
-**Manus (mock gasp, placing a hand on his chest)**
+**[Manus](/02---characters/adversaries/manus) (mock gasp, placing a hand on his chest)**
 
 _"Leave? Now? But we’re just getting started!"_
 
@@ -89,7 +89,7 @@ _"Oops. Looks like your precious **kiss of the sun** just got lost in the dark. 
 
 ### If the Party Tries to Fight Him Immediately
 
-**Manus (laughing as he dodges effortlessly, teleporting behind them)**
+**[Manus](/02---characters/adversaries/manus) (laughing as he dodges effortlessly, teleporting behind them)**
 
 _"Ooooh, feisty! I like that! You think you can just punch your way out of this one? Adorable._
 
@@ -99,7 +99,7 @@ _"I’m just here to **ruin your day.**"_
 
 ### If the Party Tries to Bargain
 
-**Manus (mock thoughtful, tapping his chin)**
+**[Manus](/02---characters/adversaries/manus) (mock thoughtful, tapping his chin)**
 
 _"Oh, a deal? Interesting. Let me think about it… No."_
 
@@ -113,9 +113,9 @@ _"Don’t worry, I’ll even let you keep breathing—**for now**."_
 
 ### If the Party Dispels the Darkness
 
-(Manus **flinches** slightly as sunlight pierces through the shadows. He squints, then lets out a slow, amused whistle.)
+([Manus](/02---characters/adversaries/manus) **flinches** slightly as sunlight pierces through the shadows. He squints, then lets out a slow, amused whistle.)
 
-**Manus (grinning)**
+**[Manus](/02---characters/adversaries/manus) (grinning)**
 
 _"Well, well, well. Color me impressed. Didn’t think you had that in you."_
 

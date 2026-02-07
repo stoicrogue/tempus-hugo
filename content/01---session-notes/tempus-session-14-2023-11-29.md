@@ -49,7 +49,7 @@ created: 2023-11-29
 - [ ] The stand stones can be used for rapid transit via the ley lines that connect them
 - [ ] The veil between this world and the feywild is thinning, which is how the Bandersnatch got here
 - [x] The [Bandersnatch](/02---characters/monsters/bandersnatch) poisioned a winter court member and they need a poision gland to craft an antidote.
-- [ ] Serenity did cross into the feywild
+- [ ] [Serenity](/02---characters/adversaries/serenity) did cross into the feywild
 
 # Fantastic Locations
 
@@ -67,7 +67,7 @@ _Link to fantastic locations. Use the @ symbol to internally link to a Location 
 NPC link. _Use the @ symbol to internally link to an NPC page._
 
 - [Vidrir](/02---characters/allies/vidrir)
-- Winter court eladrin - Alora
+- Winter court eladrin - [Alora](/02---characters/allies/alora)
 
 # Monsters
 
@@ -101,11 +101,11 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
 - Found a nice inn to rest for the night, the Restful Buck, relishing in the chance to sleep in a proper bed for the first time in weeks
     - Jared - elven bartender
     - Shad performed for tips and some free drinks; not his greatest performance but he did take a nice pot off the smithy in a game of poker after catching his tell
-    - Discovered the court is headed by Alora, the Lady of Winter
-    - Heard rumors that Alora’s daughter, Olivia, had been poisoned
-- Sought an audience with Alora the next day, around noon
-    - Alora was guarded at first by softened when the party showed her Vidrir’s medallion from the Order of Seasons
+    - Discovered the court is headed by [Alora](/02---characters/allies/alora), the Lady of Winter
+    - Heard rumors that [Alora](/02---characters/allies/alora)’s daughter, Olivia, had been poisoned
+- Sought an audience with [Alora](/02---characters/allies/alora) the next day, around noon
+    - [Alora](/02---characters/allies/alora) was guarded at first by softened when the party showed her [Vidrir](/02---characters/allies/vidrir)’s medallion from the Order of Seasons
     - She was obviously distracted by her daughter’s illness and would focus on little else until her daughter was safe
 - Skreek used his lay on hands to heal Olivia
-    - Alora was overjoyed and thanked the party, promising to discuss their topics of interest now that her daughter is safe
-    - Alora is still concerned about the creature that poisoned her daughter.
+    - [Alora](/02---characters/allies/alora) was overjoyed and thanked the party, promising to discuss their topics of interest now that her daughter is safe
+    - [Alora](/02---characters/allies/alora) is still concerned about the creature that poisoned her daughter.

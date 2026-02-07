@@ -15,7 +15,7 @@ cssclasses:
 ### Name
 
 - **Name:** Elara Sunforge
-- **Title:** Master Smith of the [Summer Court](/03---locations/summer-court)
+- **Title:** Master Smith of the [Summer Court](/06---factions/summer-court)
 
 ### Background
 
@@ -71,7 +71,7 @@ The smiths would likely view the tomb of a knight from the Order of Seasons as a
 
 If the party approaches with humility and reverence, explaining how they uncovered the sword and emphasizing their respect for the Order, this would help reassure the smiths that the party didn’t simply plunder it for power.
 
-If the party explains that they face the same threats the Order once did (the Cult of the Eclipse, Nidhogg, etc.), the smiths might interpret this as fate guiding _Summer's Edge_ back to a time of need. This could shift the smiths’ initial suspicion to acceptance, if not admiration.
+If the party explains that they face the same threats the Order once did (the Cult of the Eclipse, [Nidhogg](/02---characters/adversaries/nidhogg), etc.), the smiths might interpret this as fate guiding _Summer's Edge_ back to a time of need. This could shift the smiths’ initial suspicion to acceptance, if not admiration.
 
 ### 3. **The Potential Trial of Intentions**
 

@@ -10,7 +10,7 @@ created: 2023-07-16
 ---
 ## 📍 _Prologue – Tannis and the Blacksmith’s Plea_
 
-- **The party meets in the Raven’s Perch Tavern** in the quiet village of Tannis and is introduced to key NPCs: Lerissa (retired adventurer), Serenity (mysterious singer), Hurmur (dwarven archaeologist), and Jax (Night Talons thief).    
+- **The party meets in the Raven’s Perch Tavern** in the quiet village of Tannis and is introduced to key NPCs: [Lerissa](/02---characters/allies/lerissa) (retired adventurer), [Serenity](/02---characters/adversaries/serenity) (mysterious singer), Hurmur (dwarven archaeologist), and Jax (Night Talons thief).    
 - **Blacksmith Sig Rockwell bursts in**, begging for help to rescue his kidnapped daughter, Winry. He offers his finest work as payment.
 
 ## 🛡️ _Rescue the Blacksmith’s Daughter_
@@ -24,26 +24,26 @@ created: 2023-07-16
 
 ## 🌒 _The Darkness Falls on Tannis_
 
-- **Shared findings with Lerissa**, who revealed legends of the _Knight of Ravens_, a hero of the Order of Seasons. She directed the party to seek the sage **Vidrir** in the Shimmerwood, suggesting they bring a cask of her ale as a goodwill offering.
+- **Shared findings with [Lerissa](/02---characters/allies/lerissa)**, who revealed legends of the _Knight of Ravens_, a hero of the Order of Seasons. She directed the party to seek the sage **[Vidrir](/02---characters/allies/vidrir)** in the Shimmerwood, suggesting they bring a cask of her ale as a goodwill offering.
 - Noted strange celestial behavior: **half the stars missing** from the night sky.
 - **Woke to panic** — the village engulfed in **magical darkness** impenetrable by light or darkvision.
 - Fought off **shadowy hands** trying to drag villagers into the abyss and discovered a **magical barrier** trapping the town.
-- Found temporary safety at Lerissa’s tavern, then crossed the village to the **church of the Dusk Lord**, the only sanctuary emitting light.
-- **Met Father Samael**, who recalled showing a **black-haired woman** (presumably Serenity) his holy symbol — now missing.
+- Found temporary safety at [Lerissa](/02---characters/allies/lerissa)’s tavern, then crossed the village to the **church of the Dusk Lord**, the only sanctuary emitting light.
+- **Met Father Samael**, who recalled showing a **black-haired woman** (presumably [Serenity](/02---characters/adversaries/serenity)) his holy symbol — now missing.
 - **Explored the church catacombs**, avoided a deadly shadow entity, and found their way to a secret chamber.
-- Discovered and **parleyed with the Arbiter**, an **Angel of Justice**. She had created the barrier to contain the spreading corruption and was preparing a purge.
+- Discovered and **parleyed with the [Arbiter](/02---characters/allies/arbiter)**, an **Angel of Justice**. She had created the barrier to contain the spreading corruption and was preparing a purge.
 - Convinced her to delay her ritual and **earned her favor**: she **marked them with her symbol**, granting safe passage and the ability to commune with her.
-- The Arbiter **destroyed remaining shadows** in the village but maintained the barrier until the source of the corruption could be found.
+- The [Arbiter](/02---characters/allies/arbiter) **destroyed remaining shadows** in the village but maintained the barrier until the source of the corruption could be found.
 - **Skreek claimed a +1 Shield of the Dusk Lord** from the crypt.
 
 ## 🌿 _Journey to the Sage_
 
-- **Used the Arbiter’s holy mark** to leave Tannis and travel through the Shimmerwood.
-- **Met the sage Vidrir**, a friendly ally of Lerissa with mysterious insight and purple-winged raven familiars.
-- Vidrir confirmed the broken sword is **Summer’s Edge**, a legendary blade once wielded by the Summer Court’s champion during the great war against the undead. Only **elven master smiths** could hope to reforge it.
+- **Used the [Arbiter](/02---characters/allies/arbiter)’s holy mark** to leave Tannis and travel through the Shimmerwood.
+- **Met the sage [Vidrir](/02---characters/allies/vidrir)**, a friendly ally of [Lerissa](/02---characters/allies/lerissa) with mysterious insight and purple-winged raven familiars.
+- [Vidrir](/02---characters/allies/vidrir) confirmed the broken sword is **Summer’s Edge**, a legendary blade once wielded by the Summer Court’s champion during the great war against the undead. Only **elven master smiths** could hope to reforge it.
 - Revealed the **Eclipse medallion** was magically **trackable**, with the signal leading northwest.
-- Skreek inquired about his stolen relic; Vidrir mentioned rumors of **djinn in the southern desert** searching for elemental artifacts.
-- When Vidrir held Summer’s Edge, it **reacted faintly**, hinting at a dormant soul within the blade.
+- Skreek inquired about his stolen relic; [Vidrir](/02---characters/allies/vidrir) mentioned rumors of **djinn in the southern desert** searching for elemental artifacts.
+- When [Vidrir](/02---characters/allies/vidrir) held Summer’s Edge, it **reacted faintly**, hinting at a dormant soul within the blade.
 
 ## 🧚 _Aid the Pixies and Uncover a Cult Plot_
 
@@ -58,59 +58,59 @@ created: 2023-07-16
 ## 🕯️ _The Greyscale Cabin and the Truth about Serenity_
 
 - Entered the corrupted woods and found a **cabin guarded by a Flameskull**. After defeating it, Slumpet kept the skull as a trophy.
-- Discovered signs of **Serenity’s presence** in the cabin and were attacked by a **Rug of Smothering**, later named “Sassy Tassels.”
-- Found an **altar to a shadow dragon** with a **magical crystal orb** and a diorama of Tannis. Using their holy marks, they summoned the **Arbiter**, who confirmed this site as the source of the Dusk Lord’s wrath and cleansed it. She departed to lift the barrier over Tannis.
-- The next morning, the **hag Serenity revealed herself** and demanded the return of the orb. The party refused, and combat broke out.
-- Shad’s **charm person spell unexpectedly succeeded**, pacifying Serenity and allowing them to gather intel:
-    - Serenity served a caster named **the Weaver**, a master of fear and illusion.
-    - Serenity cursed Tannis to earn favor with **Nidhogg**, a **shadow dragon** who **hates the Dusk Lord**.
-    - The Weaver was responsible for the **illusion-based massacre of Shad’s village**, using a false vision of Nidhogg.
-- The party **fled while Serenity was still charmed**, with Slumpet carrying the orb.
-- Along the way, the **Flameskull revived itself** as **Francis** and struck a deal with the party: in exchange for adventure and action, he would provide his **laser-eye beams and arcane knowledge**.
+- Discovered signs of **[Serenity](/02---characters/adversaries/serenity)’s presence** in the cabin and were attacked by a **Rug of Smothering**, later named “Sassy Tassels.”
+- Found an **altar to a shadow dragon** with a **magical crystal orb** and a diorama of Tannis. Using their holy marks, they summoned the **[Arbiter](/02---characters/allies/arbiter)**, who confirmed this site as the source of the Dusk Lord’s wrath and cleansed it. She departed to lift the barrier over Tannis.
+- The next morning, the **hag [Serenity](/02---characters/adversaries/serenity) revealed herself** and demanded the return of the orb. The party refused, and combat broke out.
+- Shad’s **charm person spell unexpectedly succeeded**, pacifying [Serenity](/02---characters/adversaries/serenity) and allowing them to gather intel:
+    - [Serenity](/02---characters/adversaries/serenity) served a caster named **the [Weaver](/02---characters/adversaries/weaver)**, a master of fear and illusion.
+    - [Serenity](/02---characters/adversaries/serenity) cursed Tannis to earn favor with **[Nidhogg](/02---characters/adversaries/nidhogg)**, a **shadow dragon** who **hates the Dusk Lord**.
+    - The [Weaver](/02---characters/adversaries/weaver) was responsible for the **illusion-based massacre of Shad’s village**, using a false vision of [Nidhogg](/02---characters/adversaries/nidhogg).
+- The party **fled while [Serenity](/02---characters/adversaries/serenity) was still charmed**, with Slumpet carrying the orb.
+- Along the way, the **Flameskull revived itself** as **[Francis](/02---characters/allies/francis-the-flameskull)** and struck a deal with the party: in exchange for adventure and action, he would provide his **laser-eye beams and arcane knowledge**.
 
 ## 🐉 _The Shadow of Nidhogg Revealed_
 
-- Returned to **Vidrir’s grove** to rest and regroup. Francis the Flameskull was **repelled by undead wards**, revealing Vidrir’s home was protected against such creatures.
-- Vidrir examined **Serenity’s dark orb**, identifying it as a **seeing stone**—useful for communication, tracking, and divination.
-- He grew deeply alarmed when learning Serenity had contacted **Nidhogg**, the shadow dragon sealed in the **Shadowfell** by the Order of Seasons during a great war centuries ago.
-- Vidrir’s cryptic remarks hinted he may have **personally fought in that war**, revealing a depth of history and power previously unspoken.
-- Advised the party to seek out the **Winter Court** for further knowledge of Nidhogg, the orb, and the reforging of **Summer’s Edge**. He gifted them his **Order of Seasons medallion** to gain an audience with the Lady of Winter.
+- Returned to **[Vidrir](/02---characters/allies/vidrir)’s grove** to rest and regroup. [Francis](/02---characters/allies/francis-the-flameskull) the Flameskull was **repelled by undead wards**, revealing [Vidrir](/02---characters/allies/vidrir)’s home was protected against such creatures.
+- [Vidrir](/02---characters/allies/vidrir) examined **[Serenity](/02---characters/adversaries/serenity)’s dark orb**, identifying it as a **seeing stone**—useful for communication, tracking, and divination.
+- He grew deeply alarmed when learning [Serenity](/02---characters/adversaries/serenity) had contacted **[Nidhogg](/02---characters/adversaries/nidhogg)**, the shadow dragon sealed in the **Shadowfell** by the Order of Seasons during a great war centuries ago.
+- [Vidrir](/02---characters/allies/vidrir)’s cryptic remarks hinted he may have **personally fought in that war**, revealing a depth of history and power previously unspoken.
+- Advised the party to seek out the **Winter Court** for further knowledge of [Nidhogg](/02---characters/adversaries/nidhogg), the orb, and the reforging of **Summer’s Edge**. He gifted them his **Order of Seasons medallion** to gain an audience with the Lady of Winter.
 
 ## ❄️ _First Contact with the Winter Court_
 
 - Traveled north toward the **silver maple** tree. En route, the party:
     - Defeated a **Redcap assassin** hired to stop them.
     - Spotted a **strange feline predator** tearing holes in reality and avoided its path.
-- Found a **Winter Court standing stone** and made peaceful contact with **elven rangers** by showing Vidrir’s medallion.
+- Found a **Winter Court standing stone** and made peaceful contact with **elven rangers** by showing [Vidrir](/02---characters/allies/vidrir)’s medallion.
 - Arrived at the **Winter Court embassy**, a well-kept elven village with shops, an inn (_The Restful Buck_), and a faint sci-fi aesthetic powered by blue crystal tech.
 - Shad performed at the inn, and the party learned:
-    - The Lady of Winter was **Alora**.
+    - The Lady of Winter was **[Alora](/02---characters/allies/alora)**.
     - Her daughter, **Olivia**, had recently been **poisoned**—possibly by a creature called a **Bandersnatch**.
-- Gained a private audience with Alora after **Skreek healed Olivia** with Lay on Hands. Grateful, Alora opened up about the weakening of the **interplanar barrier**, which was allowing monsters to breach into the material plane.
+- Gained a private audience with [Alora](/02---characters/allies/alora) after **Skreek healed Olivia** with Lay on Hands. Grateful, [Alora](/02---characters/allies/alora) opened up about the weakening of the **interplanar barrier**, which was allowing monsters to breach into the material plane.
 
 ## 🦷 _Quest: Hunt the Bandersnatch_
 
-- Accepted Alora’s offer to **hunt the Bandersnatch** that poisoned Olivia.    
+- Accepted [Alora](/02---characters/allies/alora)’s offer to **hunt the Bandersnatch** that poisoned Olivia.    
 - Used clever tactics and **Slumpet’s squirrel network** to bait and trap the creature. Despite its poison gas and claws, the party was victorious.
-- Returned the beast’s **severed head** to Alora, who rewarded them each with a **powerful magic item**:
+- Returned the beast’s **severed head** to [Alora](/02---characters/allies/alora), who rewarded them each with a **powerful magic item**:
     - **Slumpet**: _Relentless Hunter_ (shortbow with _Hunter’s Mark_)
     - **Shad**: _Fochlucan Bandore_ (bardic instrument)
     - **Toby**: _Blinkback Belt_ (auto-retrieving thrown weapons)
     - **Skreek**: _Frostbrand Scimitar_ (cold damage)
-- Learned more about the **barrier’s origin**, which was forged by Alora’s mother using ancient power. Since no one of her lineage has inherited her gift, the barrier is weakening.
-- Alora asked the party to investigate a nearby **leyline temple** that sustains part of the barrier.
-- **Trius**, Alora’s eldest daughter and a paladin wielding a **moonblade**, made an impression on the group—especially Shadicar. Though intrigued by their quest, she initially declined to join them.
+- Learned more about the **barrier’s origin**, which was forged by [Alora](/02---characters/allies/alora)’s mother using ancient power. Since no one of her lineage has inherited her gift, the barrier is weakening.
+- [Alora](/02---characters/allies/alora) asked the party to investigate a nearby **leyline temple** that sustains part of the barrier.
+- **[Trius](/02---characters/allies/trius)**, [Alora](/02---characters/allies/alora)’s eldest daughter and a paladin wielding a **moonblade**, made an impression on the group—especially Shadicar. Though intrigued by their quest, she initially declined to join them.
 
 ## 🛡️ _Journey to the Winter Leyline Temple_
 
-- After a night of rest and **unsettling dreams of Serenity reclaiming the orb**, the party prepared to depart. With some persuasion and the promise of excitement, **Trius** agreed to accompany them to the leyline temple.
-- The party traveled east on horseback (with Trius riding a **majestic unicorn**) toward a **temple of ancient origin** embedded in the hillside — **unlike any elven or dwarven structure they'd seen**.
+- After a night of rest and **unsettling dreams of [Serenity](/02---characters/adversaries/serenity) reclaiming the orb**, the party prepared to depart. With some persuasion and the promise of excitement, **[Trius](/02---characters/allies/trius)** agreed to accompany them to the leyline temple.
+- The party traveled east on horseback (with [Trius](/02---characters/allies/trius) riding a **majestic unicorn**) toward a **temple of ancient origin** embedded in the hillside — **unlike any elven or dwarven structure they'd seen**.
 - At the entrance, a magical voice demanded proof of worthiness:
     - **Shadicar**: a bardic song of Elven legend
     - **Skreek**: scroll proving his lineage
-    - **Slumpet**: failed with Serenity’s orb, succeeded with Alora’s gifted bow
+    - **Slumpet**: failed with [Serenity](/02---characters/adversaries/serenity)’s orb, succeeded with [Alora](/02---characters/allies/alora)’s gifted bow
     - **Toby**: blood sacrifice
-    - **Trius**: her family’s Moonblade  
+    - **[Trius](/02---characters/allies/trius)**: her family’s Moonblade  
         These offerings were accepted, and the temple opened like a **mechanical iris**.
 
 ## ⚔️ _Temple Trials of the Ancient Order_
@@ -120,39 +120,39 @@ created: 2023-07-16
 - **Final Chamber**: A breathtaking nexus of power, centered on a **giant purple leyline crystal** surrounded by six hovering **arcane focus crystals**.
     - The **glyphs** referenced "planes," "barrier," and "leyline."
     - One of the six crystals was **cracked and flickering**, indicating a possible failure in the arcane network.
-- **Slumpet recorded the runes** by making a rubbing, and **Skreek contacted the Arbiter**, who explained that **leylines channel the raw magic of the world**, which can be used for power, communication, or traversal.
-- With no further threats or puzzles, the party exited the temple, ready to **report their findings to Alora**.
+- **Slumpet recorded the runes** by making a rubbing, and **Skreek contacted the [Arbiter](/02---characters/allies/arbiter)**, who explained that **leylines channel the raw magic of the world**, which can be used for power, communication, or traversal.
+- With no further threats or puzzles, the party exited the temple, ready to **report their findings to [Alora](/02---characters/allies/alora)**.
 
 ## 🌑 _Final Showdown with Serenity_
 
-- On the road back from the leyline temple, the forest’s **colors drained into grayscale**, and the party unexpectedly arrived at **Serenity’s cabin** once more.    
-- Serenity, revealing her true **night hag form**, demanded her crystal orb and launched an ambush. 
-- **Trius joined the battle**, sword drawn and projecting a **mental battle hymn** that inspired the party.
-- Serenity animated the **party’s shadows** as enemies and revealed her **“cloak” was a manta-like creature**, capable of absorbing damage and creating illusory copies.
-- After a **brutal, all-hands battle**, Serenity and the shadow creatures were slain. Her cloak escaped.
-- Shad used a scroll of **Speak with Dead**, and Serenity grudgingly answered:
+- On the road back from the leyline temple, the forest’s **colors drained into grayscale**, and the party unexpectedly arrived at **[Serenity](/02---characters/adversaries/serenity)’s cabin** once more.    
+- [Serenity](/02---characters/adversaries/serenity), revealing her true **night hag form**, demanded her crystal orb and launched an ambush. 
+- **[Trius](/02---characters/allies/trius) joined the battle**, sword drawn and projecting a **mental battle hymn** that inspired the party.
+- [Serenity](/02---characters/adversaries/serenity) animated the **party’s shadows** as enemies and revealed her **“cloak” was a manta-like creature**, capable of absorbing damage and creating illusory copies.
+- After a **brutal, all-hands battle**, [Serenity](/02---characters/adversaries/serenity) and the shadow creatures were slain. Her cloak escaped.
+- Shad used a scroll of **Speak with Dead**, and [Serenity](/02---characters/adversaries/serenity) grudgingly answered:
     - She was **over 300 years old**
-    - **The Weaver** destroyed Shad’s village “for amusement”
+    - **The [Weaver](/02---characters/adversaries/weaver)** destroyed Shad’s village “for amusement”
     - **She wasn’t responsible** for the Elven barrier’s weakening
-- She refused to share the **Weaver’s location** or her **breakfast recipe**.
+- She refused to share the **[Weaver](/02---characters/adversaries/weaver)’s location** or her **breakfast recipe**.
 - The party looted her body, finding:
     - An **emerald ring** that opens a **small storage dimension**
     - A **gold necklace** that **protects the mind from magical probing**
-- After looting her cabin, they **burned both the body and the building** to ensure Serenity would not return.
+- After looting her cabin, they **burned both the body and the building** to ensure [Serenity](/02---characters/adversaries/serenity) would not return.
 
 ## 🧭 _Reporting to Alora and Discovering the Larger Plan_
 
 - Returned to the Winter Court and reported both:
-    - Serenity’s permanent defeat
+    - [Serenity](/02---characters/adversaries/serenity)’s permanent defeat
     - The **damaged leyline crystal**
-- Alora was troubled by the crack but **didn’t know how to repair it**.
+- [Alora](/02---characters/allies/alora) was troubled by the crack but **didn’t know how to repair it**.
 - As a reward, she gifted the party a **silver teleportation ring**:
     - When attuned to an **obsidian standing stone**, it allows teleportation between attuned stones.
-- The next morning, **Arch Magus Levi** joined Alora in briefing the party:
+- The next morning, **Arch Magus Levi** joined [Alora](/02---characters/allies/alora) in briefing the party:
     - The **barrier is anchored by four leyline temples**, one in each seasonal domain.
-    - **Alora’s mother’s journal** referenced an ancient site called **The Chained Library**, likely the original source of the barrier ritual.
+    - **[Alora](/02---characters/allies/alora)’s mother’s journal** referenced an ancient site called **The Chained Library**, likely the original source of the barrier ritual.
     - The Chained Library may still exist and may **seek out forbidden artifacts** like the orb.
-- During this meeting, **Slumpet stole a map of the Dwarven capital** from Alora’s desk, raising questions about her connection to the Dwarves.
+- During this meeting, **Slumpet stole a map of the Dwarven capital** from [Alora](/02---characters/allies/alora)’s desk, raising questions about her connection to the Dwarves.
 
 ## 🍂 _Journey to the Autumn Court_
 
@@ -161,18 +161,18 @@ created: 2023-07-16
 
 ## 🍁 _Darkness at the Fall Festival_
 
-- Arrived during a seasonal festival at the **Aki Matsuri beer garden**, hosted by the **earth genasi monk Hencelle**, the "Master of Feasts."
+- Arrived during a seasonal festival at the **Aki Matsuri beer garden**, hosted by the **earth genasi monk [Hencelle](/02---characters/allies/hencelle)**, the "Master of Feasts."
 - Befriended **Ali**, a bounty hunter working for the secretive information guild , the **Massa’Ista**; his captive **Arden** may help identify magic items.
-- **Xolthos, a black dragonborn sorcerer and agent of the Eclipse**, disrupted the festival with an ominous speech:
-    - Proclaimed the **return of Nidhogg**
+- **[Xolthos](/02---characters/adversaries/xolthos-omenspeaker), a black dragonborn sorcerer and agent of the Eclipse**, disrupted the festival with an ominous speech:
+    - Proclaimed the **return of [Nidhogg](/02---characters/adversaries/nidhogg)**
     - Warned of more **attacks on leyline temples**
-- After **banishing Shad mid-taunt**, Xolthos was defeated in a tough battle. Slumpet's **stardust** prevented him from using shadow magic.
-- Looted magic items from Xolthos:
+- After **banishing Shad mid-taunt**, [Xolthos](/02---characters/adversaries/xolthos-omenspeaker) was defeated in a tough battle. Slumpet's **stardust** prevented him from using shadow magic.
+- Looted magic items from [Xolthos](/02---characters/adversaries/xolthos-omenspeaker):
     - **Tiny dragon figurine**
     - **Invisibility ring**
     - **Enchanted robes**
     - **Magic staff**
-- Found a **letter from the Weaver**, confirming:
+- Found a **letter from the [Weaver](/02---characters/adversaries/weaver)**, confirming:
     - The **Winter leyline crystal** was already damaged
     - The **Summer Court’s leyline** is the **next target**
     - All **marked by the Dusk Lord** are enemies
@@ -180,8 +180,8 @@ created: 2023-07-16
 ## 🧠 _Audience with Farkris & Entry to the Autumn Temple_
 
 - Gained an audience with **Lord Farkris**, leader of the Autumn Court:    
-    - Regretted failing to make peace with Nidhogg centuries ago
-    - Shocked to learn the barrier is weakening — Alora had not warned him
+    - Regretted failing to make peace with [Nidhogg](/02---characters/adversaries/nidhogg) centuries ago
+    - Shocked to learn the barrier is weakening — [Alora](/02---characters/allies/alora) had not warned him
     - Granted permission to explore the **Autumn Leyline Temple**
 - Proved their worth to a **guardian treant** by **saving a baby unicorn** from bloodthirsty vines during a dire wolf ambush
 - Gained entrance to the temple through a **hill peeled open by ancient magic**
@@ -196,15 +196,15 @@ created: 2023-07-16
 
 ## ⚔️ _The Battlefield of the Eclipse_
 
-- Discovered a site with **arcane runes** burned into the ground — likely the **battlefield where Nidhogg was sealed**    
+- Discovered a site with **arcane runes** burned into the ground — likely the **battlefield where [Nidhogg](/02---characters/adversaries/nidhogg) was sealed**    
 - Encountered **cultists performing a ritual**:
     - Party ambushed the enemy        
     - Defeated a mage named **Kharvax**, along with an ogre and mercenaries
-    - Francis delighted in laser-eye-beaming the foes
+    - [Francis](/02---characters/allies/francis-the-flameskull) delighted in laser-eye-beaming the foes
 - Two mercs surrendered and shared cult plans in exchange for their lives
 - **Shad used Mantle of Whispers** to absorb Kharvax’s shadow and learned:
-    - The **Weaver’s stronghold is in the Feywild**
-    - They hope to use the old **Nidhogg sealing ritual** to **enhance summoning magic**
+    - The **[Weaver](/02---characters/adversaries/weaver)’s stronghold is in the Feywild**
+    - They hope to use the old **[Nidhogg](/02---characters/adversaries/nidhogg) sealing ritual** to **enhance summoning magic**
     - Kharvax had tested this by summoning a basilisk, which killed some cultists
 - Looted:
     - **+1 Vampiric Scythe**
@@ -224,13 +224,13 @@ created: 2023-07-16
 
 - Found the temple **already breached**; two **guardian constructs** were destroyed by **fire and ice magic**.
 - Discovered the **leyline crystal chamber** had one of its eight rune crystals **entirely missing**.
-- Outside, encountered **Manus**, a trickster warrior posing as Trius. He:
-    - **Mocked the Weaver and the cult** despite seeming to be allied with the cult
-    - Wants to test his skills against strong opponents,  but the Weaver would only fight Manus after the cult accomplished its goal.
+- Outside, encountered **[Manus](/02---characters/adversaries/manus)**, a trickster warrior posing as [Trius](/02---characters/allies/trius). He:
+    - **Mocked the [Weaver](/02---characters/adversaries/weaver) and the cult** despite seeming to be allied with the cult
+    - Wants to test his skills against strong opponents,  but the [Weaver](/02---characters/adversaries/weaver) would only fight [Manus](/02---characters/adversaries/manus) after the cult accomplished its goal.
     - **Offered the crystal** if they could **land one blow** on him
-- The party struggled to even touch him—until **Slumpet’s ball bearings** landed a hit. True to his word, Manus handed over the crystal and vanished.
-- Back in the temple, attempts to restore the crystal failed. The **Arbiter suggested** it might be **tainted** or need a **ritual**.
-- Shad used **Contact Other Plane** to reach **Maria**, Alora’s mother:
+- The party struggled to even touch him—until **Slumpet’s ball bearings** landed a hit. True to his word, [Manus](/02---characters/adversaries/manus) handed over the crystal and vanished.
+- Back in the temple, attempts to restore the crystal failed. The **[Arbiter](/02---characters/allies/arbiter) suggested** it might be **tainted** or need a **ritual**.
+- Shad used **Contact Other Plane** to reach **Maria**, [Alora](/02---characters/allies/alora)’s mother:
     - **Party cannot fix the crystal**
     - **Summer Court lacks the means**
     - **Chained Library holds the answers**
@@ -242,23 +242,23 @@ created: 2023-07-16
 - While returning to the Summer Court, the party entered a **temporal loop** in the forest:
     - Experienced **repeating scenery**, **time distortions**, and **deja vu**
     - Noticed signs of the **escaped basilisk** from Kharvax’s failed ritual
-- Discovered **Blackbird**, a **raven-like eldritch merchant** who trades in **secrets and contracts**.
-- Blackbird offered help **in exchange for a magical contract** with Toby:
+- Discovered **[Blackbird](/02---characters/allies/blackbird)**, a **raven-like eldritch merchant** who trades in **secrets and contracts**.
+- [Blackbird](/02---characters/allies/blackbird) offered help **in exchange for a magical contract** with Toby:
     - For **three nights**, she must **pay for everyone’s drinks**
     - Violation will result in **psychic damage**
     - The contract manifests as an invisible bracelet Toby feels on her wrist.
-- Blackbird returned with a **charm that played a metal tune** (“take control”), which helped Toby **navigate the loop** and **lead the party out safely**.
+- [Blackbird](/02---characters/allies/blackbird) returned with a **charm that played a metal tune** (“take control”), which helped Toby **navigate the loop** and **lead the party out safely**.
 
 ## ⚔️ _Back in the Summer Court: Reforging Summer’s Edge_
 
 - After escaping the forest loop, the party returned to the **Summer Court**, where they:
-    - Fulfilled night 1 of **Blackbird’s drink contract** (98 drinks = 19gp)
+    - Fulfilled night 1 of **[Blackbird](/02---characters/allies/blackbird)’s drink contract** (98 drinks = 19gp)
     - Shad tried (and failed) to perform badly enough to clear the tavern
 - Met with **Lady Sylvia**, who:
     - Was surprised but not hostile about the party having **Summer’s Edge**
     - Confirmed the sword **chooses its wielder**
-    - Directed them to **Elara Sunforge**, the realm’s top smith
-- Elara was thrilled to help, but needed two components:
+    - Directed them to **[Elara Sunforge](/02---characters/allies/elara-sunforge)**, the realm’s top smith
+- [Elara](/02---characters/allies/elara-sunforge) was thrilled to help, but needed two components:
     - **Celestial Ore** from the **Starfall Crater**
     - The **First Kiss of the Midday Sun** from the **Feywild**
 
@@ -266,14 +266,14 @@ created: 2023-07-16
 
 - Traveled north to a **meteor crater**, filled with glowing alien stone, swirling mist, and a song-like hum of cosmic energy.
 - Battled four **Starfall Sentinels** and a larger, intelligent **Celestial Guardian** wielding a blade of starlight.
-- After a hard-won victory, the **pedestal cracked**, revealing enough **Celestial Ore** to meet Elara’s needs.
+- After a hard-won victory, the **pedestal cracked**, revealing enough **Celestial Ore** to meet [Elara](/02---characters/allies/elara-sunforge)’s needs.
 
 ## 🛍️ _Shopping and the Shimmering Glade_
 
-- Returned to Elara with the ore; she confirmed it was suitable.
+- Returned to [Elara](/02---characters/allies/elara-sunforge) with the ore; she confirmed it was suitable.
 - She found a nearby **Fey crossing**: the **Shimmering Glade**
 - Shopped at the **Glittering Cavern**, where **Toby purchased oddly specific items** (moonstones, salt, bells, milk, etc.) in anticipation of Fey dealings.
-- Fulfilled **night 2** of Blackbird’s contract—more expensive this time, but manageable.
+- Fulfilled **night 2** of [Blackbird](/02---characters/allies/blackbird)’s contract—more expensive this time, but manageable.
 - The next morning, ventured to the **Shimmering Glade**, a radiant clearing filled with latent magic and a ring of ancient standing stones.
 
 ## 🐾 _Squid Cats and the Crossing to the Feywild_
@@ -304,10 +304,10 @@ created: 2023-07-16
 
 ## ☀️ _The First Kiss of the Midday Sun_
 
-- Toby wakes up and realizes that Blackbird's contract bracelet is gone, which signals:
+- Toby wakes up and realizes that [Blackbird](/02---characters/allies/blackbird)'s contract bracelet is gone, which signals:
 	- Time passes differently in the Feywild
 	- The contract has been fulfilled
-- Began the **ascent of the mountain** the next morning with Elara’s capturing device in hand.    
+- Began the **ascent of the mountain** the next morning with [Elara](/02---characters/allies/elara-sunforge)’s capturing device in hand.    
 - Encountered a **moss-covered fey troll** guarding a pass:
     - Each strike spawned **animated flesh clones**
     - After a difficult battle, the party continued upward
@@ -315,18 +315,18 @@ created: 2023-07-16
     - A memory of the sword being gifted to a champion by the **Queen of the Summer Court**
     - A battlefield vision disrupted by darkness and shattering fragments
 - In the distance, the party saw a **twisted black castle**—gothic, shifting, and _watching_—which hadn’t been there a moment ago... or perhaps always had.
-- At a **ceremonial altar**, Slumpet placed Elara’s device to capture the sun’s essence.
+- At a **ceremonial altar**, Slumpet placed [Elara](/02---characters/allies/elara-sunforge)’s device to capture the sun’s essence.
 - As the sun’s light bathed the altar, **Summer’s Edge began to stir**, resonating with the light and Skreek’s presence.
 
 ## 🃏 _A Duel with Manus, Again_
 
-- **Manus appeared**, taunting the party:    
+- **[Manus](/02---characters/adversaries/manus) appeared**, taunting the party:    
 	- “Drawing broken swords now, bird? I do hope you brought sharper company.”
-- Created **magical darkness** around Elara’s device and summoned **two clones** on the cliffs above.
+- Created **magical darkness** around [Elara](/02---characters/allies/elara-sunforge)’s device and summoned **two clones** on the cliffs above.
 - Only Skreek could perceive within the darkness, thanks to his **blindsight**.
-- Shad dispelled the darkness, drawing mocking praise from Manus.
-- After several rounds of fighting, **Manus called off the battle**, vanishing with a final taunt and leaving the party winded but intact.
-- Elara’s device **completed its capture**—a soft, warm pulse confirmed that the **First Kiss of the Midday Sun** had been secured.
+- Shad dispelled the darkness, drawing mocking praise from [Manus](/02---characters/adversaries/manus).
+- After several rounds of fighting, **[Manus](/02---characters/adversaries/manus) called off the battle**, vanishing with a final taunt and leaving the party winded but intact.
+- [Elara](/02---characters/allies/elara-sunforge)’s device **completed its capture**—a soft, warm pulse confirmed that the **First Kiss of the Midday Sun** had been secured.
 
 ## 🏰 _The Forgotten Castle_
 
@@ -338,7 +338,7 @@ created: 2023-07-16
 - At the gates, they faced a **riddle-speaking patchwork knight**, passing its test to gain entry:
     - Love, the tongue, and humanity — each answer a key to the path ahead.
 - Inside, mirrors showed **distorted visions of self**:
-    - **Shad** rejected a hollow legacy of applause and escaped harm thanks to Serenity’s necklace.
+    - **Shad** rejected a hollow legacy of applause and escaped harm thanks to [Serenity](/02---characters/adversaries/serenity)’s necklace.
     - **Skreek** accepted a vision of lonely heroism and gained a boon of luck.
     - **Slumpet** rejected visions of betrayal and was psychically wounded.
     - **Toby** embraced her monstrous reflection and earned a boon of luck.
@@ -347,32 +347,32 @@ created: 2023-07-16
 ### 🧵 _The Loom Chamber_
 
 - A massive broken **loom pulsed with dark illusion magic**, clearly crafted by a master.
-- Shad disrupted the loom with thunderwave; Francis incinerated it at Shad’s request.
+- Shad disrupted the loom with thunderwave; [Francis](/02---characters/allies/francis-the-flameskull) incinerated it at Shad’s request.
 - The room triggered hallucinations and memory loss — suggesting the **loom once held influence over perception or identity**.
 - Shad’s decision to destroy the loom marked a turning point: he accepted responsibility for unmaking something integral to the castle’s design.    
 
 ### 👁 _The Echo of the Weaver_
 
-- In the **throne room**, the party met the **Echo**, a spectral remnant of the Weaver’s soul, bound to the castle.
+- In the **throne room**, the party met the **Echo**, a spectral remnant of the [Weaver](/02---characters/adversaries/weaver)’s soul, bound to the castle.
 - The Echo recognized Shad as the one who destroyed the loom and demanded payment — a **soul** to rebuild it.
 - When the party refused, he summoned **two wolves of shadow** and attempted to extract Shad’s soul by force.
-    - Shad survived the Echo’s powerful assaults thanks to uncanny luck and Serenity’s amulet.
+    - Shad survived the Echo’s powerful assaults thanks to uncanny luck and [Serenity](/02---characters/adversaries/serenity)’s amulet.
     - Slumpet struck the decisive blow from the shadows, unraveling the Echo and banishing his summoned wolves.        
 
 ### 📜 _Revelations in the Weaver’s Study_
 
-- Behind a hidden tapestry, the party found the **Weaver’s study** and journal.
+- Behind a hidden tapestry, the party found the **[Weaver](/02---characters/adversaries/weaver)’s study** and journal.
 - The journal revealed:
-    - The **power of fear** and illusion shaped the Weaver’s philosophy.
+    - The **power of fear** and illusion shaped the [Weaver](/02---characters/adversaries/weaver)’s philosophy.
     - Illusions could be tied to **triggers, emotions**, and even bound to places and **events**.
-    - The Weaver discovered and mastered **Mirage Arcane**, allowing him to **reshape reality** entirely.
-    - His final entries describe a plan to **weaken the leyline network** and release **Nidhogg** by unraveling the threads anchoring the planes.
+    - The [Weaver](/02---characters/adversaries/weaver) discovered and mastered **Mirage Arcane**, allowing him to **reshape reality** entirely.
+    - His final entries describe a plan to **weaken the leyline network** and release **[Nidhogg](/02---characters/adversaries/nidhogg)** by unraveling the threads anchoring the planes.
     - A **spell that can tether his soul to paper**, known as **Silmirien**, can **call him home** if a page is burned.
 - Slumpet also found a **map of leyline energy** and leyline temple locations, marked with several **“Hollow Thresholds”**—unexplained but likely significant to the cult’s portal activities. He **kept this map secret**, considering its potential value to his mysterious dwarven contacts.
 
 ## 🏰 _An Unexpected Refuge_
 
-- After defeating the Weaver’s Echo, the party rested within the now-quiet Feywild castle. By morning, the oppressive illusions had faded, revealing a place touched by warmth and light.
+- After defeating the [Weaver](/02---characters/adversaries/weaver)’s Echo, the party rested within the now-quiet Feywild castle. By morning, the oppressive illusions had faded, revealing a place touched by warmth and light.
 - Exploring further, they discovered a hidden stairwell behind a tapestry, leading to an ancient chamber of quartz-veined stone beneath the castle.
 - At its center stood an obsidian standing stone—identical to others they had seen—surrounded by a dormant teleportation circle. Skreek recognized the design from his homeland.
 - The patchwork guardian returned, proclaiming the party the new owners of the castle. They named him “Jeeves,” and he pledged to restore the structure and shape it to their needs.
@@ -380,11 +380,11 @@ created: 2023-07-16
 
 ## 🔨 _Reforging Summer’s Edge_
 
-- Elara welcomed the party back to the Summer Court, relieved after their long absence. The lingering Feywild magic faded, restoring the group to normal.
+- [Elara](/02---characters/allies/elara-sunforge) welcomed the party back to the Summer Court, relieved after their long absence. The lingering Feywild magic faded, restoring the group to normal.
 - She confirmed the party had retrieved the “First Kiss of the Midday Sun” and led them to an ancient leyline forge beneath her shop.
-- Using the sun’s essence and celestial ore, Elara reforged the legendary blade with reverence. At the final strike, she offered the completed weapon to Skreek.
+- Using the sun’s essence and celestial ore, [Elara](/02---characters/allies/elara-sunforge) reforged the legendary blade with reverence. At the final strike, she offered the completed weapon to Skreek.
 - As Skreek took up Summer’s Edge, he felt its radiant will awaken—offering a wordless vow of purpose and unity.
-- Elara provided a temporary scabbard and promised to craft a more fitting one in time. The party departed to celebrate at Ember’s Embrace.
+- [Elara](/02---characters/allies/elara-sunforge) provided a temporary scabbard and promised to craft a more fitting one in time. The party departed to celebrate at Ember’s Embrace.
 - Over drinks with Serra Flamekissed, they planned their next journey—to check on Tannis via the standing stone near the Order’s tomb. Before retiring, Shad purchased a scroll of _Legend Lore_, eager to learn more about the looming darkness.
 
 ## 🌱 _On to the Spring Court_
@@ -392,32 +392,32 @@ created: 2023-07-16
 - Shad cast **legend lore** using a purchased scroll to learn about the **Chained Library**. He saw a sand-formed vision describing it as an ancient fortress of forbidden knowledge, guarded by blind celestials. The library predates kingdoms and even some gods, never destroys texts, and is nearly impossible to reach. Hints of its location included being “among the roots beneath the seasons” or “in the vault at the world’s bloom.” Churches and pious orders may sometimes sway the librarians, but monarchs and wealth cannot.
 - Shad and Toby speculated that “the world’s bloom” might refer to the **Spring Court**.
 - At the **Summer Court colosseum**, Skreek tested Summer’s Edge in a duel, defeating the black-armored knight Adamar. The party bet on Skreek’s 4:1 odds as a newcomer and won substantial coin.
-- Traveling northwest toward the Spring Court, the group discovered a **stone portal** in a clearing. Shad animated a dead tree to scout; it returned with a wolf biting its trunk. Toby then sent Francis, who reported a sealed arena of massive trees, a second portal opposite, and an ominous altar bearing a glowing fang surrounded by wolves and an owlbear.
+- Traveling northwest toward the Spring Court, the group discovered a **stone portal** in a clearing. Shad animated a dead tree to scout; it returned with a wolf biting its trunk. Toby then sent [Francis](/02---characters/allies/francis-the-flameskull), who reported a sealed arena of massive trees, a second portal opposite, and an ominous altar bearing a glowing fang surrounded by wolves and an owlbear.
 - Entering the portal, the party fought waves of wolves and owlbears. Shad dispelled the glowing fang, halting the summons, but Skreek was later knocked unconscious. The collapsing chamber threatened to crush them, while wild magic tried to polymorph the group into beasts (turning Shad into a frog briefly). The party barely escaped as the pocket-realm collapsed, leaving only frost-scarred grass where the portal once stood.
-- As they caught their breath, a cloaked stranger emerged—**Vael, Fifth Binder, Chainbearer of the Silent Vault**. He revealed he was investigating these unstable portals, which he called **Hollow Thresholds**. Created by the **Cult of the Eclipse** using planar artifacts, they were “surgical incisions” weakening the Elven barrier by siphoning leyline power.
-- Skreek guessed correctly that Vael was tied to the **Chained Library**. Vael admitted as much and offered to lead them to the Library in exchange for dangerous artifacts: Serenity’s orb and the newly recovered fang. A compromise was struck: the party gave him the fang now and promised to relinquish the orb upon reaching the Library’s entrance.
+- As they caught their breath, a cloaked stranger emerged—**[Vael](/02---characters/allies/vael), Fifth Binder, Chainbearer of the Silent Vault**. He revealed he was investigating these unstable portals, which he called **Hollow Thresholds**. Created by the **Cult of the Eclipse** using planar artifacts, they were “surgical incisions” weakening the Elven barrier by siphoning leyline power.
+- Skreek guessed correctly that [Vael](/02---characters/allies/vael) was tied to the **Chained Library**. [Vael](/02---characters/allies/vael) admitted as much and offered to lead them to the Library in exchange for dangerous artifacts: [Serenity](/02---characters/adversaries/serenity)’s orb and the newly recovered fang. A compromise was struck: the party gave him the fang now and promised to relinquish the orb upon reaching the Library’s entrance.
 - After healing, the party continued to the **giant birch tree** marking Spring Court territory. Slumpet attuned the Leyline Gate Ring at the nearby standing stone. They made camp beneath the tree, resting before completing their journey into Spring lands.
 
 ## 🌸 _Welcome to the Spring Court_
 
-- **Vael guided the party** toward the Spring Court, describing it as a realm of **renewal, new beginnings, and acceptance**. He suggested visiting the **Moonlit Hearth tavern** to sample the legendary tea.
-- The Spring Court is led by **Faela Mossheart**, the High Druid, known for her deep connection to nature and the cycles of growth.
-- At the **Moonlit Hearth**, the party met **Seraphina Moonglow**, the proprietor:
-    - Shadâ€™s allergies flared up upon arrival, but Seraphina brewed him a **cleansing tea** that cured them completely.
-    - Toby traded a moonstone for drinks, impressing Seraphina with fruit wine and tea for the group.
-    - Skreek requested an **augury** and asked: _"Will I find the royal artifact stolen from my people?"_ Seraphina's answer: **"You will have that chance soon."**
+- **[Vael](/02---characters/allies/vael) guided the party** toward the Spring Court, describing it as a realm of **renewal, new beginnings, and acceptance**. He suggested visiting the **Moonlit Hearth tavern** to sample the legendary tea.
+- The Spring Court is led by **[Faela Mossheart](/02---characters/allies/faela-mossheart)**, the High Druid, known for her deep connection to nature and the cycles of growth.
+- At the **Moonlit Hearth**, the party met **[Seraphina Moonglow](/02---characters/allies/seraphina-moonglow)**, the proprietor:
+    - Shadâ€™s allergies flared up upon arrival, but [Seraphina](/02---characters/allies/seraphina-moonglow) brewed him a **cleansing tea** that cured them completely.
+    - Toby traded a moonstone for drinks, impressing [Seraphina](/02---characters/allies/seraphina-moonglow) with fruit wine and tea for the group.
+    - Skreek requested an **augury** and asked: _"Will I find the royal artifact stolen from my people?"_ [Seraphina](/02---characters/allies/seraphina-moonglow)'s answer: **"You will have that chance soon."**
 - The party located the **standing stone in the royal garden** behind the High Druid's residence. Slumpet climbed it and **attuned the Leyline Gate Ring**.
-- A guard escorted them to meet **Faela Mossheart**, who admitted she hadnâ€™t checked the Spring Leyline Temple recently but had noticed **strange disturbances in the forest**.
-- Faela offered to escort them to the temple in the morning. **Vael** departed to investigate the forest independently.
+- A guard escorted them to meet **[Faela Mossheart](/02---characters/allies/faela-mossheart)**, who admitted she hadnâ€™t checked the Spring Leyline Temple recently but had noticed **strange disturbances in the forest**.
+- [Faela](/02---characters/allies/faela-mossheart) offered to escort them to the temple in the morning. **[Vael](/02---characters/allies/vael)** departed to investigate the forest independently.
 - The party did some shopping (**Skreek bought a cloak of billowing**) and rested at the Moonlit Hearth.
 
 ## 🌿 _The Withering Temple_
 
-- The next morning, **Skreek summoned a warhorse** instead of his usual camel. The party met Faela in the garden and set out for the temple.
-- The journey was surreal: the forest **opened a path wherever Faela walked**, and **wildflowers bloomed in her footsteps**.
-- When the party teased Faela about needing protection due to her age, she **wildshape into a sabertooth tiger** and continued through the forest without missing a beat.
+- The next morning, **Skreek summoned a warhorse** instead of his usual camel. The party met [Faela](/02---characters/allies/faela-mossheart) in the garden and set out for the temple.
+- The journey was surreal: the forest **opened a path wherever [Faela](/02---characters/allies/faela-mossheart) walked**, and **wildflowers bloomed in her footsteps**.
+- When the party teased [Faela](/02---characters/allies/faela-mossheart) about needing protection due to her age, she **wildshape into a sabertooth tiger** and continued through the forest without missing a beat.
 - Upon arrival, they found the forest around the temple **withering and corrupted**, a stark contrast to the vibrant Spring Court.
-- Faela asked each party member to **plant a magical seed** as a personal vow:
+- [Faela](/02---characters/allies/faela-mossheart) asked each party member to **plant a magical seed** as a personal vow:
     - **Shad**: _"Make the world better through music."_
     - **Skreek**: _"Restore order by retrieving the stolen artifact of my people."_
     - **Toby**: _"With this seed I do plant, may my bitterness wane. In the future, it shall grant, my companions and I less pain."_
@@ -428,30 +428,30 @@ created: 2023-07-16
 ## ⚔️ _Corruption and Undeath_
 
 - As soon as the party entered the chamber, they were **struck by necrotic damage** from an unseen source and quickly retreated.
-- Slumpet fetched **Faela** for assistance. Upon re-entering, **Skreek spotted a hooded figure**â€"locking eyes with it caused more necrotic damage.
+- Slumpet fetched **[Faela](/02---characters/allies/faela-mossheart)** for assistance. Upon re-entering, **Skreek spotted a hooded figure**â€"locking eyes with it caused more necrotic damage.
 - The figure was revealed to be a **Bodak**, accompanied by **two wraiths and several shadows**.
 - The battle was brutal:
     - The Bodak's **death gaze** dealt ongoing necrotic damage
     - The undead **phased through walls and players**, making them difficult to target
-    - **Faela focused on healing** while the party fought
-- After a hard-won victory, **Slumpet found a note** sewn into the Bodak's robes, written by **Manus**:
+    - **[Faela](/02---characters/allies/faela-mossheart) focused on healing** while the party fought
+- After a hard-won victory, **Slumpet found a note** sewn into the Bodak's robes, written by **[Manus](/02---characters/adversaries/manus)**:
     - The undead were placed as a **test for the party**
     - The Cult of the Eclipse was **frustrated by the party's continued success**
     - They were **accelerating their timeline**: instead of waiting for the **winter solstice**, they would perform the **final ritual on the next new moon** (~10 days away)
-    - Manus hinted that the party was becoming **more interesting than the Weaver** and hoped they would attempt to stop the ritual at the **ancient battlefield where Nidhogg was sealed**
-- The party also found **gold and a vial of Oil of Etherealness**â€"likely how Manus snuck the Bodak into the chamber.
-- **Faela confirmed** the Bodak was the source of the corruption affecting the forest. She escorted the party back to the Spring Court.
-- The party took a **long rest** and prepared to journey with **Vael** to the **Chained Library entrance** the next morning, seeking answers about repairing the Elven barrier.
+    - [Manus](/02---characters/adversaries/manus) hinted that the party was becoming **more interesting than the [Weaver](/02---characters/adversaries/weaver)** and hoped they would attempt to stop the ritual at the **ancient battlefield where [Nidhogg](/02---characters/adversaries/nidhogg) was sealed**
+- The party also found **gold and a vial of Oil of Etherealness**â€"likely how [Manus](/02---characters/adversaries/manus) snuck the Bodak into the chamber.
+- **[Faela](/02---characters/allies/faela-mossheart) confirmed** the Bodak was the source of the corruption affecting the forest. She escorted the party back to the Spring Court.
+- The party took a **long rest** and prepared to journey with **[Vael](/02---characters/allies/vael)** to the **Chained Library entrance** the next morning, seeking answers about repairing the Elven barrier.
 
 ## ⛰️ _The Ashen Shrine_
 
-- Before departing, **Slumpet revealed** a secret: he had stolen a **leyline map** from the Weaver's study, showing:
+- Before departing, **Slumpet revealed** a secret: he had stolen a **leyline map** from the [Weaver](/02---characters/adversaries/weaver)'s study, showing:
     - The locations of **leylines throughout the Elven forest**
     - The **four seasonal leyline temples**
     - **Four Hollow Threshold locations** (the planar rifts created by the Cult)
-- **Vael** advised the party that a **Hollow Threshold tied to the elemental plane of air** was open to the west, within **Winter Court territory**.
-- Vael led them to the **Ashen Shrine**, located at the base of **Mount Vesithar**â€"the entrance to the Chained Library.
-    - _"There are sanctioned gates. Places written in the margins of the world. The Ashen Shrine is one such placeâ€"a whisper of a path left open for those who do not wear the chains but have earned the Library's regard. You would not have found it unless you had already plucked the threads of fate."_ â€" Vael
+- **[Vael](/02---characters/allies/vael)** advised the party that a **Hollow Threshold tied to the elemental plane of air** was open to the west, within **Winter Court territory**.
+- [Vael](/02---characters/allies/vael) led them to the **Ashen Shrine**, located at the base of **Mount Vesithar**â€"the entrance to the Chained Library.
+    - _"There are sanctioned gates. Places written in the margins of the world. The Ashen Shrine is one such placeâ€"a whisper of a path left open for those who do not wear the chains but have earned the Library's regard. You would not have found it unless you had already plucked the threads of fate."_ â€" [Vael](/02---characters/allies/vael)
 - **Summer's Edge** was used as a **"key"** to activate the shrine, revealing an **elevator that descended deep beneath the mountain**.
 - In the chamber below, a **chasm separated them from massive locked doors**. To prove their resolve, each party member made a **vow and sacrifice**:
     - **Toby**: blood
@@ -459,12 +459,12 @@ created: 2023-07-16
     - **Skreek**: a prayer and promise
     - **Slumpet**: his thieves' tools
 - As they completed their sacrifices, a **bridge formed across the chasm** and the doors unlocked.
-- Vael approached the chained entrance, spoke **an ancient elven phrase**, and the chains retracted, revealing the Library.
+- [Vael](/02---characters/allies/vael) approached the chained entrance, spoke **an ancient elven phrase**, and the chains retracted, revealing the Library.
 
 ## ⛓️ _Chained Library_
 
 - Inside the Chained Library, the party was met by **Samaris**, the **head librarian**, a black-skinned tiefling who was deeply suspicious of outsiders.
-- She questioned the party about their intentions. **Vael's endorsement** and the party's willingness to surrender **Serenity's Orb** helped earn a small measure of trust.
+- She questioned the party about their intentions. **[Vael](/02---characters/allies/vael)'s endorsement** and the party's willingness to surrender **[Serenity](/02---characters/adversaries/serenity)'s Orb** helped earn a small measure of trust.
 - Samaris insisted the party be **marked by the Eyeless Guardians**, **blind celestials** who watch over the Library, so they could be tracked during their visit.
 - **Slumpet** used the Library's **card catalogue** to locate a book about the **Elven barrier**:
     - On his way to retrieve it, another tome **spoke to him telepathically**, offering to help. **Slumpet wisely ignored it**
@@ -472,6 +472,6 @@ created: 2023-07-16
 - **Toby** used her **blood magic** to locate a tome about **crystals**:
     - She discovered a location **south of the Elven forest** where the crystals used in the barrier's construction could be **mined**
 - **Shad** used the card catalogue to find a book about the **Order of Seasons**:
-    - He learned that **Vidrir once led the Order** and is **over 300 years old**
-    - In fact, Vidrir was **the Knight of Ravens himself**!
+    - He learned that **[Vidrir](/02---characters/allies/vidrir) once led the Order** and is **over 300 years old**
+    - In fact, [Vidrir](/02---characters/allies/vidrir) was **the Knight of Ravens himself**!
 - With critical information in hand, the party departed the Library, now armed with knowledge about how to repair the barrier and stop the Cult's final ritual.

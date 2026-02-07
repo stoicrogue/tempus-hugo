@@ -12,7 +12,7 @@ created: 2025-04-10
 
 ## RITUAL ADVANCEMENT
 
-> [!tip] Weaver chooses Option A or B each turn
+> [!tip] [Weaver](/02---characters/adversaries/weaver) chooses Option A or B each turn
 
 ### Option A: Focus on Ritual (Full Action)
 - Advances ritual by **1 phase immediately**
@@ -28,12 +28,12 @@ created: 2025-04-10
 ### Ritual Progress Track
 - **Phase 1:** Rounds 1-2 (Gathering Power)
 - **Phase 2:** Rounds 3-4 (Portal Forming)
-- **Phase 3:** Rounds 5-6 (Nidhogg Approaches)
+- **Phase 3:** Rounds 5-6 ([Nidhogg](/02---characters/adversaries/nidhogg) Approaches)
 - **Phase 4:** Round 7+ (Breakthrough Imminent)
 
 ### Disruption
-- Weaver incapacitated 1 round = ritual pauses
-- Weaver incapacitated 2+ consecutive rounds = ritual **regresses 1 phase**
+- [Weaver](/02---characters/adversaries/weaver) incapacitated 1 round = ritual pauses
+- [Weaver](/02---characters/adversaries/weaver) incapacitated 2+ consecutive rounds = ritual **regresses 1 phase**
 
 ## LAIR ACTIONS
 
@@ -48,7 +48,7 @@ created: 2025-04-10
 ### Phase 2 Effects (Rounds 3-4)
 1. **Portal Magnetism** - 60ft radius from portal, DC 16 Str save or pulled 15ft toward portal (2d8 force if pulled into portal)
 2. **Reality Fracture** - 30ft cone, DC 16 Int save or stunned until end of their next turn
-3. **Nidhogg's Whispers** - All creatures DC 16 Cha save or charmed by Weaver until end of next turn
+3. **[Nidhogg](/02---characters/adversaries/nidhogg)'s Whispers** - All creatures DC 16 Cha save or charmed by [Weaver](/02---characters/adversaries/weaver) until end of next turn
 
 ### Phase 3 Effects (Rounds 5-6)
 1. **Shadowfell Bleed** - 40ft radius heavily obscured by shadows, 2d6 necrotic to creatures starting turn inside
@@ -58,7 +58,7 @@ created: 2025-04-10
 ### Phase 4 Effects (Round 7+)
 1. **Massive Portal Pull** - 120ft radius, DC 18 Str save or pulled 30ft toward portal + 3d8 force damage
 2. **Reality Collapse** - 1d4 random creatures DC 18 Int save or 4d8 psychic damage
-3. **Nidhogg Emerges** - Dragon's head breaches portal; all creatures DC 20 Wis save or frightened + paralyzed
+3. **[Nidhogg](/02---characters/adversaries/nidhogg) Emerges** - Dragon's head breaches portal; all creatures DC 20 Wis save or frightened + paralyzed
 
 ## Weaver Ritual Phase Abilities
 
@@ -67,18 +67,18 @@ created: 2025-04-10
 - **Shadow Bind:** Can replace one Shadowweave Bolt with: Target within 60ft, DC 19 Dex save or restrained (escape DC 19)
 
 ### Phase 3: Dragon's Herald
-- **Channel Nidhogg:** When Shadowweave Bolt hits, target DC 19 Wis save or frightened of Weaver until end of their next turn
+- **Channel [Nidhogg](/02---characters/adversaries/nidhogg):** When Shadowweave Bolt hits, target DC 19 Wis save or frightened of [Weaver](/02---characters/adversaries/weaver) until end of their next turn
 - **Reality Tear:** Can replace one legendary cantrip with: 20ft radius difficult terrain, 2d8 necrotic damage (Dex save negates)
 
 ### Phase 4: Desperate Measures
 - **Desperate Power:** Bonus action, sacrifice 50 HP to advance ritual by 1 round of progress
-- **Portal Shield:** Attacks against Weaver have disadvantage if he's within 15ft of portal
+- **Portal Shield:** Attacks against [Weaver](/02---characters/adversaries/weaver) have disadvantage if he's within 15ft of portal
 
 ## BATTLEFIELD TERRAIN FEATURES
 
 ### A. Central Ritual Circle/Portal
 
-- Phase 1-2: Difficult terrain, Weaver +2 AC inside
+- Phase 1-2: Difficult terrain, [Weaver](/02---characters/adversaries/weaver) +2 AC inside
 - Phase 3+: 10ft radius, 1d6 necrotic/turn
 - Can be disrupted: 3 DC 20 Arcana checks OR 50+ damage
 
@@ -93,18 +93,18 @@ created: 2025-04-10
 
 > "If I cannot have victory, none shall have peace!" 
 
-Weaver slams his staff into the ground, causing reality to shatter:
+[Weaver](/02---characters/adversaries/weaver) slams his staff into the ground, causing reality to shatter:
 - **All creatures within 60ft of portal:** DC 19 Constitution save
   - **Fail:** 6d8 force damage + stunned until end of next turn
   - **Success:** Half damage, not stunned
 - Ritual **advances 2 phases immediately**
 - Terrain within 30ft of portal becomes **difficult terrain**
-- Weaver gains **+1 legendary action per round** (total of 3)
+- [Weaver](/02---characters/adversaries/weaver) gains **+1 legendary action per round** (total of 3)
 - **Ongoing:** Creatures starting turn within 30ft of portal take 2d6 psychic damage
 
 ### Portal reaches Phase 4
 
-Nidhogg's shadow becomes visible through the portal - All creatures DC 18 Wis save or frightened (can't move closer to portal)
+[Nidhogg](/02---characters/adversaries/nidhogg)'s shadow becomes visible through the portal - All creatures DC 18 Wis save or frightened (can't move closer to portal)
 
 ### PC pulled into portal
 - Takes 4d8 necrotic damage
@@ -112,8 +112,8 @@ Nidhogg's shadow becomes visible through the portal - All creatures DC 18 Wis sa
 - Gains advantage on saves vs fear for rest of encounter
 
 ### Manus Betrayal Trigger (Choose One)
-- Weaver's Reality Rupture triggers
-- Weaver below 40% HP (100 HP)
+- [Weaver](/02---characters/adversaries/weaver)'s Reality Rupture triggers
+- [Weaver](/02---characters/adversaries/weaver) below 40% HP (100 HP)
 - Portal reaches Phase 4
 - DM's choice for dramatic timing
 
@@ -131,5 +131,5 @@ Manus HP: ____/250
 
 **Each Round:**
 1. Check Initiative 20 - Roll lair action for current phase
-2. Weaver's turn - Did he advance ritual or fight?
+2. [Weaver](/02---characters/adversaries/weaver)'s turn - Did he advance ritual or fight?
 3. Update phase tracker if changed

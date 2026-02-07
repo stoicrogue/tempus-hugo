@@ -34,17 +34,17 @@ created: 2024-06-26
 
 # Strong Start
 
-- [x] Toby find a letter in the robes of Xolthos
+- [x] Toby find a letter in the robes of [Xolthos](/02---characters/adversaries/xolthos-omenspeaker)
 
 # Scenes
 
 - [ ] Meet the Lord of autumn, master diplomat
-- [ ] Xolthos letter
+- [ ] [Xolthos](/02---characters/adversaries/xolthos-omenspeaker) letter
 - [ ] Visions from the orb
 
 # Secret and Clues
 
-- [ ] Weaver’s tower is in the feywild
+- [ ] [Weaver](/02---characters/adversaries/weaver)’s tower is in the feywild
 - [ ] On the way to Summer from Autumn, you will find the site of the final battle with the Shadow dragon and see remnants of the magic ritual used in sealing him away in the Shadowfell
 
 # Fantastic Locations
@@ -53,7 +53,7 @@ created: 2024-06-26
 
 _Link to fantastic locations. Use the @ symbol to internally link to a Location page._
 
-- [Autumn Court](/03---locations/autumn-court)
+- [Autumn Court](/06---factions/autumn-court)
 - [Aki Matsuri](/03---locations/aki-matsuri)
 
 # NPCs

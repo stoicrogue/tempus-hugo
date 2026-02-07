@@ -45,16 +45,16 @@ created: 2023-08-02
     - [ ] [Mimic](/02---characters/monsters/mimic) in the main room as a guard
     - [x] Investigate voodoo of town and tainted medallion
     - [x] Find alter to the shadow dragon
-    - [ ] Find serenity’s journal
-- [ ] Serenity appears to defend her lair
+    - [ ] Find [serenity](/02---characters/adversaries/serenity)'s journal
+- [ ] [Serenity](/02---characters/adversaries/serenity) appears to defend her lair
 - [ ] Animates the shadows of the players as an action
 
 # Secret and Clues
 
 _Check off when revealed_
 
-- [ ] Darklings work for Serenity
-- [ ] Serenity worships the shadow dragon
+- [ ] Darklings work for [Serenity](/02---characters/adversaries/serenity)
+- [ ] [Serenity](/02---characters/adversaries/serenity) worships the shadow dragon
 
 # Fantastic Locations
 
@@ -73,8 +73,8 @@ _Link to fantastic locations. Use the @ symbol to internally link to a Location 
 NPC link. _Use the @ symbol to internally link to an NPC page._
 
 - [Vidrir](/02---characters/allies/vidrir)
-- Serenity
-- Arbiter
+- [Serenity](/02---characters/adversaries/serenity)
+- [Arbiter](/02---characters/allies/arbiter)
 
 # Monsters
 
@@ -95,7 +95,7 @@ _Calculate the deadly encounter benchmark by adding together all character level
 - [Donjon Random Treasure Generator](https://donjon.bin.sh/5e/random/#type=treasure;treasure-cr=4;treasure-loot_type=treasure_hoard)
 - [Dagger of Darkness](/04---items/dagger-of-darkness)
 - Dark crystal sphere
-    - Used by serenity to scry on her enemies and commune with the shadow dragon
+    - Used by [serenity](/02---characters/adversaries/serenity) to scry on her enemies and commune with the shadow dragon
 - Heartstone
 
 > [!info] Heartstone | Forgotten Realms Wiki | Fandom  
@@ -117,4 +117,4 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
 - Trapdoor led to a creepy chamber that contained an alter and a diorama of the city of Tannis
 - Shad touched the crystal orb on the alter. The orb seemed to try to attack his ming, but he resisted. The orb was wrapped up and taken by the party.
 - Discovered a curse had been placed on the amulet that had been stolen from the temple of the Dusk Lord
-- Party called the Arbiter and she was summoned to investigate. She was able to cleanse the amulet, which she said would lift the darkness curse on the town. The Arbiter should now be able to lift the barrier surrounding the town.
+- Party called the [Arbiter](/02---characters/allies/arbiter) and she was summoned to investigate. She was able to cleanse the amulet, which she said would lift the darkness curse on the town. The [Arbiter](/02---characters/allies/arbiter) should now be able to lift the barrier surrounding the town.

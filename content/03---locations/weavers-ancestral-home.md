@@ -7,9 +7,9 @@ created: 2025-06-24
 Last Edited: 2023-05-31T16:41
 ---
 - Party can discover the [Weaver's Journal](/04---items/weavers-journal), depicting his growing interest in fear and illusion.
-	- The Weaver's abandoned journal charts his path from illusionist prodigy to would-be liberator of Nidhogg.  
+	- The [Weaver](/02---characters/adversaries/weaver)'s abandoned journal charts his path from illusionist prodigy to would-be liberator of [Nidhogg](/02---characters/adversaries/nidhogg).  
 	- It ends at the cusp of his rebellion against the Seasonal Courts, outlining his belief that unraveling the leyline barrier is the key to freeing the Great Shadow.  
-	- No mention is made of the Cult of the Eclipse yet — their alliance will form after the Weaver leaves the ancestral home to build his new stronghold elsewhere.
+	- No mention is made of the Cult of the Eclipse yet — their alliance will form after the [Weaver](/02---characters/adversaries/weaver) leaves the ancestral home to build his new stronghold elsewhere.
 
 
 # 🕸️ 5-Room Dungeon: Weaver’s Abandoned Castle
@@ -21,7 +21,7 @@ Last Edited: 2023-05-31T16:41
 > |1|Entrance Guardian|Illusory patchwork knight tests them.|
 > |2|Puzzle/Roleplay|Mirror that forces them to confront personal fears.|
 > |3|Trick/Setback|Frayed Loom triggers unstable Mirage Arcane.|
-> |4|Climactic Battle|Battle the Echo of the Weaver + Fearspawn.|
+> |4|Climactic Battle|Battle the Echo of the [Weaver](/02---characters/adversaries/weaver) + Fearspawn.|
 > |5|Reward/Revelation|Find the journal, leyline clues, and last threads.|
 
 ## **Room 1: Guardian of Forgotten Threads (Entrance Challenge)**
@@ -165,7 +165,7 @@ At the heart of the crumbling castle lies the **throne room** —  and it still 
 > 
 > This house —” _(his hand stirs faintly)_ “— once wove oaths and dreams alike…  a loom strong enough to bind seasons to stone, stars to memory.”
 > 
-> “I tended it once. I who was called…”_ _(he pauses)_   “Weaver.”
+> “I tended it once. I who was called…”_ _(he pauses)_   “[Weaver](/02---characters/adversaries/weaver).”
 > 
 > _(The name falls from his lips like ash. Around you, the stained glass trembles, a high keening almost too soft to hear. Tapestries twitch as if stirred by an unseen wind. The whole castle seems to draw a breath — not of life, but of memory, pulling taut around you.)_
 > 
@@ -186,7 +186,7 @@ At the heart of the crumbling castle lies the **throne room** —  and it still 
 > “Tell me:  will you mend what you cannot even see?  Or will you cut the weave, and call the unmaking mercy?”
 
 **Challenge:**
-- The Weaver’s echo offers the players a deal: **"Swear yourselves to truth unbound, and pass freely."**
+- The [Weaver](/02---characters/adversaries/weaver)’s echo offers the players a deal: **"Swear yourselves to truth unbound, and pass freely."**
 - If they refuse (likely), he attacks, commanding _fearspawn_ creatures born of their own nightmares.
 - The echo uses illusory duplicates, fear effects, and battlefield control (hallways twist, doors vanish mid-combat).
 
@@ -258,7 +258,7 @@ The hidden passageway revealed itself with a quiet sigh, stone grinding softly a
 
 The stairs were narrow and wound downward like a coiled serpent. As they descended, the walls retained the elegant touch of the castle above—woven tapestries depicting shifting illusions of forest scenes and silver-threaded runes glowing faintly under their torchlight. But with each step, those decorations became sparser, and the walls roughened, stone losing its chiseled perfection for something older and truer.
 
-Finally, the spiral ended in a small antechamber. Ahead lay an arched doorway, its keystone carved with the same delicate sigils the Weaver had used throughout the castle. Beyond the arch was the chamber itself.
+Finally, the spiral ended in a small antechamber. Ahead lay an arched doorway, its keystone carved with the same delicate sigils the [Weaver](/02---characters/adversaries/weaver) had used throughout the castle. Beyond the arch was the chamber itself.
 
 It felt like stepping into a place forgotten by time. The walls here were untouched bedrock, curving naturally into an uneven dome. Veins of quartz and mineral glimmered faintly, catching the torchlight like trapped stars. The air carried a stillness that pressed against their ears, as if sound itself hesitated to intrude.
 

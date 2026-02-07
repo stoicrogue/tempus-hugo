@@ -47,7 +47,7 @@ _Check off when revealed._
 
 _Link to fantastic locations. Use the @ symbol to internally link to a Location page._
 
-- Elara’s forge
+- [Elara](/02---characters/allies/elara-sunforge)’s forge
 - Celestial crater
 
 # NPCs
@@ -167,7 +167,7 @@ The ground beneath your feet vibrates with the Guardian's presence as it takes a
 - **Special Ability:** Once per round, the Guardian releases a **Radiant Pulse** (20 ft burst) that deals radiant damage and forces a DC 14 Dexterity save to avoid being knocked prone.
 - **Flavor:** _"A towering figure of crystalline light rises from the pedestal, its form radiant and formless—a silhouette of a knight forged from pure starlight. It raises a massive blade of glowing crystal and speaks in a voice like distant thunder: ‘Prove your worth, mortals, or be undone.’”_
 
-**Outcome:** If the party defeats the guardian, the crystal pedestal cracks, revealing enough **Celestial Ore** to fulfill Elara's requirements. If they fail to defeat the guardian but survive, it may challenge them to “return when they are worthy.”
+**Outcome:** If the party defeats the guardian, the crystal pedestal cracks, revealing enough **Celestial Ore** to fulfill [Elara](/02---characters/allies/elara-sunforge)'s requirements. If they fail to defeat the guardian but survive, it may challenge them to “return when they are worthy.”
 
 ## Shimmering Glade
 
@@ -252,8 +252,8 @@ If combat breaks out, the mother displacer beast will attack anyone who threaten
 ## Session Notes
 
 - Party defeated the celestial guardian and retrieved the celestial ore
-- The party brought the ore back to Elara and confirmed it was the ore then needed to reforge Summer’s Edge
-- Elara found a nearby fey crossing to the north: the Shimmering Glade
+- The party brought the ore back to [Elara](/02---characters/allies/elara-sunforge) and confirmed it was the ore then needed to reforge Summer’s Edge
+- [Elara](/02---characters/allies/elara-sunforge) found a nearby fey crossing to the north: the Shimmering Glade
 - The party did some shopping at the Glittering Cavern (owned by Irena), including some oddly specific items by Toby in preparation for dealing with the Fey.
     - 7 small vials with cork stoppers
     - 3 moonstones – small
@@ -264,6 +264,6 @@ If combat breaks out, the mother displacer beast will attack anyone who threaten
     - 3 sliver thread spools
     - 9 tiny silver bell
     - 3 vials of milk and 3 of honey, one empty vial
-- They party paid for drinks again at the Ember’s Embrace to fulfill Toby’s contract with Blackbird (2nd of 3 nights)
-- The next morning the party traveled to the Shimmering Glade and found it as Elara described. At a certain time of day, sunlight will strike crystals around the glade and activate the fey crossing.
+- They party paid for drinks again at the Ember’s Embrace to fulfill Toby’s contract with [Blackbird](/02---characters/allies/blackbird) (2nd of 3 nights)
+- The next morning the party traveled to the Shimmering Glade and found it as [Elara](/02---characters/allies/elara-sunforge) described. At a certain time of day, sunlight will strike crystals around the glade and activate the fey crossing.
 - However, a large fey cat is napping in the center of the glade with its cubs playing nearby…
