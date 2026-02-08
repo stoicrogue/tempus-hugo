@@ -18,7 +18,7 @@ cssclasses:
 - Loves [Lerissa](/02---characters/allies/lerissa)'s beer
 - Has some magical talent, including some divination
 - Well-versed in the history of the local area and beyond
-- Former member of the order of seasons and wielder of [[01 - Projects/tempus-campaign/04 - items/Summer's Edge]]
+- Former member of the order of seasons and wielder of [01 - Projects/tempus-campaign/04 - items/Summer's Edge](/04---items/summers-edge)
 - Secretly Odin in disguise, his powers very weak because he needed to contribute a piece of his power to sealing [Nidhogg](/02---characters/adversaries/nidhogg) away.  His divine power is actively maintaining the seal holding [Nidhogg](/02---characters/adversaries/nidhogg).
 
 ---
@@ -31,7 +31,7 @@ cssclasses:
 > 
 > Vidrir exhales, steady. “I suppose it’s time,” he says with quiet reverence. “Falsehood, even without malice, cannot stand in the light of Summer's Edge”.  The old sage smiles warmly as he gentle runs his finger along the back of the blade.  Still smiling but shaking his head, “No, there's nothing to forgive, bright one. I know it's just your nature. It does me well see you again.  …and in these chaotic times, we could use your strength and unwavering virtue.”
 > 
-> Vidrir turned back to the party and reverently handed the radiant blade back to Skreek. “Thank you for this opportunity to see my dear friend once more.  I'm sure you have questions”. He spread his hands and waited, as patient and calm as a mountain.
+> Vidrir turned back to the party and reverently handed the radiant blade back to [Skreek](/02---characters/main-party/skreek). “Thank you for this opportunity to see my dear friend once more.  I'm sure you have questions”. He spread his hands and waited, as patient and calm as a mountain.
 
 ![vidrir-revealed.png](/images/vidrir-revealed.png)
 

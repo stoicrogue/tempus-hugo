@@ -18,7 +18,7 @@ _Here's a blank D&D session note page ready for you to use outlined according to
 
 | Name                    | P. Pcpt | P. Inv | P. Ins | Trained Skills                                                                   | Languages                           |
 | ----------------------- | ------- | ------ | ------ | -------------------------------------------------------------------------------- | ----------------------------------- |
-| [October “Toby” Daye](/02---characters/main-party/october-toby-daye) | 15      | 14     | 12     | Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival | Abyssal, Common, Elvish             |
+| [[October “Toby” Daye]] | 15      | 14     | 12     | Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival | Abyssal, Common, Elvish             |
 | [Shadicar](/02---characters/main-party/shadicar)            | 14      | 11     | 14     | Deception, Insight, Perception, Performance, Persuasion, Sleight of Hand         | Common, Elvish                      |
 | [Skreek](/02---characters/main-party/skreek)              | 9       | 10     | 9      | History, Medicine, Persuasion, Religion                                          | Aarakocra, Common, Dwarvish, Elvish |
 | [Slumpet Zoommimist](/02---characters/main-party/slumpet-zoommimist)  | 18      | 14     | 12     | Deception, Investigation, Perception, Persuasion, Sleight of Hand, Stealth       | Common, Gnomish, Thieves' Cant      |
@@ -206,18 +206,18 @@ These techniques allow you to build a sense of unease and mystery without direct
 
 ### Session Notes
 
-- Contacted [Arbiter](/02---characters/allies/arbiter); got advice to cleanse crystal, which Shad did with dispel magic late in the afternoon.
+- Contacted [Arbiter](/02---characters/allies/arbiter); got advice to cleanse crystal, which [Shad](/02---characters/main-party/shadicar) did with dispel magic late in the afternoon.
     - tried to repair the broken runes in the leyline magic circle w/candle wax, which did not work
-- Shad used contact other plane to talk to [Alora](/02---characters/allies/alora)’s mother (Maria)
+- [Shad](/02---characters/main-party/shadicar) used contact other plane to talk to [Alora](/02---characters/allies/alora)’s mother (Maria)
     - “are we equipped to fix the crystal?” - NO
     - “is summer court equipped to fix the crystal or the runes?” - NO
     - “does the chained library have the answers to help us?” - YES
     - “does winter have knowledge of chained library?” - NO
     - “does the center of the elven territory hold answers for us?” - YES
 - Stored the leyline crystal in the pocket dimension
-- Terry = petrified squirel; Bob = his friend who told Slumpet about the Basalisk
+- Terry = petrified squirel; Bob = his friend who told [Slumpet](/02---characters/main-party/slumpet-zoommimist) about the Basalisk
 - Party caught in a loop
 - Met [Blackbird](/02---characters/allies/blackbird) - demonic/fey creature 
     - offered to help get an item for them to help escape the loop.
     - amulet the played music that let them find the way out of the loop
-    - didn’t want payment, but signed a binding contract with Toby instead. For three nights, she must pay for everyone’s drinks at any tavern they visit. Otherwise, [Blackbird](/02---characters/allies/blackbird)’s Geas will harm her (psychic damage)
+    - didn’t want payment, but signed a binding contract with [Toby](/02---characters/main-party/toby) instead. For three nights, she must pay for everyone’s drinks at any tavern they visit. Otherwise, [Blackbird](/02---characters/allies/blackbird)’s Geas will harm her (psychic damage)

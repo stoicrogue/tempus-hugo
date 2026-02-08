@@ -24,7 +24,7 @@ created: 2024-02-21
 
 |Name|P. Pcpt|P. Inv|P. Ins|Trained Skills|Languages|
 |---|---|---|---|---|---|
-|[October “Toby” Daye](/02---characters/main-party/october-toby-daye)|15|14|12|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|Abyssal, Common, Elvish|
+|[[October “Toby” Daye]]|15|14|12|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|Abyssal, Common, Elvish|
 |[Shadicar](/02---characters/main-party/shadicar)|14|11|14|Deception, Insight, Perception, Performance, Persuasion, Sleight of Hand|Common, Elvish|
 |[Skreek](/02---characters/main-party/skreek)|9|10|9|History, Medicine, Persuasion, Religion|Aarakocra, Common, Dwarvish, Elvish|
 |[Slumpet Zoommimist](/02---characters/main-party/slumpet-zoommimist)|18|14|12|Deception, Investigation, Perception, Persuasion, Sleight of Hand, Stealth|Common, Gnomish, Thieves' Cant|
@@ -96,4 +96,4 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
 - Met [Trius](/02---characters/allies/trius) in the morning
 - PIcked up some horses and traveled to the Leyline Temple, led by [Trius](/02---characters/allies/trius)
 - Each member presented something important to them to prove their worth to enter the temple
-- A tomb guardian in the first chamber materialized and challenged someone to single combat. Skreek stepped up to the challenge and was able to emerge victorious
+- A tomb guardian in the first chamber materialized and challenged someone to single combat. [Skreek](/02---characters/main-party/skreek) stepped up to the challenge and was able to emerge victorious

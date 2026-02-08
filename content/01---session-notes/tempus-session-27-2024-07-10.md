@@ -24,7 +24,7 @@ created: 2024-07-10
 
 |Name|P. Pcpt|P. Inv|P. Ins|AC|HP|Trained Skills|
 |---|---|---|---|---|---|---|
-|[October “Toby” Daye](/02---characters/main-party/october-toby-daye)|15|14|12|14|49|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|
+|[[October “Toby” Daye]]|15|14|12|14|49|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|
 |[Shadicar](/02---characters/main-party/shadicar)|14|11|14|14|28|Deception, Insight, Perception, Performance, Persuasion, Sleight of Hand|
 |[Skreek](/02---characters/main-party/skreek)|9|10|9|18|39|History, Medicine, Persuasion, Religion|
 |[Slumpet Zoommimist](/02---characters/main-party/slumpet-zoommimist)|18|14|12|14|28|Deception, Investigation, Perception, Persuasion, Sleight of Hand, Stealth|

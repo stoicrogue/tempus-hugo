@@ -51,7 +51,19 @@ def resolve_target(body: str, index: dict):
     page = page.strip()
     alias = alias.strip() if alias else None
 
-    candidates = [page, page.replace('\\', '/'), slugify(page)]
+    # Build candidates: full path variants first
+    page_normalized = page.replace('\\', '/')
+    candidates = [page, page_normalized, slugify(page)]
+    
+    # For paths with multiple components, try progressively shorter trailing suffixes
+    # e.g. "01 - Projects/tempus-campaign/04 - items/_index" -> "04 - items/_index" -> "_index"
+    if '/' in page_normalized:
+        parts = page_normalized.split('/')
+        for i in range(1, len(parts)):
+            suffix = '/'.join(parts[i:])
+            candidates.append(suffix)
+            candidates.append(slugify(suffix))
+    
     target = None
     for c in candidates:
         if c in index:

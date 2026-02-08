@@ -25,7 +25,7 @@ created: 2025-02-19
 
 |Name|P. Pcpt|P. Inv|P. Ins|Trained Skills|Languages|
 |---|---|---|---|---|---|
-|[October “Toby” Daye](/02---characters/main-party/october-toby-daye)|15|14|12|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|Abyssal, Common, Elvish|
+|[[October “Toby” Daye]]|15|14|12|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|Abyssal, Common, Elvish|
 |[Shadicar](/02---characters/main-party/shadicar)|14|11|14|Deception, Insight, Perception, Performance, Persuasion, Sleight of Hand|Common, Elvish|
 |[Skreek](/02---characters/main-party/skreek)|9|10|9|History, Medicine, Persuasion, Religion|Aarakocra, Common, Dwarvish, Elvish|
 |[Slumpet Zoommimist](/02---characters/main-party/slumpet-zoommimist)|18|14|12|Deception, Investigation, Perception, Persuasion, Sleight of Hand, Stealth|Common, Gnomish, Thieves' Cant|
@@ -136,8 +136,8 @@ A satyr offers to grant the party a single night of pure, unbridled joy and cele
 - met with the Satyr warband at a strange location called "Medusa's Wake", probably named after the huge lifelike stone statues paused mid battle
 - Revel told them a good vantage point for the sun would be a 6 hour hike up the mountain
 - Party engaged in a drinking game, which had unforseen consequences
-    - Skreek can only speak in rhymes and riddles for 7 days
-    - Toby will bust into laughter at the most inappropriate moments
-    - Shad’s hair turned into flowering vines that grow rapidly when he lies or breaks a promise
-- Slumpet did not approach the camp, instead watching from a safe distance
+    - [Skreek](/02---characters/main-party/skreek) can only speak in rhymes and riddles for 7 days
+    - [Toby](/02---characters/main-party/toby) will bust into laughter at the most inappropriate moments
+    - [Shad](/02---characters/main-party/shadicar)’s hair turned into flowering vines that grow rapidly when he lies or breaks a promise
+- [Slumpet](/02---characters/main-party/slumpet-zoommimist) did not approach the camp, instead watching from a safe distance
 - Party decided to sleep for the night before their hike

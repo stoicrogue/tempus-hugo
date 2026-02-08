@@ -24,7 +24,7 @@ created: 2023-06-28
 
 |Name|P. Pcpt|P. Inv|P. Ins|Trained Skills|Languages|
 |---|---|---|---|---|---|
-|[October “Toby” Daye](/02---characters/main-party/october-toby-daye)|15|14|12|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|Abyssal, Common, Elvish|
+|[[October “Toby” Daye]]|15|14|12|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|Abyssal, Common, Elvish|
 |[Shadicar](/02---characters/main-party/shadicar)|14|11|14|Deception, Insight, Perception, Performance, Persuasion, Sleight of Hand|Common, Elvish|
 |[Skreek](/02---characters/main-party/skreek)|9|10|9|History, Medicine, Persuasion, Religion|Aarakocra, Common, Dwarvish, Elvish|
 |[Slumpet Zoommimist](/02---characters/main-party/slumpet-zoommimist)|18|14|12|Deception, Investigation, Perception, Persuasion, Sleight of Hand, Stealth|Common, Gnomish, Thieves' Cant|
@@ -36,7 +36,7 @@ created: 2023-06-28
 
 - [x] Storm the Cult’s camp
     - [x] Fannie’s friends are being held captive by a group of grey-skinned halflings ([Darkling](/02---characters/monsters/darkling))
-    - [x] The party agreed to help Fannie rescue her friends and will turn [October “Toby” Daye](/02---characters/main-party/october-toby-daye) into a dinosaur to help them storm the camp
+    - [x] The party agreed to help Fannie rescue her friends and will turn [[October “Toby” Daye]] into a dinosaur to help them storm the camp
 
 # Scenes
 

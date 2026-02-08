@@ -24,7 +24,7 @@ created: 2024-04-03
 
 |Name|P. Pcpt|P. Inv|P. Ins|Trained Skills|Languages|
 |---|---|---|---|---|---|
-|[October “Toby” Daye](/02---characters/main-party/october-toby-daye)|15|14|12|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|Abyssal, Common, Elvish|
+|[[October “Toby” Daye]]|15|14|12|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|Abyssal, Common, Elvish|
 |[Shadicar](/02---characters/main-party/shadicar)|14|11|14|Deception, Insight, Perception, Performance, Persuasion, Sleight of Hand|Common, Elvish|
 |[Skreek](/02---characters/main-party/skreek)|9|10|9|History, Medicine, Persuasion, Religion|Aarakocra, Common, Dwarvish, Elvish|
 |[Slumpet Zoommimist](/02---characters/main-party/slumpet-zoommimist)|18|14|12|Deception, Investigation, Perception, Persuasion, Sleight of Hand, Stealth|Common, Gnomish, Thieves' Cant|
@@ -34,7 +34,7 @@ created: 2024-04-03
 
 # Strong Start
 
-- [x] Shad uses speak with dead to interrogate [Serenity](/02---characters/adversaries/serenity)
+- [x] [Shad](/02---characters/main-party/shadicar) uses speak with dead to interrogate [Serenity](/02---characters/adversaries/serenity)
 
 # Scenes
 
@@ -94,7 +94,7 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
 - Cast speak with dead to ask [Serenity](/02---characters/adversaries/serenity) some questions
     - How old are you?
         - 300 years
-    - Why did the [Weaver](/02---characters/adversaries/weaver) destroy Shad’s village?
+    - Why did the [Weaver](/02---characters/adversaries/weaver) destroy [Shad](/02---characters/main-party/shadicar)’s village?
         - For the fun of it
     - Where is the [Weaver](/02---characters/adversaries/weaver)?
         - Idiot… I already told you that

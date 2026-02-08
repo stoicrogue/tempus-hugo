@@ -18,7 +18,7 @@ _Here's a blank D&D session note page ready for you to use outlined according to
 
 |Name|P. Pcpt|P. Inv|P. Ins|Trained Skills|Languages|
 |---|---|---|---|---|---|
-|[October “Toby” Daye](/02---characters/main-party/october-toby-daye)|15|14|12|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|Abyssal, Common, Elvish|
+|[[October “Toby” Daye]]|15|14|12|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|Abyssal, Common, Elvish|
 |[Shadicar](/02---characters/main-party/shadicar)|14|11|14|Deception, Insight, Perception, Performance, Persuasion, Sleight of Hand|Common, Elvish|
 |[Skreek](/02---characters/main-party/skreek)|9|10|9|History, Medicine, Persuasion, Religion|Aarakocra, Common, Dwarvish, Elvish|
 |[Slumpet Zoommimist](/02---characters/main-party/slumpet-zoommimist)|18|14|12|Deception, Investigation, Perception, Persuasion, Sleight of Hand, Stealth|Common, Gnomish, Thieves' Cant|
@@ -266,8 +266,8 @@ In the center of the crater, a fractured pedestal of stone and crystal stands am
 ### Session Notes
 
 - Went to the Ember’s Embrace to enjoy some drinks
-    - Paid 19 gold for the 98 drinks ordered at the bar that night in order to satisfy the contract that Toby signed with [Blackbird](/02---characters/allies/blackbird)
-    - Shad volunteered to perform at the bar and attempted to play poorly enough to scare away customers. His natural instincts and talent were too good and the best he could muster was average
+    - Paid 19 gold for the 98 drinks ordered at the bar that night in order to satisfy the contract that [Toby](/02---characters/main-party/toby) signed with [Blackbird](/02---characters/allies/blackbird)
+    - [Shad](/02---characters/main-party/shadicar) volunteered to perform at the bar and attempted to play poorly enough to scare away customers. His natural instincts and talent were too good and the best he could muster was average
 - The next morning the party visited Sylvia at the Summer Court palace to fill her in on what they had discovered at the leyline temple. The party also asked her point them in the direction of a smith that could help them reforge Summer’s Edge. The party was pleasantly surprised that Sylvia was not angry about them having the sword. Sylvia told them that artifacts like Summer’s Edge had a mind of their own and wouldn’t let itself fall into the hands of someone unworthy.
 - Based on Sylvia’s advice, the party decided to visit the large blacksmith’s forge next to the Colleseum. There they met with [Elara Sunforge](/02---characters/allies/elara-sunforge), the most talented smith of the summer court.
     - [Elara](/02---characters/allies/elara-sunforge) was thrilled at the prospect of reforging the sword, but informed the party they would need two rare materials: celestial ore and the first kiss of the midday sun from the feywild

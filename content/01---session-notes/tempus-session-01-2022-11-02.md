@@ -11,13 +11,13 @@ created: 2022-11-02
 ## Characters
 
 - [Serenity](/02---characters/adversaries/serenity) - Hag disguised as a beautiful singer
-    - Gets friendly with Shadicar
+    - Gets friendly with [Shadicar](/02---characters/main-party/shadicar)
     - Steals a hair off his cloak
     - Real name - Old Polly Pigtooth
 - Hurmur Deeprest - Dwarven archeologist
     - Searching for a numenara cache
 - Jax - Thief
-    - Steals from Skreek or his retainers
+    - Steals from [Skreek](/02---characters/main-party/skreek) or his retainers
     - Visitor from a nearby town, member of their thieves guild - Night Talons
 - [Lerissa](/02---characters/allies/lerissa) - Tiefling barkeep
     - Former beast master ranger

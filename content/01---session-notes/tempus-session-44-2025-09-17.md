@@ -16,7 +16,7 @@ created: 2025-09-17
 
 - [x] Cult of the Eclipse placed a [Bodak](/02---characters/monsters/bodak) inside the leyline crystal chamber of the Spring Temple, causing disruption to the barrier in the area.
 - [x] Mocking note from [Manus](/02---characters/adversaries/manus) hidden in Bodak's robes: [Bodak Note](/04---items/bodak-note)
-- [ ] Skreek's royal egg is being used as a Hollow Threshold anchor for a plane of air themed threshold.
+- [ ] [Skreek](/02---characters/main-party/skreek)'s royal egg is being used as a Hollow Threshold anchor for a plane of air themed threshold.
 - [ ] The Ashen Shrine is a location where the [Chained Library](/06---factions/chained-library) can be accessed - north side of **Mount Vesithar**
 
 

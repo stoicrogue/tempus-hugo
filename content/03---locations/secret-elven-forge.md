@@ -38,9 +38,9 @@ She stepped back, chest heaving with exertion, sweat glistening on her brow. But
 
 > _“It is done,”_ she said softly, awe in her voice. _“Summer’s Edge lives again. May it burn away all shadows.”_
 
-She stepped forward, holding the sword out to Skreek. The aarakocra paladin reached out with trembling hands, talons brushing the hilt. As he grasped it, the light wrapped around him in a gentle embrace, settling into a quiet glow.
+She stepped forward, holding the sword out to [Skreek](/02---characters/main-party/skreek). The aarakocra paladin reached out with trembling hands, talons brushing the hilt. As he grasped it, the light wrapped around him in a gentle embrace, settling into a quiet glow.
 
-For a fleeting moment, Skreek felt the blade’s resolve wash through him—pure, wordless gratitude and unbreakable purpose. Not a voice, not yet, but a promise. Together, they would stand against the dark. Together, they would bring dawn.
+For a fleeting moment, [Skreek](/02---characters/main-party/skreek) felt the blade’s resolve wash through him—pure, wordless gratitude and unbreakable purpose. Not a voice, not yet, but a promise. Together, they would stand against the dark. Together, they would bring dawn.
 
 Around them, the chamber’s waters rippled with silent applause, and the leyline veins pulsed softly in welcome. The dawn had risen once more.
 

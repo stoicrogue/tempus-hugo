@@ -26,10 +26,10 @@ Regardless of the interview's outcome, each party member receives a **Guardian's
 
 As they walk through the Howling Shelves toward the information they need, the chained books whisper to them:
 
-- **Shad**: Books about illusion magic, perhaps even containing techniques the [Weaver](/02---characters/adversaries/weaver) used
-- **Skreek**: Tomes promising the location of his stolen relic
-- **Slumpet**: Knowledge about the Hollow Thresholds he's been secretly investigating
-- **Toby**: Information about her mysterious past or family
+- **[Shad](/02---characters/main-party/shadicar)**: Books about illusion magic, perhaps even containing techniques the [Weaver](/02---characters/adversaries/weaver) used
+- **[Skreek](/02---characters/main-party/skreek)**: Tomes promising the location of his stolen relic
+- **[Slumpet](/02---characters/main-party/slumpet-zoommimist)**: Knowledge about the Hollow Thresholds he's been secretly investigating
+- **[Toby](/02---characters/main-party/toby)**: Information about her mysterious past or family
 
 Each character must make **Wisdom saves** (DC 14) or become fixated on finding "just one specific book." An Eyeless Guardian immediately notices and demands explanation. This tests whether they'll respect the library's rules or try to steal knowledge.
 
@@ -52,7 +52,7 @@ The most complete information about the barrier's original construction is in a 
 
 - **Solve a magical lock puzzle** (perhaps requiring each seasonal court's symbol to be activated in the correct order)
 - **Prove their understanding** of why such knowledge must be restricted (Insight/History checks to demonstrate they understand the responsibility)
-- **Face a guardian test**: An Eyeless Guardian challenges one party member to single combat to prove martial worthiness (like Skreek's honor duel tradition)
+- **Face a guardian test**: An Eyeless Guardian challenges one party member to single combat to prove martial worthiness (like [Skreek](/02---characters/main-party/skreek)'s honor duel tradition)
 
 ### **6. The Living Codex**
 
@@ -63,7 +63,7 @@ Inside the vault, they find not just scrolls but a **Sentient Grimoire** (use th
 **Moral Dilemma**:
 
 - Let someone sacrifice themselves to gain the knowledge
-- Find another way to extract the information (perhaps Shad can use magic to copy without reading?)
+- Find another way to extract the information (perhaps [Shad](/02---characters/main-party/shadicar) can use magic to copy without reading?)
 - Risk damaging the book to take it by force (would make them thieves)
 
 The grimoire might claim it was created by the First Matriarch herself and contains the "complete" ritual, making it extremely tempting.

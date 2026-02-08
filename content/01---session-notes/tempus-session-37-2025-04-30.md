@@ -13,7 +13,7 @@ created: 2025-04-30
 - Duel [Manus](/02---characters/adversaries/manus) in the golden light of the Feywild
 # Scenes
 
-- "The Blade Remembers" w/Skreek
+- "The Blade Remembers" w/[Skreek](/02---characters/main-party/skreek)
 - Face [Manus - Duelist of the Golden Light](/02---characters/adversaries/_archive/manus---duelist-of-the-golden-light) at the peak
 - Gather the final material needed to reforge [Summer’s Edge (orig)](/04---items/summers-edge-orig)
 - Travel to the [Weaver](/02---characters/adversaries/weaver)'s Ancestral home
@@ -25,13 +25,13 @@ created: 2025-04-30
 - [ ] The [Weaver](/02---characters/adversaries/weaver) was once a **child of nobility** before his family allied themselves with Niddhog and was later humiliated by agents of the Dusk Lord.
 ## The Blade Remembers
 
-As the party crests the mountaintop, the light of the **Feywild’s eternal midday sun** cascades across the landscape. It’s unlike any sunlight Skreek has felt—**pure, golden, weightless**, yet brimming with life and ancient purpose. As the First Kiss of the Midday Sun begins to coalesce in the air above the peak, Skreek feels an almost magnetic pull to his pack.
+As the party crests the mountaintop, the light of the **Feywild’s eternal midday sun** cascades across the landscape. It’s unlike any sunlight [Skreek](/02---characters/main-party/skreek) has felt—**pure, golden, weightless**, yet brimming with life and ancient purpose. As the First Kiss of the Midday Sun begins to coalesce in the air above the peak, [Skreek](/02---characters/main-party/skreek) feels an almost magnetic pull to his pack.
 
 Instinctively, he reaches for the hilt and shards of **Summer’s Edge**.
 
 **The air stills.**
 
-The broken blade, so long dormant, begins to glow—not with fire or fury, but with a **subtle inner radiance**, like the very essence of summer stirring within it. As Skreek grips the hilt, he is no longer on the mountain.
+The broken blade, so long dormant, begins to glow—not with fire or fury, but with a **subtle inner radiance**, like the very essence of summer stirring within it. As [Skreek](/02---characters/main-party/skreek) grips the hilt, he is no longer on the mountain.
 ### **Vision: Echoes of the First Wielding**
 
 He sees a golden field under the same unsetting sun.  A tall elven knight—**Eirik**—kneels before a radiant queen of the Summer Court.  
@@ -41,8 +41,8 @@ Suddenly, the field turns dark—invading shadows, a massive battle. The knight 
 
 ---
 
-Skreek snaps back to the present just as **[Manus](/02---characters/adversaries/manus)** arrives.  
-The sword’s light fades, but the warmth lingers in Skreek’s hand—and heart.
+[Skreek](/02---characters/main-party/skreek) snaps back to the present just as **[Manus](/02---characters/adversaries/manus)** arrives.  
+The sword’s light fades, but the warmth lingers in [Skreek](/02---characters/main-party/skreek)’s hand—and heart.
 
 [Manus](/02---characters/adversaries/manus), amused and unknowing of what just occurred, makes a taunt:
 

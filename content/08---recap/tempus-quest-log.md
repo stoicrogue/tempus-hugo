@@ -45,7 +45,7 @@ created: 2025-07-16
 - [x] Convince the [Arbiter](/02---characters/allies/arbiter) to delay her purge ritual
 - [x] Earn the [Arbiter](/02---characters/allies/arbiter)'s favor and holy mark for safe passage
 
-**Rewards:** [Arbiter](/02---characters/allies/arbiter)'s holy mark, +1 Shield of the Dusk Lord (Skreek)  
+**Rewards:** [Arbiter](/02---characters/allies/arbiter)'s holy mark, +1 Shield of the Dusk Lord ([Skreek](/02---characters/main-party/skreek))  
 **Key NPCs:** [Lerissa](/02---characters/allies/lerissa) (wise retired adventurer), Father Samael (concerned priest), The [Arbiter](/02---characters/allies/arbiter) (stern but just angel)
 
 ---
@@ -60,7 +60,7 @@ created: 2025-07-16
 - [x] Meet [Vidrir](/02---characters/allies/vidrir) and his purple-winged raven familiars
 - [x] Learn Summer's Edge's true identity as a legendary Summer Court blade
 - [x] Discover the Eclipse medallion is magically trackable (signal leads northwest)
-- [x] Inquire about Skreek's stolen relic (rumors of djinn in southern desert)
+- [x] Inquire about [Skreek](/02---characters/main-party/skreek)'s stolen relic (rumors of djinn in southern desert)
 - [x] Witness Summer's Edge react faintly to [Vidrir](/02---characters/allies/vidrir)'s touch
 
 **Rewards:** Knowledge of Summer's Edge, tracking information  
@@ -77,12 +77,12 @@ created: 2025-07-16
 - [x] Befriend Fannie and learn about kidnapped pixies
 - [x] Investigate the colorless, eerily still forest region
 - [x] Assault the Darkling and Cult of Eclipse camp
-- [x] Rescue kidnapped pixies with Toby's dinosaur rampage
+- [x] Rescue kidnapped pixies with [Toby](/02---characters/main-party/toby)'s dinosaur rampage
 - [x] Recover cult religious texts about the "Great Shadow"
 - [x] Obtain two Daggers of Darkness and note from 'L' about ritual empowerment
 
 **Rewards:** Cult intelligence, Daggers of Darkness, pixie friendship  
-**Key NPCs:** Fannie (grateful pixie), Slumpet (gained pixie ally)
+**Key NPCs:** Fannie (grateful pixie), [Slumpet](/02---characters/main-party/slumpet-zoommimist) (gained pixie ally)
 
 ---
 
@@ -99,7 +99,7 @@ created: 2025-07-16
 - [x] Summon the [Arbiter](/02---characters/allies/arbiter) using holy marks
 - [x] Have the [Arbiter](/02---characters/allies/arbiter) cleanse the corruption source
 - [x] Confront and charm [Serenity](/02---characters/adversaries/serenity) (night hag) to gather intelligence
-- [x] Learn about the [Weaver](/02---characters/adversaries/weaver), [Nidhogg](/02---characters/adversaries/nidhogg), and Shad's village massacre
+- [x] Learn about the [Weaver](/02---characters/adversaries/weaver), [Nidhogg](/02---characters/adversaries/nidhogg), and [Shad](/02---characters/main-party/shadicar)'s village massacre
 - [x] Escape while [Serenity](/02---characters/adversaries/serenity) was charmed
 - [x] Recruit [Francis](/02---characters/allies/francis-the-flameskull) the Flameskull as party ally
 
@@ -137,7 +137,7 @@ created: 2025-07-16
 - [x] Arrive at Winter Court embassy and settle at The Restful Buck inn
 - [x] Perform at the inn and gather intelligence about Lady [Alora](/02---characters/allies/alora)
 - [x] Learn about Olivia's poisoning by possible Bandersnatch
-- [x] Heal Olivia using Skreek's Lay on Hands
+- [x] Heal Olivia using [Skreek](/02---characters/main-party/skreek)'s Lay on Hands
 - [x] Earn private audience with grateful Lady [Alora](/02---characters/allies/alora)
 - [x] Learn about the weakening interplanar barrier
 
@@ -152,17 +152,17 @@ created: 2025-07-16
 **Quest Giver:** Lady [Alora](/02---characters/allies/alora)
 
 - [x] Accept [Alora](/02---characters/allies/alora)'s quest to hunt the creature that poisoned Olivia
-- [x] Use Slumpet's squirrel network to track and bait the beast
+- [x] Use [Slumpet](/02---characters/main-party/slumpet-zoommimist)'s squirrel network to track and bait the beast
 - [x] Employ clever tactics to trap the Bandersnatch
 - [x] Defeat the creature despite its poison gas and deadly claws
 - [x] Return the severed head to Lady [Alora](/02---characters/allies/alora) as proof
 
 **Rewards:** Powerful magic items for each party member:
 
-- Slumpet: _Relentless Hunter_ (shortbow with Hunter's Mark)
-- Shad: _Fochlucan Bandore_ (bardic instrument)
-- Toby: _Blinkback Belt_ (auto-retrieving thrown weapons)
-- Skreek: _Frostbrand Scimitar_ (cold damage)
+- [Slumpet](/02---characters/main-party/slumpet-zoommimist): _Relentless Hunter_ (shortbow with Hunter's Mark)
+- [Shad](/02---characters/main-party/shadicar): _Fochlucan Bandore_ (bardic instrument)
+- [Toby](/02---characters/main-party/toby): _Blinkback Belt_ (auto-retrieving thrown weapons)
+- [Skreek](/02---characters/main-party/skreek): _Frostbrand Scimitar_ (cold damage)
 
 **Key NPCs:** Lady [Alora](/02---characters/allies/alora) (generous patron), [Trius](/02---characters/allies/trius) (impressed observer)
 
@@ -176,13 +176,13 @@ created: 2025-07-16
 - [x] Persuade [Trius](/02---characters/allies/trius) to join the expedition
 - [x] Travel east on horseback ([Trius](/02---characters/allies/trius) riding majestic unicorn)
 - [x] Prove worthiness to magical temple guardian:
-    - Shadicar: bardic song of Elven legend
-    - Skreek: genealogy scroll
-    - Slumpet: [Alora](/02---characters/allies/alora)'s gifted bow (after orb failed)
-    - Toby: blood sacrifice
+    - [Shadicar](/02---characters/main-party/shadicar): bardic song of Elven legend
+    - [Skreek](/02---characters/main-party/skreek): genealogy scroll
+    - [Slumpet](/02---characters/main-party/slumpet-zoommimist): [Alora](/02---characters/allies/alora)'s gifted bow (after orb failed)
+    - [Toby](/02---characters/main-party/toby): blood sacrifice
     - [Trius](/02---characters/allies/trius): family Moonblade
 - [x] Enter through mechanical iris door
-- [x] Defeat holographic knight in honorable duel (Skreek)
+- [x] Defeat holographic knight in honorable duel ([Skreek](/02---characters/main-party/skreek))
 - [x] Navigate the 300-foot bridge with seasonal glyph tiles and laser traps
 - [x] Reach the leyline crystal nexus chamber
 - [x] Discover one of six focus crystals is cracked and flickering
@@ -207,7 +207,7 @@ created: 2025-07-16
 - [x] Slay [Serenity](/02---characters/adversaries/serenity) in brutal combat
 - [x] Use Speak with Dead to extract final intelligence:
     - [Serenity](/02---characters/adversaries/serenity) was over 300 years old
-    - The [Weaver](/02---characters/adversaries/weaver) destroyed Shad's village "for amusement"
+    - The [Weaver](/02---characters/adversaries/weaver) destroyed [Shad](/02---characters/main-party/shadicar)'s village "for amusement"
     - She wasn't responsible for barrier weakening
 - [x] Loot emerald storage ring and gold mind-protection necklace
 - [x] Burn body and cabin to prevent resurrection
@@ -229,7 +229,7 @@ created: 2025-07-16
     - Barrier anchored by four leyline temples (one per season)
     - [Alora](/02---characters/allies/alora)'s mother's journal mentions "The Chained Library"
     - Chained Library may seek forbidden artifacts like the orb
-- [x] Witness Slumpet steal map of Dwarven capital
+- [x] Witness [Slumpet](/02---characters/main-party/slumpet-zoommimist) steal map of Dwarven capital
 
 **Rewards:** Silver teleportation ring, critical strategic intelligence  
 **Key NPCs:** Lady [Alora](/02---characters/allies/alora) (strategic ally), Arch Magus Levi (knowledgeable advisor)
@@ -259,8 +259,8 @@ created: 2025-07-16
 - [x] Enjoy festival hospitality from [Hencelle](/02---characters/allies/hencelle) (Master of Feasts)
 - [x] Befriend Ali (Massa'Ista bounty hunter) and meet captive Arden
 - [x] Survive [Xolthos](/02---characters/adversaries/xolthos-omenspeaker)'s ominous proclamation about [Nidhogg](/02---characters/adversaries/nidhogg)'s return
-- [x] Endure Shad's banishment mid-taunt
-- [x] Defeat [Xolthos](/02---characters/adversaries/xolthos-omenspeaker) in difficult battle using Slumpet's anti-shadow stardust
+- [x] Endure [Shad](/02---characters/main-party/shadicar)'s banishment mid-taunt
+- [x] Defeat [Xolthos](/02---characters/adversaries/xolthos-omenspeaker) in difficult battle using [Slumpet](/02---characters/main-party/slumpet-zoommimist)'s anti-shadow stardust
 - [x] Loot magic items: dragon figurine, invisibility ring, enchanted robes, magic staff
 - [x] Recover letter from the [Weaver](/02---characters/adversaries/weaver) confirming:
     - Winter leyline crystal already damaged
@@ -301,7 +301,7 @@ created: 2025-07-16
 - [x] Scout east toward Summer's lands
 - [x] Attune teleportation ring to standing stone near silver birch tree
 - [x] Return to Aki Matsuri for final rest and drink roulette
-- [x] Use teleportation to reach Summer border (cured Shad's hangover)
+- [x] Use teleportation to reach Summer border (cured [Shad](/02---characters/main-party/shadicar)'s hangover)
 
 **Rewards:** Teleportation network access, hangover cure  
 **Key NPCs:** None specific
@@ -354,7 +354,7 @@ created: 2025-07-16
 - [x] Encounter [Manus](/02---characters/adversaries/manus) posing as [Trius](/02---characters/allies/trius)
 - [x] Learn [Manus](/02---characters/adversaries/manus) mocks [Weaver](/02---characters/adversaries/weaver)/cult despite apparent alliance
 - [x] Accept his challenge to land one blow for the crystal
-- [x] Succeed when Slumpet's ball bearings strike him
+- [x] Succeed when [Slumpet](/02---characters/main-party/slumpet-zoommimist)'s ball bearings strike him
 - [x] Receive stolen crystal as promised
 - [x] Attempt to restore crystal (failed - appears tainted)
 - [x] Consult [Arbiter](/02---characters/allies/arbiter) about restoration needs
@@ -378,13 +378,13 @@ created: 2025-07-16
 - [x] Recognize repeating scenery and time distortions
 - [x] Notice signs of escaped basilisk from Kharvax's failed ritual
 - [x] Encounter [Blackbird](/02---characters/allies/blackbird) (raven-like eldritch merchant)
-- [x] Negotiate contract with Toby: pay for everyone's drinks for three nights
+- [x] Negotiate contract with [Toby](/02---characters/main-party/toby): pay for everyone's drinks for three nights
 - [x] Receive charm playing metal tune ("take control")
 - [x] Use charm to navigate loop successfully
 - [x] Lead party to safety outside temporal trap
 
 **Rewards:** Escape from time loop, [Blackbird](/02---characters/allies/blackbird)'s magical charm  
-**Key NPCs:** [Blackbird](/02---characters/allies/blackbird) (contract merchant), Toby (contract bearer)
+**Key NPCs:** [Blackbird](/02---characters/allies/blackbird) (contract merchant), [Toby](/02---characters/main-party/toby) (contract bearer)
 
 ---
 
@@ -431,10 +431,10 @@ created: 2025-07-16
 - [x] Locate Fey crossing at radiant clearing with ancient standing stones
 - [x] Encounter six-legged "squid cat" mother and cubs (Displacer Beast)
 - [x] Choose diplomacy over combat:
-    - Toby lured cubs away with milk
-    - Slumpet spotted misaligned crystal
-    - Shad adjusted crystal with Skreek's boost
-    - Skreek stunned mother with leftover catnip
+    - [Toby](/02---characters/main-party/toby) lured cubs away with milk
+    - [Slumpet](/02---characters/main-party/slumpet-zoommimist) spotted misaligned crystal
+    - [Shad](/02---characters/main-party/shadicar) adjusted crystal with [Skreek](/02---characters/main-party/skreek)'s boost
+    - [Skreek](/02---characters/main-party/skreek) stunned mother with leftover catnip
 - [x] Activate crystals to project portal to Feywild
 - [x] Successfully cross into vivid realm of surreal colors
 
@@ -452,12 +452,12 @@ created: 2025-07-16
 - [x] Scout from above to spot mountain northwest
 - [x] Journey to Medusa's Wake (lagoon-ruin of ancient battle)
 - [x] Discover satyr festival led by Revel Pipesong
-- [x] Perform musical entertainment with Shad disguised and Skreek invisible
+- [x] Perform musical entertainment with [Shad](/02---characters/main-party/shadicar) disguised and [Skreek](/02---characters/main-party/skreek) invisible
 - [x] Learn mountain trail begins at satyr camp
 - [x] Participate in magical drinking game with lasting effects:
-    - Skreek speaks only in rhyme for 7 days
-    - Toby bursts into inappropriate laughter
-    - Shad's hair becomes flowering vines when lying
+    - [Skreek](/02---characters/main-party/skreek) speaks only in rhyme for 7 days
+    - [Toby](/02---characters/main-party/toby) bursts into inappropriate laughter
+    - [Shad](/02---characters/main-party/shadicar)'s hair becomes flowering vines when lying
 - [x] Decline Revel's offer of "unbridled joy" for future favor
 
 **Rewards:** Mountain trail access, magical drinking effects, satyr friendship  
@@ -474,21 +474,21 @@ created: 2025-07-16
 - [x] Encounter and defeat moss-covered fey troll
 - [x] Overcome animated flesh clones spawned by troll strikes
 - [x] Reach mountain peak with ceremonial altar
-- [x] Experience Skreek's vision while holding Summer's Edge shards:
+- [x] Experience [Skreek](/02---characters/main-party/skreek)'s vision while holding Summer's Edge shards:
     - Memory of sword's gifting by Summer Court Queen
     - Battlefield vision disrupted by darkness
 - [x] Observe distant twisted black castle (gothic, shifting, watching)
 - [x] Place [Elara](/02---characters/allies/elara-sunforge)'s device at altar for sun essence capture
-- [x] Witness Summer's Edge resonating with sunlight and Skreek's presence
+- [x] Witness Summer's Edge resonating with sunlight and [Skreek](/02---characters/main-party/skreek)'s presence
 - [x] Survive second duel with [Manus](/02---characters/adversaries/manus):
     - Endured magical darkness around device
     - Fought [Manus](/02---characters/adversaries/manus) and his two cliff-positioned clones
-    - Relied on Skreek's blindsight in darkness
+    - Relied on [Skreek](/02---characters/main-party/skreek)'s blindsight in darkness
     - Watched [Manus](/02---characters/adversaries/manus) call off battle and vanish
 - [x] Complete capture of First Kiss of Midday Sun
 
 **Rewards:** First Kiss of Midday Sun essence, Summer's Edge resonance awakening  
-**Key NPCs:** Fey troll (defeated), [Manus](/02---characters/adversaries/manus) (honorable opponent), Skreek (vision recipient)
+**Key NPCs:** Fey troll (defeated), [Manus](/02---characters/adversaries/manus) (honorable opponent), [Skreek](/02---characters/main-party/skreek) (vision recipient)
 
 ---
 
@@ -500,18 +500,18 @@ created: 2025-07-16
 - [x] Investigate mysterious castle that appeared/always existed
 - [x] Solve patchwork knight's riddle at gates (Love, tongue, humanity)
 - [x] Navigate hall of mirrors with distorted self-visions:
-    - Shad rejected hollow legacy of applause
-    - Skreek accepted vision of lonely heroism (gained luck boon)
-    - Slumpet rejected betrayal visions (psychically wounded)
-    - Toby embraced monstrous reflection (gained luck boon)
+    - [Shad](/02---characters/main-party/shadicar) rejected hollow legacy of applause
+    - [Skreek](/02---characters/main-party/skreek) accepted vision of lonely heroism (gained luck boon)
+    - [Slumpet](/02---characters/main-party/slumpet-zoommimist) rejected betrayal visions (psychically wounded)
+    - [Toby](/02---characters/main-party/toby) embraced monstrous reflection (gained luck boon)
 - [x] Discover massive broken loom pulsing with dark illusion magic
-- [x] Disrupt loom with Shad's thunderwave
-- [x] Have [Francis](/02---characters/allies/francis-the-flameskull) incinerate loom at Shad's request
+- [x] Disrupt loom with [Shad](/02---characters/main-party/shadicar)'s thunderwave
+- [x] Have [Francis](/02---characters/allies/francis-the-flameskull) incinerate loom at [Shad](/02---characters/main-party/shadicar)'s request
 - [x] Experience hallucinations and memory loss from loom chamber
 - [x] Confront the Echo ([Weaver](/02---characters/adversaries/weaver)'s soul remnant) in throne room
 - [x] Refuse Echo's demand for a soul to rebuild loom
-- [x] Survive Echo's soul extraction attempt on Shad
-- [x] Defeat Echo and his two shadow wolves (Slumpet's decisive strike)
+- [x] Survive Echo's soul extraction attempt on [Shad](/02---characters/main-party/shadicar)
+- [x] Defeat Echo and his two shadow wolves ([Slumpet](/02---characters/main-party/slumpet-zoommimist)'s decisive strike)
 - [x] Discover hidden study behind tapestry
 - [x] Recover [Weaver](/02---characters/adversaries/weaver)'s journal revealing:
     - Philosophy of fear and illusion mastery
@@ -537,10 +537,10 @@ created: 2025-07-16
 - [x] Return to the Summer Court via standing stone network
 - [x] Deliver components to [Elara Sunforge](/02---characters/allies/elara-sunforge)
 - [x] Participate in reforging of Summer’s Edge using radiant forge
-- [x] Witness Skreek chosen as the new wielder of Summer’s Edge
+- [x] Witness [Skreek](/02---characters/main-party/skreek) chosen as the new wielder of Summer’s Edge
 
-**Rewards:** Reforged Summer’s Edge, Skreek gains bonded artifact blade  
-**Key NPCs:** [Elara Sunforge](/02---characters/allies/elara-sunforge) (master smith), Skreek (chosen champion)
+**Rewards:** Reforged Summer’s Edge, [Skreek](/02---characters/main-party/skreek) gains bonded artifact blade  
+**Key NPCs:** [Elara Sunforge](/02---characters/allies/elara-sunforge) (master smith), [Skreek](/02---characters/main-party/skreek) (chosen champion)
 
 ---
 
@@ -563,7 +563,7 @@ created: 2025-07-16
 - [x]  Receive offer to customize and restore castle in time
 
 **Rewards:** Ownership of the [Weaver](/02---characters/adversaries/weaver)’s castle, standing stone network access  
-**Key NPCs:** Jeeves (patchwork guardian), Slumpet (ring attunement)
+**Key NPCs:** Jeeves (patchwork guardian), [Slumpet](/02---characters/main-party/slumpet-zoommimist) (ring attunement)
 
 
 ### 🌌 Disrupt Hollow Threshold & Meet Vael
@@ -574,8 +574,8 @@ created: 2025-07-16
 -  Discover strange stone portal and investigate its pocket-realm
 -  Battle owlbear, alpha wolf, and dire wolf packs
 -  Dispel glowing fang artifact to halt endless summons
--  Escape collapsing chamber amid wild magic surge (Shad briefly polymorphed into frog)
--  Survive final owlbear and drag Skreek to safety after he was knocked unconscious
+-  Escape collapsing chamber amid wild magic surge ([Shad](/02---characters/main-party/shadicar) briefly polymorphed into frog)
+-  Survive final owlbear and drag [Skreek](/02---characters/main-party/skreek) to safety after he was knocked unconscious
 -  Meet **[Vael](/02---characters/allies/vael), Fifth Binder of the Silent Vault** - agent of the Chained Library
 -  Learn Hollow Thresholds are **Cult-forged incisions** siphoning leyline energy
 -  Strike bargain: surrender fang now, deliver [Serenity](/02---characters/adversaries/serenity)’s orb at Library gates
@@ -592,7 +592,7 @@ created: 2025-07-16
 **Location:** Unknown (cryptic clues: “roots beneath the seasons” / “vault at the world’s bloom”)  
 **Quest Giver:** Implied by [Vael](/02---characters/allies/vael) / party’s own pursuit
 
--  Learn of the Library’s nature via **Legend Lore** (Shad)
+-  Learn of the Library’s nature via **Legend Lore** ([Shad](/02---characters/main-party/shadicar))
 -  Confirm Library’s agents exist ([Vael](/02---characters/allies/vael) encounter)
 -  Negotiate initial terms with [Vael](/02---characters/allies/vael) (surrender fang, hold orb until arrival)
 -  Travel under [Vael](/02---characters/allies/vael)’s guidance to the Library’s hidden entrance
@@ -623,7 +623,7 @@ created: 2025-07-16
 ### 🗺️ Investigate Hollow Thresholds
 
 **Location:** Various leyline locations  
-**Quest Giver:** Slumpet's secret discovery  
+**Quest Giver:** [Slumpet](/02---characters/main-party/slumpet-zoommimist)'s secret discovery  
 **Status:** Information obtained, significance unknown
 
 - [x] Secretly obtain leyline map from [Weaver](/02---characters/adversaries/weaver)'s study
@@ -632,7 +632,7 @@ created: 2025-07-16
 - [x] Understand connection to cult's portal activities
 - [x] Decide whether to share information with party
 
-**Current Status:** Slumpet keeping this information secret, considering value to dwarven contacts.
+**Current Status:** [Slumpet](/02---characters/main-party/slumpet-zoommimist) keeping this information secret, considering value to dwarven contacts.
 
 ---
 
@@ -666,7 +666,7 @@ created: 2025-07-16
 **Known Capabilities:**
 
 - Mastery of Mirage Arcane (reality reshaping)
-- Destroyed Shad's village "for amusement" using false [Nidhogg](/02---characters/adversaries/nidhogg) vision
+- Destroyed [Shad](/02---characters/main-party/shadicar)'s village "for amusement" using false [Nidhogg](/02---characters/adversaries/nidhogg) vision
 - Created soul-tethered spell - Silmirien
 - Orchestrating systematic weakening of planar barriers
 

@@ -33,7 +33,7 @@ created: 2026-02-07
 
 ## The Weaver's Illusion
 
-- The [Weaver](/02---characters/adversaries/weaver) conjured an illusion of Nidhogg so convincing and fearsome that the villagers of Shad's village literally **died of fright**
+- The [Weaver](/02---characters/adversaries/weaver) conjured an illusion of Nidhogg so convincing and fearsome that the villagers of [Shad](/02---characters/main-party/shadicar)'s village literally **died of fright**
 - The [Weaver](/02---characters/adversaries/weaver) was not originally interested in freeing Nidhogg — he thought the dragon's image would make for a "fantastic illusion" — but his ambitions grew to unraveling the barrier entirely
 
 ## The Final Ritual

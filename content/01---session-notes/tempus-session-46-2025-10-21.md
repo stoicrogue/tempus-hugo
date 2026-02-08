@@ -16,7 +16,7 @@ author: Mark Molea
 
 - [x] [Vidrir](/02---characters/allies/vidrir) is secretly Odin in disguise
 - [x] [Skreek](/02---characters/main-party/skreek)’s squires are resting and training in [Vidrir’s Grove](/03---locations/vidrirs-grove)
-	- [x] [Vidrir](/02---characters/allies/vidrir)’s ravens found and escorted them to the grove while Skreek was away
+	- [x] [Vidrir](/02---characters/allies/vidrir)’s ravens found and escorted them to the grove while [Skreek](/02---characters/main-party/skreek) was away
 
 ## 🗡 Monster Stat Blocks
 
@@ -61,7 +61,7 @@ author: Mark Molea
 > 
 > [Vidrir](/02---characters/allies/vidrir) exhales, steady. “I suppose it’s time,” he says with quiet reverence. “Falsehood, even without malice, cannot stand in the light of Summer's Edge”.  The old sage smiles warmly as he gentle runs his finger along the back of the blade.  Still smiling but shaking his head, “No, there's nothing to forgive, bright one. I know it's just your nature. It does me well see you again.  …and in these chaotic times, we could use your strength and unwavering virtue.”
 > 
-> [Vidrir](/02---characters/allies/vidrir) turned back to the party and reverently handed the radiant blade back to Skreek. “Thank you for this opportunity to see my dear friend once more.  I'm sure you have questions”. He spread his hands and waited, as patient and calm as a mountain.
+> [Vidrir](/02---characters/allies/vidrir) turned back to the party and reverently handed the radiant blade back to [Skreek](/02---characters/main-party/skreek). “Thank you for this opportunity to see my dear friend once more.  I'm sure you have questions”. He spread his hands and waited, as patient and calm as a mountain.
 
 
 # 📝 Session Notes
@@ -71,10 +71,10 @@ author: Mark Molea
 - Enjoyed breakfast at the Moonlit Hearth.  They bought gifts for [Vidrir](/02---characters/allies/vidrir) from [Seraphina](/02---characters/allies/seraphina-moonglow) before leaving: loose leaf tea and a bottle of mead.
 - Used Leyline Gate Network to travel from Spring Court to the Order of Seasons Tomb
 	- this is technically a mistake since the party never went back to the Tomb to attune their leyline gate ring after getting the ring from [Alora](/02---characters/allies/alora). They would have needed to travel to one of the Autumn Court standing stones and progress from there.
-- Traveled by river from the Tomb to [Vidrir](/02---characters/allies/vidrir)’s grove using Shad’s folding boat.  It was an easy journey down river. Spotted a unique raven along the way.  Skreek read its thoughts, which the raven allowed without resistance, learning that it was [Vidrir](/02---characters/allies/vidrir)’s familiar.  The raven told Skreek he would inform his master of their approach.
+- Traveled by river from the Tomb to [Vidrir](/02---characters/allies/vidrir)’s grove using [Shad](/02---characters/main-party/shadicar)’s folding boat.  It was an easy journey down river. Spotted a unique raven along the way.  [Skreek](/02---characters/main-party/skreek) read its thoughts, which the raven allowed without resistance, learning that it was [Vidrir](/02---characters/allies/vidrir)’s familiar.  The raven told [Skreek](/02---characters/main-party/skreek) he would inform his master of their approach.
 - [Vidrir](/02---characters/allies/vidrir) appreciate the gifts and the chance to see Summer’s Edge once again.  
 - “[Vidrir](/02---characters/allies/vidrir) - The Glamour Fades” scene played out as planned.
 - [Vidrir](/02---characters/allies/vidrir) revealed the name of his familiar that the party met is Huginn.
 - [Vidrir](/02---characters/allies/vidrir) used his connection to Summer’s Edge to fully awaken it, giving it additional abilities, including bestowing limited truesight.
-- Party traveled upriver to Tannis, using Skreek’s warhorse to pull the boat upstream.
-- Visited Sig and Winry.  Sig gave Toby the wrist blade he crafted for her.  Because he had extra time, he used a gem from the [Arbiter](/02---characters/allies/arbiter) to give the blade the ability to inflict radiant damage. The extra time gave him the opportunity to practice his filigree work. He thusly referred to the blade as a “Dagger of Brightness”
+- Party traveled upriver to Tannis, using [Skreek](/02---characters/main-party/skreek)’s warhorse to pull the boat upstream.
+- Visited Sig and Winry.  Sig gave [Toby](/02---characters/main-party/toby) the wrist blade he crafted for her.  Because he had extra time, he used a gem from the [Arbiter](/02---characters/allies/arbiter) to give the blade the ability to inflict radiant damage. The extra time gave him the opportunity to practice his filigree work. He thusly referred to the blade as a “Dagger of Brightness”

@@ -16,7 +16,7 @@ created: 2023-05-03
 
 |Name|P. Pcpt|P. Inv|P. Ins|Trained Skills|Languages|
 |---|---|---|---|---|---|
-|[October “Toby” Daye](/02---characters/main-party/october-toby-daye)|15|14|12|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|Abyssal, Common, Elvish|
+|[[October “Toby” Daye]]|15|14|12|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|Abyssal, Common, Elvish|
 |[Shadicar](/02---characters/main-party/shadicar)|14|11|14|Deception, Insight, Perception, Performance, Persuasion, Sleight of Hand|Common, Elvish|
 |[Skreek](/02---characters/main-party/skreek)|9|10|9|History, Medicine, Persuasion, Religion|Aarakocra, Common, Dwarvish, Elvish|
 |[Slumpet Zoommimist](/02---characters/main-party/slumpet-zoommimist)|18|14|12|Deception, Investigation, Perception, Persuasion, Sleight of Hand, Stealth|Common, Gnomish, Thieves' Cant|
@@ -26,7 +26,7 @@ created: 2023-05-03
 
 # Strong Start
 
-- [x] Shad has nightmares of his town being overrun by living shadows
+- [x] [Shad](/02---characters/main-party/shadicar) has nightmares of his town being overrun by living shadows
 
 # Scenes
 
@@ -91,10 +91,10 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
 ### Session Notes
 
 - [Shadicar](/02---characters/main-party/shadicar) had vivid nightmares of the day his village was destroyed
-    - [Serenity](/02---characters/adversaries/serenity) was in his dream, chaos all around her. When Shad noticed her, he was thrust out of the dream
+    - [Serenity](/02---characters/adversaries/serenity) was in his dream, chaos all around her. When [Shad](/02---characters/main-party/shadicar) noticed her, he was thrust out of the dream
 - [Vidrir](/02---characters/allies/vidrir) asked to hold the pieces of [Summer’s Edge (orig)](/04---items/summers-edge-orig) before the party left.
     - When he held the sword, his hair slightly stood on end, and a warm smile washed over his face. He seemed grateful and made the party promise to return when the sword is reforged so he could see it in all its glory.
 - Befriended a pixie named Fannie in the forest by playing along with her pranks.
 - Fannie’s friends are being held captive by a group of grey-skinned halflings ([Darkling](/02---characters/monsters/darkling))?
-- The party agreed to help Fannie rescue her friends and will turn [October “Toby” Daye](/02---characters/main-party/october-toby-daye) into a dinosaur to help them storm the camp
+- The party agreed to help Fannie rescue her friends and will turn [[October “Toby” Daye]] into a dinosaur to help them storm the camp
 - [Slumpet Zoommimist](/02---characters/main-party/slumpet-zoommimist) scouted ahead and found the camp where the pixies are being held

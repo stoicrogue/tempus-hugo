@@ -24,7 +24,7 @@ created: 2023-08-30
 
 |Name|P. Pcpt|P. Inv|P. Ins|Trained Skills|Languages|
 |---|---|---|---|---|---|
-|[October “Toby” Daye](/02---characters/main-party/october-toby-daye)|15|14|12|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|Abyssal, Common, Elvish|
+|[[October “Toby” Daye]]|15|14|12|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|Abyssal, Common, Elvish|
 |[Shadicar](/02---characters/main-party/shadicar)|14|11|14|Deception, Insight, Perception, Performance, Persuasion, Sleight of Hand|Common, Elvish|
 |[Skreek](/02---characters/main-party/skreek)|9|10|9|History, Medicine, Persuasion, Religion|Aarakocra, Common, Dwarvish, Elvish|
 |[Slumpet Zoommimist](/02---characters/main-party/slumpet-zoommimist)|18|14|12|Deception, Investigation, Perception, Persuasion, Sleight of Hand, Stealth|Common, Gnomish, Thieves' Cant|
@@ -107,13 +107,13 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
 ### Session Notes
 
 - [Serenity](/02---characters/adversaries/serenity) shows up and questions the party
-- Demands her crystal sphere back. The party denies the request, Slumpet throws the sphere out the window, and they try to leave. [Serenity](/02---characters/adversaries/serenity) magically slams the doors shut and attacks the party
-- Shad tries to use the gate spell scroll to summon the [Arbiter](/02---characters/allies/arbiter) but it doesn’t work
+- Demands her crystal sphere back. The party denies the request, [Slumpet](/02---characters/main-party/slumpet-zoommimist) throws the sphere out the window, and they try to leave. [Serenity](/02---characters/adversaries/serenity) magically slams the doors shut and attacks the party
+- [Shad](/02---characters/main-party/shadicar) tries to use the gate spell scroll to summon the [Arbiter](/02---characters/allies/arbiter) but it doesn’t work
 - Physical attacks are not proving to be very effective against the Hag while her claws seem formidable.
-- In an act of desperation, Shad casts charm person on [serenity](/02---characters/adversaries/serenity). It succeeds!?!
+- In an act of desperation, [Shad](/02---characters/main-party/shadicar) casts charm person on [serenity](/02---characters/adversaries/serenity). It succeeds!?!
 - The party begins talking to [serenity](/02---characters/adversaries/serenity) as she apologizes and begins making the party tea and breakfast.
 - They acquire a journal [serenity](/02---characters/adversaries/serenity) dropped during the fight. Between the journal and the conversation with the charmed [serenity](/02---characters/adversaries/serenity), the party learns she has been working with a spell caster named the [Weaver](/02---characters/adversaries/weaver).
-- The [Weaver](/02---characters/adversaries/weaver) specializes in fear and illusion magic. The party learns he was behind the tragedy of Shad’s village, where the [Weaver](/02---characters/adversaries/weaver) conjured an illusion of a shadow dragon so convincing and fearsome that the villagers literally died of fright…
+- The [Weaver](/02---characters/adversaries/weaver) specializes in fear and illusion magic. The party learns he was behind the tragedy of [Shad](/02---characters/main-party/shadicar)’s village, where the [Weaver](/02---characters/adversaries/weaver) conjured an illusion of a shadow dragon so convincing and fearsome that the villagers literally died of fright…
 - The party slips out hoping to be miles away before the charm spell wears off.
-- Slumpet takes the lead with the dark crystal in tow, trying to keep it away from [serenity](/02---characters/adversaries/serenity), and heads towards the safety of [Vidrir](/02---characters/allies/vidrir)’s grove.
-- Along the way Slumpet discovers that the flame skull corpses has revived itself. The party catches up and parlays with the skull named [Francis](/02---characters/allies/francis-the-flameskull). The skull agrees to forming a pact with the party, agreeing to show him adventures in exchange for his arcane knowledge.
+- [Slumpet](/02---characters/main-party/slumpet-zoommimist) takes the lead with the dark crystal in tow, trying to keep it away from [serenity](/02---characters/adversaries/serenity), and heads towards the safety of [Vidrir](/02---characters/allies/vidrir)’s grove.
+- Along the way [Slumpet](/02---characters/main-party/slumpet-zoommimist) discovers that the flame skull corpses has revived itself. The party catches up and parlays with the skull named [Francis](/02---characters/allies/francis-the-flameskull). The skull agrees to forming a pact with the party, agreeing to show him adventures in exchange for his arcane knowledge.

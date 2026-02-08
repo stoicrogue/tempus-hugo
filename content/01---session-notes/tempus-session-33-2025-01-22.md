@@ -16,7 +16,7 @@ created: 2025-01-22
 
 |Name|P. Pcpt|P. Inv|P. Ins|Trained Skills|Languages|
 |---|---|---|---|---|---|
-|[October “Toby” Daye](/02---characters/main-party/october-toby-daye)|15|14|12|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|Abyssal, Common, Elvish|
+|[[October “Toby” Daye]]|15|14|12|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|Abyssal, Common, Elvish|
 |[Shadicar](/02---characters/main-party/shadicar)|14|11|14|Deception, Insight, Perception, Performance, Persuasion, Sleight of Hand|Common, Elvish|
 |[Skreek](/02---characters/main-party/skreek)|9|10|9|History, Medicine, Persuasion, Religion|Aarakocra, Common, Dwarvish, Elvish|
 |[Slumpet Zoommimist](/02---characters/main-party/slumpet-zoommimist)|18|14|12|Deception, Investigation, Perception, Persuasion, Sleight of Hand, Stealth|Common, Gnomish, Thieves' Cant|
@@ -254,7 +254,7 @@ If combat breaks out, the mother displacer beast will attack anyone who threaten
 - Party defeated the celestial guardian and retrieved the celestial ore
 - The party brought the ore back to [Elara](/02---characters/allies/elara-sunforge) and confirmed it was the ore then needed to reforge Summer’s Edge
 - [Elara](/02---characters/allies/elara-sunforge) found a nearby fey crossing to the north: the Shimmering Glade
-- The party did some shopping at the Glittering Cavern (owned by Irena), including some oddly specific items by Toby in preparation for dealing with the Fey.
+- The party did some shopping at the Glittering Cavern (owned by Irena), including some oddly specific items by [Toby](/02---characters/main-party/toby) in preparation for dealing with the Fey.
     - 7 small vials with cork stoppers
     - 3 moonstones – small
     - 3 quartz crystals – amber and shine, bone sliver, smoke
@@ -264,6 +264,6 @@ If combat breaks out, the mother displacer beast will attack anyone who threaten
     - 3 sliver thread spools
     - 9 tiny silver bell
     - 3 vials of milk and 3 of honey, one empty vial
-- They party paid for drinks again at the Ember’s Embrace to fulfill Toby’s contract with [Blackbird](/02---characters/allies/blackbird) (2nd of 3 nights)
+- They party paid for drinks again at the Ember’s Embrace to fulfill [Toby](/02---characters/main-party/toby)’s contract with [Blackbird](/02---characters/allies/blackbird) (2nd of 3 nights)
 - The next morning the party traveled to the Shimmering Glade and found it as [Elara](/02---characters/allies/elara-sunforge) described. At a certain time of day, sunlight will strike crystals around the glade and activate the fey crossing.
 - However, a large fey cat is napping in the center of the glade with its cubs playing nearby…

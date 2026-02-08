@@ -22,7 +22,8 @@ The structure of my notes is based on Mike Shea's [notion notebook](https://slyf
 
 Below are the folders in my Obsidian notebook and my purpose of each folder.  You'll find a **menu** option on this site for each of them.
 
-### Session Notes
+### [Session Notes](/01---session-notes/_index)
+
 Prep notes for individual sessions. These evolved significantly over the course of the campaign as I discovered what worked best for me at the table.
 
 **Early Sessions (Sessions 1-5):** I used my iPad at the table to access my prep notes in Notion. I included links to D&D Beyond for monsters and split content into different Notion pages. The format was still experimental—I was figuring out what information I actually needed at the table versus what just cluttered my view.
@@ -33,29 +34,29 @@ Prep notes for individual sessions. These evolved significantly over the course 
 
 The irony of following a "Lazy DM" philosophy is that my notes actually got *more* detailed over time—but that extra preparation was about giving myself tools for improvisation, not scripting outcomes. The goal was always to be ready for wherever the story went, not to force it down a particular path.
 
-### Characters 
+### [Characters](/02---characters/_index) 
 - Significant NPCs and monsters
 - Main party notes
 
-### Locations
+### [Locations](/03---locations/_index)
 - Fantastic locations I need to track
 - Usually include descriptions and/or maps.
 - Most maps come from [Chezpeku](https://www.czepeku.com/fantasy/maps/themes), which I support on Patreon.
 
-### Items
+### [Items](/04---items/_index)
 - Homebrew or third party items, which usually get translated into custom items in D&D Beyond since all of my players have their character sheets there.
 
-### Planning 
+### [Planning](/05---planning/_index) 
 - A variety of notes for larger concepts or quest plans that didn't seem to fit in my normal session notes. These are usually for things that might not happen next session or that I need to significantly foreshadow.
 
-### Factions
+### [Factions](/06---factions/_index)
 - Significant groups the party interacts with.
 - Guilds, gangs, secret organizations, etc.
 
-### Rules
+### [Rules](/07---rules/_index)
 - Any homebrew or third party rules I need to track and disseminate.
 
-### Recap
+### [Recap](/08---recap/_index)
 - Various types of notes capturing the ongoing campaign.
 - **Tempus Campaign Session Notes:** a fairly raw combination of all of session notes captured during play and transferred back to my Obsidian Session Notes.
 - **Tempus Campaign Recap:** a summary of the raw session notes. I start by feeding a section of raw session notes into ChatGPT and refine a bit from there. These are ready to share with the players. 

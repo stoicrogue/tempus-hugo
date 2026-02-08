@@ -38,7 +38,7 @@ When activated, the [Arbiter](/02---characters/allies/arbiter)'s voice rings out
 
 ### Notes
 - Temp HP stacks with other sources
-- Radiant damage applies to all weapon attacks (including Skreek's Summer's Edge, [Francis](/02---characters/allies/francis-the-flameskull)'s rays, etc.)
+- Radiant damage applies to all weapon attacks (including [Skreek](/02---characters/main-party/skreek)'s Summer's Edge, [Francis](/02---characters/allies/francis-the-flameskull)'s rays, etc.)
 - Time limit means party must choose strategic moment to activate
 
 ---
@@ -63,7 +63,7 @@ The [Arbiter](/02---characters/allies/arbiter)'s divine energy surges through th
 - Divine light erupts from their holy mark
 - They float briefly as radiant energy courses through them
 - The [Arbiter](/02---characters/allies/arbiter)'s voice echoes across the battlefield
-- Skreek's Shield of the Dusk Lord may shine particularly bright
+- [Skreek](/02---characters/main-party/skreek)'s Shield of the Dusk Lord may shine particularly bright
 
 ### Notes
 - This only triggers **once per combat** (first party member to drop to 0 HP)

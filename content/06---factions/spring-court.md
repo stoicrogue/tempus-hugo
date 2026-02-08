@@ -44,10 +44,10 @@ The Spring Court embodies renewal, growth, and gentle transformation. Guided by 
 A sacred rite performed at the [Spring Leyline Temple](/03---locations/spring-leyline-temple). [Faela](/02---characters/allies/faela-mossheart) gives each participant a seed to plant in the soil around the temple. Each seed binds to the person's "intent to grow" — a personal resolution or vow for positive change. Seeds sprout into flowers reflecting the character's spirit, with color and condition revealing emotional states.
 
 **Party vows:**
-- **Shad** — Make the world better through music
-- **Skreek** — Restore order by retrieving the stolen artifact
-- **Toby** — Reduce bitterness and pain for companions
-- **Slumpet** — Dwarves will get what's coming to them
+- **[Shad](/02---characters/main-party/shadicar)** — Make the world better through music
+- **[Skreek](/02---characters/main-party/skreek)** — Restore order by retrieving the stolen artifact
+- **[Toby](/02---characters/main-party/toby)** — Reduce bitterness and pain for companions
+- **[Slumpet](/02---characters/main-party/slumpet-zoommimist)** — Dwarves will get what's coming to them
 
 ---
 

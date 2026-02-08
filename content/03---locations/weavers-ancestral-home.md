@@ -84,15 +84,15 @@ As a living creature approaches within 10 feet of the mirror:
 
 **Fear:** _Failure to protect the people he loves._  
 **Vision:**  
-Skreek stands alone atop a broken battlement.  
-Around him lie the bodies of his friends — Shad, Slumpet, Toby — their weapons fallen from limp hands.  
+[Skreek](/02---characters/main-party/skreek) stands alone atop a broken battlement.  
+Around him lie the bodies of his friends — [Shad](/02---characters/main-party/shadicar), [Slumpet](/02---characters/main-party/slumpet-zoommimist), [Toby](/02---characters/main-party/toby) — their weapons fallen from limp hands.  
 Above, a dark sun bleeds across the sky, and shadow creatures crawl from the cracks he failed to seal.
 
 ### 🎵 Shadicar (Half-Elf Bard)
 
 **Fear:** _Becoming irrelevant and forgotten._  
 **Vision:**  
-Shad performs before an endless crowd — but they are silent, faceless, unmoving.  
+[Shad](/02---characters/main-party/shadicar) performs before an endless crowd — but they are silent, faceless, unmoving.  
 As he plays, his music becomes a hollow echo, thin and broken.  
 One by one, the audience turns their backs and disappears into mist.
 
@@ -100,7 +100,7 @@ One by one, the audience turns their backs and disappears into mist.
 
 **Fear:** _Being betrayed or abandoned by his own choices._  
 **Vision:**  
-Slumpet stands before a shattered mirror — each shard showing a different version of himself:  
+[Slumpet](/02---characters/main-party/slumpet-zoommimist) stands before a shattered mirror — each shard showing a different version of himself:  
 - a thief caught in a snare, a soldier left behind, a shadow fading alone.  
 - Behind him, unseen, the trusted hands of friends and mentors raise blades against his back.
 
@@ -108,7 +108,7 @@ Slumpet stands before a shattered mirror — each shard showing a different vers
 
 **Fear:** _Losing control to the darkness within._  
 **Vision:**  
-Toby sees herself reflected in a black mirror —  
+[Toby](/02---characters/main-party/toby) sees herself reflected in a black mirror —  
 her veins pulsing with shadow, her hands monstrous, her eyes vacant and cold.  
 All around her, the world burns, and she smiles without realizing it.
 
@@ -173,7 +173,7 @@ At the heart of the crumbling castle lies the **throne room** —  and it still 
 > And now, only hollow threads remain...  
 > And you, little sparks, dancing in the ruins of memory.”
 > 
-> _(His head tilts, eyes settling on Shadicar.)_
+> _(His head tilts, eyes settling on [Shadicar](/02---characters/main-party/shadicar).)_
 > 
 > "It was you, wasn’t it?  The note that struck first.  The hand that called fire to the weave. The melody behind the final unraveling.”
 > 

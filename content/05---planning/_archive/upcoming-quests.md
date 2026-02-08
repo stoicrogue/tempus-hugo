@@ -15,15 +15,15 @@ created: 2025-04-14
 **Location:** Mountain peak in the Feywild, beneath the eternal summer sun.
 
 **Narrative Beat: The Blade Remembers**
-- As the Fey sun reaches its zenith, **Skreek feels compelled** to draw the shattered hilt of Summer’s Edge.
+- As the Fey sun reaches its zenith, **[Skreek](/02---characters/main-party/skreek) feels compelled** to draw the shattered hilt of Summer’s Edge.
 - The shards begin to glow faintly, and he experiences a **vision of Eirik**, the blade’s first wielder, receiving the sword from the Queen of the Summer Court.
 - The warmth of the sword lingers, foreshadowing its rebirth.
-- [Manus](/02---characters/adversaries/manus) arrives unaware of the sword's legacy, taunting Skreek for carrying a broken relic.
+- [Manus](/02---characters/adversaries/manus) arrives unaware of the sword's legacy, taunting [Skreek](/02---characters/main-party/skreek) for carrying a broken relic.
 
 **Outcome:**
 - The party defeats [Manus](/02---characters/adversaries/manus) or drives him off.
 - They capture the **First Kiss of the Midday Sun** using the artifact from [Elara](/02---characters/allies/elara-sunforge).
-- Summer’s Edge reacts to the Feywild sun and Skreek’s spirit, hinting at its impending reforging.
+- Summer’s Edge reacts to the Feywild sun and [Skreek](/02---characters/main-party/skreek)’s spirit, hinting at its impending reforging.
 
 ---
 
@@ -35,7 +35,7 @@ created: 2025-04-14
 
 **Features:**
 - Echoes of the [Weaver](/02---characters/adversaries/weaver)’s past—spectral memories, twisted illusions, and puzzles involving fear.
-- A deeper understanding of the [Weaver](/02---characters/adversaries/weaver)’s ties to [Serenity](/02---characters/adversaries/serenity), [Nidhogg](/02---characters/adversaries/nidhogg), and Shad’s past.
+- A deeper understanding of the [Weaver](/02---characters/adversaries/weaver)’s ties to [Serenity](/02---characters/adversaries/serenity), [Nidhogg](/02---characters/adversaries/nidhogg), and [Shad](/02---characters/main-party/shadicar)’s past.
 - Risk of drawing the [Weaver](/02---characters/adversaries/weaver)’s direct attention if the party lingers too long.
 
 **Outcome:**
@@ -52,7 +52,7 @@ created: 2025-04-14
 
 **Challenge:**
 - The reforging may require a final **trial of the spirit** or a symbolic sacrifice.
-- Skreek must affirm his worth as the blade’s next true bearer.
+- [Skreek](/02---characters/main-party/skreek) must affirm his worth as the blade’s next true bearer.
 
 **Outcome:**
 - **Summer’s Edge is reborn.** Its next tier of power is unlocked.

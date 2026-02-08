@@ -24,7 +24,7 @@ created: 2023-07-12
 
 |Name|P. Pcpt|P. Inv|P. Ins|Trained Skills|Languages|
 |---|---|---|---|---|---|
-|[October “Toby” Daye](/02---characters/main-party/october-toby-daye)|15|14|12|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|Abyssal, Common, Elvish|
+|[[October “Toby” Daye]]|15|14|12|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|Abyssal, Common, Elvish|
 |[Shadicar](/02---characters/main-party/shadicar)|14|11|14|Deception, Insight, Perception, Performance, Persuasion, Sleight of Hand|Common, Elvish|
 |[Skreek](/02---characters/main-party/skreek)|9|10|9|History, Medicine, Persuasion, Religion|Aarakocra, Common, Dwarvish, Elvish|
 |[Slumpet Zoommimist](/02---characters/main-party/slumpet-zoommimist)|18|14|12|Deception, Investigation, Perception, Persuasion, Sleight of Hand, Stealth|Common, Gnomish, Thieves' Cant|
@@ -37,10 +37,10 @@ created: 2023-07-12
 # Strong Start
 
 - [x] Nightmares of party members
-    - [x] Shad
-    - [x] Slumpet back in jail
-    - [x] Toby turned into a fish on dry land
-    - [x] Skreek sees the [arbiter](/02---characters/allies/arbiter) cleansing the town of Tannis
+    - [x] [Shad](/02---characters/main-party/shadicar)
+    - [x] [Slumpet](/02---characters/main-party/slumpet-zoommimist) back in jail
+    - [x] [Toby](/02---characters/main-party/toby) turned into a fish on dry land
+    - [x] [Skreek](/02---characters/main-party/skreek) sees the [arbiter](/02---characters/allies/arbiter) cleansing the town of Tannis
         - [x] “Wrath of god”
 
 # Scenes
@@ -115,5 +115,5 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
 
 - Found the cabin in the grey section of the forest
 - Defeated flameskull
-- Shad broke into the cabin via a window
-- Slumpet pocketed the destroyed flameskull
+- [Shad](/02---characters/main-party/shadicar) broke into the cabin via a window
+- [Slumpet](/02---characters/main-party/slumpet-zoommimist) pocketed the destroyed flameskull

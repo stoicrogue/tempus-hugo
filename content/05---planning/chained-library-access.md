@@ -37,10 +37,10 @@ As each party member approaches the edge of the chasm, the stone floor **tremble
 
 **Each pillar subtly reflects its intended recipient:**
 
-- **Shad's pillar:** Musical notes dance across its surface in flickering light
-- **Skreek's pillar:** Dawn light glows from within the obsidian
-- **Toby's pillar:** Shadow and blood-red veins pulse through the stone
-- **Slumpet's pillar:** Fey runes shimmer and fade across its face
+- **[Shad](/02---characters/main-party/shadicar)'s pillar:** Musical notes dance across its surface in flickering light
+- **[Skreek](/02---characters/main-party/skreek)'s pillar:** Dawn light glows from within the obsidian
+- **[Toby](/02---characters/main-party/toby)'s pillar:** Shadow and blood-red veins pulse through the stone
+- **[Slumpet](/02---characters/main-party/slumpet-zoommimist)'s pillar:** Fey runes shimmer and fade across its face
 
 [Vael](/02---characters/allies/vael) steps forward, but the ground beneath him remains still. He glances back with a slight smile: _"The library already knows me. This test is yours alone."_
 

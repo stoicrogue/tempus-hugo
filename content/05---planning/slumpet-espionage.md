@@ -8,13 +8,13 @@ author:
   - Mark Molea
 created: 2025-07-04
 ---
-Here is a structured **plan to integrate Slumpet’s espionage thread** based on his player’s responses, while keeping it subtle, impactful, and world-coherent:
+Here is a structured **plan to integrate [Slumpet](/02---characters/main-party/slumpet-zoommimist)’s espionage thread** based on his player’s responses, while keeping it subtle, impactful, and world-coherent:
 
 ---
 
 ## 🎭 **Key Takeaways from Player Feedback**
 
-- **Yes**, Slumpet is conducting espionage.
+- **Yes**, [Slumpet](/02---characters/main-party/slumpet-zoommimist) is conducting espionage.
 - He **uses Thieves’ Cant** to contact a comrade for message drops.
 - He was **“brainwashed” in prison** to work with the dwarves.
 - The dwarves are likely a **splinter group** rather than an official kingdom faction.
@@ -26,13 +26,13 @@ Here is a structured **plan to integrate Slumpet’s espionage thread** based on
 
 ### **1. Establish Context Subtly In-World**
 
-Since the party doesn’t know about Slumpet’s espionage, introduce it **via environmental or NPC prompts**:
+Since the party doesn’t know about [Slumpet](/02---characters/main-party/slumpet-zoommimist)’s espionage, introduce it **via environmental or NPC prompts**:
 
 ✅ **Example Scene Hooks**
 
-- While in a town or outpost, Slumpet notices a **mark in Thieves’ Cant** on a barrel, lamppost, or fountain indicating a dead drop or safe contact nearby.
+- While in a town or outpost, [Slumpet](/02---characters/main-party/slumpet-zoommimist) notices a **mark in Thieves’ Cant** on a barrel, lamppost, or fountain indicating a dead drop or safe contact nearby.
 - An NPC rogue or messenger subtly uses Cant to indicate **they can receive or deliver a package**.
-- Slumpet finds a **scrap of dwarven script** or sigil on the contact’s person or gear, tying them to the splinter group.
+- [Slumpet](/02---characters/main-party/slumpet-zoommimist) finds a **scrap of dwarven script** or sigil on the contact’s person or gear, tying them to the splinter group.
 
 ---
 
@@ -50,7 +50,7 @@ To keep options open but meaningful, define them with:
 
 When downtime arises (e.g. travel between major beats), ask:
 
-> _“Slumpet, you see a familiar Cant marking near the tavern sign. What do you do?”_
+> _“[Slumpet](/02---characters/main-party/slumpet-zoommimist), you see a familiar Cant marking near the tavern sign. What do you do?”_
 
 Allow him to narrate how he passes the message off. You can build tension by:
 
@@ -64,14 +64,14 @@ Allow him to narrate how he passes the message off. You can build tension by:
 Keep this espionage _choice-driven_ but impactful:
 
 - Success: The dwarves grant information, resources, or contacts in exchange for intel.
-- Risk: The party might notice Slumpet sneaking off, or his messages could be intercepted by rival factions (Cult of the Eclipse, Massa’ista, Chained Library).
+- Risk: The party might notice [Slumpet](/02---characters/main-party/slumpet-zoommimist) sneaking off, or his messages could be intercepted by rival factions (Cult of the Eclipse, Massa’ista, Chained Library).
 
 ---
 
 ### **5. Future Payoff Hooks**
 
-- The dwarven splinter group might later **request a direct favor**, forcing Slumpet to choose between the party’s goals and his handlers.
-- If Slumpet ever dies or retires, messages he sent could create **future ripples or threats**.
+- The dwarven splinter group might later **request a direct favor**, forcing [Slumpet](/02---characters/main-party/slumpet-zoommimist) to choose between the party’s goals and his handlers.
+- If [Slumpet](/02---characters/main-party/slumpet-zoommimist) ever dies or retires, messages he sent could create **future ripples or threats**.
     
 
 ---
@@ -81,7 +81,7 @@ Keep this espionage _choice-driven_ but impactful:
 During an upcoming travel or downtime montage, include:
 
 > **Scene Prompt:**  
-> As the party breaks for rest near a moss-crusted milestone stone, Slumpet notices a faint spiral etched into its base. Underneath, a tiny rune reads: “Speak before dawn.”
+> As the party breaks for rest near a moss-crusted milestone stone, [Slumpet](/02---characters/main-party/slumpet-zoommimist) notices a faint spiral etched into its base. Underneath, a tiny rune reads: “Speak before dawn.”
 
 Let the player narrate how he contacts the comrade and passes his message off. Offer him a chance to reveal nothing to the party—or slip up, depending on his comfort level.
 

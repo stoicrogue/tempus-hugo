@@ -16,7 +16,7 @@ created: 2023-02-08
 
 |Name|P. Pcpt|P. Inv|P. Ins|Trained Skills|Languages|
 |---|---|---|---|---|---|
-|[October “Toby” Daye](/02---characters/main-party/october-toby-daye)|15|14|12|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|Abyssal, Common, Elvish|
+|[[October “Toby” Daye]]|15|14|12|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|Abyssal, Common, Elvish|
 |[Shadicar](/02---characters/main-party/shadicar)|14|11|14|Deception, Insight, Perception, Performance, Persuasion, Sleight of Hand|Common, Elvish|
 |[Skreek](/02---characters/main-party/skreek)|9|10|9|History, Medicine, Persuasion, Religion|Aarakocra, Common, Dwarvish, Elvish|
 |[Slumpet Zoommimist](/02---characters/main-party/slumpet-zoommimist)|18|14|12|Deception, Investigation, Perception, Persuasion, Sleight of Hand, Stealth|Common, Gnomish, Thieves' Cant|
@@ -102,11 +102,11 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
 - Sig the blacksmith was very grateful after being reunited with Winry
     - Gave [Slumpet Zoommimist](/02---characters/main-party/slumpet-zoommimist) a masterwork short sword
     - Gave [Shadicar](/02---characters/main-party/shadicar) studded leather armor
-    - Promised to craft a wrist blade for [October “Toby” Daye](/02---characters/main-party/october-toby-daye)
+    - Promised to craft a wrist blade for [[October “Toby” Daye]]
         - Pick up within a week
     - Gave a breastplate to [Skreek](/02---characters/main-party/skreek)
         - Mounted [Skreek](/02---characters/main-party/skreek)’s holy symbol to the breastplate
-        - Will call in a favor from Skreek to recover crafting materials from a dangerous location
+        - Will call in a favor from [Skreek](/02---characters/main-party/skreek) to recover crafting materials from a dangerous location
 
 ### Darkness event at Tannis kickoff
 

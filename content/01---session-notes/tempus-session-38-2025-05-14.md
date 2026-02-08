@@ -42,13 +42,13 @@ created: 2025-05-14
     - **Summon Shadow Wolf (Costs 2 Actions):** Summon a Shadow Wolf in dim light or shadow within 30 feet. Max 4 wolves active at once.
 ### Session Notes
 
-- The party traveled back down the mountain to investigate the strange castle they spotted on their ascent.  It was easy work for Toby to navigate because Skreek flew up to find some easier paths.  When the party arrived at the castle, it immediately felt off.  Once regal but clearly in disrepair, but also emanating a feeling of "wrongness".  Their path led them to the back of the castle and its royal garden, which was now odd and twisted..  The party decided the royal garden was too creepy and went around the castle to find another entrance.  
+- The party traveled back down the mountain to investigate the strange castle they spotted on their ascent.  It was easy work for [Toby](/02---characters/main-party/toby) to navigate because [Skreek](/02---characters/main-party/skreek) flew up to find some easier paths.  When the party arrived at the castle, it immediately felt off.  Once regal but clearly in disrepair, but also emanating a feeling of "wrongness".  Their path led them to the back of the castle and its royal garden, which was now odd and twisted..  The party decided the royal garden was too creepy and went around the castle to find another entrance.  
 - They eventually found the front door and were challenged by the castle's guardian, a construct made of patchwork tapestry.  They solved the riddles about values and were allowed entry.
-- Each party member looked into the mirror and got a vision.  All by Slumpet accepted their weakness and were granted inspiration
-- Toby was presented with the empty loom vision
-- Slumpet got caught in the illusion in the room with loom and thought he was falling to his death over lava
-- Shad used thunderwave to damage a major thread in the loom, disrupting its illusion magic, snapping Slumpet out of it
-- After piecing together this might be the [Weaver](/02---characters/adversaries/weaver)'s home, Shad asked [Francis](/02---characters/allies/francis-the-flameskull) to completely destroy the great loom, which he did with great pleasure
+- Each party member looked into the mirror and got a vision.  All by [Slumpet](/02---characters/main-party/slumpet-zoommimist) accepted their weakness and were granted inspiration
+- [Toby](/02---characters/main-party/toby) was presented with the empty loom vision
+- [Slumpet](/02---characters/main-party/slumpet-zoommimist) got caught in the illusion in the room with loom and thought he was falling to his death over lava
+- [Shad](/02---characters/main-party/shadicar) used thunderwave to damage a major thread in the loom, disrupting its illusion magic, snapping [Slumpet](/02---characters/main-party/slumpet-zoommimist) out of it
+- After piecing together this might be the [Weaver](/02---characters/adversaries/weaver)'s home, [Shad](/02---characters/main-party/shadicar) asked [Francis](/02---characters/allies/francis-the-flameskull) to completely destroy the great loom, which he did with great pleasure
 - The party found the throne room and were just about to interact with the [Weaver](/02---characters/adversaries/weaver)'s echo when the session ended.
 
 ### Todd's notes
@@ -57,58 +57,58 @@ created: 2025-05-14
   - Garden slowly flickering in and out of existence with a shimmery illusion 
   - Archway that looks ceremonial
   - Door at the back of the garden/courtyard
-  - Slumpet throws a ball bearing at the flickering plants and they seem real
+  - [Slumpet](/02---characters/main-party/slumpet-zoommimist) throws a ball bearing at the flickering plants and they seem real
   - There’s a broken stone path
 - We walk around the outside of the castle
 - Grass looks much more vibrant outside of the courtyard
-- Dead grass in footprints that Slumpet leaves behind
-- Vine grabs at slumpet, but he dodges it
-- Toby throws salt on it and the vine dissipates into smoke and fades away
+- Dead grass in footprints that [Slumpet](/02---characters/main-party/slumpet-zoommimist) leaves behind
+- Vine grabs at [slumpet](/02---characters/main-party/slumpet-zoommimist), but he dodges it
+- [Toby](/02---characters/main-party/toby) throws salt on it and the vine dissipates into smoke and fades away
 - Another fountain out front
-- Slumpet investigates & the masonry is surprisingly well made
-- Slumpet is drawn into staring at the mist and it distracts him (debuff perception)
+- [Slumpet](/02---characters/main-party/slumpet-zoommimist) investigates & the masonry is surprisingly well made
+- [Slumpet](/02---characters/main-party/slumpet-zoommimist) is drawn into staring at the mist and it distracts him (debuff perception)
 - Front door looks real nice, big set of knockers
-- Shad knocks using mage hand
+- [Shad](/02---characters/main-party/shadicar) knocks using mage hand
 - It is very loud and torches on either side of the door glow with blue flame
 - Voice behind, see a knight made out of a patchwork of fabric form out of the ground
 - Speaks with male & female voices, overlapping
 - Threads fray, names fade… 3 questions
 - What binds a house beyond blood?
-- Love? -Toby
+- Love? -[Toby](/02---characters/main-party/toby)
 - Love is an acceptable bond
 - What weapon wounds deeper than any blade?
-- Tongue - Toby
+- Tongue - [Toby](/02---characters/main-party/toby)
 - Acceptable
 - What must be abandoned to grasp true power?
-- Humanity - Toby
+- Humanity - [Toby](/02---characters/main-party/toby)
 - Less certain, but accepted
 - “Threads mended, pass into the halls where memory still walks” & door opens
-- Slumpet rolls a bearing down the hall, encounters a lot of dust but rolls smoothly
-- Skreek’s announcement of his pedigree scroll after Shad’s fanfare
-- Shad lights the torches
+- [Slumpet](/02---characters/main-party/slumpet-zoommimist) rolls a bearing down the hall, encounters a lot of dust but rolls smoothly
+- [Skreek](/02---characters/main-party/skreek)’s announcement of his pedigree scroll after [Shad](/02---characters/main-party/shadicar)’s fanfare
+- [Shad](/02---characters/main-party/shadicar) lights the torches
 - Lots of mirrors, most run down, except last one which is pristine
 - Very dusty, leaving footprints in the dust on the floor
 - When we’re within 10 feet of the nice mirror ripples
-- Ball bearing bounces off the mirror & the mist clears, and shad sees his reflection for a moment
-- Then it turns into a vision of Shad performing before an endless crowd, who are unimpressed, then the music starts sounding hollow & bad
-- Shad touches it, and feels the hum of magic, but nothing else
-- Skreek looks in the mirror
+- Ball bearing bounces off the mirror & the mist clears, and [shad](/02---characters/main-party/shadicar) sees his reflection for a moment
+- Then it turns into a vision of [Shad](/02---characters/main-party/shadicar) performing before an endless crowd, who are unimpressed, then the music starts sounding hollow & bad
+- [Shad](/02---characters/main-party/shadicar) touches it, and feels the hum of magic, but nothing else
+- [Skreek](/02---characters/main-party/skreek) looks in the mirror
 - Sees vision of screen alone atop a battlement, friends dead
 - Scar appears on the face of the vision, but is oddly calm
-- Similar weird visions for Slumpet & Toby
-- Mirror shows shad a vision of a large loom breaking apart and has the feeling the world is coming apart
+- Similar weird visions for [Slumpet](/02---characters/main-party/slumpet-zoommimist) & [Toby](/02---characters/main-party/toby)
+- Mirror shows [shad](/02---characters/main-party/shadicar) a vision of a large loom breaking apart and has the feeling the world is coming apart
 - Activate telepathic sense thoughts as we walk to another room hall
 - Tapestries of elvish nobility on the walls
-- Slumpet looks behind, but doesn’t see anything
+- [Slumpet](/02---characters/main-party/slumpet-zoommimist) looks behind, but doesn’t see anything
 - Walls engraved like threads and room has a large loom, broken & leaning
 - Feel organic evil energy moving through the floor
-- Slumpet touches the loom with his dagger and feels like he’s falling,
-- Shad thunder waves the loom, the threads resonate and the evil heartbeat dissipates
-- Loom’s work-in-progress is very vibrant & repeating floral, slumpet cuts out a section of it for a “gnome towel”
-- Toby gets a vision of a sky that has forgotten how to be blue. Feels like she’s forgetting everyone & everything she knew
+- [Slumpet](/02---characters/main-party/slumpet-zoommimist) touches the loom with his dagger and feels like he’s falling,
+- [Shad](/02---characters/main-party/shadicar) thunder waves the loom, the threads resonate and the evil heartbeat dissipates
+- Loom’s work-in-progress is very vibrant & repeating floral, [slumpet](/02---characters/main-party/slumpet-zoommimist) cuts out a section of it for a “gnome towel”
+- [Toby](/02---characters/main-party/toby) gets a vision of a sky that has forgotten how to be blue. Feels like she’s forgetting everyone & everything she knew
 - Detect magic shows illusion magic imbued in some of the thread
 - Looks like a professional operation, not a hobbyist thing
-- [Francis](/02---characters/allies/francis-the-flameskull) blows up the loom and enjoys it, at shad’s request after realizing this is the [Weaver](/02---characters/adversaries/weaver)’s stronghold
+- [Francis](/02---characters/allies/francis-the-flameskull) blows up the loom and enjoys it, at [shad](/02---characters/main-party/shadicar)’s request after realizing this is the [Weaver](/02---characters/adversaries/weaver)’s stronghold
 - Door we didn’t see before
 - Throne room, stained glass with color flickering in & out
 - Semi transparent figure of an elven man on the throne. About to start monologuing

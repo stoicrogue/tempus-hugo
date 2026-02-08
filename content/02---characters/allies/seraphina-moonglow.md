@@ -42,10 +42,10 @@ Seraphina Moonglow, a half-elf mystic, owner of the [Moonlit Hearth](/03---locat
 
 ## How she engages each party member (examples)
 
-- **Shadicar (bard):** “Your song is bright, but you’re tuning it against an old hurt. One cup for the hurt, one for the song?”
-- **Skreek (paladin):** “You’ve taken oaths others didn’t hear. Would you like this room to hold them awhile?”
-- **Toby (blood hunter):** “Your edges are sharp from honest work. Tea won’t blunt you—only steady the hand that wields.”
-- **Slumpet (rogue):** _slides a saucer without asking_ “For listening unseen. Even foxes need warm paws.”
+- **[Shadicar](/02---characters/main-party/shadicar) (bard):** “Your song is bright, but you’re tuning it against an old hurt. One cup for the hurt, one for the song?”
+- **[Skreek](/02---characters/main-party/skreek) (paladin):** “You’ve taken oaths others didn’t hear. Would you like this room to hold them awhile?”
+- **[Toby](/02---characters/main-party/toby) (blood hunter):** “Your edges are sharp from honest work. Tea won’t blunt you—only steady the hand that wields.”
+- **[Slumpet](/02---characters/main-party/slumpet-zoommimist) (rogue):** _slides a saucer without asking_ “For listening unseen. Even foxes need warm paws.”
 
 ## Using tea as social mechanics
 

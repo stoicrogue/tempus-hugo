@@ -19,7 +19,7 @@ The Winter Court is the most magically sophisticated of the four seasonal courts
 - **[Alora](/02---characters/allies/alora)** — Lady of Winter. Regal, composed, and deeply burdened queen of the court. Watches over the leyline barriers protecting the realm from extraplanar intrusion. Her mother created the original barrier using ancient power, but no one in her lineage has inherited the gift, so the barrier weakens with each passing century. Gifted the party a Leyline Gate Ring.
 - **[Trius](/02---characters/allies/trius)** — Princess of Winter / Winter Knight. Eldest daughter of [Alora](/02---characters/allies/alora). Oath of Ancients Paladin who wields a legendary Moonblade. Embodies the court's militant strength and accompanied the party to the [Winter Leyline Temple](/03---locations/winter-leyline-temple).
 - **Levi** — Arch Magus. [Alora](/02---characters/allies/alora)'s court wizard who briefed the party alongside her about the barrier system.
-- **Olivia** — Daughter of [Alora](/02---characters/allies/alora). Was poisoned by a Bandersnatch; healed by Skreek using Lay on Hands, which earned the party [Alora](/02---characters/allies/alora)'s trust.
+- **Olivia** — Daughter of [Alora](/02---characters/allies/alora). Was poisoned by a Bandersnatch; healed by [Skreek](/02---characters/main-party/skreek) using Lay on Hands, which earned the party [Alora](/02---characters/allies/alora)'s trust.
 
 ---
 
@@ -50,7 +50,7 @@ The [Winter Leyline Temple](/03---locations/winter-leyline-temple) features a gi
 ## Party History
 
 - Made peaceful contact with Winter Court rangers by showing [Vidrir](/02---characters/allies/vidrir)'s Order of Seasons medallion
-- Granted audience with [Alora](/02---characters/allies/alora) after Skreek healed Olivia from Bandersnatch poisoning
+- Granted audience with [Alora](/02---characters/allies/alora) after [Skreek](/02---characters/main-party/skreek) healed Olivia from Bandersnatch poisoning
 - [Alora](/02---characters/allies/alora) revealed the weakening interplanar barrier and the four leyline temple system
 - Party hunted a Bandersnatch and received powerful magic items as reward
 - [Trius](/02---characters/allies/trius) accompanied the party to investigate the [Winter Leyline Temple](/03---locations/winter-leyline-temple)

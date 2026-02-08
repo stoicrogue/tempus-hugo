@@ -12,24 +12,24 @@ created: 2025-04-20
 
 ## Shadicar
 **Race/Class:** Half-Elf Bard  
-**Background:** A charismatic performer and storyteller with a tragic past, Shadicar’s village was destroyed by a horrifying illusion conjured by the [Weaver](/02---characters/adversaries/weaver). Ever since, he's pursued knowledge and justice, weaving his sorrow into songs that inspire allies and unnerve enemies. He has formed a subtle rivalry (and perhaps infatuation) with [Trius](/02---characters/allies/trius) of the Winter Court and is often the party’s spokesperson and moral compass. Recently gifted the **Fochlucan Bandore**, his bardic magic has grown even more formidable.  
+**Background:** A charismatic performer and storyteller with a tragic past, [Shadicar](/02---characters/main-party/shadicar)’s village was destroyed by a horrifying illusion conjured by the [Weaver](/02---characters/adversaries/weaver). Ever since, he's pursued knowledge and justice, weaving his sorrow into songs that inspire allies and unnerve enemies. He has formed a subtle rivalry (and perhaps infatuation) with [Trius](/02---characters/allies/trius) of the Winter Court and is often the party’s spokesperson and moral compass. Recently gifted the **Fochlucan Bandore**, his bardic magic has grown even more formidable.  
 **Notable Traits:** Silver tongue, emotionally intuitive, cunning gambler, carries the weight of personal loss.
 
 ## Skreek  
 **Race/Class:** Aarakocra Paladin  
-**Background:** A noble and devout warrior of the Dusk Lord, Skreek embodies steadfast duty and honor. He’s on a personal quest to recover a stolen relic tied to his faith and culture. His unwavering sense of justice led him to duel a spectral knight in an ancient leyline temple—and win. Skreek’s martial prowess and aerial advantage make him a fearsome combatant, while his healing touch saved Olivia, daughter of the Lady of Winter.  
+**Background:** A noble and devout warrior of the Dusk Lord, [Skreek](/02---characters/main-party/skreek) embodies steadfast duty and honor. He’s on a personal quest to recover a stolen relic tied to his faith and culture. His unwavering sense of justice led him to duel a spectral knight in an ancient leyline temple—and win. [Skreek](/02---characters/main-party/skreek)’s martial prowess and aerial advantage make him a fearsome combatant, while his healing touch saved Olivia, daughter of the Lady of Winter.  
 **Notable Traits:** Skyborne strategist, religious devotion, Frostbrand-wielding duelist, shield-bearer of light.
 
 ## Toby
 **Race/Class:** Half-Elf Blood Hunter  
-**Background:** A quiet and enigmatic figure, Toby walks the line between light and shadow. Trained to hunt monsters and empowered by forbidden rites, she does what must be done without complaint. Though she rarely speaks at length, her sharp observations often cut to the heart of the matter. She’s the one who reminds the group of the larger threat—the Cult of the Eclipse—and keeps them focused even when distractions abound. When tough calls are needed, she steps up, whether that means offering her own blood as tribute or striking a deal with a shady figure like [Blackbird](/02---characters/allies/blackbird) to further their cause.  
+**Background:** A quiet and enigmatic figure, [Toby](/02---characters/main-party/toby) walks the line between light and shadow. Trained to hunt monsters and empowered by forbidden rites, she does what must be done without complaint. Though she rarely speaks at length, her sharp observations often cut to the heart of the matter. She’s the one who reminds the group of the larger threat—the Cult of the Eclipse—and keeps them focused even when distractions abound. When tough calls are needed, she steps up, whether that means offering her own blood as tribute or striking a deal with a shady figure like [Blackbird](/02---characters/allies/blackbird) to further their cause.  
 **Notable Traits:** Grounded realist, moral anchor, throws weapons that return via her **Blinkback Belt**, expert in occult threats.
 
 ## Slumpet
 **Race/Class:** Gnome Rogue  
-**Background:** Clever, mischievous, and a bit impulsive, Slumpet has a knack for getting into—and out of—trouble. He’s bonded with fey creatures (notably Fannie the pixie), stolen from nobles, and even negotiated with a sarcastic flameskull named [Francis](/02---characters/allies/francis-the-flameskull). He carries [Serenity](/02---characters/adversaries/serenity)’s cursed orb and is oddly protective of it despite its danger. He attempted to offer it to the leyline temple, which rejected it; only his gifted bow from the Winter Court proved acceptable. Though Slumpet plays the fool at times, his courage and cleverness are undeniable.  
+**Background:** Clever, mischievous, and a bit impulsive, [Slumpet](/02---characters/main-party/slumpet-zoommimist) has a knack for getting into—and out of—trouble. He’s bonded with fey creatures (notably Fannie the pixie), stolen from nobles, and even negotiated with a sarcastic flameskull named [Francis](/02---characters/allies/francis-the-flameskull). He carries [Serenity](/02---characters/adversaries/serenity)’s cursed orb and is oddly protective of it despite its danger. He attempted to offer it to the leyline temple, which rejected it; only his gifted bow from the Winter Court proved acceptable. Though [Slumpet](/02---characters/main-party/slumpet-zoommimist) plays the fool at times, his courage and cleverness are undeniable.  
 **Notable Traits:** Fey-touched prankster, lockpicker extraordinaire, map thief, orb smuggler.  
-**Note on Summer’s Edge:** While he’s invested in reforging the sword, it was **[Vidrir](/02---characters/allies/vidrir)**, not Slumpet, to whom Summer’s Edge seemed to respond—glowing faintly when the sage held it, as if it remembered him.
+**Note on Summer’s Edge:** While he’s invested in reforging the sword, it was **[Vidrir](/02---characters/allies/vidrir)**, not [Slumpet](/02---characters/main-party/slumpet-zoommimist), to whom Summer’s Edge seemed to respond—glowing faintly when the sage held it, as if it remembered him.
 
 # Allies
 
@@ -55,7 +55,7 @@ created: 2025-04-20
 
 ## Trius
 **Race/Class:** Eladrin / Paladin of the Winter Court  
-**Background:** [Alora](/02---characters/allies/alora)’s eldest daughter and wielder of a legendary Moonblade, [Trius](/02---characters/allies/trius) embodies the Winter Court’s militant strength. She initially rebuffed the party’s quest, but joined them after recognizing the threat [Serenity](/02---characters/adversaries/serenity) posed. In battle, she is a force of nature—deadly, inspiring, and unrelenting. Her bond with Shadicar has an edge of friendly rivalry and flirtation.  
+**Background:** [Alora](/02---characters/allies/alora)’s eldest daughter and wielder of a legendary Moonblade, [Trius](/02---characters/allies/trius) embodies the Winter Court’s militant strength. She initially rebuffed the party’s quest, but joined them after recognizing the threat [Serenity](/02---characters/adversaries/serenity) posed. In battle, she is a force of nature—deadly, inspiring, and unrelenting. Her bond with [Shadicar](/02---characters/main-party/shadicar) has an edge of friendly rivalry and flirtation.  
 **Notable Traits:** Wields a Moonblade, inspires musical battle hymns, fearless and proud.
 
 ## The Arbiter
@@ -77,7 +77,7 @@ created: 2025-04-20
 
 ## The Weaver
 **Race/Class:** Unknown / Master of Illusion and Fear  
-**Background:** A shadowy figure whose illusions are powerful enough to kill. The [Weaver](/02---characters/adversaries/weaver) orchestrated the destruction of Shadicar’s village with a conjured dragon so terrifying it caused death through fear alone. He works with agents like [Serenity](/02---characters/adversaries/serenity) and may be in communion with [Nidhogg](/02---characters/adversaries/nidhogg), the shadow dragon. His ancestral home lies hidden in the Feywild, where illusions and echoes of his past unravel. The full extent of his power remains unknown—but his cruelty and reach are undeniable.  
+**Background:** A shadowy figure whose illusions are powerful enough to kill. The [Weaver](/02---characters/adversaries/weaver) orchestrated the destruction of [Shadicar](/02---characters/main-party/shadicar)’s village with a conjured dragon so terrifying it caused death through fear alone. He works with agents like [Serenity](/02---characters/adversaries/serenity) and may be in communion with [Nidhogg](/02---characters/adversaries/nidhogg), the shadow dragon. His ancestral home lies hidden in the Feywild, where illusions and echoes of his past unravel. The full extent of his power remains unknown—but his cruelty and reach are undeniable.  
 **Notable Traits:** Unseen manipulator, architect of dread, possibly ancient, commands illusions that bend reality.
 
 ## Manus
@@ -89,5 +89,5 @@ created: 2025-04-20
 
 ## Blackbird
 **Race/Class:** Unknown / Dealbroker & Information Dealer  
-**Background:** A mysterious figure operating on the edges of the known world—perhaps fey, perhaps something darker—[Blackbird](/02---characters/allies/blackbird) offers deals, not favors. Toby struck a bargain with them in a moment of need, hinting at the weight and risk such pacts carry. They speak in riddles and half-truths, often appearing when the party is desperate. Their allegiance is unknown, and their goals are never stated plainly.  
+**Background:** A mysterious figure operating on the edges of the known world—perhaps fey, perhaps something darker—[Blackbird](/02---characters/allies/blackbird) offers deals, not favors. [Toby](/02---characters/main-party/toby) struck a bargain with them in a moment of need, hinting at the weight and risk such pacts carry. They speak in riddles and half-truths, often appearing when the party is desperate. Their allegiance is unknown, and their goals are never stated plainly.  
 **Notable Traits:** Elusive, transactional, sinister charm, possibly connected to deeper forces at play.

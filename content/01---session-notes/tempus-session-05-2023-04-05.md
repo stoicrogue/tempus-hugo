@@ -16,7 +16,7 @@ created: 2023-04-05
 
 |Name|P. Pcpt|P. Inv|P. Ins|Trained Skills|Languages|
 |---|---|---|---|---|---|
-|[October “Toby” Daye](/02---characters/main-party/october-toby-daye)|15|14|12|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|Abyssal, Common, Elvish|
+|[[October “Toby” Daye]]|15|14|12|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|Abyssal, Common, Elvish|
 |[Shadicar](/02---characters/main-party/shadicar)|14|11|14|Deception, Insight, Perception, Performance, Persuasion, Sleight of Hand|Common, Elvish|
 |[Skreek](/02---characters/main-party/skreek)|9|10|9|History, Medicine, Persuasion, Religion|Aarakocra, Common, Dwarvish, Elvish|
 |[Slumpet Zoommimist](/02---characters/main-party/slumpet-zoommimist)|18|14|12|Deception, Investigation, Perception, Persuasion, Sleight of Hand, Stealth|Common, Gnomish, Thieves' Cant|
@@ -29,7 +29,7 @@ created: 2023-04-05
   
 
 - [x] We left off in Tannis after the party woke to the screams of villagers and a veil of magical darkness which prevents the players from seeing more than 20 ft in any direction
-    - [x] They fought off one Spawn that grabbed Slumpet after watching another Spawn kill a villager
+    - [x] They fought off one Spawn that grabbed [Slumpet](/02---characters/main-party/slumpet-zoommimist) after watching another Spawn kill a villager
 - [x] After stopping in to check on [Lerissa](/02---characters/allies/lerissa) at the bar, the party started going to the church.
     - [ ] They find the church casting light through its stained glass windows that can be seen from the bottom of the hill.
     - [ ] As the party approaches, they see two Spawns scratching at the church walls, unable to get through. They can fight the Spawn or try to find a way into the church.

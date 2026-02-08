@@ -125,7 +125,7 @@ At the end of each of the target's turns, it can make a Constitution saving thro
 ## Additional Information
 
 - Hag disguised as a beautiful singer
-- Gets friendly with Shadicar
+- Gets friendly with [Shadicar](/02---characters/main-party/shadicar)
 - Steals a hair off his cloak
 - Real name - **Old Polly Pigtooth**
 - Responsible for the magical darkness that envelops Tannis

@@ -23,7 +23,7 @@ created: 2025-08-29
 - [x] Birds avoid the area around the Spring Temple. The ground is unnaturally cold. The only flowers blooming naturally are ones planted in the ritual location. 
 - [x] Cult of the Eclipse placed a [Bodak](/02---characters/monsters/bodak) inside the leyline crystal chamber of the Spring Temple, causing disruption to the barrier in the area.
 - [ ] Mocking note from [Manus](/02---characters/adversaries/manus) hidden in Bodak's robes: [Bodak Note](/04---items/bodak-note)
-- [ ] Skreek's royal egg is being used as a Hollow Threshold anchor for a plane of air themed threshold.
+- [ ] [Skreek](/02---characters/main-party/skreek)'s royal egg is being used as a Hollow Threshold anchor for a plane of air themed threshold.
 - [ ] The Ashen Shrine is a location where the Chained Library can be accessed - north side of **Mount Vesithar**
 
 
@@ -94,19 +94,19 @@ created: 2025-08-29
 
 # 📝 Session Notes
 
-- Previous session: long rest @ tree bordering the spring territory after closing the hollow threshold.  Slumpet attunes the leyline gate ring.
+- Previous session: long rest @ tree bordering the spring territory after closing the hollow threshold.  [Slumpet](/02---characters/main-party/slumpet-zoommimist) attunes the leyline gate ring.
 - Finish journey to the Spring Court, asking [Vael](/02---characters/allies/vael) about the court on the way.  He suggests visiting the Moonlit Hearth tavern and enjoying the tea.  [Vael](/02---characters/allies/vael) tells them the spring court is all about renewal, new beginnings, and acceptance.  He also tells them the leader of the court is the high druid, [Faela Mossheart](/02---characters/allies/faela-mossheart).
-- The party visits the Moonlit Hearth and [Seraphina Moonglow](/02---characters/allies/seraphina-moonglow). Shad’s allergies start acting up and [Seraphina](/02---characters/allies/seraphina-moonglow) gives him a cup of tea to cleanse him, curing his allergies.
-- Toby offers one of her moonstones as barter for a round of drinks.  [Seraphina](/02---characters/allies/seraphina-moonglow) is impressed and pours fruit wine and tea for the group.  Skreek takes up [Seraphina](/02---characters/allies/seraphina-moonglow) on her offer to use her augury to answer a question: “will I find the royal artifact that was stolen from my people?”.  She answers that this he will have that chance soon.
-- The party asks a guard where the standing stone for the court is and he points them to the royal garden behind the Head Druid’s residence.  Slumpet climbs the stone and attunes the leyline gate ring.
+- The party visits the Moonlit Hearth and [Seraphina Moonglow](/02---characters/allies/seraphina-moonglow). [Shad](/02---characters/main-party/shadicar)’s allergies start acting up and [Seraphina](/02---characters/allies/seraphina-moonglow) gives him a cup of tea to cleanse him, curing his allergies.
+- [Toby](/02---characters/main-party/toby) offers one of her moonstones as barter for a round of drinks.  [Seraphina](/02---characters/allies/seraphina-moonglow) is impressed and pours fruit wine and tea for the group.  [Skreek](/02---characters/main-party/skreek) takes up [Seraphina](/02---characters/allies/seraphina-moonglow) on her offer to use her augury to answer a question: “will I find the royal artifact that was stolen from my people?”.  She answers that this he will have that chance soon.
+- The party asks a guard where the standing stone for the court is and he points them to the royal garden behind the Head Druid’s residence.  [Slumpet](/02---characters/main-party/slumpet-zoommimist) climbs the stone and attunes the leyline gate ring.
 - The same guard escorts them in to see  the high druid.  [Faela](/02---characters/allies/faela-mossheart) tells the party she hasn’t checked in on the temple in some time, but has noticed some odd activity in the forest of late.  She offers to escort them to the temple in the morning. [Vael](/02---characters/allies/vael) says he will investigate the forest near the court while the party visits the leyline temple.
-- The party does a little shopping, including Skreek buying a cloak of billowing.  They then rest at the Moonlit Hearth for the night.
-- Skreek summons a warhorse as his steed instead of a camel in the morning.  The party meets [Faela](/02---characters/allies/faela-mossheart) in the garden and travel to the temple.  The journey is easy as the forest seems to open a path wherever [Faela](/02---characters/allies/faela-mossheart) walks and wildflowers bloom in her footsteps. Along the way, when the party insinuates she needs protection because of her age, she uses her wildshape ability to become a saber tooth tiger and continues through the forest.
+- The party does a little shopping, including [Skreek](/02---characters/main-party/skreek) buying a cloak of billowing.  They then rest at the Moonlit Hearth for the night.
+- [Skreek](/02---characters/main-party/skreek) summons a warhorse as his steed instead of a camel in the morning.  The party meets [Faela](/02---characters/allies/faela-mossheart) in the garden and travel to the temple.  The journey is easy as the forest seems to open a path wherever [Faela](/02---characters/allies/faela-mossheart) walks and wildflowers bloom in her footsteps. Along the way, when the party insinuates she needs protection because of her age, she uses her wildshape ability to become a saber tooth tiger and continues through the forest.
 - The party arrives at the temple, finding the forest withering around the temple. [Faela](/02---characters/allies/faela-mossheart) asks the party to plant magic seeds outside the temple as a promise each of them will make with themselves:
-	- Shad - make the world better through music
-	- Skreek - restore order  by retrieving the stole artifact of his people.
-	- Toby - “With this seed I do plant, may my bitterness wane. In the future, it shall grant, my companions and I less pain.”
-	- Slumpet - vows the the dwarves will get what’s coming to them
+	- [Shad](/02---characters/main-party/shadicar) - make the world better through music
+	- [Skreek](/02---characters/main-party/skreek) - restore order  by retrieving the stole artifact of his people.
+	- [Toby](/02---characters/main-party/toby) - “With this seed I do plant, may my bitterness wane. In the future, it shall grant, my companions and I less pain.”
+	- [Slumpet](/02---characters/main-party/slumpet-zoommimist) - vows the the dwarves will get what’s coming to them
 - The seeds quickly sprout into beautiful flowers.  Only the flowers planted here seem to be growing normally.
 - The temple itself is a massive willow tree that has grown around the temple’s entrance.  In the center of winding passages inside the tree, the party finds a staircase leading down.  The subsequent tunnel leads them to the leyline crystal chamber. The party investigates while [Faela](/02---characters/allies/faela-mossheart) inspects the area outside to see if she can find the source of the corruption.
-- As soon as they enter the chamber, everyone takes necrotic damage from an unknown source and they all back up.  Slumpet goes as gets [Faela](/02---characters/allies/faela-mossheart), telling her about what they found.  As Skreek enters the chamber again, he peers around and sees a creepy hooded figure, taking more necrotic damage when he locks eyes with it.
+- As soon as they enter the chamber, everyone takes necrotic damage from an unknown source and they all back up.  [Slumpet](/02---characters/main-party/slumpet-zoommimist) goes as gets [Faela](/02---characters/allies/faela-mossheart), telling her about what they found.  As [Skreek](/02---characters/main-party/skreek) enters the chamber again, he peers around and sees a creepy hooded figure, taking more necrotic damage when he locks eyes with it.

@@ -24,7 +24,7 @@ created: 2024-05-29
 
 |Name|P. Pcpt|P. Inv|P. Ins|AC|HP|Trained Skills|
 |---|---|---|---|---|---|---|
-|[October “Toby” Daye](/02---characters/main-party/october-toby-daye)|15|14|12|14|49|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|
+|[[October “Toby” Daye]]|15|14|12|14|49|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|
 |[Shadicar](/02---characters/main-party/shadicar)|14|11|14|14|28|Deception, Insight, Perception, Performance, Persuasion, Sleight of Hand|
 |[Skreek](/02---characters/main-party/skreek)|9|10|9|18|39|History, Medicine, Persuasion, Religion|
 |[Slumpet Zoommimist](/02---characters/main-party/slumpet-zoommimist)|18|14|12|14|28|Deception, Investigation, Perception, Persuasion, Sleight of Hand, Stealth|
@@ -53,7 +53,7 @@ created: 2024-05-29
 # Secret and Clues
 
 - [ ] [Weaver](/02---characters/adversaries/weaver)’s tower is in the feywild
-- [x] [Massa’Ista](/06---factions/massaista) Knows how to contact agents of the [[Tempus/Tempus Campaign/Campaign Database/Chained Library]] or how to find it
+- [x] [Massa’Ista](/06---factions/massaista) Knows how to contact agents of the [Tempus/Tempus Campaign/Campaign Database/Chained Library](/06---factions/chained-library) or how to find it
 - [x] The Cult of the Eclipse is far from dead. [Serenity](/02---characters/adversaries/serenity) was just one of its high level members
 
 # Fantastic Locations
@@ -104,4 +104,4 @@ Met bounty hunter and his prisoner; learned about the Massa’Ista and where to 
 
 Encountered Herald of the Eclipse when they left the tavern
 
-Shad tried to talk to the Herald and was banished!
+[Shad](/02---characters/main-party/shadicar) tried to talk to the Herald and was banished!

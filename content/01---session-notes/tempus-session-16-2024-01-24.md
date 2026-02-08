@@ -24,7 +24,7 @@ created: 2024-01-24
 
 |Name|P. Pcpt|P. Inv|P. Ins|Trained Skills|Languages|
 |---|---|---|---|---|---|
-|[October “Toby” Daye](/02---characters/main-party/october-toby-daye)|15|14|12|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|Abyssal, Common, Elvish|
+|[[October “Toby” Daye]]|15|14|12|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|Abyssal, Common, Elvish|
 |[Shadicar](/02---characters/main-party/shadicar)|14|11|14|Deception, Insight, Perception, Performance, Persuasion, Sleight of Hand|Common, Elvish|
 |[Skreek](/02---characters/main-party/skreek)|9|10|9|History, Medicine, Persuasion, Religion|Aarakocra, Common, Dwarvish, Elvish|
 |[Slumpet Zoommimist](/02---characters/main-party/slumpet-zoommimist)|18|14|12|Deception, Investigation, Perception, Persuasion, Sleight of Hand, Stealth|Common, Gnomish, Thieves' Cant|
@@ -98,8 +98,8 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
 - The party agreed to track the Bandersnatch and try to retrieve some of its venom.
 - Gathered supplies to make traps to lure the creature
 - Successfully tracked the creature based on where Olivia had been hunting the day she was attacked.
-- Slumpet employed his squirrel network again to help alert him to the creature
-- Shad set up traps with the bait they gathered (meat and catnip)
+- [Slumpet](/02---characters/main-party/slumpet-zoommimist) employed his squirrel network again to help alert him to the creature
+- [Shad](/02---characters/main-party/shadicar) set up traps with the bait they gathered (meat and catnip)
 - The traps worked and attracted the creature
 - The party was able to kill it, but struggled to deal with the creature’s poison claws and gas
 - They chopped off its head for good measure and brought it back to the Winter Embassy

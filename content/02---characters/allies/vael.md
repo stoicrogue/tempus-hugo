@@ -41,7 +41,7 @@ He didn’t draw a weapon. He didn’t need to. Presence alone filled the cleari
 
 He looked at each of them in turn. Not appraising. Not judging. Measuring.
 
-Shad took a cautious step forward. “Who are you?”
+[Shad](/02---characters/main-party/shadicar) took a cautious step forward. “Who are you?”
 
 The man tilted his head slightly.
 
@@ -55,7 +55,7 @@ He gave the faintest of smiles. There was no humor in it.
 
 Vael stepped closer. The sunlight didn’t seem to touch him.
 
-> “You carry something dangerous.” His gaze flicked to the pack where Slumpet kept [Serenity](/02---characters/adversaries/serenity)’s orb, though the orb itself was hidden. “It has already drawn things to you. It will draw more.”
+> “You carry something dangerous.” His gaze flicked to the pack where [Slumpet](/02---characters/main-party/slumpet-zoommimist) kept [Serenity](/02---characters/adversaries/serenity)’s orb, though the orb itself was hidden. “It has already drawn things to you. It will draw more.”
 
 A pause.
 

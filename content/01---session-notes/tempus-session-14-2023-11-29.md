@@ -24,7 +24,7 @@ created: 2023-11-29
 
 |Name|P. Pcpt|P. Inv|P. Ins|Trained Skills|Languages|
 |---|---|---|---|---|---|
-|[October “Toby” Daye](/02---characters/main-party/october-toby-daye)|15|14|12|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|Abyssal, Common, Elvish|
+|[[October “Toby” Daye]]|15|14|12|Athletics, Investigation, Nature, Perception, Sleight of Hand, Stealth, Survival|Abyssal, Common, Elvish|
 |[Shadicar](/02---characters/main-party/shadicar)|14|11|14|Deception, Insight, Perception, Performance, Persuasion, Sleight of Hand|Common, Elvish|
 |[Skreek](/02---characters/main-party/skreek)|9|10|9|History, Medicine, Persuasion, Religion|Aarakocra, Common, Dwarvish, Elvish|
 |[Slumpet Zoommimist](/02---characters/main-party/slumpet-zoommimist)|18|14|12|Deception, Investigation, Perception, Persuasion, Sleight of Hand, Stealth|Common, Gnomish, Thieves' Cant|
@@ -96,16 +96,16 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
 - Late October
 - Party makes their way to the Winter Court embassy, less than half a day’s travel from the great silver tree
 - Did some shopping at the blacksmith run by Jordan
-    - Slumpet bought a set of studded leather armor
-    - Skreek bought two nets
+    - [Slumpet](/02---characters/main-party/slumpet-zoommimist) bought a set of studded leather armor
+    - [Skreek](/02---characters/main-party/skreek) bought two nets
 - Found a nice inn to rest for the night, the Restful Buck, relishing in the chance to sleep in a proper bed for the first time in weeks
     - Jared - elven bartender
-    - Shad performed for tips and some free drinks; not his greatest performance but he did take a nice pot off the smithy in a game of poker after catching his tell
+    - [Shad](/02---characters/main-party/shadicar) performed for tips and some free drinks; not his greatest performance but he did take a nice pot off the smithy in a game of poker after catching his tell
     - Discovered the court is headed by [Alora](/02---characters/allies/alora), the Lady of Winter
     - Heard rumors that [Alora](/02---characters/allies/alora)’s daughter, Olivia, had been poisoned
 - Sought an audience with [Alora](/02---characters/allies/alora) the next day, around noon
     - [Alora](/02---characters/allies/alora) was guarded at first by softened when the party showed her [Vidrir](/02---characters/allies/vidrir)’s medallion from the Order of Seasons
     - She was obviously distracted by her daughter’s illness and would focus on little else until her daughter was safe
-- Skreek used his lay on hands to heal Olivia
+- [Skreek](/02---characters/main-party/skreek) used his lay on hands to heal Olivia
     - [Alora](/02---characters/allies/alora) was overjoyed and thanked the party, promising to discuss their topics of interest now that her daughter is safe
     - [Alora](/02---characters/allies/alora) is still concerned about the creature that poisoned her daughter.

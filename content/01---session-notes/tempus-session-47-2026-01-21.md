@@ -13,7 +13,7 @@ author: Mark Molea
 
 ## 🔑 Secrets & Clues
 
-- [x] Hollow threshold powered by the royal artifact Skreek has been searching for. 
+- [x] Hollow threshold powered by the royal artifact [Skreek](/02---characters/main-party/skreek) has been searching for. 
 
 ## Cold Open
 
