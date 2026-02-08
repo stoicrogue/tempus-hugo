@@ -43,7 +43,7 @@ created: 2024-04-03
 # Secret and Clues
 
 - [x] The standing stones can be used for rapid transit via the ley lines that connect them
-- [x] Summer’s Edge can be reforged by any master elven smith, but rare materials from the summer court’s domain (sun crystals from the Great Golden tree)
+- [x] Summer’s Edge can be reforged by any master elven smith, but rare materials from the [summer court](/06---factions/summer-court)’s domain (sun crystals from the Great Golden tree)
 - [ ] [Serenity](/02---characters/adversaries/serenity) did cross into the feywild
 
 # Fantastic Locations
@@ -52,7 +52,7 @@ created: 2024-04-03
 
 _Link to fantastic locations. Use the @ symbol to internally link to a Location page._
 
-- Winter court embassy
+- [Winter court](/06---factions/winter-court) embassy
 - Winter Leyline Temple
 
 # NPCs
@@ -62,7 +62,7 @@ _Link to fantastic locations. Use the @ symbol to internally link to a Location 
 NPC link. _Use the @ symbol to internally link to an NPC page._
 
 - [Trius](/02---characters/allies/trius)
-- Winter court eladrin - [Alora](/02---characters/allies/alora)
+- [Winter court](/06---factions/winter-court) eladrin - [Alora](/02---characters/allies/alora)
 
 # Monsters
 
@@ -108,5 +108,5 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
 - [Alora](/02---characters/allies/alora) gifts the part with a ring that will allow they to fast-travel between standing stones they have visited
 - Next steps?
     - Talk to [Alora](/02---characters/allies/alora)’s court wizard about barrier repair options
-    - Pick up standing stones from order of seasons and talk to [Vidrir](/02---characters/allies/vidrir)?
+    - Pick up standing stones from [order of seasons](/06---factions/order-of-seasons) and talk to [Vidrir](/02---characters/allies/vidrir)?
     - Visit Autumn/Summer courts to gather intel and learn about repairing Summer’s Edge

@@ -9,7 +9,7 @@ Last Edited: 2023-05-31T16:41
 - Party can discover the [Weaver's Journal](/04---items/weavers-journal), depicting his growing interest in fear and illusion.
 	- The [Weaver](/02---characters/adversaries/weaver)'s abandoned journal charts his path from illusionist prodigy to would-be liberator of [Nidhogg](/02---characters/adversaries/nidhogg).  
 	- It ends at the cusp of his rebellion against the Seasonal Courts, outlining his belief that unraveling the leyline barrier is the key to freeing the Great Shadow.  
-	- No mention is made of the Cult of the Eclipse yet — their alliance will form after the [Weaver](/02---characters/adversaries/weaver) leaves the ancestral home to build his new stronghold elsewhere.
+	- No mention is made of the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse) yet — their alliance will form after the [Weaver](/02---characters/adversaries/weaver) leaves the ancestral home to build his new stronghold elsewhere.
 
 
 # 🕸️ 5-Room Dungeon: Weaver’s Abandoned Castle

@@ -43,7 +43,7 @@ created: 2024-07-24
     
     https://drive.google.com/file/d/16SgDbLWnh49xn6-jVjHCpERXGJtIc0sx/view?usp=drive_web
     
-- [ ] Visit the Summer Court
+- [ ] Visit the [Summer Court](/06---factions/summer-court)
     - [ ] Learn of the coliseum and the tournament
 - [ ] Meet [Elara Sunforge](/02---characters/allies/elara-sunforge)
     - [ ] Learn how to reforge [Summer’s Edge (orig)](/04---items/summers-edge-orig)

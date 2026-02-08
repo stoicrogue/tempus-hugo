@@ -8,6 +8,9 @@ cssclasses:
   - image-borders
   - center-images
 ---
+> Loosely allied with [Cult of the Eclipse](/06---factions/cult-of-the-eclipse).
+
+
 ![image.png](/images/image.png)
 # Manus
 

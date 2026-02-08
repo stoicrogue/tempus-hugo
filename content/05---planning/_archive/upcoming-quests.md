@@ -16,7 +16,7 @@ created: 2025-04-14
 
 **Narrative Beat: The Blade Remembers**
 - As the Fey sun reaches its zenith, **[Skreek](/02---characters/main-party/skreek) feels compelled** to draw the shattered hilt of Summer’s Edge.
-- The shards begin to glow faintly, and he experiences a **vision of Eirik**, the blade’s first wielder, receiving the sword from the Queen of the Summer Court.
+- The shards begin to glow faintly, and he experiences a **vision of Eirik**, the blade’s first wielder, receiving the sword from the Queen of the [Summer Court](/06---factions/summer-court).
 - The warmth of the sword lingers, foreshadowing its rebirth.
 - [Manus](/02---characters/adversaries/manus) arrives unaware of the sword's legacy, taunting [Skreek](/02---characters/main-party/skreek) for carrying a broken relic.
 
@@ -40,15 +40,15 @@ created: 2025-04-14
 
 **Outcome:**
 - Learn the [Weaver](/02---characters/adversaries/weaver)'s motivations and possible weaknesses.
-- Discover artifacts or lore tied to the **Order of Seasons** or the **barrier network**.
+- Discover artifacts or lore tied to the **[Order of Seasons](/06---factions/order-of-seasons)** or the **barrier network**.
 
 ---
 
 ## 3. 🔨 Reforging Summer’s Edge
 
-**Objective:** Return to [Elara](/02---characters/allies/elara-sunforge), master smith of the Summer Court, and reforge the blade using the solar essence.
+**Objective:** Return to [Elara](/02---characters/allies/elara-sunforge), master smith of the [Summer Court](/06---factions/summer-court), and reforge the blade using the solar essence.
 
-**Location:** Summer Court, in the blazing halls of the Solar Forge.
+**Location:** [Summer Court](/06---factions/summer-court), in the blazing halls of the Solar Forge.
 
 **Challenge:**
 - The reforging may require a final **trial of the spirit** or a symbolic sacrifice.
@@ -62,7 +62,7 @@ created: 2025-04-14
 
 ## 4. 🕳️ The Hollow Threshold
 
-**Objective:** Destroy a Cult of the Eclipse portal to the Shadowfell, stabilized by a corrupt artifact.
+**Objective:** Destroy a [Cult of the Eclipse](/06---factions/cult-of-the-eclipse) portal to the Shadowfell, stabilized by a corrupt artifact.
 
 **Location:** Ruined temple or desecrated village on the Material Plane.
 
@@ -71,7 +71,7 @@ created: 2025-04-14
 - Environmental hazards tied to the Shadowfell’s influence.
 
 **Narrative Beat:**
-- [Vael](/02---characters/allies/vael), an agent of the **Chained Library**, may appear—offering aid and knowledge in exchange for **[Serenity](/02---characters/adversaries/serenity)’s orb**.
+- [Vael](/02---characters/allies/vael), an agent of the **[Chained Library](/06---factions/chained-library)**, may appear—offering aid and knowledge in exchange for **[Serenity](/02---characters/adversaries/serenity)’s orb**.
 
 **Outcome:**
 - Portal destroyed with radiant magic.
@@ -81,7 +81,7 @@ created: 2025-04-14
 
 ## 5. 📚 The Chained Library
 
-**Objective:** Enter the legendary **Chained Library** and uncover forbidden knowledge about [Nidhogg](/02---characters/adversaries/nidhogg) and the leylines.
+**Objective:** Enter the legendary **[Chained Library](/06---factions/chained-library)** and uncover forbidden knowledge about [Nidhogg](/02---characters/adversaries/nidhogg) and the leylines.
 
 **Location:** Revealed by [Vael](/02---characters/allies/vael) or through ritual guidance.
 
@@ -114,7 +114,7 @@ created: 2025-04-14
 
 ## 7. 🌑 The Final Eclipse
 
-**Objective:** Confront the Cult of the Eclipse and prevent the release of **[Nidhogg](/02---characters/adversaries/nidhogg)**, the Great Shadow.
+**Objective:** Confront the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse) and prevent the release of **[Nidhogg](/02---characters/adversaries/nidhogg)**, the Great Shadow.
 
 **Location:** The Eclipse Citadel, only accessible during a rare celestial alignment.
 

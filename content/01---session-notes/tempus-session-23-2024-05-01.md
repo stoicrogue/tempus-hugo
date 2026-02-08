@@ -53,7 +53,7 @@ created: 2024-05-01
 
 _Link to fantastic locations. Use the @ symbol to internally link to a Location page._
 
-- Winter court embassy
+- [Winter court](/06---factions/winter-court) embassy
 - Winter Leyline Temple
 
 # NPCs
@@ -63,7 +63,7 @@ _Link to fantastic locations. Use the @ symbol to internally link to a Location 
 NPC link. _Use the @ symbol to internally link to an NPC page._
 
 - [Trius](/02---characters/allies/trius)
-- Winter court eladrin - [Alora](/02---characters/allies/alora)
+- [Winter court](/06---factions/winter-court) eladrin - [Alora](/02---characters/allies/alora)
 
 # Monsters
 
@@ -88,4 +88,4 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
 ### Session Notes
 
 - On the way, a Quickling steals [Toby](/02---characters/main-party/toby)’s coin purse. The party pursues and ends up in an ambush by several Quicklings and Aridni thieves.
-- Party fights and defeats the thieves, loot the bodies of a good amount of gold, including their own, and prepare to continue to the autumn court
+- Party fights and defeats the thieves, loot the bodies of a good amount of gold, including their own, and prepare to continue to the [autumn court](/06---factions/autumn-court)

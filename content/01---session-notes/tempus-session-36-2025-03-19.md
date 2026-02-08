@@ -49,7 +49,7 @@ created: 2025-03-19
 
 # Secret and Clues
 
-- [ ] The ruling family of the summer court has worshiped the Dusk Lord for generations
+- [ ] The ruling family of the [summer court](/06---factions/summer-court) has worshiped the Dusk Lord for generations
 - [ ] The mountain’s real name is “Evenode Peak”, or "Tael'anore" in elvish
 - [ ] The [Weaver](/02---characters/adversaries/weaver)'s family home is near the mountain.
 - [ ] The [Weaver](/02---characters/adversaries/weaver) was once a **child of nobility** before his family allied themselves with Niddhog and was later humiliated by agents of the Dusk Lord.

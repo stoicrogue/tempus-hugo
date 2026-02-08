@@ -71,7 +71,7 @@ The grimoire might claim it was created by the First Matriarch herself and conta
 
 ### **7. The Rival Seeker**
 
-While the party researches, introduce a rival faction also seeking barrier knowledge - perhaps **a disguised cult member** (use the Chained Library Agent stat block but evil-aligned) or **an ambitious noble** who wants to control the barrier for political power.
+While the party researches, introduce a rival faction also seeking barrier knowledge - perhaps **a disguised cult member** (use the [Chained Library](/06---factions/chained-library) Agent stat block but evil-aligned) or **an ambitious noble** who wants to control the barrier for political power.
 
 This creates a three-way tension: the party, the rival, and the library guardians. Fighting would be disastrous (damage to books, alerting all guardians), but the rival might try to frame the party for theft or start a conflict.
 

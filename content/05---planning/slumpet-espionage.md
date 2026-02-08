@@ -64,7 +64,7 @@ Allow him to narrate how he passes the message off. You can build tension by:
 Keep this espionage _choice-driven_ but impactful:
 
 - Success: The dwarves grant information, resources, or contacts in exchange for intel.
-- Risk: The party might notice [Slumpet](/02---characters/main-party/slumpet-zoommimist) sneaking off, or his messages could be intercepted by rival factions (Cult of the Eclipse, Massa’ista, Chained Library).
+- Risk: The party might notice [Slumpet](/02---characters/main-party/slumpet-zoommimist) sneaking off, or his messages could be intercepted by rival factions ([Cult of the Eclipse](/06---factions/cult-of-the-eclipse), [Massa’ista](/06---factions/massaista), [Chained Library](/06---factions/chained-library)).
 
 ---
 

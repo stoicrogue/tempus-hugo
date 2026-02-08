@@ -18,8 +18,8 @@ created: 2025-07-16
 
 - [x] Track kidnappers north into the enchanted Elven forest
 - [x] Investigate the obsidian standing stone and receive vision of landmarks
-- [x] Explore the ancient tomb of the Order of Seasons
-- [x] Rescue Winry from the Cult of the Eclipse's dark ritual
+- [x] Explore the ancient tomb of the [Order of Seasons](/06---factions/order-of-seasons)
+- [x] Rescue Winry from the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse)'s dark ritual
 - [x] Defeat goblins and bugbear cultists
 - [x] Recover Cult medallion marked "Darkness will descend once again"
 - [x] Discover hidden chamber of five knights
@@ -35,7 +35,7 @@ created: 2025-07-16
 **Location:** Tannis Village  
 **Quest Giver:** Village crisis/[Lerissa](/02---characters/allies/lerissa)'s guidance
 
-- [x] Consult with [Lerissa](/02---characters/allies/lerissa) about the Order of Seasons and Knight of Ravens
+- [x] Consult with [Lerissa](/02---characters/allies/lerissa) about the [Order of Seasons](/06---factions/order-of-seasons) and Knight of Ravens
 - [x] Survive the magical darkness that engulfed Tannis
 - [x] Fight off shadowy hands dragging villagers into the abyss
 - [x] Reach the church of the Dusk Lord (only sanctuary with light)
@@ -58,7 +58,7 @@ created: 2025-07-16
 - [x] Travel through Shimmerwood using the [Arbiter](/02---characters/allies/arbiter)'s holy mark
 - [x] Bring a cask of [Lerissa](/02---characters/allies/lerissa)'s ale as goodwill offering
 - [x] Meet [Vidrir](/02---characters/allies/vidrir) and his purple-winged raven familiars
-- [x] Learn Summer's Edge's true identity as a legendary Summer Court blade
+- [x] Learn Summer's Edge's true identity as a legendary [Summer Court](/06---factions/summer-court) blade
 - [x] Discover the Eclipse medallion is magically trackable (signal leads northwest)
 - [x] Inquire about [Skreek](/02---characters/main-party/skreek)'s stolen relic (rumors of djinn in southern desert)
 - [x] Witness Summer's Edge react faintly to [Vidrir](/02---characters/allies/vidrir)'s touch
@@ -117,38 +117,38 @@ created: 2025-07-16
 - [x] Learn the orb is a "seeing stone" for communication and divination
 - [x] Receive alarming news about [Nidhogg](/02---characters/adversaries/nidhogg) being a shadow dragon sealed in Shadowfell
 - [x] Understand [Vidrir](/02---characters/allies/vidrir)'s personal history with the ancient war
-- [x] Receive guidance to seek the Winter Court for further knowledge
-- [x] Obtain [Vidrir](/02---characters/allies/vidrir)'s Order of Seasons medallion for Winter Court audience
+- [x] Receive guidance to seek the [Winter Court](/06---factions/winter-court) for further knowledge
+- [x] Obtain [Vidrir](/02---characters/allies/vidrir)'s [Order of Seasons](/06---factions/order-of-seasons) medallion for [Winter Court](/06---factions/winter-court) audience
 
-**Rewards:** [Vidrir](/02---characters/allies/vidrir)'s Order of Seasons medallion, crucial lore  
+**Rewards:** [Vidrir](/02---characters/allies/vidrir)'s [Order of Seasons](/06---factions/order-of-seasons) medallion, crucial lore  
 **Key NPCs:** [Vidrir](/02---characters/allies/vidrir) (revealed ancient warrior), [Francis](/02---characters/allies/francis-the-flameskull) (repelled by undead wards)
 
 ---
 
 ### ❄️ Gain Audience with the Winter Court
 
-**Location:** Journey to Winter Court embassy  
+**Location:** Journey to [Winter Court](/06---factions/winter-court) embassy  
 **Quest Giver:** [Vidrir](/02---characters/allies/vidrir)'s guidance
 
 - [x] Travel north toward the silver maple tree
 - [x] Defeat Redcap assassin hired to stop the party
 - [x] Avoid the reality-tearing feline predator
 - [x] Make peaceful contact with elven rangers using [Vidrir](/02---characters/allies/vidrir)'s medallion
-- [x] Arrive at Winter Court embassy and settle at The Restful Buck inn
+- [x] Arrive at [Winter Court](/06---factions/winter-court) embassy and settle at The Restful Buck inn
 - [x] Perform at the inn and gather intelligence about Lady [Alora](/02---characters/allies/alora)
 - [x] Learn about Olivia's poisoning by possible Bandersnatch
 - [x] Heal Olivia using [Skreek](/02---characters/main-party/skreek)'s Lay on Hands
 - [x] Earn private audience with grateful Lady [Alora](/02---characters/allies/alora)
 - [x] Learn about the weakening interplanar barrier
 
-**Rewards:** Winter Court alliance, audience with [Alora](/02---characters/allies/alora)  
-**Key NPCs:** Lady [Alora](/02---characters/allies/alora) (Winter Court leader), Olivia (poisoned daughter), [Trius](/02---characters/allies/trius) (eldest daughter, paladin)
+**Rewards:** [Winter Court](/06---factions/winter-court) alliance, audience with [Alora](/02---characters/allies/alora)  
+**Key NPCs:** Lady [Alora](/02---characters/allies/alora) ([Winter Court](/06---factions/winter-court) leader), Olivia (poisoned daughter), [Trius](/02---characters/allies/trius) (eldest daughter, paladin)
 
 ---
 
 ### 🦷 Hunt the Bandersnatch
 
-**Location:** Winter Court territory  
+**Location:** [Winter Court](/06---factions/winter-court) territory  
 **Quest Giver:** Lady [Alora](/02---characters/allies/alora)
 
 - [x] Accept [Alora](/02---characters/allies/alora)'s quest to hunt the creature that poisoned Olivia
@@ -190,7 +190,7 @@ created: 2025-07-16
 - [x] Consult with the [Arbiter](/02---characters/allies/arbiter) about leyline magic
 
 **Rewards:** Leyline knowledge, runic documentation  
-**Key NPCs:** [Trius](/02---characters/allies/trius) (Winter Court paladin ally), The [Arbiter](/02---characters/allies/arbiter) (magical consultant)
+**Key NPCs:** [Trius](/02---characters/allies/trius) ([Winter Court](/06---factions/winter-court) paladin ally), The [Arbiter](/02---characters/allies/arbiter) (magical consultant)
 
 ---
 
@@ -219,7 +219,7 @@ created: 2025-07-16
 
 ### 🧭 Report to Alora and Learn the Larger Plan
 
-**Location:** Winter Court embassy  
+**Location:** [Winter Court](/06---factions/winter-court) embassy  
 **Quest Giver:** Lady [Alora](/02---characters/allies/alora)
 
 - [x] Report [Serenity](/02---characters/adversaries/serenity)'s permanent defeat
@@ -227,8 +227,8 @@ created: 2025-07-16
 - [x] Receive silver teleportation ring (attunes to obsidian standing stones)
 - [x] Meet with Arch Magus Levi for crucial briefing:
     - Barrier anchored by four leyline temples (one per season)
-    - [Alora](/02---characters/allies/alora)'s mother's journal mentions "The Chained Library"
-    - Chained Library may seek forbidden artifacts like the orb
+    - [Alora](/02---characters/allies/alora)'s mother's journal mentions "The [Chained Library](/06---factions/chained-library)"
+    - [Chained Library](/06---factions/chained-library) may seek forbidden artifacts like the orb
 - [x] Witness [Slumpet](/02---characters/main-party/slumpet-zoommimist) steal map of Dwarven capital
 
 **Rewards:** Silver teleportation ring, critical strategic intelligence  
@@ -238,15 +238,15 @@ created: 2025-07-16
 
 ### 🍂 Reach the Autumn Court
 
-**Location:** Journey east to Autumn Court  
+**Location:** Journey east to [Autumn Court](/06---factions/autumn-court)  
 **Quest Giver:** Strategic necessity
 
 - [x] Survive ambush by fey thieves (Quicklings and Aridni)
 - [x] Recover stolen coin from defeated bandits
-- [x] Discover Torii gate and standing stone at Autumn Court entrance
+- [x] Discover Torii gate and standing stone at [Autumn Court](/06---factions/autumn-court) entrance
 - [x] Arrive during the Aki Matsuri seasonal festival
 
-**Rewards:** Recovered funds, safe passage to Autumn Court  
+**Rewards:** Recovered funds, safe passage to [Autumn Court](/06---factions/autumn-court)  
 **Key NPCs:** Fey thieves (defeated)
 
 ---
@@ -257,14 +257,14 @@ created: 2025-07-16
 **Quest Giver:** [Xolthos](/02---characters/adversaries/xolthos-omenspeaker)'s attack
 
 - [x] Enjoy festival hospitality from [Hencelle](/02---characters/allies/hencelle) (Master of Feasts)
-- [x] Befriend Ali (Massa'Ista bounty hunter) and meet captive Arden
+- [x] Befriend Ali ([Massa'Ista](/06---factions/massaista) bounty hunter) and meet captive Arden
 - [x] Survive [Xolthos](/02---characters/adversaries/xolthos-omenspeaker)'s ominous proclamation about [Nidhogg](/02---characters/adversaries/nidhogg)'s return
 - [x] Endure [Shad](/02---characters/main-party/shadicar)'s banishment mid-taunt
 - [x] Defeat [Xolthos](/02---characters/adversaries/xolthos-omenspeaker) in difficult battle using [Slumpet](/02---characters/main-party/slumpet-zoommimist)'s anti-shadow stardust
 - [x] Loot magic items: dragon figurine, invisibility ring, enchanted robes, magic staff
 - [x] Recover letter from the [Weaver](/02---characters/adversaries/weaver) confirming:
     - Winter leyline crystal already damaged
-    - Summer Court leyline is next target
+    - [Summer Court](/06---factions/summer-court) leyline is next target
     - All marked by Dusk Lord are enemies
 
 **Rewards:** [Xolthos](/02---characters/adversaries/xolthos-omenspeaker)'s magic items, critical intelligence about cult plans  
@@ -274,7 +274,7 @@ created: 2025-07-16
 
 ### 🧠 Gain Autumn Court Support
 
-**Location:** Autumn Court  
+**Location:** [Autumn Court](/06---factions/autumn-court)  
 **Quest Giver:** Lord Farkris
 
 - [x] Secure audience with Lord Farkris
@@ -294,7 +294,7 @@ created: 2025-07-16
 
 ### 🧭 Establish Summer Court Access
 
-**Location:** Transition to Summer Court  
+**Location:** Transition to [Summer Court](/06---factions/summer-court)  
 **Quest Giver:** Strategic movement
 
 - [x] Camp in treant's grove
@@ -330,17 +330,17 @@ created: 2025-07-16
 
 ### ☀️ Establish Summer Court Relations
 
-**Location:** Summer Court  
+**Location:** [Summer Court](/06---factions/summer-court)  
 **Quest Giver:** Lady Sylvia
 
-- [x] Reach the Summer Court and experience competitive culture
+- [x] Reach the [Summer Court](/06---factions/summer-court) and experience competitive culture
 - [x] Attune standing stone near coliseum for teleportation
 - [x] Stay at Ember's Embrace inn with Serra Flamekissed
-- [x] Experience flaming shots and Summer Court hospitality
+- [x] Experience flaming shots and [Summer Court](/06---factions/summer-court) hospitality
 - [x] Meet with Lady Sylvia and receive Summer Leyline Temple mission
 
-**Rewards:** Summer Court alliance, teleportation access  
-**Key NPCs:** Lady Sylvia (Summer Court leader), Serra Flamekissed (hospitable innkeeper)
+**Rewards:** [Summer Court](/06---factions/summer-court) alliance, teleportation access  
+**Key NPCs:** Lady Sylvia ([Summer Court](/06---factions/summer-court) leader), Serra Flamekissed (hospitable innkeeper)
 
 ---
 
@@ -360,9 +360,9 @@ created: 2025-07-16
 - [x] Consult [Arbiter](/02---characters/allies/arbiter) about restoration needs
 - [x] Use Contact Other Plane to reach Maria ([Alora](/02---characters/allies/alora)'s mother):
     - Party cannot fix crystal alone
-    - Summer Court lacks necessary means
-    - Chained Library holds answers
-    - Winter Court lacks knowledge
+    - [Summer Court](/06---factions/summer-court) lacks necessary means
+    - [Chained Library](/06---factions/chained-library) holds answers
+    - [Winter Court](/06---factions/winter-court) lacks knowledge
     - Center of Elven territory may help
 
 **Rewards:** Recovered tainted crystal, divine guidance from Maria  
@@ -372,7 +372,7 @@ created: 2025-07-16
 
 ### 🔄 Escape the Temporal Loop
 
-**Location:** Summer Court forest  
+**Location:** [Summer Court](/06---factions/summer-court) forest  
 **Quest Giver:** Mysterious loop phenomenon
 
 - [x] Recognize repeating scenery and time distortions
@@ -402,7 +402,7 @@ created: 2025-07-16
 
 ### ⚔️ Gather Components for Summer's Edge
 
-**Location:** Summer Court and surrounding areas  
+**Location:** [Summer Court](/06---factions/summer-court) and surrounding areas  
 **Quest Giver:** [Elara Sunforge](/02---characters/allies/elara-sunforge)
 
 - [x] Fulfill night 1 of [Blackbird](/02---characters/allies/blackbird)'s contract (98 drinks = 19gp)
@@ -475,7 +475,7 @@ created: 2025-07-16
 - [x] Overcome animated flesh clones spawned by troll strikes
 - [x] Reach mountain peak with ceremonial altar
 - [x] Experience [Skreek](/02---characters/main-party/skreek)'s vision while holding Summer's Edge shards:
-    - Memory of sword's gifting by Summer Court Queen
+    - Memory of sword's gifting by [Summer Court](/06---factions/summer-court) Queen
     - Battlefield vision disrupted by darkness
 - [x] Observe distant twisted black castle (gothic, shifting, watching)
 - [x] Place [Elara](/02---characters/allies/elara-sunforge)'s device at altar for sun essence capture
@@ -528,13 +528,13 @@ created: 2025-07-16
 
 ### ⚔️ Reforge Summer's Edge
 
-**Location:** Summer Court ([Elara Sunforge](/02---characters/allies/elara-sunforge)'s hidden forge)  
+**Location:** [Summer Court](/06---factions/summer-court) ([Elara Sunforge](/02---characters/allies/elara-sunforge)'s hidden forge)  
 **Quest Giver:** [Elara Sunforge](/02---characters/allies/elara-sunforge)  
 **Status:** ✅ Completed
 
 - [x] Obtain Celestial Ore from Starfall Crater
 - [x] Capture First Kiss of Midday Sun in the Feywild
-- [x] Return to the Summer Court via standing stone network
+- [x] Return to the [Summer Court](/06---factions/summer-court) via standing stone network
 - [x] Deliver components to [Elara Sunforge](/02---characters/allies/elara-sunforge)
 - [x] Participate in reforging of Summer’s Edge using radiant forge
 - [x] Witness [Skreek](/02---characters/main-party/skreek) chosen as the new wielder of Summer’s Edge
@@ -568,7 +568,7 @@ created: 2025-07-16
 
 ### 🌌 Disrupt Hollow Threshold & Meet Vael
 
-**Location:** Forest clearing en route to Spring Court  
+**Location:** Forest clearing en route to [Spring Court](/06---factions/spring-court)  
 **Quest Giver:** Party decision / [Vael](/02---characters/allies/vael) encounter
 
 -  Discover strange stone portal and investigate its pocket-realm
@@ -576,11 +576,11 @@ created: 2025-07-16
 -  Dispel glowing fang artifact to halt endless summons
 -  Escape collapsing chamber amid wild magic surge ([Shad](/02---characters/main-party/shadicar) briefly polymorphed into frog)
 -  Survive final owlbear and drag [Skreek](/02---characters/main-party/skreek) to safety after he was knocked unconscious
--  Meet **[Vael](/02---characters/allies/vael), Fifth Binder of the Silent Vault** - agent of the Chained Library
+-  Meet **[Vael](/02---characters/allies/vael), Fifth Binder of the Silent Vault** - agent of the [Chained Library](/06---factions/chained-library)
 -  Learn Hollow Thresholds are **Cult-forged incisions** siphoning leyline energy
 -  Strike bargain: surrender fang now, deliver [Serenity](/02---characters/adversaries/serenity)’s orb at Library gates
 
-**Rewards:** Survival, [Vael](/02---characters/allies/vael)’s guidance toward the Chained Library, critical intelligence on Hollow Thresholds  
+**Rewards:** Survival, [Vael](/02---characters/allies/vael)’s guidance toward the [Chained Library](/06---factions/chained-library), critical intelligence on Hollow Thresholds  
 **Key NPCs:** [Vael](/02---characters/allies/vael) (mysterious Chainbearer), [Francis](/02---characters/allies/francis-the-flameskull) (scouting ally)
 
 ---
@@ -656,7 +656,7 @@ created: 2025-07-16
 - Repair damaged leyline crystals
 - Prevent further temple sabotage
 - Locate and stop the [Weaver](/02---characters/adversaries/weaver)
-- Find the mysterious "Chained Library"
+- Find the mysterious "[Chained Library](/06---factions/chained-library)"
 
 ### 🕸️ The Weaver
 
@@ -684,15 +684,15 @@ created: 2025-07-16
 
 **Key Locations:**
 
-- Winter Court leyline temple (crystal cracked)
-- Summer Court leyline temple (missing crystal, recovered but tainted)
-- Autumn Court leyline temple (stable)
-- Spring Court leyline temple (status unknown)
-- The Chained Library (original barrier source, location unknown)
+- [Winter Court](/06---factions/winter-court) leyline temple (crystal cracked)
+- [Summer Court](/06---factions/summer-court) leyline temple (missing crystal, recovered but tainted)
+- [Autumn Court](/06---factions/autumn-court) leyline temple (stable)
+- [Spring Court](/06---factions/spring-court) leyline temple (status unknown)
+- The [Chained Library](/06---factions/chained-library) (original barrier source, location unknown)
 
 **Strategic Needs:**
 
 - Repair/cleanse tainted crystals
 - Prevent further sabotage
-- Locate Chained Library for barrier restoration knowledge
+- Locate [Chained Library](/06---factions/chained-library) for barrier restoration knowledge
 - Coordinate with all four seasonal courts

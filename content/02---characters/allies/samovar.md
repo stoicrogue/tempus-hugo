@@ -22,7 +22,7 @@ author: Mark Molea
 
 ## Did Seraphina create him?
 
-**She awakened him.** The vessel is an antique dwarven samovar she bartered from a caravan. Using a **Spring Court rite** [Faela](/02---characters/allies/faela-mossheart) once taught her—moonwater, a sliver of hearth-ember, and a spoken vow “never to boil in anger”—[Seraphina](/02---characters/allies/seraphina-moonglow) **bound** the water-spirit and set the tavern’s warding sigils in his base. So: the brass body is old; the **soul** inside is [Seraphina](/02---characters/allies/seraphina-moonglow)’s doing (with [Faela](/02---characters/allies/faela-mossheart)’s blessing).
+**She awakened him.** The vessel is an antique dwarven samovar she bartered from a caravan. Using a **[Spring Court](/06---factions/spring-court) rite** [Faela](/02---characters/allies/faela-mossheart) once taught her—moonwater, a sliver of hearth-ember, and a spoken vow “never to boil in anger”—[Seraphina](/02---characters/allies/seraphina-moonglow) **bound** the water-spirit and set the tavern’s warding sigils in his base. So: the brass body is old; the **soul** inside is [Seraphina](/02---characters/allies/seraphina-moonglow)’s doing (with [Faela](/02---characters/allies/faela-mossheart)’s blessing).
 
 ## What he does (beyond pouring)
 

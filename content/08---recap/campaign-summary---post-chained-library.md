@@ -12,7 +12,7 @@ created: 2025-11-18
 
 **What began as a simple rescue became a fight for reality itself.**
 
-When four unlikely heroes met in a quiet village tavern, they could not have known that answering a blacksmith's desperate plea would set them on a path to save the world. Tracking kidnappers into an ancient tomb, they stumbled upon something far more sinister—a dark ritual conducted by the **Cult of the Eclipse**, servants of a mysterious Lady promising that "darkness will descend once again."
+When four unlikely heroes met in a quiet village tavern, they could not have known that answering a blacksmith's desperate plea would set them on a path to save the world. Tracking kidnappers into an ancient tomb, they stumbled upon something far more sinister—a dark ritual conducted by the **[Cult of the Eclipse](/06---factions/cult-of-the-eclipse)**, servants of a mysterious Lady promising that "darkness will descend once again."
 
 And descend it did.
 
@@ -22,9 +22,9 @@ What they discovered changed everything. The cult sought to corrupt the **leylin
 
 **Across the four Courts they traveled**, earning the trust of fey nobility. In Winter, they hunted a Bandersnatch and defeated **[Serenity](/02---characters/adversaries/serenity)**—a night hag agent of the cult who had been posing as a tavern singer. In Autumn, they faced the dragonborn sorcerer [Xolthos](/02---characters/adversaries/xolthos-omenspeaker) at a harvest festival. In Summer, they encountered **[Manus](/02---characters/adversaries/manus)**, an enigmatic figure who mocks seemingly everyone, including the [Weaver](/02---characters/adversaries/weaver) despite his cult affiliation.
 
-To reforge **Summer's Edge**—a legendary blade of the Order of Seasons—the heroes journeyed to acquire celestial ore and dive deep into the Feywild to capture the first kiss of the midday sun. But time flows differently in that realm. While only days passed for them, weeks slipped by in the material plane.
+To reforge **Summer's Edge**—a legendary blade of the [Order of Seasons](/06---factions/order-of-seasons)—the heroes journeyed to acquire celestial ore and dive deep into the Feywild to capture the first kiss of the midday sun. But time flows differently in that realm. While only days passed for them, weeks slipped by in the material plane.
 
-**The cult seized their absence.** Orchestrated by **the [Weaver](/02---characters/adversaries/weaver)**, a shadowy master of illusion and leader of the Cult of the Eclipse, cultists opened **Hollow Thresholds** across the realm: tears in reality where darkness bled through. By the time the party returned, the Spring temple had been corrupted. The heroes raced to the **Chained Library**, an ancient repository of forbidden knowledge, where they learned the terrible truth: [Vidrir](/02---characters/allies/vidrir) himself was the **Knight of Ravens**, the last survivor of the Order of Seasons, and he had been fighting this war for centuries.
+**The cult seized their absence.** Orchestrated by **the [Weaver](/02---characters/adversaries/weaver)**, a shadowy master of illusion and leader of the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse), cultists opened **Hollow Thresholds** across the realm: tears in reality where darkness bled through. By the time the party returned, the Spring temple had been corrupted. The heroes raced to the **[Chained Library](/06---factions/chained-library)**, an ancient repository of forbidden knowledge, where they learned the terrible truth: [Vidrir](/02---characters/allies/vidrir) himself was the **Knight of Ravens**, the last survivor of the [Order of Seasons](/06---factions/order-of-seasons), and he had been fighting this war for centuries.
 
 Now the final confrontation looms. The [Weaver](/02---characters/adversaries/weaver) prepares his ultimate ritual, seeking to tear open a portal and unleash [Nidhogg](/02---characters/adversaries/nidhogg) upon the world. The heroes stand between civilization and annihilation, bearing a reforged blade and the hopes of two realms.
 

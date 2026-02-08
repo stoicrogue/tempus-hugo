@@ -8,7 +8,7 @@ author:
   - Mark Molea
 created: 2025-04-14
 ---
-**The Hollow Threshold** is one of several unstable portals created by the **Cult of the Eclipse** to connect the Material Plane to the **Shadowfell**. Each portal is anchored by a powerful artifact steeped in darkness, and maintained through fear, ritual magic, and the weakening of the Elven barrier.
+**The Hollow Threshold** is one of several unstable portals created by the **[Cult of the Eclipse](/06---factions/cult-of-the-eclipse)** to connect the Material Plane to the **Shadowfell**. Each portal is anchored by a powerful artifact steeped in darkness, and maintained through fear, ritual magic, and the weakening of the Elven barrier.
 
 ### 🕳️ Description
 A desolate and warped location, where the natural world seems to fray at the edges. Light bends strangely, shadows stretch too far, and the very air feels hollow—as though something essential has been removed. This eerie terrain marks the boundary between planes.
@@ -29,7 +29,7 @@ To seal the Hollow Threshold, the party must:
 3. Withstand the collapsing energies as the portal implodes
 
 ### 🧥 Story Hooks
-- [Vael](/02---characters/allies/vael), an agent of the **Chained Library**, may appear—offering cryptic insight or asking for [Serenity](/02---characters/adversaries/serenity)’s orb.
+- [Vael](/02---characters/allies/vael), an agent of the **[Chained Library](/06---factions/chained-library)**, may appear—offering cryptic insight or asking for [Serenity](/02---characters/adversaries/serenity)’s orb.
 - The party may discover that **multiple thresholds** exist, and this is only the beginning of a larger planar unraveling.
 
 ---

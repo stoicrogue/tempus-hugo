@@ -52,7 +52,7 @@ _Here's a blank D&D session note page ready for you to use outlined according to
 
 _Check off when revealed._
 
-- [x] [Manus](/02---characters/adversaries/manus), an assassin working with the cult of the Eclipse, visited the Summer Court’s leyline temple yesterday
+- [x] [Manus](/02---characters/adversaries/manus), an assassin working with the [cult of the Eclipse](/06---factions/cult-of-the-eclipse), visited the [Summer Court](/06---factions/summer-court)’s leyline temple yesterday
 - [x] [Manus](/02---characters/adversaries/manus) stole one of the smaller crystals in the leyline crystal chamber
 - [ ] [[Sylvia]] and her family have worshiped the Dusk Lord for generations
 
@@ -94,6 +94,6 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
 - Visit the coliseum and take note of upcoming events
 - Investigate the summer leyline temple
 - Find it has been broken into already, guardians defeated and a crystal stolen
-- Encountered the thief outside as they left. Disguised as [Trius](/02---characters/allies/trius) but revealed to be am assassin named [Manus](/02---characters/adversaries/manus) working with the cult of the eclipse.
+- Encountered the thief outside as they left. Disguised as [Trius](/02---characters/allies/trius) but revealed to be am assassin named [Manus](/02---characters/adversaries/manus) working with the [cult of the eclipse](/06---factions/cult-of-the-eclipse).
 - [Manus](/02---characters/adversaries/manus) gave them the crystal back after challenging the party to land a hit on him. The party cheated in [Manus](/02---characters/adversaries/manus)’ eyes by throwing a handful of ball bearings at him, but he honored the deal.
 - [Manus](/02---characters/adversaries/manus) seemed to be helping the cult but not committed to their goals. He seemed to be more interested in finding powerful foes

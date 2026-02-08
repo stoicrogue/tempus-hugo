@@ -9,7 +9,7 @@ created: 2025-07-21
 ---
 # 🎭 Strong Start
 
-- Use the leyline gate network to travel to the Order of Seasons Tomb via a nearby standing stone, encounter Hollow Threshold along the way
+- Use the leyline gate network to travel to the [Order of Seasons](/06---factions/order-of-seasons) Tomb via a nearby standing stone, encounter Hollow Threshold along the way
 
 ## 🗺 Scenes Overview
 
@@ -19,10 +19,10 @@ created: 2025-07-21
 
 ## 🔑 Secrets & Clues
 
-- [ ] [Vidrir](/02---characters/allies/vidrir) is much older than he seems and was the champion of the summer court that [Skreek](/02---characters/main-party/skreek) saw in his visions
-- [ ] [Hollow Thresholds](/05---planning/hollow-thresholds) are being created by the Cult of the Eclipse
+- [ ] [Vidrir](/02---characters/allies/vidrir) is much older than he seems and was the champion of the [summer court](/06---factions/summer-court) that [Skreek](/02---characters/main-party/skreek) saw in his visions
+- [ ] [Hollow Thresholds](/05---planning/hollow-thresholds) are being created by the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse)
 - [ ] [Vael](/02---characters/allies/vael), agent of the [Chained Library](/06---factions/chained-library), is investigating the weakening barrier and the hollow thresholds
-- [x] Chained Library is located beneath the "Tael'anore", the central mountain in Elven territory
+- [x] [Chained Library](/06---factions/chained-library) is located beneath the "Tael'anore", the central mountain in Elven territory
 	- [x] “the roots beneath the seasons” / “vault at the world’s bloom.”
 - [ ] [Skreek](/02---characters/main-party/skreek)'s royal egg is being used as a Hollow Threshold anchor for a plane of air themed threshold
 
@@ -48,7 +48,7 @@ created: 2025-07-21
 
 # 📝 Session Notes
 
-- [Skreek](/02---characters/main-party/skreek) entered a dueling tournament at the Summer Court's colleseum to test out Summer's Edge.  He was victoreous against a human knight named Adamar in black armor that had been doing well in the tournaments recently.  The party all made decent wagers on [Skreek](/02---characters/main-party/skreek) winning with his new sword and they were all paid out handsomely based on his 4:1 odds because of his newcomer status.
-- The part journeyed northwest through the forest, towards a giant birch tree and the Spring Court.  Before they reach the tree, they come upon a strange active portal made of stone standing 10 feet tall in a clearing.  [Shad](/02---characters/main-party/shadicar) animates a dead tree and sends it into the portal.  It returns a minute later with a wolf biting its leg, which eventaully lets go of the tree and bounds back into the portal.
+- [Skreek](/02---characters/main-party/skreek) entered a dueling tournament at the [Summer Court](/06---factions/summer-court)'s colleseum to test out Summer's Edge.  He was victoreous against a human knight named Adamar in black armor that had been doing well in the tournaments recently.  The party all made decent wagers on [Skreek](/02---characters/main-party/skreek) winning with his new sword and they were all paid out handsomely based on his 4:1 odds because of his newcomer status.
+- The part journeyed northwest through the forest, towards a giant birch tree and the [Spring Court](/06---factions/spring-court).  Before they reach the tree, they come upon a strange active portal made of stone standing 10 feet tall in a clearing.  [Shad](/02---characters/main-party/shadicar) animates a dead tree and sends it into the portal.  It returns a minute later with a wolf biting its leg, which eventaully lets go of the tree and bounds back into the portal.
 - [Toby](/02---characters/main-party/toby) sends in [Francis](/02---characters/allies/francis-the-flameskull) to scout since the tree couldn't report on what it had seen.  [Francis](/02---characters/allies/francis-the-flameskull) reports it is a 50 circular area with another portal on the opposite side.  The area is closed off entirely by the largest trees he had ever seen.  In the center, an ominous alter with large glowing fang pulsing on top of it.  Scattered around the area are many beasts including a huge wolf, a pack of normal sized wolves, and an owlbear.
 - 

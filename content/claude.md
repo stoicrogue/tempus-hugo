@@ -40,7 +40,7 @@ Scans markdown files for unlinked character name references and converts them to
 python _link_characters.py          # apply changes
 python _link_characters.py --dry-run  # preview without modifying files
 ```
-- Targets: `01 - session-notes/`, `02 - characters/`, `03 - locations/`, `05 - planning/`, `08 - recap/` (recursive)
+- Targets: `01 - session-notes/`, `02 - characters/`, `03 - locations/`, `05 - planning/`, `06 - factions/`, `08 - recap/` (recursive)
 - Skips: `Tempus Campaign Dramatization.md`
 - Links 21 characters from `02 - characters/adversaries/` and `02 - characters/allies/`
 - Case-insensitive matching with proper display text (e.g., `serenity` → `[serenity](/02---characters/adversaries/serenity)`)
@@ -48,6 +48,21 @@ python _link_characters.py --dry-run  # preview without modifying files
 - Skips: frontmatter, code blocks, headings, text already inside `[[...]]`, self-references (e.g., `Manus.md` won't link to `[Manus](/02---characters/adversaries/manus)`)
 - Safe to re-run — idempotent (0 changes if already linked)
 - To add new characters: update the `CHARACTERS` list at the top of the script
+
+### `_link_factions.py`
+Scans markdown files for unlinked faction name references and converts them to Obsidian `[[wiki-links]]`. Run from the `tempus-campaign` directory:
+```bash
+python _link_factions.py          # apply changes
+python _link_factions.py --dry-run  # preview without modifying files
+```
+- Targets: `01 - session-notes/`, `02 - characters/`, `03 - locations/`, `05 - planning/`, `06 - factions/`, `08 - recap/` (recursive)
+- Skips: `Tempus Campaign Dramatization.md`
+- Links 8 factions: Cult of the Eclipse, Order of Seasons, Chained Library, Massa'Ista, Summer Court, Winter Court, Spring Court, Autumn Court
+- Handles both curly and straight apostrophe variants for Massa'Ista
+- Case-insensitive matching with proper display text
+- Skips: frontmatter, code blocks, headings, text already inside `[[...]]`, self-references
+- Safe to re-run — idempotent (0 changes if already linked)
+- To add new factions: update the `FACTIONS` list at the top of the script
 
 ### Hugo Integration
 

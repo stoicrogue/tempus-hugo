@@ -34,7 +34,7 @@ Instinctively, he reaches for the hilt and shards of **Summer’s Edge**.
 The broken blade, so long dormant, begins to glow—not with fire or fury, but with a **subtle inner radiance**, like the very essence of summer stirring within it. As [Skreek](/02---characters/main-party/skreek) grips the hilt, he is no longer on the mountain.
 ### **Vision: Echoes of the First Wielding**
 
-He sees a golden field under the same unsetting sun.  A tall elven knight—**Eirik**—kneels before a radiant queen of the Summer Court.  
+He sees a golden field under the same unsetting sun.  A tall elven knight—**Eirik**—kneels before a radiant queen of the [Summer Court](/06---factions/summer-court).  
 The blade, whole and gleaming, is passed into his hands._“So long as you carry this light, our court shall not fall to shadow.”_
 
 Suddenly, the field turns dark—invading shadows, a massive battle. The knight fights valiantly… but the vision cracks like glass, leaving only fragments.

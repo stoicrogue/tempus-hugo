@@ -52,7 +52,7 @@ created: 2024-04-17
 
 _Link to fantastic locations. Use the @ symbol to internally link to a Location page._
 
-- Winter court embassy
+- [Winter court](/06---factions/winter-court) embassy
 - Winter Leyline Temple
 
 # NPCs
@@ -62,7 +62,7 @@ _Link to fantastic locations. Use the @ symbol to internally link to a Location 
 NPC link. _Use the @ symbol to internally link to an NPC page._
 
 - [Trius](/02---characters/allies/trius)
-- Winter court eladrin - [Alora](/02---characters/allies/alora)
+- [Winter court](/06---factions/winter-court) eladrin - [Alora](/02---characters/allies/alora)
 
 # Monsters
 

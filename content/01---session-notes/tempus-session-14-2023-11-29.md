@@ -41,14 +41,14 @@ created: 2023-11-29
 - [ ] Try to find the fey crossing
 - [ ] Enter the feywild
     - [ ] Three satyrs are having a contest using several musical instruments. The organize any watchers to help support them in a group round
-- [x] Visit the Winter Court embassy and meet the locals
+- [x] Visit the [Winter Court](/06---factions/winter-court) embassy and meet the locals
 - [ ] Track the [Bandersnatch](/02---characters/monsters/bandersnatch)
 
 # Secret and Clues
 
 - [ ] The stand stones can be used for rapid transit via the ley lines that connect them
 - [ ] The veil between this world and the feywild is thinning, which is how the Bandersnatch got here
-- [x] The [Bandersnatch](/02---characters/monsters/bandersnatch) poisioned a winter court member and they need a poision gland to craft an antidote.
+- [x] The [Bandersnatch](/02---characters/monsters/bandersnatch) poisioned a [winter court](/06---factions/winter-court) member and they need a poision gland to craft an antidote.
 - [ ] [Serenity](/02---characters/adversaries/serenity) did cross into the feywild
 
 # Fantastic Locations
@@ -58,7 +58,7 @@ created: 2023-11-29
 _Link to fantastic locations. Use the @ symbol to internally link to a Location page._
 
 - Feywild crossing
-- Winter court embassy
+- [Winter court](/06---factions/winter-court) embassy
 
 # NPCs
 
@@ -67,7 +67,7 @@ _Link to fantastic locations. Use the @ symbol to internally link to a Location 
 NPC link. _Use the @ symbol to internally link to an NPC page._
 
 - [Vidrir](/02---characters/allies/vidrir)
-- Winter court eladrin - [Alora](/02---characters/allies/alora)
+- [Winter court](/06---factions/winter-court) eladrin - [Alora](/02---characters/allies/alora)
 
 # Monsters
 
@@ -94,7 +94,7 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
 ### Session Notes
 
 - Late October
-- Party makes their way to the Winter Court embassy, less than half a day’s travel from the great silver tree
+- Party makes their way to the [Winter Court](/06---factions/winter-court) embassy, less than half a day’s travel from the great silver tree
 - Did some shopping at the blacksmith run by Jordan
     - [Slumpet](/02---characters/main-party/slumpet-zoommimist) bought a set of studded leather armor
     - [Skreek](/02---characters/main-party/skreek) bought two nets
@@ -104,7 +104,7 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
     - Discovered the court is headed by [Alora](/02---characters/allies/alora), the Lady of Winter
     - Heard rumors that [Alora](/02---characters/allies/alora)’s daughter, Olivia, had been poisoned
 - Sought an audience with [Alora](/02---characters/allies/alora) the next day, around noon
-    - [Alora](/02---characters/allies/alora) was guarded at first by softened when the party showed her [Vidrir](/02---characters/allies/vidrir)’s medallion from the Order of Seasons
+    - [Alora](/02---characters/allies/alora) was guarded at first by softened when the party showed her [Vidrir](/02---characters/allies/vidrir)’s medallion from the [Order of Seasons](/06---factions/order-of-seasons)
     - She was obviously distracted by her daughter’s illness and would focus on little else until her daughter was safe
 - [Skreek](/02---characters/main-party/skreek) used his lay on hands to heal Olivia
     - [Alora](/02---characters/allies/alora) was overjoyed and thanked the party, promising to discuss their topics of interest now that her daughter is safe

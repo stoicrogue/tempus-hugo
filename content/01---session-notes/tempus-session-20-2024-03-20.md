@@ -34,7 +34,7 @@ created: 2024-03-20
 
 # Strong Start
 
-- [x] [Serenity](/02---characters/adversaries/serenity) confronts the party on their way back to the Winter Court and battle ensues
+- [x] [Serenity](/02---characters/adversaries/serenity) confronts the party on their way back to the [Winter Court](/06---factions/winter-court) and battle ensues
 
 # Scenes
 
@@ -44,7 +44,7 @@ created: 2024-03-20
 # Secret and Clues
 
 - [ ] The standing stones can be used for rapid transit via the ley lines that connect them
-- [x] Summer’s Edge can be reforged by any master elven smith, but rare materials from the summer court’s domain (sun crystals from the Great Golden tree)
+- [x] Summer’s Edge can be reforged by any master elven smith, but rare materials from the [summer court](/06---factions/summer-court)’s domain (sun crystals from the Great Golden tree)
 - [ ] [Serenity](/02---characters/adversaries/serenity) did cross into the feywild
 
 # Fantastic Locations
@@ -53,7 +53,7 @@ created: 2024-03-20
 
 _Link to fantastic locations. Use the @ symbol to internally link to a Location page._
 
-- Winter court embassy
+- [Winter court](/06---factions/winter-court) embassy
 - Winter Leyline Temple
 
 # NPCs
@@ -63,7 +63,7 @@ _Link to fantastic locations. Use the @ symbol to internally link to a Location 
 NPC link. _Use the @ symbol to internally link to an NPC page._
 
 - [Trius](/02---characters/allies/trius)
-- Winter court eladrin - [Alora](/02---characters/allies/alora)
+- [Winter court](/06---factions/winter-court) eladrin - [Alora](/02---characters/allies/alora)
 
 # Monsters
 

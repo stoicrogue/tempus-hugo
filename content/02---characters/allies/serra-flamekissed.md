@@ -15,4 +15,4 @@ cssclasses:
 
   
 
-Bartender of the Ember's Embrace in the summer court
+Bartender of the Ember's Embrace in the [summer court](/06---factions/summer-court)

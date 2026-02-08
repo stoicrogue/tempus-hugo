@@ -27,7 +27,7 @@ author: Mark Molea
 
 ## **Phase 4: Winter Court**
 
-- **Day 11**: Travel to Winter Court, meet rangers
+- **Day 11**: Travel to [Winter Court](/06---factions/winter-court), meet rangers
 - **Day 12**: Arrive at embassy, meet [Alora](/02---characters/allies/alora), heal Olivia
 - **Day 13**: Hunt and kill Bandersnatch, get magic items
 - **Day 14**: Investigate Winter leyline temple (with [Trius](/02---characters/allies/trius))
@@ -36,7 +36,7 @@ author: Mark Molea
 
 ## Phase 5: Autumn Court
 
-- **Day 17**: Travel to Autumn Court (fey thieves ambush)
+- **Day 17**: Travel to [Autumn Court](/06---factions/autumn-court) (fey thieves ambush)
 - **Day 18**: Festival, battle [Xolthos](/02---characters/adversaries/xolthos-omenspeaker), meet Ali/Arden
 - **Day 19**: Meet Lord Farkris, investigate Autumn temple
 - **Day 20**: Rest at treant's grove
@@ -44,7 +44,7 @@ author: Mark Molea
 ## Phase 6: Summer Court
 
 - **Day 21**: Travel to Summer border, fight cultists at battlefield
-- **Day 22**: Arrive Summer Court, meet Lady Sylvia, attune ring
+- **Day 22**: Arrive [Summer Court](/06---factions/summer-court), meet Lady Sylvia, attune ring
 - **Day 23**: Investigate breached Summer temple, encounter [Manus](/02---characters/adversaries/manus)
 - **Day 24**: Meet [Elara](/02---characters/allies/elara-sunforge), plan Feywild expedition
 
@@ -59,10 +59,10 @@ author: Mark Molea
 
 ## Phase 8: Summer's Edge and the Spring Court
 
-- **Day 31:** Return to the summer court, reforge summer's edge (feywild timeskip)
-- **Day 32:** Journey to Spring Court, close Hollow Threshold (Beastland theme), meet [Vael](/02---characters/allies/vael)
-- **Day 33:** Arrive at Spring Court, meet [Faela Mossheart](/02---characters/allies/faela-mossheart), rest at the Moonlit Hearth tavern
+- **Day 31:** Return to the [summer court](/06---factions/summer-court), reforge summer's edge (feywild timeskip)
+- **Day 32:** Journey to [Spring Court](/06---factions/spring-court), close Hollow Threshold (Beastland theme), meet [Vael](/02---characters/allies/vael)
+- **Day 33:** Arrive at [Spring Court](/06---factions/spring-court), meet [Faela Mossheart](/02---characters/allies/faela-mossheart), rest at the Moonlit Hearth tavern
 - **Day 34:** Travel to the Spring Leyline Temple, investigate corruption, fight Bodak and other undead, find note from [Manus](/02---characters/adversaries/manus) detailing the Cult’s endgame
-- **Day 35**: Journey to the Chained Library, learn critical information about repairing the barrier and discover [Vidrir](/02---characters/allies/vidrir)'s true identity as the Knight of Ravens and leader of the Order of Seasons.
+- **Day 35**: Journey to the [Chained Library](/06---factions/chained-library), learn critical information about repairing the barrier and discover [Vidrir](/02---characters/allies/vidrir)'s true identity as the Knight of Ravens and leader of the [Order of Seasons](/06---factions/order-of-seasons).
 - **Day 36:** Visit [Vidrir](/02---characters/allies/vidrir) to debrief about Summer’s Edge, learn [Vidrir](/02---characters/allies/vidrir) is Odin and maintaining [Nidhogg](/02---characters/adversaries/nidhogg)’s seal, visit Tannis
 - **Day 37:** Close Hollow Threshold (Plane of Air theme) 

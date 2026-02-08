@@ -16,7 +16,7 @@ Thank you all for your thoughtful responses! Here’s a quick summary of what I 
 Everyone wants to keep playing in the world we’ve built together. There’s strong interest in seeing through key arcs like the [Weaver](/02---characters/adversaries/weaver)’s legacy, Summer’s Edge, and the threat of the Cult. That’s awesome to hear.
 
 **Character Arcs: Mythic Moments Ahead**  
-Two of you are excited about giving your current characters big, dramatic conclusions. One is undecided but open, and one wants to continue with their current PC long-term. We’ll be planning for [Shad](/02---characters/main-party/shadicar)’s exit in a way that’s emotionally powerful and opens the door for a new character connected to factions like the Chained Library or Massa’ista.
+Two of you are excited about giving your current characters big, dramatic conclusions. One is undecided but open, and one wants to continue with their current PC long-term. We’ll be planning for [Shad](/02---characters/main-party/shadicar)’s exit in a way that’s emotionally powerful and opens the door for a new character connected to factions like the [Chained Library](/06---factions/chained-library) or [Massa’ista](/06---factions/massaista).
 
 **Pacing & Time Skips**  
 There’s shared interest in tightening the pacing. A few of you said you’d be happy to skip or fast-forward through less important beats to focus on the big scenes. We’ll look for moments where we can do short time skips, montages, or jump-cuts to make the story feel more cinematic while still honoring slower roleplay when it matters.

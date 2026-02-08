@@ -46,14 +46,14 @@ created: 2023-10-18
 - [ ] Enter the feywild
 - [ ] Three satyrs are having a contest using several musical instruments. The organize any watchers to help support them in a group round
 - [x] See a Bandersnatch tear a hole in reality and step through to our plane; wandered off into the forest
-- [x] Visit the winter court outpost
+- [x] Visit the [winter court](/06---factions/winter-court) outpost
 
 # Secret and Clues
 
 - [x] There is another standing stone near the giant silver maple tree
 - [ ] The stand stones can be used for rapid transit via the ley lines that connect them
 - [x] The veil between this world and the feywild is thinning, which is how the Bandersnatch got here
-- [ ] The [Bandersnatch](/02---characters/monsters/bandersnatch) poisioned a winter court member and they need a poision gland to craft an antidote.
+- [ ] The [Bandersnatch](/02---characters/monsters/bandersnatch) poisioned a [winter court](/06---factions/winter-court) member and they need a poision gland to craft an antidote.
 - [ ] [Serenity](/02---characters/adversaries/serenity) did cross into the feywild
 
 # Fantastic Locations
@@ -63,7 +63,7 @@ created: 2023-10-18
 _Link to fantastic locations. Use the @ symbol to internally link to a Location page._
 
 - Feywild crossing
-- Winter court outpost in the enchanted forest
+- [Winter court](/06---factions/winter-court) outpost in the enchanted forest
     - Giant silver tree location
 
 # NPCs
@@ -75,7 +75,7 @@ NPC link. _Use the @ symbol to internally link to an NPC page._
 - [Vidrir](/02---characters/allies/vidrir)
 - [Serenity](/02---characters/adversaries/serenity)
 - [Weaver](/02---characters/adversaries/weaver)
-- Winter court eladrin
+- [Winter court](/06---factions/winter-court) eladrin
 
 # Monsters
 

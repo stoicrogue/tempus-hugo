@@ -14,7 +14,7 @@ created: 2025-09-17
 
 ## 🔑 Secrets & Clues 
 
-- [x] Cult of the Eclipse placed a [Bodak](/02---characters/monsters/bodak) inside the leyline crystal chamber of the Spring Temple, causing disruption to the barrier in the area.
+- [x] [Cult of the Eclipse](/06---factions/cult-of-the-eclipse) placed a [Bodak](/02---characters/monsters/bodak) inside the leyline crystal chamber of the Spring Temple, causing disruption to the barrier in the area.
 - [x] Mocking note from [Manus](/02---characters/adversaries/manus) hidden in Bodak's robes: [Bodak Note](/04---items/bodak-note)
 - [ ] [Skreek](/02---characters/main-party/skreek)'s royal egg is being used as a Hollow Threshold anchor for a plane of air themed threshold.
 - [ ] The Ashen Shrine is a location where the [Chained Library](/06---factions/chained-library) can be accessed - north side of **Mount Vesithar**
@@ -60,5 +60,5 @@ created: 2025-09-17
 
 - Defeated the Bodak encounter
 - Found note from [Manus](/02---characters/adversaries/manus) detailing the [Weaver](/02---characters/adversaries/weaver)’s plan to execute his ritual at the next new moon (~10 days time) → [Bodak Note](/04---items/bodak-note) 
-- Went back to the Spring court and rested.
+- Went back to the [Spring court](/06---factions/spring-court) and rested.
 - Planned to meet [Vael](/02---characters/allies/vael) in the morning to travel to the entrance to the [Chained Library](/06---factions/chained-library)

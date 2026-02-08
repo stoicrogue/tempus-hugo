@@ -44,7 +44,7 @@ created: 2025-02-19
 
 _Check off when revealed._
 
-- [ ] The ruling family of the summer court has worshiped the Dusk Lord for generations
+- [ ] The ruling family of the [summer court](/06---factions/summer-court) has worshiped the Dusk Lord for generations
 
 # Fantastic Locations
 
@@ -105,7 +105,7 @@ The satyrs challenge the party to a drinking contest, promising the winner a rar
 
 A satyr offers to grant the party a single night of pure, unbridled joy and celebration in exchange for a future favor.
 
-- "Simply deliver this sealed letter to the Winter Court. Don't worry about what's inside..."
+- "Simply deliver this sealed letter to the [Winter Court](/06---factions/winter-court). Don't worry about what's inside..."
 - "Help us play a harmless prank on a rival pixie court by switching their magical mushrooms with our special batch"
 - "When you hear the sound of pipes at midnight three days hence, you must dance until dawn, no matter where you are"
 - "Promise to tell three carefully crafted lies to the next noble you meet"
@@ -121,15 +121,15 @@ A satyr offers to grant the party a single night of pure, unbridled joy and cele
 |1|**Feywild Bloom:** The forest ahead shimmers as vibrant flowers and trees from the Feywild spontaneously sprout. A group of **pixies** are playing tricks, trying to lead the party astray. The party must either appease the pixies with a gift or pass a Charisma (Persuasion) check to be allowed safe passage. If angered, the pixies may cast confusing illusions.|
 |2|**Shadowfall Tears:** The air grows cold and the forest dims as a rift to the Shadowfell opens nearby. Emerging from the tear are **2 shadow demons** and **3 wraiths** hunting for life energy. These creatures pursue the party, aiming to drain their vitality. The party may choose to confront the creatures or flee, as closing the rift requires quick thinking or magical means.|
 |3|**Unstable Magic:** A wild magic surge ripples through the forest. The party stumbles upon an area where magic behaves unpredictably. Any spell cast within a 30-foot radius requires a roll on the **Wild Magic Surge** table (PHB p. 104). This zone is unstable, and creatures entering it must also make a Wisdom saving throw (DC 13) to resist temporary confusion.|
-|4|**Elven Refugees:** A group of elven refugees from the Summer Court is fleeing the forest’s instability. They carry valuable information about the cult’s movements and could offer aid in exchange for help reaching safety. However, they are being stalked by a **shadow mastiff** pack, and the party must either defeat the hounds or protect the elves while they escape.|
+|4|**Elven Refugees:** A group of elven refugees from the [Summer Court](/06---factions/summer-court) is fleeing the forest’s instability. They carry valuable information about the cult’s movements and could offer aid in exchange for help reaching safety. However, they are being stalked by a **shadow mastiff** pack, and the party must either defeat the hounds or protect the elves while they escape.|
 |5|**Rogue Fey Beasts:** Fey creatures from the Feywild, such as **2 eladrin archers** and their trained **dire elk**, have become corrupted by leyline magic. These once noble beings now attack anything that moves, mistaking the party for intruders. They are hostile but could be reasoned with through a difficult Charisma (Deception or Persuasion) check.|
 |6|**Blighted Grove:** The trees in this part of the forest have withered and blackened, and a dark pool of stagnant water dominates the area. The party is confronted by a **blight** infestation (1 shambling mound, 2 vine blights, 3 twig blights). The shambling mound has been affected by the weakening leyline magic and possesses strange fey-like abilities, such as teleporting through the trees.|
-|7|**Fey Court Messenger:** A **Summer Eladrin** on horseback, sent by the Summer Court, approaches the party with a cryptic message: “The forest’s heart bleeds. Time grows short. Restore balance, or all shall be lost to shadow and fire.” The eladrin vanishes after delivering the message. This encounter may give the party insight into how to stabilize the leyline.|
-|8|**Solar Elemental Surge:** A surge of unstable magic awakens a **fire elemental** and **2 radiant sprites** near the Summer Court's leyline temple. The elemental has been corrupted and now burns uncontrollably, threatening to spread through the surrounding forest. The party can either contain the flames (via water spells or natural means) or engage in combat to quell the elemental’s fury.|
+|7|**Fey Court Messenger:** A **Summer Eladrin** on horseback, sent by the [Summer Court](/06---factions/summer-court), approaches the party with a cryptic message: “The forest’s heart bleeds. Time grows short. Restore balance, or all shall be lost to shadow and fire.” The eladrin vanishes after delivering the message. This encounter may give the party insight into how to stabilize the leyline.|
+|8|**Solar Elemental Surge:** A surge of unstable magic awakens a **fire elemental** and **2 radiant sprites** near the [Summer Court](/06---factions/summer-court)'s leyline temple. The elemental has been corrupted and now burns uncontrollably, threatening to spread through the surrounding forest. The party can either contain the flames (via water spells or natural means) or engage in combat to quell the elemental’s fury.|
 |9|**Haunted Ruins:** The party discovers ancient elven ruins, now haunted by **4 specters** and **1 banshee**. These spirits were once temple guards, but the leyline damage has bound them to the ruins. They may attempt to communicate with the party if a ritual of peace is performed, offering clues about the leyline’s original purpose.|
-|10|**Fey Ambush: Quicklings** and **darklings** aligned with the Cult of the Eclipse ambush the party as they travel. These creatures attempt to steal the party’s valuables, particularly any magical items or leyline-related artifacts they carry. The quicklings use their speed to dart in and out of combat, while the darklings strike from the shadows.|
+|10|**Fey Ambush: Quicklings** and **darklings** aligned with the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse) ambush the party as they travel. These creatures attempt to steal the party’s valuables, particularly any magical items or leyline-related artifacts they carry. The quicklings use their speed to dart in and out of combat, while the darklings strike from the shadows.|
 |11|**Sunfire Tree Guardians:** A grove of ancient, golden trees begins to glow with intense light as **2 awakened trees** and **4 dryads** rise to protect the forest. They are suspicious of outsiders, believing the party may be the source of the forest’s instability. Through a Wisdom (Insight) check, the party can convince them of their good intentions or be forced to defend themselves.|
-|12|**Cult Scout:** The party encounters a **lone scout from the Cult of the Eclipse**, hiding in the trees and observing them from afar. The scout may attempt to lure the party into a trap or retreat to inform his superiors. If captured, the scout can be interrogated to reveal the cult’s next move in the forest. Alternatively, he could offer a bribe to be released.|
+|12|**Cult Scout:** The party encounters a **lone scout from the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse)**, hiding in the trees and observing them from afar. The scout may attempt to lure the party into a trap or retreat to inform his superiors. If captured, the scout can be interrogated to reveal the cult’s next move in the forest. Alternatively, he could offer a bribe to be released.|
 
 ## Session Notes
 

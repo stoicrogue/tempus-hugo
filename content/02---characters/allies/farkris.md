@@ -16,7 +16,7 @@ cssclasses: []
 - **Name:** Lord Thalorin, the Lord of Autumn
 - **Race:** Autumn Eladrin
 - **Age:** Centuries old, with the wisdom and experience of many lifetimes
-- **Title:** Lord of the Autumn Court
+- **Title:** Lord of the [Autumn Court](/06---factions/autumn-court)
 - **Reputation:** Renowned as a legendary diplomat and negotiator, respected by allies and adversaries alike
 
 ### Physical Appearance
@@ -24,13 +24,13 @@ cssclasses: []
 - **Features:** Lord Thalorin has sharp, angular features that exude both wisdom and authority. His eyes are a deep, warm amber, reflecting the golden hues of autumn leaves. His gaze is piercing yet compassionate, capable of discerning truth and intention.
 - **Hair:** His hair is long and flowing, a rich auburn color that shimmers with golden highlights, reminiscent of autumn foliage. It is often worn loose or elegantly braided.
 - **Attire:** Thalorin dresses in robes of deep red, gold, and brown, the colors of the autumn season. His clothing is finely crafted, adorned with intricate patterns of leaves and vines. A cloak of autumn leaves drapes over his shoulders, enchanted to shift colors with the changing light.
-- **Accessories:** He wears a circlet of intertwined branches and leaves, signifying his status as the Lord of Autumn. A pendant shaped like a golden leaf hangs around his neck, an ancient artifact of the Autumn Court.
+- **Accessories:** He wears a circlet of intertwined branches and leaves, signifying his status as the Lord of Autumn. A pendant shaped like a golden leaf hangs around his neck, an ancient artifact of the [Autumn Court](/06---factions/autumn-court).
 
 ### Personality
 
 - **Diplomatic and Wise:** Thalorin is a master of words and persuasion, always seeking peaceful resolutions and understanding. He speaks with eloquence and thoughtfulness, considering the perspectives of all parties involved.
 - **Calm and Compassionate:** He exudes a sense of calm and patience, even in the face of conflict. His compassion for all living beings is evident in his actions and decisions.
-- **Resilient and Determined:** Despite his gentle demeanor, Thalorin possesses a steely resolve. He has faced countless challenges and remains steadfast in his duty to protect the Autumn Court and its allies.
+- **Resilient and Determined:** Despite his gentle demeanor, Thalorin possesses a steely resolve. He has faced countless challenges and remains steadfast in his duty to protect the [Autumn Court](/06---factions/autumn-court) and its allies.
 
 ### Abilities
 

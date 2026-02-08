@@ -16,15 +16,15 @@ created: 2023-07-16
 ## 🛡️ _Rescue the Blacksmith’s Daughter_
 
 - **Tracked the captors north**, crossing into the enchanted Elven forest and finding a strange **obsidian standing stone** with a vision of landmarks to the NW and SE.
-- Discovered an **ancient tomb of the Order of Seasons**, a knightly group sworn to fight darkness.
-- Rescued Winry from a **dark ritual** conducted by goblins and a bugbear of the **Cult of the Eclipse**, who served a mysterious “Lady of the Eclipse.”
+- Discovered an **ancient tomb of the [Order of Seasons](/06---factions/order-of-seasons)**, a knightly group sworn to fight darkness.
+- Rescued Winry from a **dark ritual** conducted by goblins and a bugbear of the **[Cult of the Eclipse](/06---factions/cult-of-the-eclipse)**, who served a mysterious “Lady of the Eclipse.”
 - Retrieved a **Cult medallion** marked with the phrase: _“Darkness will descend once again.”_
 - Found a **hidden chamber of five knights**, and recovered magical gear and the **broken pieces of a longsword** marked with solar and avian symbols — possibly a legendary weapon.
 - Returned Winry to her father, **receiving custom magical gear** and a promise from Sig to call in a future favor.
 
 ## 🌒 _The Darkness Falls on Tannis_
 
-- **Shared findings with [Lerissa](/02---characters/allies/lerissa)**, who revealed legends of the _Knight of Ravens_, a hero of the Order of Seasons. She directed the party to seek the sage **[Vidrir](/02---characters/allies/vidrir)** in the Shimmerwood, suggesting they bring a cask of her ale as a goodwill offering.
+- **Shared findings with [Lerissa](/02---characters/allies/lerissa)**, who revealed legends of the _Knight of Ravens_, a hero of the [Order of Seasons](/06---factions/order-of-seasons). She directed the party to seek the sage **[Vidrir](/02---characters/allies/vidrir)** in the Shimmerwood, suggesting they bring a cask of her ale as a goodwill offering.
 - Noted strange celestial behavior: **half the stars missing** from the night sky.
 - **Woke to panic** — the village engulfed in **magical darkness** impenetrable by light or darkvision.
 - Fought off **shadowy hands** trying to drag villagers into the abyss and discovered a **magical barrier** trapping the town.
@@ -40,7 +40,7 @@ created: 2023-07-16
 
 - **Used the [Arbiter](/02---characters/allies/arbiter)’s holy mark** to leave Tannis and travel through the Shimmerwood.
 - **Met the sage [Vidrir](/02---characters/allies/vidrir)**, a friendly ally of [Lerissa](/02---characters/allies/lerissa) with mysterious insight and purple-winged raven familiars.
-- [Vidrir](/02---characters/allies/vidrir) confirmed the broken sword is **Summer’s Edge**, a legendary blade once wielded by the Summer Court’s champion during the great war against the undead. Only **elven master smiths** could hope to reforge it.
+- [Vidrir](/02---characters/allies/vidrir) confirmed the broken sword is **Summer’s Edge**, a legendary blade once wielded by the [Summer Court](/06---factions/summer-court)’s champion during the great war against the undead. Only **elven master smiths** could hope to reforge it.
 - Revealed the **Eclipse medallion** was magically **trackable**, with the signal leading northwest.
 - [Skreek](/02---characters/main-party/skreek) inquired about his stolen relic; [Vidrir](/02---characters/allies/vidrir) mentioned rumors of **djinn in the southern desert** searching for elemental artifacts.
 - When [Vidrir](/02---characters/allies/vidrir) held Summer’s Edge, it **reacted faintly**, hinting at a dormant soul within the blade.
@@ -49,7 +49,7 @@ created: 2023-07-16
 
 - Tracked the medallion’s signal northwest, coinciding with [Slumpet](/02---characters/main-party/slumpet-zoommimist)’s vision of the **silver maple** seen through the standing stone.
 - **[Slumpet](/02---characters/main-party/slumpet-zoommimist) befriended Fannie the pixie**, who warned of a **colorless region of forest** growing eerily still.
-- Fannie asked for help rescuing kidnapped pixies from **Darklings** allied with the **Cult of the Eclipse**.
+- Fannie asked for help rescuing kidnapped pixies from **Darklings** allied with the **[Cult of the Eclipse](/06---factions/cult-of-the-eclipse)**.
 - **[Toby](/02---characters/main-party/toby), turned into a dinosaur by Fannie**, rampaged through the cultist camp. The party rescued the pixies and recovered:
     - Cult religious texts referencing a “**Great Shadow**”
     - Two **Daggers of Darkness**
@@ -72,17 +72,17 @@ created: 2023-07-16
 
 - Returned to **[Vidrir](/02---characters/allies/vidrir)’s grove** to rest and regroup. [Francis](/02---characters/allies/francis-the-flameskull) the Flameskull was **repelled by undead wards**, revealing [Vidrir](/02---characters/allies/vidrir)’s home was protected against such creatures.
 - [Vidrir](/02---characters/allies/vidrir) examined **[Serenity](/02---characters/adversaries/serenity)’s dark orb**, identifying it as a **seeing stone**—useful for communication, tracking, and divination.
-- He grew deeply alarmed when learning [Serenity](/02---characters/adversaries/serenity) had contacted **[Nidhogg](/02---characters/adversaries/nidhogg)**, the shadow dragon sealed in the **Shadowfell** by the Order of Seasons during a great war centuries ago.
+- He grew deeply alarmed when learning [Serenity](/02---characters/adversaries/serenity) had contacted **[Nidhogg](/02---characters/adversaries/nidhogg)**, the shadow dragon sealed in the **Shadowfell** by the [Order of Seasons](/06---factions/order-of-seasons) during a great war centuries ago.
 - [Vidrir](/02---characters/allies/vidrir)’s cryptic remarks hinted he may have **personally fought in that war**, revealing a depth of history and power previously unspoken.
-- Advised the party to seek out the **Winter Court** for further knowledge of [Nidhogg](/02---characters/adversaries/nidhogg), the orb, and the reforging of **Summer’s Edge**. He gifted them his **Order of Seasons medallion** to gain an audience with the Lady of Winter.
+- Advised the party to seek out the **[Winter Court](/06---factions/winter-court)** for further knowledge of [Nidhogg](/02---characters/adversaries/nidhogg), the orb, and the reforging of **Summer’s Edge**. He gifted them his **[Order of Seasons](/06---factions/order-of-seasons) medallion** to gain an audience with the Lady of Winter.
 
 ## ❄️ _First Contact with the Winter Court_
 
 - Traveled north toward the **silver maple** tree. En route, the party:
     - Defeated a **Redcap assassin** hired to stop them.
     - Spotted a **strange feline predator** tearing holes in reality and avoided its path.
-- Found a **Winter Court standing stone** and made peaceful contact with **elven rangers** by showing [Vidrir](/02---characters/allies/vidrir)’s medallion.
-- Arrived at the **Winter Court embassy**, a well-kept elven village with shops, an inn (_The Restful Buck_), and a faint sci-fi aesthetic powered by blue crystal tech.
+- Found a **[Winter Court](/06---factions/winter-court) standing stone** and made peaceful contact with **elven rangers** by showing [Vidrir](/02---characters/allies/vidrir)’s medallion.
+- Arrived at the **[Winter Court](/06---factions/winter-court) embassy**, a well-kept elven village with shops, an inn (_The Restful Buck_), and a faint sci-fi aesthetic powered by blue crystal tech.
 - [Shad](/02---characters/main-party/shadicar) performed at the inn, and the party learned:
     - The Lady of Winter was **[Alora](/02---characters/allies/alora)**.
     - Her daughter, **Olivia**, had recently been **poisoned**—possibly by a creature called a **Bandersnatch**.
@@ -142,7 +142,7 @@ created: 2023-07-16
 
 ## 🧭 _Reporting to Alora and Discovering the Larger Plan_
 
-- Returned to the Winter Court and reported both:
+- Returned to the [Winter Court](/06---factions/winter-court) and reported both:
     - [Serenity](/02---characters/adversaries/serenity)’s permanent defeat
     - The **damaged leyline crystal**
 - [Alora](/02---characters/allies/alora) was troubled by the crack but **didn’t know how to repair it**.
@@ -150,19 +150,19 @@ created: 2023-07-16
     - When attuned to an **obsidian standing stone**, it allows teleportation between attuned stones.
 - The next morning, **Arch Magus Levi** joined [Alora](/02---characters/allies/alora) in briefing the party:
     - The **barrier is anchored by four leyline temples**, one in each seasonal domain.
-    - **[Alora](/02---characters/allies/alora)’s mother’s journal** referenced an ancient site called **The Chained Library**, likely the original source of the barrier ritual.
-    - The Chained Library may still exist and may **seek out forbidden artifacts** like the orb.
+    - **[Alora](/02---characters/allies/alora)’s mother’s journal** referenced an ancient site called **The [Chained Library](/06---factions/chained-library)**, likely the original source of the barrier ritual.
+    - The [Chained Library](/06---factions/chained-library) may still exist and may **seek out forbidden artifacts** like the orb.
 - During this meeting, **[Slumpet](/02---characters/main-party/slumpet-zoommimist) stole a map of the Dwarven capital** from [Alora](/02---characters/allies/alora)’s desk, raising questions about her connection to the Dwarves.
 
 ## 🍂 _Journey to the Autumn Court_
 
 - On the road east, the party was **ambushed by fey thieves** (Quicklings and Aridni), but prevailed and recovered stolen coin.
-- Discovered a **Torii gate and standing stone** at the tranquil entrance to the **Autumn Court**.
+- Discovered a **Torii gate and standing stone** at the tranquil entrance to the **[Autumn Court](/06---factions/autumn-court)**.
 
 ## 🍁 _Darkness at the Fall Festival_
 
 - Arrived during a seasonal festival at the **Aki Matsuri beer garden**, hosted by the **earth genasi monk [Hencelle](/02---characters/allies/hencelle)**, the "Master of Feasts."
-- Befriended **Ali**, a bounty hunter working for the secretive information guild , the **Massa’Ista**; his captive **Arden** may help identify magic items.
+- Befriended **Ali**, a bounty hunter working for the secretive information guild , the **[Massa’Ista](/06---factions/massaista)**; his captive **Arden** may help identify magic items.
 - **[Xolthos](/02---characters/adversaries/xolthos-omenspeaker), a black dragonborn sorcerer and agent of the Eclipse**, disrupted the festival with an ominous speech:
     - Proclaimed the **return of [Nidhogg](/02---characters/adversaries/nidhogg)**
     - Warned of more **attacks on leyline temples**
@@ -174,12 +174,12 @@ created: 2023-07-16
     - **Magic staff**
 - Found a **letter from the [Weaver](/02---characters/adversaries/weaver)**, confirming:
     - The **Winter leyline crystal** was already damaged
-    - The **Summer Court’s leyline** is the **next target**
+    - The **[Summer Court](/06---factions/summer-court)’s leyline** is the **next target**
     - All **marked by the Dusk Lord** are enemies
 
 ## 🧠 _Audience with Farkris & Entry to the Autumn Temple_
 
-- Gained an audience with **Lord Farkris**, leader of the Autumn Court:    
+- Gained an audience with **Lord Farkris**, leader of the [Autumn Court](/06---factions/autumn-court):    
     - Regretted failing to make peace with [Nidhogg](/02---characters/adversaries/nidhogg) centuries ago
     - Shocked to learn the barrier is weakening — [Alora](/02---characters/allies/alora) had not warned him
     - Granted permission to explore the **Autumn Leyline Temple**
@@ -215,10 +215,10 @@ created: 2023-07-16
 
 ## ☀️ _Arrival in the Summer Court_
 
-- After leaving the ancient battlefield, the party reached the **Summer Court**, known for its **competitive culture** and bold street food.
+- After leaving the ancient battlefield, the party reached the **[Summer Court](/06---factions/summer-court)**, known for its **competitive culture** and bold street food.
 - Discovered a **standing stone near the coliseum** and attuned it for teleportation.
 - Visited **Ember’s Embrace**, a lively inn run by **Serra Flamekissed**, a fire genasi who introduced them to **flaming shots**.
-- The next day, met with **Lady Sylvia** of the Summer Court, who asked them to check on the **Summer Leyline Temple**.
+- The next day, met with **Lady Sylvia** of the [Summer Court](/06---factions/summer-court), who asked them to check on the **Summer Leyline Temple**.
 
 ## 🔥 _Summer Temple Sabotage and the Duel with Manus_
 
@@ -232,14 +232,14 @@ created: 2023-07-16
 - Back in the temple, attempts to restore the crystal failed. The **[Arbiter](/02---characters/allies/arbiter) suggested** it might be **tainted** or need a **ritual**.
 - [Shad](/02---characters/main-party/shadicar) used **Contact Other Plane** to reach **Maria**, [Alora](/02---characters/allies/alora)’s mother:
     - **Party cannot fix the crystal**
-    - **Summer Court lacks the means**
-    - **Chained Library holds the answers**
-    - **Winter Court knows nothing**
+    - **[Summer Court](/06---factions/summer-court) lacks the means**
+    - **[Chained Library](/06---factions/chained-library) holds the answers**
+    - **[Winter Court](/06---factions/winter-court) knows nothing**
     - **The center of Elven territory may help**
 
 ## 🔄 _The Broken Loop and the Merchant of Secrets_
 
-- While returning to the Summer Court, the party entered a **temporal loop** in the forest:
+- While returning to the [Summer Court](/06---factions/summer-court), the party entered a **temporal loop** in the forest:
     - Experienced **repeating scenery**, **time distortions**, and **deja vu**
     - Noticed signs of the **escaped basilisk** from Kharvax’s failed ritual
 - Discovered **[Blackbird](/02---characters/allies/blackbird)**, a **raven-like eldritch merchant** who trades in **secrets and contracts**.
@@ -251,7 +251,7 @@ created: 2023-07-16
 
 ## ⚔️ _Back in the Summer Court: Reforging Summer’s Edge_
 
-- After escaping the forest loop, the party returned to the **Summer Court**, where they:
+- After escaping the forest loop, the party returned to the **[Summer Court](/06---factions/summer-court)**, where they:
     - Fulfilled night 1 of **[Blackbird](/02---characters/allies/blackbird)’s drink contract** (98 drinks = 19gp)
     - [Shad](/02---characters/main-party/shadicar) tried (and failed) to perform badly enough to clear the tavern
 - Met with **Lady Sylvia**, who:
@@ -312,7 +312,7 @@ created: 2023-07-16
     - Each strike spawned **animated flesh clones**
     - After a difficult battle, the party continued upward
 - At the mountain peak, **[Skreek](/02---characters/main-party/skreek) beheld a vision** while holding the shards of **Summer’s Edge**:
-    - A memory of the sword being gifted to a champion by the **Queen of the Summer Court**
+    - A memory of the sword being gifted to a champion by the **Queen of the [Summer Court](/06---factions/summer-court)**
     - A battlefield vision disrupted by darkness and shattering fragments
 - In the distance, the party saw a **twisted black castle**—gothic, shifting, and _watching_—which hadn’t been there a moment ago... or perhaps always had.
 - At a **ceremonial altar**, [Slumpet](/02---characters/main-party/slumpet-zoommimist) placed [Elara](/02---characters/allies/elara-sunforge)’s device to capture the sun’s essence.
@@ -376,11 +376,11 @@ created: 2023-07-16
 - Exploring further, they discovered a hidden stairwell behind a tapestry, leading to an ancient chamber of quartz-veined stone beneath the castle.
 - At its center stood an obsidian standing stone—identical to others they had seen—surrounded by a dormant teleportation circle. [Skreek](/02---characters/main-party/skreek) recognized the design from his homeland.
 - The patchwork guardian returned, proclaiming the party the new owners of the castle. They named him “Jeeves,” and he pledged to restore the structure and shape it to their needs.
-- [Slumpet](/02---characters/main-party/slumpet-zoommimist) attuned their Leyline Gate Ring to the stone, and the party used it to return to the Summer Court.
+- [Slumpet](/02---characters/main-party/slumpet-zoommimist) attuned their Leyline Gate Ring to the stone, and the party used it to return to the [Summer Court](/06---factions/summer-court).
 
 ## 🔨 _Reforging Summer’s Edge_
 
-- [Elara](/02---characters/allies/elara-sunforge) welcomed the party back to the Summer Court, relieved after their long absence. The lingering Feywild magic faded, restoring the group to normal.
+- [Elara](/02---characters/allies/elara-sunforge) welcomed the party back to the [Summer Court](/06---factions/summer-court), relieved after their long absence. The lingering Feywild magic faded, restoring the group to normal.
 - She confirmed the party had retrieved the “First Kiss of the Midday Sun” and led them to an ancient leyline forge beneath her shop.
 - Using the sun’s essence and celestial ore, [Elara](/02---characters/allies/elara-sunforge) reforged the legendary blade with reverence. At the final strike, she offered the completed weapon to [Skreek](/02---characters/main-party/skreek).
 - As [Skreek](/02---characters/main-party/skreek) took up Summer’s Edge, he felt its radiant will awaken—offering a wordless vow of purpose and unity.
@@ -389,19 +389,19 @@ created: 2023-07-16
 
 ## 🌱 _On to the Spring Court_
 
-- [Shad](/02---characters/main-party/shadicar) cast **legend lore** using a purchased scroll to learn about the **Chained Library**. He saw a sand-formed vision describing it as an ancient fortress of forbidden knowledge, guarded by blind celestials. The library predates kingdoms and even some gods, never destroys texts, and is nearly impossible to reach. Hints of its location included being “among the roots beneath the seasons” or “in the vault at the world’s bloom.” Churches and pious orders may sometimes sway the librarians, but monarchs and wealth cannot.
-- [Shad](/02---characters/main-party/shadicar) and [Toby](/02---characters/main-party/toby) speculated that “the world’s bloom” might refer to the **Spring Court**.
-- At the **Summer Court colosseum**, [Skreek](/02---characters/main-party/skreek) tested Summer’s Edge in a duel, defeating the black-armored knight Adamar. The party bet on [Skreek](/02---characters/main-party/skreek)’s 4:1 odds as a newcomer and won substantial coin.
-- Traveling northwest toward the Spring Court, the group discovered a **stone portal** in a clearing. [Shad](/02---characters/main-party/shadicar) animated a dead tree to scout; it returned with a wolf biting its trunk. [Toby](/02---characters/main-party/toby) then sent [Francis](/02---characters/allies/francis-the-flameskull), who reported a sealed arena of massive trees, a second portal opposite, and an ominous altar bearing a glowing fang surrounded by wolves and an owlbear.
+- [Shad](/02---characters/main-party/shadicar) cast **legend lore** using a purchased scroll to learn about the **[Chained Library](/06---factions/chained-library)**. He saw a sand-formed vision describing it as an ancient fortress of forbidden knowledge, guarded by blind celestials. The library predates kingdoms and even some gods, never destroys texts, and is nearly impossible to reach. Hints of its location included being “among the roots beneath the seasons” or “in the vault at the world’s bloom.” Churches and pious orders may sometimes sway the librarians, but monarchs and wealth cannot.
+- [Shad](/02---characters/main-party/shadicar) and [Toby](/02---characters/main-party/toby) speculated that “the world’s bloom” might refer to the **[Spring Court](/06---factions/spring-court)**.
+- At the **[Summer Court](/06---factions/summer-court) colosseum**, [Skreek](/02---characters/main-party/skreek) tested Summer’s Edge in a duel, defeating the black-armored knight Adamar. The party bet on [Skreek](/02---characters/main-party/skreek)’s 4:1 odds as a newcomer and won substantial coin.
+- Traveling northwest toward the [Spring Court](/06---factions/spring-court), the group discovered a **stone portal** in a clearing. [Shad](/02---characters/main-party/shadicar) animated a dead tree to scout; it returned with a wolf biting its trunk. [Toby](/02---characters/main-party/toby) then sent [Francis](/02---characters/allies/francis-the-flameskull), who reported a sealed arena of massive trees, a second portal opposite, and an ominous altar bearing a glowing fang surrounded by wolves and an owlbear.
 - Entering the portal, the party fought waves of wolves and owlbears. [Shad](/02---characters/main-party/shadicar) dispelled the glowing fang, halting the summons, but [Skreek](/02---characters/main-party/skreek) was later knocked unconscious. The collapsing chamber threatened to crush them, while wild magic tried to polymorph the group into beasts (turning [Shad](/02---characters/main-party/shadicar) into a frog briefly). The party barely escaped as the pocket-realm collapsed, leaving only frost-scarred grass where the portal once stood.
-- As they caught their breath, a cloaked stranger emerged—**[Vael](/02---characters/allies/vael), Fifth Binder, Chainbearer of the Silent Vault**. He revealed he was investigating these unstable portals, which he called **Hollow Thresholds**. Created by the **Cult of the Eclipse** using planar artifacts, they were “surgical incisions” weakening the Elven barrier by siphoning leyline power.
-- [Skreek](/02---characters/main-party/skreek) guessed correctly that [Vael](/02---characters/allies/vael) was tied to the **Chained Library**. [Vael](/02---characters/allies/vael) admitted as much and offered to lead them to the Library in exchange for dangerous artifacts: [Serenity](/02---characters/adversaries/serenity)’s orb and the newly recovered fang. A compromise was struck: the party gave him the fang now and promised to relinquish the orb upon reaching the Library’s entrance.
-- After healing, the party continued to the **giant birch tree** marking Spring Court territory. [Slumpet](/02---characters/main-party/slumpet-zoommimist) attuned the Leyline Gate Ring at the nearby standing stone. They made camp beneath the tree, resting before completing their journey into Spring lands.
+- As they caught their breath, a cloaked stranger emerged—**[Vael](/02---characters/allies/vael), Fifth Binder, Chainbearer of the Silent Vault**. He revealed he was investigating these unstable portals, which he called **Hollow Thresholds**. Created by the **[Cult of the Eclipse](/06---factions/cult-of-the-eclipse)** using planar artifacts, they were “surgical incisions” weakening the Elven barrier by siphoning leyline power.
+- [Skreek](/02---characters/main-party/skreek) guessed correctly that [Vael](/02---characters/allies/vael) was tied to the **[Chained Library](/06---factions/chained-library)**. [Vael](/02---characters/allies/vael) admitted as much and offered to lead them to the Library in exchange for dangerous artifacts: [Serenity](/02---characters/adversaries/serenity)’s orb and the newly recovered fang. A compromise was struck: the party gave him the fang now and promised to relinquish the orb upon reaching the Library’s entrance.
+- After healing, the party continued to the **giant birch tree** marking [Spring Court](/06---factions/spring-court) territory. [Slumpet](/02---characters/main-party/slumpet-zoommimist) attuned the Leyline Gate Ring at the nearby standing stone. They made camp beneath the tree, resting before completing their journey into Spring lands.
 
 ## 🌸 _Welcome to the Spring Court_
 
-- **[Vael](/02---characters/allies/vael) guided the party** toward the Spring Court, describing it as a realm of **renewal, new beginnings, and acceptance**. He suggested visiting the **Moonlit Hearth tavern** to sample the legendary tea.
-- The Spring Court is led by **[Faela Mossheart](/02---characters/allies/faela-mossheart)**, the High Druid, known for her deep connection to nature and the cycles of growth.
+- **[Vael](/02---characters/allies/vael) guided the party** toward the [Spring Court](/06---factions/spring-court), describing it as a realm of **renewal, new beginnings, and acceptance**. He suggested visiting the **Moonlit Hearth tavern** to sample the legendary tea.
+- The [Spring Court](/06---factions/spring-court) is led by **[Faela Mossheart](/02---characters/allies/faela-mossheart)**, the High Druid, known for her deep connection to nature and the cycles of growth.
 - At the **Moonlit Hearth**, the party met **[Seraphina Moonglow](/02---characters/allies/seraphina-moonglow)**, the proprietor:
     - Shadâ€™s allergies flared up upon arrival, but [Seraphina](/02---characters/allies/seraphina-moonglow) brewed him a **cleansing tea** that cured them completely.
     - [Toby](/02---characters/main-party/toby) traded a moonstone for drinks, impressing [Seraphina](/02---characters/allies/seraphina-moonglow) with fruit wine and tea for the group.
@@ -416,7 +416,7 @@ created: 2023-07-16
 - The next morning, **[Skreek](/02---characters/main-party/skreek) summoned a warhorse** instead of his usual camel. The party met [Faela](/02---characters/allies/faela-mossheart) in the garden and set out for the temple.
 - The journey was surreal: the forest **opened a path wherever [Faela](/02---characters/allies/faela-mossheart) walked**, and **wildflowers bloomed in her footsteps**.
 - When the party teased [Faela](/02---characters/allies/faela-mossheart) about needing protection due to her age, she **wildshape into a sabertooth tiger** and continued through the forest without missing a beat.
-- Upon arrival, they found the forest around the temple **withering and corrupted**, a stark contrast to the vibrant Spring Court.
+- Upon arrival, they found the forest around the temple **withering and corrupted**, a stark contrast to the vibrant [Spring Court](/06---factions/spring-court).
 - [Faela](/02---characters/allies/faela-mossheart) asked each party member to **plant a magical seed** as a personal vow:
     - **[Shad](/02---characters/main-party/shadicar)**: _"Make the world better through music."_
     - **[Skreek](/02---characters/main-party/skreek)**: _"Restore order by retrieving the stolen artifact of my people."_
@@ -436,12 +436,12 @@ created: 2023-07-16
     - **[Faela](/02---characters/allies/faela-mossheart) focused on healing** while the party fought
 - After a hard-won victory, **[Slumpet](/02---characters/main-party/slumpet-zoommimist) found a note** sewn into the Bodak's robes, written by **[Manus](/02---characters/adversaries/manus)**:
     - The undead were placed as a **test for the party**
-    - The Cult of the Eclipse was **frustrated by the party's continued success**
+    - The [Cult of the Eclipse](/06---factions/cult-of-the-eclipse) was **frustrated by the party's continued success**
     - They were **accelerating their timeline**: instead of waiting for the **winter solstice**, they would perform the **final ritual on the next new moon** (~10 days away)
     - [Manus](/02---characters/adversaries/manus) hinted that the party was becoming **more interesting than the [Weaver](/02---characters/adversaries/weaver)** and hoped they would attempt to stop the ritual at the **ancient battlefield where [Nidhogg](/02---characters/adversaries/nidhogg) was sealed**
 - The party also found **gold and a vial of Oil of Etherealness**â€"likely how [Manus](/02---characters/adversaries/manus) snuck the Bodak into the chamber.
-- **[Faela](/02---characters/allies/faela-mossheart) confirmed** the Bodak was the source of the corruption affecting the forest. She escorted the party back to the Spring Court.
-- The party took a **long rest** and prepared to journey with **[Vael](/02---characters/allies/vael)** to the **Chained Library entrance** the next morning, seeking answers about repairing the Elven barrier.
+- **[Faela](/02---characters/allies/faela-mossheart) confirmed** the Bodak was the source of the corruption affecting the forest. She escorted the party back to the [Spring Court](/06---factions/spring-court).
+- The party took a **long rest** and prepared to journey with **[Vael](/02---characters/allies/vael)** to the **[Chained Library](/06---factions/chained-library) entrance** the next morning, seeking answers about repairing the Elven barrier.
 
 ## ⛰️ _The Ashen Shrine_
 
@@ -449,8 +449,8 @@ created: 2023-07-16
     - The locations of **leylines throughout the Elven forest**
     - The **four seasonal leyline temples**
     - **Four Hollow Threshold locations** (the planar rifts created by the Cult)
-- **[Vael](/02---characters/allies/vael)** advised the party that a **Hollow Threshold tied to the elemental plane of air** was open to the west, within **Winter Court territory**.
-- [Vael](/02---characters/allies/vael) led them to the **Ashen Shrine**, located at the base of **Mount Vesithar**â€"the entrance to the Chained Library.
+- **[Vael](/02---characters/allies/vael)** advised the party that a **Hollow Threshold tied to the elemental plane of air** was open to the west, within **[Winter Court](/06---factions/winter-court) territory**.
+- [Vael](/02---characters/allies/vael) led them to the **Ashen Shrine**, located at the base of **Mount Vesithar**â€"the entrance to the [Chained Library](/06---factions/chained-library).
     - _"There are sanctioned gates. Places written in the margins of the world. The Ashen Shrine is one such placeâ€"a whisper of a path left open for those who do not wear the chains but have earned the Library's regard. You would not have found it unless you had already plucked the threads of fate."_ â€" [Vael](/02---characters/allies/vael)
 - **Summer's Edge** was used as a **"key"** to activate the shrine, revealing an **elevator that descended deep beneath the mountain**.
 - In the chamber below, a **chasm separated them from massive locked doors**. To prove their resolve, each party member made a **vow and sacrifice**:
@@ -463,7 +463,7 @@ created: 2023-07-16
 
 ## ⛓️ _Chained Library_
 
-- Inside the Chained Library, the party was met by **Samaris**, the **head librarian**, a black-skinned tiefling who was deeply suspicious of outsiders.
+- Inside the [Chained Library](/06---factions/chained-library), the party was met by **Samaris**, the **head librarian**, a black-skinned tiefling who was deeply suspicious of outsiders.
 - She questioned the party about their intentions. **[Vael](/02---characters/allies/vael)'s endorsement** and the party's willingness to surrender **[Serenity](/02---characters/adversaries/serenity)'s Orb** helped earn a small measure of trust.
 - Samaris insisted the party be **marked by the Eyeless Guardians**, **blind celestials** who watch over the Library, so they could be tracked during their visit.
 - **[Slumpet](/02---characters/main-party/slumpet-zoommimist)** used the Library's **card catalogue** to locate a book about the **Elven barrier**:
@@ -471,7 +471,7 @@ created: 2023-07-16
     - He learned that the barrier **can be repaired**, but it would take **several mages a month or more** to perform the full ritual
 - **[Toby](/02---characters/main-party/toby)** used her **blood magic** to locate a tome about **crystals**:
     - She discovered a location **south of the Elven forest** where the crystals used in the barrier's construction could be **mined**
-- **[Shad](/02---characters/main-party/shadicar)** used the card catalogue to find a book about the **Order of Seasons**:
+- **[Shad](/02---characters/main-party/shadicar)** used the card catalogue to find a book about the **[Order of Seasons](/06---factions/order-of-seasons)**:
     - He learned that **[Vidrir](/02---characters/allies/vidrir) once led the Order** and is **over 300 years old**
     - In fact, [Vidrir](/02---characters/allies/vidrir) was **the Knight of Ravens himself**!
 - With critical information in hand, the party departed the Library, now armed with knowledge about how to repair the barrier and stop the Cult's final ritual.

@@ -7,7 +7,7 @@ cssclasses:
   - image-borders
 ---
 > [!info] Moonlit Hearth 
-> Tavern of the Spring Court
+> Tavern of the [Spring Court](/06---factions/spring-court)
 > Owned by: [Seraphina Moonglow](/02---characters/allies/seraphina-moonglow) a half-elf mystic
 
 # The Moonlit Hearth
@@ -67,7 +67,7 @@ _Only one potent tea per guest between long rests. Effects last 1 hour unless no
 - **The [Samovar](/02---characters/allies/samovar)**, a waist-high brass kettle golem that hums in three notes and insists on wiping tables.
 	- - A **waist-high brass kettle golem** animated by a gentle **water-spirit** bound to a moonstone “heart.”
 	- He moves on three trivet feet with a soft clink-clink, vents steam through star-shaped filigree, and communicates with **three musical hums** (low = “working,” middle = “ready,” high = “warning/please don’t.”)
-	- Using a **Spring Court rite** [Faela](/02---characters/allies/faela-mossheart) once taught her—moonwater, a sliver of hearth-ember, and a spoken vow “never to boil in anger”—[Seraphina](/02---characters/allies/seraphina-moonglow) **bound** the water-spirit and set the tavern’s warding sigils in his base.
+	- Using a **[Spring Court](/06---factions/spring-court) rite** [Faela](/02---characters/allies/faela-mossheart) once taught her—moonwater, a sliver of hearth-ember, and a spoken vow “never to boil in anger”—[Seraphina](/02---characters/allies/seraphina-moonglow) **bound** the water-spirit and set the tavern’s warding sigils in his base.
 
 ## Back Garden (for those invited)
 

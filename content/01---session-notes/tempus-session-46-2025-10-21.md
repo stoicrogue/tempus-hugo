@@ -69,8 +69,8 @@ author: Mark Molea
 > **NOTE:** skipped golem encounter for pacing purposes
  
 - Enjoyed breakfast at the Moonlit Hearth.  They bought gifts for [Vidrir](/02---characters/allies/vidrir) from [Seraphina](/02---characters/allies/seraphina-moonglow) before leaving: loose leaf tea and a bottle of mead.
-- Used Leyline Gate Network to travel from Spring Court to the Order of Seasons Tomb
-	- this is technically a mistake since the party never went back to the Tomb to attune their leyline gate ring after getting the ring from [Alora](/02---characters/allies/alora). They would have needed to travel to one of the Autumn Court standing stones and progress from there.
+- Used Leyline Gate Network to travel from [Spring Court](/06---factions/spring-court) to the [Order of Seasons](/06---factions/order-of-seasons) Tomb
+	- this is technically a mistake since the party never went back to the Tomb to attune their leyline gate ring after getting the ring from [Alora](/02---characters/allies/alora). They would have needed to travel to one of the [Autumn Court](/06---factions/autumn-court) standing stones and progress from there.
 - Traveled by river from the Tomb to [Vidrir](/02---characters/allies/vidrir)’s grove using [Shad](/02---characters/main-party/shadicar)’s folding boat.  It was an easy journey down river. Spotted a unique raven along the way.  [Skreek](/02---characters/main-party/skreek) read its thoughts, which the raven allowed without resistance, learning that it was [Vidrir](/02---characters/allies/vidrir)’s familiar.  The raven told [Skreek](/02---characters/main-party/skreek) he would inform his master of their approach.
 - [Vidrir](/02---characters/allies/vidrir) appreciate the gifts and the chance to see Summer’s Edge once again.  
 - “[Vidrir](/02---characters/allies/vidrir) - The Glamour Fades” scene played out as planned.

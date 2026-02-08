@@ -28,7 +28,7 @@ The Winter Court is the most magically sophisticated of the four seasonal courts
 - **[Winter Court Outpost](/03---locations/winter-court-outpost)** — Border settlement at the edge of the winter realm. Adorned with ethereal silver banners and a towering silver maple over 100 feet tall with crystalline leaves. Ice sculptures depicting elven lore flank the entrance.
 - **The Restful Buck** — Inn and tavern within the court proper. Head bartender Jared oversees a regular poker game, a small performance stage, and an enchanted sound system. Known for excellent mulled wine.
 - **Night Garden's Circle** — Apothecary and magic shop.
-- **[Winter Leyline Temple](/03---locations/winter-leyline-temple)** — Ancient temple embedded in a hillside with a mechanical iris entrance. Contains three trial chambers culminating in the Leyline Crystal Chamber. One of six focus crystals is cracked and flickering — damaged by the Cult of the Eclipse.
+- **[Winter Leyline Temple](/03---locations/winter-leyline-temple)** — Ancient temple embedded in a hillside with a mechanical iris entrance. Contains three trial chambers culminating in the Leyline Crystal Chamber. One of six focus crystals is cracked and flickering — damaged by the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse).
 
 ---
 
@@ -37,19 +37,19 @@ The Winter Court is the most magically sophisticated of the four seasonal courts
 - Aesthetic blends elven elegance with faint blue crystal technology
 - Values magical scholarship, duty, and guardianship
 - The court carries the heaviest burden of the seasonal barrier — [Alora](/02---characters/allies/alora)'s lineage built it, and her line is responsible for its upkeep
-- Elven rangers patrol the borders and respond to the Order of Seasons medallion
+- Elven rangers patrol the borders and respond to the [Order of Seasons](/06---factions/order-of-seasons) medallion
 
 ---
 
 ## Leyline Temple Status
 
-The [Winter Leyline Temple](/03---locations/winter-leyline-temple) features a giant purple leyline crystal surrounded by six hovering arcane focus crystals. One crystal is cracked and flickering, damaged by the Cult of the Eclipse. The entrance requires proof of worthiness — blood, the Order of Seasons symbol, or a crystal leaf from the great silver maple.
+The [Winter Leyline Temple](/03---locations/winter-leyline-temple) features a giant purple leyline crystal surrounded by six hovering arcane focus crystals. One crystal is cracked and flickering, damaged by the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse). The entrance requires proof of worthiness — blood, the [Order of Seasons](/06---factions/order-of-seasons) symbol, or a crystal leaf from the great silver maple.
 
 ---
 
 ## Party History
 
-- Made peaceful contact with Winter Court rangers by showing [Vidrir](/02---characters/allies/vidrir)'s Order of Seasons medallion
+- Made peaceful contact with Winter Court rangers by showing [Vidrir](/02---characters/allies/vidrir)'s [Order of Seasons](/06---factions/order-of-seasons) medallion
 - Granted audience with [Alora](/02---characters/allies/alora) after [Skreek](/02---characters/main-party/skreek) healed Olivia from Bandersnatch poisoning
 - [Alora](/02---characters/allies/alora) revealed the weakening interplanar barrier and the four leyline temple system
 - Party hunted a Bandersnatch and received powerful magic items as reward

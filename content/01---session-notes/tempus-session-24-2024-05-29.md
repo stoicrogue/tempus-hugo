@@ -34,7 +34,7 @@ created: 2024-05-29
 
 # Strong Start
 
-- [x] The entrance to the Court of Autumn is marked by a serene river crossing. The river itself is calm and tranquil, its waters gently flowing under the vibrant shades of changing leaves. Standing majestically at the edge of the river is a grand [Torii](https://nerdnomads.com/wp-content/uploads/DSC01134.jpg) gate. With its elegant design and beautifully crafted architecture, the gate symbolizes the transition from the mortal world to the sacred realm of the Autumn Court. The sight of the Torii gate against the backdrop of the Autumn hues is a breathtaking spectacle, capturing the essence of the season in its full glory. You notice another standing stone on a small outcropping slightly to the north of the gate.
+- [x] The entrance to the Court of Autumn is marked by a serene river crossing. The river itself is calm and tranquil, its waters gently flowing under the vibrant shades of changing leaves. Standing majestically at the edge of the river is a grand [Torii](https://nerdnomads.com/wp-content/uploads/DSC01134.jpg) gate. With its elegant design and beautifully crafted architecture, the gate symbolizes the transition from the mortal world to the sacred realm of the [Autumn Court](/06---factions/autumn-court). The sight of the Torii gate against the backdrop of the Autumn hues is a breathtaking spectacle, capturing the essence of the season in its full glory. You notice another standing stone on a small outcropping slightly to the north of the gate.
 
 # Scenes
 
@@ -54,7 +54,7 @@ created: 2024-05-29
 
 - [ ] [Weaver](/02---characters/adversaries/weaver)’s tower is in the feywild
 - [x] [Massa’Ista](/06---factions/massaista) Knows how to contact agents of the [Tempus/Tempus Campaign/Campaign Database/Chained Library](/06---factions/chained-library) or how to find it
-- [x] The Cult of the Eclipse is far from dead. [Serenity](/02---characters/adversaries/serenity) was just one of its high level members
+- [x] The [Cult of the Eclipse](/06---factions/cult-of-the-eclipse) is far from dead. [Serenity](/02---characters/adversaries/serenity) was just one of its high level members
 
 # Fantastic Locations
 
@@ -96,11 +96,11 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
 
 ### Session Notes
 
-Arrived at Autumn Court
+Arrived at [Autumn Court](/06---factions/autumn-court)
 
 Met [Hencelle](/02---characters/allies/hencelle)
 
-Met bounty hunter and his prisoner; learned about the Massa’Ista and where to try to find them
+Met bounty hunter and his prisoner; learned about the [Massa’Ista](/06---factions/massaista) and where to try to find them
 
 Encountered Herald of the Eclipse when they left the tavern
 

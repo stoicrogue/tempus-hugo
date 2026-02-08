@@ -10,9 +10,9 @@ created: 2025-08-29
 ---
 ## 🗺 Scenes Overview
 
-- 🎭 **Strong Start** - Arrive at the Spring Court
+- 🎭 **Strong Start** - Arrive at the [Spring Court](/06---factions/spring-court)
 - Visit the [Spring Court](/06---factions/spring-court) and meet with [Faela Mossheart](/02---characters/allies/faela-mossheart) - encouraging, acknowledges growth and change
-- Visit the Spring Court’s tavern, the [Moonlit Hearth](/03---locations/moonlit-hearth), operated by [Seraphina Moonglow](/02---characters/allies/seraphina-moonglow)
+- Visit the [Spring Court](/06---factions/spring-court)’s tavern, the [Moonlit Hearth](/03---locations/moonlit-hearth), operated by [Seraphina Moonglow](/02---characters/allies/seraphina-moonglow)
 	- “Clarity in cups. Comfort in steam. Tell me what the road has left aching, and I’ll steep what mends.”
 - Travel to Spring Leyline Temple - massive flowering willow tree whose trunk contains the entrance
 - Plant seeds outside Temple to gain entrance. Each PC defines the nature of their personal commitment aloud.
@@ -21,10 +21,10 @@ created: 2025-08-29
 ## 🔑 Secrets & Clues 
 
 - [x] Birds avoid the area around the Spring Temple. The ground is unnaturally cold. The only flowers blooming naturally are ones planted in the ritual location. 
-- [x] Cult of the Eclipse placed a [Bodak](/02---characters/monsters/bodak) inside the leyline crystal chamber of the Spring Temple, causing disruption to the barrier in the area.
+- [x] [Cult of the Eclipse](/06---factions/cult-of-the-eclipse) placed a [Bodak](/02---characters/monsters/bodak) inside the leyline crystal chamber of the Spring Temple, causing disruption to the barrier in the area.
 - [ ] Mocking note from [Manus](/02---characters/adversaries/manus) hidden in Bodak's robes: [Bodak Note](/04---items/bodak-note)
 - [ ] [Skreek](/02---characters/main-party/skreek)'s royal egg is being used as a Hollow Threshold anchor for a plane of air themed threshold.
-- [ ] The Ashen Shrine is a location where the Chained Library can be accessed - north side of **Mount Vesithar**
+- [ ] The Ashen Shrine is a location where the [Chained Library](/06---factions/chained-library) can be accessed - north side of **Mount Vesithar**
 
 
 ## 🗡 Monsters (Spring Temple)
@@ -89,13 +89,13 @@ created: 2025-08-29
 
 - A massive **adamantine seal etched with runes and chains of radiant and shadow magic**.
 - Cannot be opened by force or conventional magic.
-- **[Vael](/02---characters/allies/vael)** offers the key—a phrase, ritual, or relic known only to the Chained Library’s agents.
+- **[Vael](/02---characters/allies/vael)** offers the key—a phrase, ritual, or relic known only to the [Chained Library](/06---factions/chained-library)’s agents.
 - The seal unbinds in **reversed time**, as if the chains were never placed—revealing a **spiral stair descending into black mist**.
 
 # 📝 Session Notes
 
 - Previous session: long rest @ tree bordering the spring territory after closing the hollow threshold.  [Slumpet](/02---characters/main-party/slumpet-zoommimist) attunes the leyline gate ring.
-- Finish journey to the Spring Court, asking [Vael](/02---characters/allies/vael) about the court on the way.  He suggests visiting the Moonlit Hearth tavern and enjoying the tea.  [Vael](/02---characters/allies/vael) tells them the spring court is all about renewal, new beginnings, and acceptance.  He also tells them the leader of the court is the high druid, [Faela Mossheart](/02---characters/allies/faela-mossheart).
+- Finish journey to the [Spring Court](/06---factions/spring-court), asking [Vael](/02---characters/allies/vael) about the court on the way.  He suggests visiting the Moonlit Hearth tavern and enjoying the tea.  [Vael](/02---characters/allies/vael) tells them the [spring court](/06---factions/spring-court) is all about renewal, new beginnings, and acceptance.  He also tells them the leader of the court is the high druid, [Faela Mossheart](/02---characters/allies/faela-mossheart).
 - The party visits the Moonlit Hearth and [Seraphina Moonglow](/02---characters/allies/seraphina-moonglow). [Shad](/02---characters/main-party/shadicar)’s allergies start acting up and [Seraphina](/02---characters/allies/seraphina-moonglow) gives him a cup of tea to cleanse him, curing his allergies.
 - [Toby](/02---characters/main-party/toby) offers one of her moonstones as barter for a round of drinks.  [Seraphina](/02---characters/allies/seraphina-moonglow) is impressed and pours fruit wine and tea for the group.  [Skreek](/02---characters/main-party/skreek) takes up [Seraphina](/02---characters/allies/seraphina-moonglow) on her offer to use her augury to answer a question: “will I find the royal artifact that was stolen from my people?”.  She answers that this he will have that chance soon.
 - The party asks a guard where the standing stone for the court is and he points them to the royal garden behind the Head Druid’s residence.  [Slumpet](/02---characters/main-party/slumpet-zoommimist) climbs the stone and attunes the leyline gate ring.

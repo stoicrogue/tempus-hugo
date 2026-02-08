@@ -14,7 +14,7 @@ cssclasses:
 
 ## Background
 
-- Vael. Fifth Binder of the Chained Library. Chainbearer of the Silent Vault
+- Vael. Fifth Binder of the [Chained Library](/06---factions/chained-library). Chainbearer of the Silent Vault
 
 ## 🌿 Notes on Vael’s Tone:
 
@@ -81,7 +81,7 @@ He knelt briefly, brushing two fingers against the frost-laced ground where the 
 > 
 > (His voice drops to barely above a whisper.)
 > 
-> "And the Cult of the Eclipse has learned this weakness. They strike on two fronts — assaulting the temples themselves when they can, yes, but also accelerating the barrier's natural decay. They create wounds where none should be, points of deliberate instability that poison the very foundations of the Matriarch's work."
+> "And the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse) has learned this weakness. They strike on two fronts — assaulting the temples themselves when they can, yes, but also accelerating the barrier's natural decay. They create wounds where none should be, points of deliberate instability that poison the very foundations of the Matriarch's work."
 > 
 > (Vael gestures toward where the portal once stood.)
 > 

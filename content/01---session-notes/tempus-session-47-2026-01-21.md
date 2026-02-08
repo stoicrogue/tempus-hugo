@@ -8,7 +8,7 @@ author: Mark Molea
 ---
 ## 🗺 Scenes Overview
 
-- [x] Travel to Winter Court and find Hollow Threshold
+- [x] Travel to [Winter Court](/06---factions/winter-court) and find Hollow Threshold
 - [x] [Hollow Threshold - Tempest Gate](/05---planning/hollow-threshold---tempest-gate)
 
 ## 🔑 Secrets & Clues
@@ -17,7 +17,7 @@ author: Mark Molea
 
 ## Cold Open
 
-> The last thing you feel is the **Winter Court’s forest**—needles and frost underfoot, air so cold it makes your lungs sting, the hush of snow-dampened sound.
+> The last thing you feel is the **[Winter Court](/06---factions/winter-court)’s forest**—needles and frost underfoot, air so cold it makes your lungs sting, the hush of snow-dampened sound.
 > 
 > You’re standing **just inside the shimmering portal or the Hollow Threshold**, the outline of the winter woods still visible behind you. Cold air spills through the opening at your back, but it’s already losing the fight. In front of you, the air is heavy with pressure and primal energy, roaring with wind that doesn’t blow past you so much as **reach for you**, tugging at cloaks and straps like impatient hands.
 > 

@@ -110,7 +110,7 @@ A maze of wet webs and grasping thorns
 
   
 
-- Traveled to the Summer Court
+- Traveled to the [Summer Court](/06---factions/summer-court)
 - Located a standing stone near the coliseum and found that there is a large forge nearby as well.
 - Planned to visit “Ember’s Embrace” tavern to rest before seeking out the Summer Leyline Temple
 

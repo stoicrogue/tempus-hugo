@@ -14,11 +14,11 @@ cssclasses:
 > [!tip] D&D Beyond Sheet
 > https://www.dndbeyond.com/characters/125398669/7WTtub
 
-- Herald of the [Weaver](/02---characters/adversaries/weaver) and the Cult of the Eclipse
+- Herald of the [Weaver](/02---characters/adversaries/weaver) and the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse)
 - Black dragonborn sorcerer
 - The omen bearer observes natural phenomenon, like a flock of crows circling a dead tree. He twists things like this as a sign of the dragon’s impending return and paints a doomsday picture, urging people to join the cult for salvation.
 
-The Herald of the Eclipse is a figure both fearsome and enigmatic, embodying the dark power and malevolent intent of the Cult of the Eclipse. As one of the cult’s main lieutenants, he commands respect and fear among his followers and strikes terror into the hearts of those who oppose him.
+The Herald of the Eclipse is a figure both fearsome and enigmatic, embodying the dark power and malevolent intent of the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse). As one of the cult’s main lieutenants, he commands respect and fear among his followers and strikes terror into the hearts of those who oppose him.
 
 ### Physical Appearance
 
@@ -40,7 +40,7 @@ The Herald of the Eclipse is a figure both fearsome and enigmatic, embodying the
 **Emblems of Power:**
 
 - **Staff:** He wields a staff crafted from dark wood, twisted and gnarled, with a large, obsidian crystal embedded at the top. The crystal pulses with an inner darkness, and runes carved into the wood glow faintly with arcane power.
-- **Amulet:** Around his neck hangs an amulet of the Cult of the Eclipse, a disk of blackened metal with an inlaid ruby, symbolizing the dragon's eye and the cult’s sinister goals.
+- **Amulet:** Around his neck hangs an amulet of the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse), a disk of blackened metal with an inlaid ruby, symbolizing the dragon's eye and the cult’s sinister goals.
 
 When designing loot for a party of 5th-level characters after defeating the dragonborn sorcerer, it's important to provide items that feel rewarding and useful but not overwhelmingly powerful. Here are some loot ideas that would be appropriate and exciting for your party:
 

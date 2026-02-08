@@ -18,7 +18,7 @@ Last Edited: 2024-02-07T17:09
 # Chamber 1 - Entrance
 
 - When the entrance is approached, an Elvish voice asks for a token of proof they are worth of trust.
-    - Solutions include an offer of blood, a symbol or amulet from the elves (Order of Seasons of the like), or a crystal leaf from the great maple tree.
+    - Solutions include an offer of blood, a symbol or amulet from the elves ([Order of Seasons](/06---factions/order-of-seasons) of the like), or a crystal leaf from the great maple tree.
 
 # Chamber 2 - Tomb Guardian
 

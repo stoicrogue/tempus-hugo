@@ -94,9 +94,9 @@ After the party activates the pillars and the bridge forms, [Vael](/02---charact
 
 > _"You've proven yourselves worthy. The library respects sacrifice, and so do I."_
 
-He approaches the sealed doors and speaks a phrase in an ancient elven dialect, completing the ritual. The chains fall away, and the doors swing open, revealing the entrance to the Chained Library.
+He approaches the sealed doors and speaks a phrase in an ancient elven dialect, completing the ritual. The chains fall away, and the doors swing open, revealing the entrance to the [Chained Library](/06---factions/chained-library).
 
-> _"Welcome to the Chained Library. Few ever stand where you stand now. Make your sacrifice worth it."_
+> _"Welcome to the [Chained Library](/06---factions/chained-library). Few ever stand where you stand now. Make your sacrifice worth it."_
 
 ### DM Notes
 

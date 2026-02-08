@@ -79,7 +79,7 @@ _Calculate the deadly encounter benchmark by adding together all character level
 
 - [Donjon Random Treasure Generator](https://donjon.bin.sh/5e/random/#type=treasure;treasure-cr=4;treasure-loot_type=treasure_hoard)
 - Bugbear boss has a pouch with 10 platinum and a [potion of invisibility](https://www.dndbeyond.com/magic-items/4710-potion-of-invisibility)
-- Broken elven sword, previously owned by the founder of the Order of Seasons
+- Broken elven sword, previously owned by the founder of the [Order of Seasons](/06---factions/order-of-seasons)
     - Might be called Summer’s Edge?
         - Hilt has a blazing sun on one side and a bird in flight on the other
 - [Bag of Starlight](/04---items/bag-of-starlight)
@@ -98,7 +98,7 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
     - Wanted to desecrate the tomb
 - Party found the secret room in the tomb and recovered the elven sword
     - [Lerissa](/02---characters/allies/lerissa) told the party there are folktales about the Raven Knight
-- [Lerissa](/02---characters/allies/lerissa) suggested the seek out the sage, [Vidrir](/02---characters/allies/vidrir), in the shimmerwood to get info about the Order of Seasons and the broken sword
+- [Lerissa](/02---characters/allies/lerissa) suggested the seek out the sage, [Vidrir](/02---characters/allies/vidrir), in the shimmerwood to get info about the [Order of Seasons](/06---factions/order-of-seasons) and the broken sword
 - Sig the blacksmith was very grateful after being reunited with Winry
     - Gave [Slumpet Zoommimist](/02---characters/main-party/slumpet-zoommimist) a masterwork short sword
     - Gave [Shadicar](/02---characters/main-party/shadicar) studded leather armor

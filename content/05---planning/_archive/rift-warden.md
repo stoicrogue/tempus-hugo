@@ -9,7 +9,7 @@ author: Mark Molea
 
 ## Origin
 
-Long ago, when [Nidhogg](/02---characters/adversaries/nidhogg) was first sealed, it wasn’t enough to just close the rift. A guardian had to stay behind, bound to the place, to become part of the lock. That original Warden may have been a member of the Order of Seasons, possibly even [Vidrir](/02---characters/allies/vidrir) himself—explaining his strange age and fading memory. Or perhaps the [Weaver](/02---characters/adversaries/weaver) was once destined to be the Warden… and ran from it.
+Long ago, when [Nidhogg](/02---characters/adversaries/nidhogg) was first sealed, it wasn’t enough to just close the rift. A guardian had to stay behind, bound to the place, to become part of the lock. That original Warden may have been a member of the [Order of Seasons](/06---factions/order-of-seasons), possibly even [Vidrir](/02---characters/allies/vidrir) himself—explaining his strange age and fading memory. Or perhaps the [Weaver](/02---characters/adversaries/weaver) was once destined to be the Warden… and ran from it.
 
 ## Role and Power
 

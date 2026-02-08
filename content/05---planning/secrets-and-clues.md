@@ -8,7 +8,7 @@ author:
   - Mark Molea
 created: 2025-04-10
 ---
-1. [Vidrir](/02---characters/allies/vidrir) was the leader of the Order of Seasons and once wielded Summer’s Edge in a great war against the Shadowfell
+1. [Vidrir](/02---characters/allies/vidrir) was the leader of the [Order of Seasons](/06---factions/order-of-seasons) and once wielded Summer’s Edge in a great war against the Shadowfell
 2. [Vidrir](/02---characters/allies/vidrir) is Odin in disguise
 3. Elven control over magic is due to their proximity to a large rift between the mundane world and the elemental planes (Feywild and Shadowfell are closest)
 4. A powerful magical barrier holds the elemental energies at bay (_Forbiddence_) and allows the elves to tap into the planes with some level of control.

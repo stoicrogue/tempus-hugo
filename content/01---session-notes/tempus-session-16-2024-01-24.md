@@ -47,9 +47,9 @@ created: 2024-01-24
 
 - [ ] The stand stones can be used for rapid transit via the ley lines that connect them
 - [ ] The veil between this world and the feywild is thinning, which is how the Bandersnatch got here
-- [ ] The veil is being reinforced by a barrier constructed by a previous matriarch of the winter court.
+- [ ] The veil is being reinforced by a barrier constructed by a previous matriarch of the [winter court](/06---factions/winter-court).
 - [ ] Temples near leylines in each seasons’ domain hold a crystal meant to stabilize the barrier
-- [ ] Summer’s Edge can be reforged by any master elven smith, but rare materials from the summer court’s domain (sun crystals from the Great Golden tree)
+- [ ] Summer’s Edge can be reforged by any master elven smith, but rare materials from the [summer court](/06---factions/summer-court)’s domain (sun crystals from the Great Golden tree)
 - [ ] [Serenity](/02---characters/adversaries/serenity) did cross into the feywild
 
 # Fantastic Locations
@@ -59,7 +59,7 @@ created: 2024-01-24
 _Link to fantastic locations. Use the @ symbol to internally link to a Location page._
 
 - Feywild crossing
-- Winter court embassy
+- [Winter court](/06---factions/winter-court) embassy
 
 # NPCs
 
@@ -68,7 +68,7 @@ _Link to fantastic locations. Use the @ symbol to internally link to a Location 
 NPC link. _Use the @ symbol to internally link to an NPC page._
 
 - [Vidrir](/02---characters/allies/vidrir)
-- Winter court eladrin - [Alora](/02---characters/allies/alora)
+- [Winter court](/06---factions/winter-court) eladrin - [Alora](/02---characters/allies/alora)
 
 # Monsters
 

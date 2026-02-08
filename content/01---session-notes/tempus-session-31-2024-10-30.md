@@ -40,7 +40,7 @@ Commune with the [Arbiter](/02---characters/allies/arbiter).
 
 _Check off when revealed._
 
-- [ ] The ruling family of the summer court has worshiped the Dusk Lord for generations
+- [ ] The ruling family of the [summer court](/06---factions/summer-court) has worshiped the Dusk Lord for generations
 - [ ] The barrier has become very weak and teh othe realms are leaking through dramatically
 
 # Fantastic Locations
@@ -157,7 +157,7 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
     The sunlight through the trees might shift in an unusual pattern. At one moment, the sun may hang low in the sky as if it's evening, only for the light to shift back to bright midday after the party walks a few steps further.  
     - _"As you follow the winding path, the golden light of the setting sun filters through the trees. But as you continue, the sun seems to rise again, higher in the sky, casting long morning shadows. Something doesn’t feel right, but it's hard to say what."_
 5. **Recurring Symbols or Runes:**  
-    Small, seemingly inconsequential markings (perhaps old fey runes, symbols of the seasons, or the Cult of the Eclipse) might appear on rocks or trees. After some time, the party notices the same runes reappearing, or they see the markings growing stronger as if urging them to realize the loop.  
+    Small, seemingly inconsequential markings (perhaps old fey runes, symbols of the seasons, or the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse)) might appear on rocks or trees. After some time, the party notices the same runes reappearing, or they see the markings growing stronger as if urging them to realize the loop.  
     - _"You notice a faint marking on the bark of a tree—a spiral-like rune etched into the wood. The same rune, or one very much like it, appears again several minutes later, though it looks slightly deeper, almost glowing."_
 6. **Sudden Cold or Warmth:**  
     The party might notice temperature changes that seem familiar, as if they experienced them earlier. The air might grow warm and then cold again in the same fashion, suggesting they are moving through the same space over and over.  
@@ -194,15 +194,15 @@ These techniques allow you to build a sense of unease and mystery without direct
 |1|**Feywild Bloom:** The forest ahead shimmers as vibrant flowers and trees from the Feywild spontaneously sprout. A group of **pixies** are playing tricks, trying to lead the party astray. The party must either appease the pixies with a gift or pass a Charisma (Persuasion) check to be allowed safe passage. If angered, the pixies may cast confusing illusions.|
 |2|**Shadowfall Tears:** The air grows cold and the forest dims as a rift to the Shadowfell opens nearby. Emerging from the tear are **2 shadow demons** and **3 wraiths** hunting for life energy. These creatures pursue the party, aiming to drain their vitality. The party may choose to confront the creatures or flee, as closing the rift requires quick thinking or magical means.|
 |3|**Unstable Magic:** A wild magic surge ripples through the forest. The party stumbles upon an area where magic behaves unpredictably. Any spell cast within a 30-foot radius requires a roll on the **Wild Magic Surge** table (PHB p. 104). This zone is unstable, and creatures entering it must also make a Wisdom saving throw (DC 13) to resist temporary confusion.|
-|4|**Elven Refugees:** A group of elven refugees from the Summer Court is fleeing the forest’s instability. They carry valuable information about the cult’s movements and could offer aid in exchange for help reaching safety. However, they are being stalked by a **shadow mastiff** pack, and the party must either defeat the hounds or protect the elves while they escape.|
+|4|**Elven Refugees:** A group of elven refugees from the [Summer Court](/06---factions/summer-court) is fleeing the forest’s instability. They carry valuable information about the cult’s movements and could offer aid in exchange for help reaching safety. However, they are being stalked by a **shadow mastiff** pack, and the party must either defeat the hounds or protect the elves while they escape.|
 |5|**Rogue Fey Beasts:** Fey creatures from the Feywild, such as **2 eladrin archers** and their trained **dire elk**, have become corrupted by leyline magic. These once noble beings now attack anything that moves, mistaking the party for intruders. They are hostile but could be reasoned with through a difficult Charisma (Deception or Persuasion) check.|
 |6|**Blighted Grove:** The trees in this part of the forest have withered and blackened, and a dark pool of stagnant water dominates the area. The party is confronted by a **blight** infestation (1 shambling mound, 2 vine blights, 3 twig blights). The shambling mound has been affected by the weakening leyline magic and possesses strange fey-like abilities, such as teleporting through the trees.|
-|7|**Fey Court Messenger:** A **Summer Eladrin** on horseback, sent by the Summer Court, approaches the party with a cryptic message: “The forest’s heart bleeds. Time grows short. Restore balance, or all shall be lost to shadow and fire.” The eladrin vanishes after delivering the message. This encounter may give the party insight into how to stabilize the leyline.|
-|8|**Solar Elemental Surge:** A surge of unstable magic awakens a **fire elemental** and **2 radiant sprites** near the Summer Court's leyline temple. The elemental has been corrupted and now burns uncontrollably, threatening to spread through the surrounding forest. The party can either contain the flames (via water spells or natural means) or engage in combat to quell the elemental’s fury.|
+|7|**Fey Court Messenger:** A **Summer Eladrin** on horseback, sent by the [Summer Court](/06---factions/summer-court), approaches the party with a cryptic message: “The forest’s heart bleeds. Time grows short. Restore balance, or all shall be lost to shadow and fire.” The eladrin vanishes after delivering the message. This encounter may give the party insight into how to stabilize the leyline.|
+|8|**Solar Elemental Surge:** A surge of unstable magic awakens a **fire elemental** and **2 radiant sprites** near the [Summer Court](/06---factions/summer-court)'s leyline temple. The elemental has been corrupted and now burns uncontrollably, threatening to spread through the surrounding forest. The party can either contain the flames (via water spells or natural means) or engage in combat to quell the elemental’s fury.|
 |9|**Haunted Ruins:** The party discovers ancient elven ruins, now haunted by **4 specters** and **1 banshee**. These spirits were once temple guards, but the leyline damage has bound them to the ruins. They may attempt to communicate with the party if a ritual of peace is performed, offering clues about the leyline’s original purpose.|
-|10|**Fey Ambush: Quicklings** and **darklings** aligned with the Cult of the Eclipse ambush the party as they travel. These creatures attempt to steal the party’s valuables, particularly any magical items or leyline-related artifacts they carry. The quicklings use their speed to dart in and out of combat, while the darklings strike from the shadows.|
+|10|**Fey Ambush: Quicklings** and **darklings** aligned with the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse) ambush the party as they travel. These creatures attempt to steal the party’s valuables, particularly any magical items or leyline-related artifacts they carry. The quicklings use their speed to dart in and out of combat, while the darklings strike from the shadows.|
 |11|**Sunfire Tree Guardians:** A grove of ancient, golden trees begins to glow with intense light as **2 awakened trees** and **4 dryads** rise to protect the forest. They are suspicious of outsiders, believing the party may be the source of the forest’s instability. Through a Wisdom (Insight) check, the party can convince them of their good intentions or be forced to defend themselves.|
-|12|**Cult Scout:** The party encounters a **lone scout from the Cult of the Eclipse**, hiding in the trees and observing them from afar. The scout may attempt to lure the party into a trap or retreat to inform his superiors. If captured, the scout can be interrogated to reveal the cult’s next move in the forest. Alternatively, he could offer a bribe to be released.|
+|12|**Cult Scout:** The party encounters a **lone scout from the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse)**, hiding in the trees and observing them from afar. The scout may attempt to lure the party into a trap or retreat to inform his superiors. If captured, the scout can be interrogated to reveal the cult’s next move in the forest. Alternatively, he could offer a bribe to be released.|
 
 ### Session Notes
 
@@ -210,9 +210,9 @@ These techniques allow you to build a sense of unease and mystery without direct
     - tried to repair the broken runes in the leyline magic circle w/candle wax, which did not work
 - [Shad](/02---characters/main-party/shadicar) used contact other plane to talk to [Alora](/02---characters/allies/alora)’s mother (Maria)
     - “are we equipped to fix the crystal?” - NO
-    - “is summer court equipped to fix the crystal or the runes?” - NO
-    - “does the chained library have the answers to help us?” - YES
-    - “does winter have knowledge of chained library?” - NO
+    - “is [summer court](/06---factions/summer-court) equipped to fix the crystal or the runes?” - NO
+    - “does the [chained library](/06---factions/chained-library) have the answers to help us?” - YES
+    - “does winter have knowledge of [chained library](/06---factions/chained-library)?” - NO
     - “does the center of the elven territory hold answers for us?” - YES
 - Stored the leyline crystal in the pocket dimension
 - Terry = petrified squirel; Bob = his friend who told [Slumpet](/02---characters/main-party/slumpet-zoommimist) about the Basalisk

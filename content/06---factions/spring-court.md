@@ -53,7 +53,7 @@ A sacred rite performed at the [Spring Leyline Temple](/03---locations/spring-le
 
 ## Leyline Temple Status
 
-The [Spring Leyline Temple](/03---locations/spring-leyline-temple) is the most heavily corrupted of the four temples. Signs of corruption when the party arrived: birds avoided the area, the ground was unnaturally cold, new growth was twisted or withered, and flowers bloomed only to rot. A Bodak had been placed inside the leyline crystal chamber by the Cult of the Eclipse, and nearby Hollow Thresholds continued to siphon power from the leyline network.
+The [Spring Leyline Temple](/03---locations/spring-leyline-temple) is the most heavily corrupted of the four temples. Signs of corruption when the party arrived: birds avoided the area, the ground was unnaturally cold, new growth was twisted or withered, and flowers bloomed only to rot. A Bodak had been placed inside the leyline crystal chamber by the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse), and nearby Hollow Thresholds continued to siphon power from the leyline network.
 
 ---
 
@@ -61,6 +61,6 @@ The [Spring Leyline Temple](/03---locations/spring-leyline-temple) is the most h
 
 - Met [Faela Mossheart](/02---characters/allies/faela-mossheart), who guided them to the [Spring Leyline Temple](/03---locations/spring-leyline-temple)
 - Performed the Seed Ritual, binding personal vows to the Spring leyline
-- Discovered the temple corrupted by a Bodak planted by the Cult of the Eclipse
+- Discovered the temple corrupted by a Bodak planted by the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse)
 - Found Hollow Thresholds disrupting the natural growth cycles around the temple
 - The Spring temple's corruption was a turning point — it confirmed the cult's accelerating timeline

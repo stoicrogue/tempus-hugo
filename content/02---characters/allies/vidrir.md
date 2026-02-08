@@ -18,7 +18,7 @@ cssclasses:
 - Loves [Lerissa](/02---characters/allies/lerissa)'s beer
 - Has some magical talent, including some divination
 - Well-versed in the history of the local area and beyond
-- Former member of the order of seasons and wielder of [01 - Projects/tempus-campaign/04 - items/Summer's Edge](/04---items/summers-edge)
+- Former member of the [order of seasons](/06---factions/order-of-seasons) and wielder of [01 - Projects/tempus-campaign/04 - items/Summer's Edge](/04---items/summers-edge)
 - Secretly Odin in disguise, his powers very weak because he needed to contribute a piece of his power to sealing [Nidhogg](/02---characters/adversaries/nidhogg) away.  His divine power is actively maintaining the seal holding [Nidhogg](/02---characters/adversaries/nidhogg).
 
 ---
@@ -71,7 +71,7 @@ cssclasses:
 
 ### **"What exactly did you do to seal Nidhogg?"** 
 
-> "When the Order of Seasons could not destroy him, I made a choice. I wove a portion of my divine essence into the barrier the elves constructed—an anchor point, a lock that only godly power could forge. The elven magic provides the cage; my power ensures the door remains shut."
+> "When the [Order of Seasons](/06---factions/order-of-seasons) could not destroy him, I made a choice. I wove a portion of my divine essence into the barrier the elves constructed—an anchor point, a lock that only godly power could forge. The elven magic provides the cage; my power ensures the door remains shut."
 
 ### **"If you're so powerful, why didn't you just kill Nidhogg?"** 
 
@@ -109,7 +109,7 @@ cssclasses:
 
 ## **THE ORDER OF SEASONS**
 
-### **"Were you really part of the Order of Seasons?"** 
+### **"Were you really part of the [Order of Seasons](/06---factions/order-of-seasons)?"** 
 
 > "I founded it. When [Nidhogg](/02---characters/adversaries/nidhogg)'s undead legions threatened to drown the Feywild in shadow, I came to the Courts and proposed an alliance—one champion from each season, united in purpose. They trusted me then. I led them into battle. Most of them died buying time for the seal to be completed."
 

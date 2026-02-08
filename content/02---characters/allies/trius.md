@@ -11,7 +11,7 @@ cssclasses:
   - center-images
   - image-borders
 ---
-- Princess of the winter Court
+- Princess of the [winter Court](/06---factions/winter-court)
 - Oath of ancients paladin
 - Wielder of a moon blade
 - Daughter of [Alora](/02---characters/allies/alora)
