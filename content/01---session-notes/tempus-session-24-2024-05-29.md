@@ -42,7 +42,7 @@ created: 2024-05-29
 - [x] Festival - food stands, artists, vendors, entertainers
     - [x] [Autumn Court](/06---factions/autumn-court)
 - [x] Festival interrupted by the [Weaver](/02---characters/adversaries/weaver)’s herald - [Xolthos, Omenspeaker](/02---characters/adversaries/xolthos-omenspeaker)
-    - [x] “Festival revelers! Gather! A message not of merriment but of fate! I am [Xolthos Omenspeaker](/02---characters/adversaries/xolthos-omenspeaker). For too long, you elves have basked in the illusion of safety. But the shadows lengthen. The darkness that consumed Tannis… the fey monsters roaming your langs… a mere taste of the totality to come! The ancient hunger stirs. The shadow dragon [Nidhogg](/02---characters/adversaries/nidhogg) will return, and with it, unending night! Only those who submit to the Eclipse will find refuge in the coming darkness! Heed my words!”
+    - [x] “Festival revelers! Gather! A message not of merriment but of fate! I am [Xolthos Omenspeaker](/02---characters/adversaries/xolthos-omenspeaker). For too long, you elves have basked in the illusion of safety. But the shadows lengthen. The darkness that consumed [Tannis](/03---locations/tannis)… the fey monsters roaming your langs… a mere taste of the totality to come! The ancient hunger stirs. The shadow dragon [Nidhogg](/02---characters/adversaries/nidhogg) will return, and with it, unending night! Only those who submit to the Eclipse will find refuge in the coming darkness! Heed my words!”
 - [x] Meet [Hencelle](/02---characters/allies/hencelle)
     - [x] Tavern keeper at the [Aki Matsuri](/03---locations/aki-matsuri) (aka Fall Festival in Japanese)
     - [x] Master of Feasts

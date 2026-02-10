@@ -28,13 +28,13 @@ created: 2023-02-08
 
   
 
-- [ ] We left off in Tannis taking a well deserved rest in the windmill after rescuing Winry
+- [ ] We left off in [Tannis](/03---locations/tannis) taking a well deserved rest in the windmill after rescuing Winry
 - [ ] [Lerissa](/02---characters/allies/lerissa) said she rents out the space and uses it for ale storage
 - [ ]
 
 # Scenes
 
-- Darkness event at Tannis kickoff
+- Darkness event at [Tannis](/03---locations/tannis) kickoff
 - Escape the windmill
 - Encounter barrier near the forest
 - Visit the temple to the dusk lord
@@ -43,7 +43,7 @@ created: 2023-02-08
 
 _Check off when revealed_
 
-- [ ] [Serenity](/02---characters/adversaries/serenity) visited the Dusk Lord temple in Tannis; was very interested in seeing a holy symbol.
+- [ ] [Serenity](/02---characters/adversaries/serenity) visited the Dusk Lord temple in [Tannis](/03---locations/tannis); was very interested in seeing a holy symbol.
 - [ ] Barrier can only be passed by those with holy symbols
 - [ ] Darkness and barrier created by Dusk Lord as punishment for disrespect
     - [ ] Caused by [Serenity](/02---characters/adversaries/serenity)
@@ -54,7 +54,7 @@ _Check off when revealed_
 
 _Link to fantastic locations. Use the @ symbol to internally link to a Location page._
 
-- Tannis windmill
+- [Tannis](/03---locations/tannis) windmill
     - [Lerissa](/02---characters/allies/lerissa) has this setup for overflow ale storage as well as a potential place of lodging, which she offers to the players for the night
 - Church dedicated to the Dusk Lord
 

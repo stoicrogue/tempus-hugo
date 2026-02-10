@@ -10,11 +10,11 @@ author: Mark Molea
 
 - **Day 1**: Meet at Raven's Perch, track kidnappers
 - Day 2: Rescue Winry from the tomb
-- **Day 3**: Return to Tannis, get gear from Sig, rest at windmill
+- **Day 3**: Return to [Tannis](/03---locations/tannis), get gear from Sig, rest at windmill
 
 ## **Phase 2: Darkness Falls**
 
-- **Day 4**: Darkness hits Tannis, escape through church, meet [Arbiter](/02---characters/allies/arbiter)
+- **Day 4**: Darkness hits [Tannis](/03---locations/tannis), escape through church, meet [Arbiter](/02---characters/allies/arbiter)
 - **Day 5**: Travel to [Vidrir](/02---characters/allies/vidrir)'s grove
 - **Day 6**: Meet [Vidrir](/02---characters/allies/vidrir), learn about Summer's Edge, rest
 
@@ -64,5 +64,5 @@ author: Mark Molea
 - **Day 33:** Arrive at [Spring Court](/06---factions/spring-court), meet [Faela Mossheart](/02---characters/allies/faela-mossheart), rest at the Moonlit Hearth tavern
 - **Day 34:** Travel to the Spring Leyline Temple, investigate corruption, fight Bodak and other undead, find note from [Manus](/02---characters/adversaries/manus) detailing the Cult’s endgame
 - **Day 35**: Journey to the [Chained Library](/06---factions/chained-library), learn critical information about repairing the barrier and discover [Vidrir](/02---characters/allies/vidrir)'s true identity as the Knight of Ravens and leader of the [Order of Seasons](/06---factions/order-of-seasons).
-- **Day 36:** Visit [Vidrir](/02---characters/allies/vidrir) to debrief about Summer’s Edge, learn [Vidrir](/02---characters/allies/vidrir) is Odin and maintaining [Nidhogg](/02---characters/adversaries/nidhogg)’s seal, visit Tannis
+- **Day 36:** Visit [Vidrir](/02---characters/allies/vidrir) to debrief about Summer’s Edge, learn [Vidrir](/02---characters/allies/vidrir) is Odin and maintaining [Nidhogg](/02---characters/adversaries/nidhogg)’s seal, visit [Tannis](/03---locations/tannis)
 - **Day 37:** Close Hollow Threshold (Plane of Air theme) 

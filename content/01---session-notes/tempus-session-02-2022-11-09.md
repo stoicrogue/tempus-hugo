@@ -39,7 +39,7 @@ Entering the Shimmerwood on the trail of the monsters that abducted Winry
     - Trapped hallway
     - Disrupt the evil ritual
     - Secret room with sarcophagus of knights and broken sword
-- Return to Tannis
+- Return to [Tannis](/03---locations/tannis)
 - Reunion of Winry and Sig
 
 # Secret and Clues
@@ -104,4 +104,4 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
 
 ### Darkness event at Tannis kickoff
 
-> The villagers of Tannis knew a simple and peaceful life—farming, working, and keeping to themselves. Rumors of stars disappearing the past few nights were dismissed. Then, without warning, the villagers woke up to screams and panic. Complete darkness had shrouded their entire village. No light could illuminate more than twenty feet in any direction. And then came the monsters. No one knows how many people are still alive, it’s impossible to count the sheer amount of screams that eventually go quiet. In the wake of this panic, you have all found yourselves in Bastian’s Windmill. It seems to be the safest place to catch your breath and figure out what is going on and what to do… for now..
+> The villagers of [Tannis](/03---locations/tannis) knew a simple and peaceful life—farming, working, and keeping to themselves. Rumors of stars disappearing the past few nights were dismissed. Then, without warning, the villagers woke up to screams and panic. Complete darkness had shrouded their entire village. No light could illuminate more than twenty feet in any direction. And then came the monsters. No one knows how many people are still alive, it’s impossible to count the sheer amount of screams that eventually go quiet. In the wake of this panic, you have all found yourselves in Bastian’s Windmill. It seems to be the safest place to catch your breath and figure out what is going on and what to do… for now..

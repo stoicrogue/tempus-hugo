@@ -28,7 +28,7 @@ created: 2023-04-05
 
   
 
-- [x] We left off in Tannis after the party woke to the screams of villagers and a veil of magical darkness which prevents the players from seeing more than 20 ft in any direction
+- [x] We left off in [Tannis](/03---locations/tannis) after the party woke to the screams of villagers and a veil of magical darkness which prevents the players from seeing more than 20 ft in any direction
     - [x] They fought off one Spawn that grabbed [Slumpet](/02---characters/main-party/slumpet-zoommimist) after watching another Spawn kill a villager
 - [x] After stopping in to check on [Lerissa](/02---characters/allies/lerissa) at the bar, the party started going to the church.
     - [ ] They find the church casting light through its stained glass windows that can be seen from the bottom of the hill.
@@ -43,7 +43,7 @@ created: 2023-04-05
 
 _Check off when revealed_
 
-- [ ] [Serenity](/02---characters/adversaries/serenity) visited the Dusk Lord temple in Tannis; was very interested in seeing a holy symbol.
+- [ ] [Serenity](/02---characters/adversaries/serenity) visited the Dusk Lord temple in [Tannis](/03---locations/tannis); was very interested in seeing a holy symbol.
 - [ ] Only those with holy symbols of the Dusk Lord can pass the barrier encircling the town.
 - [ ] The first floor of the church is holy ground that the Spawn can’t penetrate
 - [ ] Darkness and barrier created by Dusk Lord as punishment for disrespect
@@ -55,7 +55,7 @@ _Check off when revealed_
 
 _Link to fantastic locations. Use the @ symbol to internally link to a Location page._
 
-- Tannis windmill
+- [Tannis](/03---locations/tannis) windmill
     - [Lerissa](/02---characters/allies/lerissa) has this setup for overflow ale storage as well as a potential place of lodging, which she offers to the players for the night
 - Church of the Dusk Lord
 - [Dusk Lord Church Catacombs](/03---locations/dusk-lord-church-catacombs)

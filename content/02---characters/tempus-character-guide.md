@@ -40,7 +40,7 @@ created: 2025-04-20
 
 ## Lerissa
 **Race/Class:** Tiefling / Retired Adventurer & Tavern Owner  
-**Background:** Proprietor of the Raven’s Perch Tavern in Tannis, [Lerissa](/02---characters/allies/lerissa) is a retired adventurer who keeps her blades hung behind the bar and her secrets close. She guided the party in their early days, pointing them toward [Vidrir](/02---characters/allies/vidrir), providing refuge in her windmill, and offering cryptic insights about the [Order of Seasons](/06---factions/order-of-seasons). Though no longer active in the field, she remains a savvy operator with deep connections—and keeps her eyes and ears open for trouble.  
+**Background:** Proprietor of the Raven’s Perch Tavern in [Tannis](/03---locations/tannis), [Lerissa](/02---characters/allies/lerissa) is a retired adventurer who keeps her blades hung behind the bar and her secrets close. She guided the party in their early days, pointing them toward [Vidrir](/02---characters/allies/vidrir), providing refuge in her windmill, and offering cryptic insights about the [Order of Seasons](/06---factions/order-of-seasons). Though no longer active in the field, she remains a savvy operator with deep connections—and keeps her eyes and ears open for trouble.  
 **Notable Traits:** Sharp wit, mysterious past, owns a wolf named Duchess, brews damn good ale.
 
 ## Elara Sunforge
@@ -60,7 +60,7 @@ created: 2025-04-20
 
 ## The Arbiter
 **Race/Class:** Angel of Justice / Servant of the Dusk Lord  
-**Background:** A celestial being awakened beneath the temple in Tannis. She sought to purge the village after its desecration, but allowed the party a chance to prove their worth. Bound by divine law, her actions are rigid but fair. She marked the party as emissaries and destroyed the darkness corrupting Tannis once they uncovered its source.  
+**Background:** A celestial being awakened beneath the temple in [Tannis](/03---locations/tannis). She sought to purge the village after its desecration, but allowed the party a chance to prove their worth. Bound by divine law, her actions are rigid but fair. She marked the party as emissaries and destroyed the darkness corrupting [Tannis](/03---locations/tannis) once they uncovered its source.  
 **Notable Traits:** Radiant and wrathful, bound by oath, respects faith and integrity.
 
 ## Francis
@@ -72,7 +72,7 @@ created: 2025-04-20
 
 ## Serenity
 **Race/Class:** Night Hag Illusionist / Servant of the Shadow  
-**Background:** Once a beautiful singer in a humble tavern, [Serenity](/02---characters/adversaries/serenity)’s true form is a monstrous night hag allied with the [Weaver](/02---characters/adversaries/weaver) and the shadow dragon [Nidhogg](/02---characters/adversaries/nidhogg). She orchestrated the curse that shrouded Tannis in darkness, defiled a holy relic, and used the party’s movements to track them through a magical orb. Her charm and manipulation nearly hid her for good, but the party eventually exposed and slew her. Even in death, her venomous wit lingered.  
+**Background:** Once a beautiful singer in a humble tavern, [Serenity](/02---characters/adversaries/serenity)’s true form is a monstrous night hag allied with the [Weaver](/02---characters/adversaries/weaver) and the shadow dragon [Nidhogg](/02---characters/adversaries/nidhogg). She orchestrated the curse that shrouded [Tannis](/03---locations/tannis) in darkness, defiled a holy relic, and used the party’s movements to track them through a magical orb. Her charm and manipulation nearly hid her for good, but the party eventually exposed and slew her. Even in death, her venomous wit lingered.  
 **Notable Traits:** Master of deception, cruel and calculating, connected to the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse), feared the party enough to confront them personally.
 
 ## The Weaver

@@ -14,7 +14,7 @@ created: 2025-07-21
 ## 🗺 Scenes Overview
 
 - Visit [Vidrir](/02---characters/allies/vidrir) to check in and he can see Summer's Edge
-- Visit Tannis: [Lerissa](/02---characters/allies/lerissa) , [Arbiter](/02---characters/allies/arbiter)?, Sig Rockwell ([Toby](/02---characters/main-party/toby)'s wrist blade)
+- Visit [Tannis](/03---locations/tannis): [Lerissa](/02---characters/allies/lerissa) , [Arbiter](/02---characters/allies/arbiter)?, Sig Rockwell ([Toby](/02---characters/main-party/toby)'s wrist blade)
 - [Hollow Threshold 3 - The Primal Hunt](/03---locations/hollow-threshold-3---the-primal-hunt)
 
 ## 🔑 Secrets & Clues

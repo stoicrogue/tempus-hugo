@@ -76,5 +76,5 @@ author: Mark Molea
 - “[Vidrir](/02---characters/allies/vidrir) - The Glamour Fades” scene played out as planned.
 - [Vidrir](/02---characters/allies/vidrir) revealed the name of his familiar that the party met is Huginn.
 - [Vidrir](/02---characters/allies/vidrir) used his connection to Summer’s Edge to fully awaken it, giving it additional abilities, including bestowing limited truesight.
-- Party traveled upriver to Tannis, using [Skreek](/02---characters/main-party/skreek)’s warhorse to pull the boat upstream.
+- Party traveled upriver to [Tannis](/03---locations/tannis), using [Skreek](/02---characters/main-party/skreek)’s warhorse to pull the boat upstream.
 - Visited Sig and Winry.  Sig gave [Toby](/02---characters/main-party/toby) the wrist blade he crafted for her.  Because he had extra time, he used a gem from the [Arbiter](/02---characters/allies/arbiter) to give the blade the ability to inflict radiant damage. The extra time gave him the opportunity to practice his filigree work. He thusly referred to the blade as a “Dagger of Brightness”

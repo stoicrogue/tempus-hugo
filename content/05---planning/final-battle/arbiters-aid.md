@@ -107,7 +107,7 @@ The [Arbiter](/02---characters/allies/arbiter)'s divine energy surges through th
 
 ## LORE REMINDER
 
-- The party earned these marks by convincing the [Arbiter](/02---characters/allies/arbiter) to spare Tannis
+- The party earned these marks by convincing the [Arbiter](/02---characters/allies/arbiter) to spare [Tannis](/03---locations/tannis)
 - They later helped cleanse [Serenity](/02---characters/adversaries/serenity)'s altar to the shadow dragon
 - The [Arbiter](/02---characters/allies/arbiter) recognizes they fight against **[Nidhogg](/02---characters/adversaries/nidhogg)** (who hates the Dusk Lord)
 - This is the culmination of their relationship with her throughout the campaign

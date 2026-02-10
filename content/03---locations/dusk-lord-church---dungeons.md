@@ -24,4 +24,4 @@ The monsters can only be killed if brought to the furnace and trapped inside.
 
 A bright, brilliant light shines in front of you. It’s nearly blinding, but you see a figure appear through it: a celestial being in golden armor, bearing white wings and a sword. She points at you and declares:
 
-> Those who wear the symbols of the Dusk Lord, you have been forsaken. This place known as Tannis, has committed crimes against the Dusk Lord and must be extinguished. I have been granted the capability to destroy everything in this place in a holy, cleansing fire— including you all. Say your prayers, and prepare for death.
+> Those who wear the symbols of the Dusk Lord, you have been forsaken. This place known as [Tannis](/03---locations/tannis), has committed crimes against the Dusk Lord and must be extinguished. I have been granted the capability to destroy everything in this place in a holy, cleansing fire— including you all. Say your prayers, and prepare for death.

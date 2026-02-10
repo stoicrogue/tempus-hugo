@@ -13,7 +13,7 @@ created: 2025-07-16
 
 ### 🛡️ Rescue the Blacksmith's Daughter
 
-**Location:** Tannis → Elven Forest → Ancient Tomb  
+**Location:** [Tannis](/03---locations/tannis) → Elven Forest → Ancient Tomb  
 **Quest Giver:** Sig Rockwell (desperate blacksmith father)
 
 - [x] Track kidnappers north into the enchanted Elven forest
@@ -32,11 +32,11 @@ created: 2025-07-16
 
 ### 🌒 Break the Darkness Over Tannis
 
-**Location:** Tannis Village  
+**Location:** [Tannis](/03---locations/tannis) Village  
 **Quest Giver:** Village crisis/[Lerissa](/02---characters/allies/lerissa)'s guidance
 
 - [x] Consult with [Lerissa](/02---characters/allies/lerissa) about the [Order of Seasons](/06---factions/order-of-seasons) and Knight of Ravens
-- [x] Survive the magical darkness that engulfed Tannis
+- [x] Survive the magical darkness that engulfed [Tannis](/03---locations/tannis)
 - [x] Fight off shadowy hands dragging villagers into the abyss
 - [x] Reach the church of the Dusk Lord (only sanctuary with light)
 - [x] Meet Father Samael and learn about the missing holy symbol
@@ -648,7 +648,7 @@ created: 2025-07-16
 - Cult of Eclipse serves "Lady of the Eclipse" working to free [Nidhogg](/02---characters/adversaries/nidhogg)
 - [Weaver](/02---characters/adversaries/weaver) (master of fear/illusion) orchestrating weakening of leyline network
 - Barrier anchored by four seasonal leyline temples (Winter damaged, Summer missing crystal)
-- [Serenity](/02---characters/adversaries/serenity) (defeated) served [Nidhogg](/02---characters/adversaries/nidhogg) and cursed Tannis
+- [Serenity](/02---characters/adversaries/serenity) (defeated) served [Nidhogg](/02---characters/adversaries/nidhogg) and cursed [Tannis](/03---locations/tannis)
 - [Nidhogg](/02---characters/adversaries/nidhogg) "hates the Dusk Lord" - religious conflict element
 
 **Immediate Concerns:**

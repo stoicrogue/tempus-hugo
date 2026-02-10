@@ -13,9 +13,6 @@ created: 2026-02-07
 - His imprisonment is maintained by two forces: the **elven leyline barrier** (the cage) and **[Vidrir](/02---characters/allies/vidrir)'s divine power** woven into it (the lock)
 - Cannot be easily destroyed — even gods cannot readily unmake an ancient shadow dragon
 - Described as ancient, cunning, and was at the height of his power when sealed
-
----
-
 ## The Seal
 
 - The barrier is anchored by **four leyline temples**, one in each seasonal domain of the Fey Courts (Winter, Autumn, Summer, Spring)
@@ -26,7 +23,7 @@ created: 2026-02-07
 ## Cult of the Eclipse
 
 - The [Cult of the Eclipse](/06---factions/cult-of-the-eclipse) serves Nidhogg's goals, seeking to free him by corrupting the leyline temples
-- [Serenity](/02---characters/adversaries/serenity) (night hag) cursed the village of Tannis to earn Nidhogg's favor, communing with him through a **seeing stone** (crystal orb)
+- [Serenity](/02---characters/adversaries/serenity) (night hag) cursed the village of [Tannis](/03---locations/tannis) to earn Nidhogg's favor, communing with him through a **seeing stone** (crystal orb)
 - The [Weaver](/02---characters/adversaries/weaver) leads the cult and plans to weaken the leyline network to release Nidhogg — though his original interest was in using Nidhogg's image for his illusions, not serving the dragon directly
 - [Xolthos](/02---characters/adversaries/xolthos-omenspeaker) publicly proclaimed Nidhogg's return at the [Autumn Court](/06---factions/autumn-court) festival
 - The cult created **Hollow Thresholds** — tears in reality that siphon leyline power and weaken the barrier

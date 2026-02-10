@@ -36,7 +36,7 @@ created: 2023-08-30
 
 # Strong Start
 
-- [x] Wake after a dream of Tannis being restored and the [Arbiter](/02---characters/allies/arbiter) granting then a boon of setting sun (1d8 radiant damage once per long rest)
+- [x] Wake after a dream of [Tannis](/03---locations/tannis) being restored and the [Arbiter](/02---characters/allies/arbiter) granting then a boon of setting sun (1d8 radiant damage once per long rest)
 
 # Scenes
 

@@ -8,6 +8,8 @@ draft: false
 
 ![Tempus-website-banner.png](/images/Tempus-website-banner.png)
 
+# Background
+
 On this site you will find my DM notes for my Tempus 5e D&D campaign. This campaign was my first foray into creating my own setting.  As with any creative endeavor, I pulled inspiration from a lot of sources, including:
  
   - [Dresden Files](https://en.wikipedia.org/wiki/The_Dresden_Files)
@@ -16,7 +18,21 @@ On this site you will find my DM notes for my Tempus 5e D&D campaign. This campa
   - [My Hidden Nerdy Side](https://www.youtube.com/c/hiddennerdyside)
   - [Lord of the Rings](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings)
 
-The structure of my notes is based on Mike Shea's [notion notebook](https://slyflourish.com/lazy_dnd_with_notion.html), which I have since ported over to [Obsidian](https://obsidian.md/) .  I'm a big fan of the Lazy DM Books by Mike Shea, and my GM prep is largely built on the advice in [The Eight Steps of the Lazy DM](https://slyflourish.com/eight_steps_2023.html) 
+The structure of my notes is based on Mike Shea's [notion notebook](https://slyflourish.com/lazy_dnd_with_notion.html), which I have since ported over to [Obsidian](https://obsidian.md/) .  I'm a big fan of the [Lazy DM Books](https://shop.slyflourish.com/) by Mike Shea and my GM prep is largely built on the advice in [The Eight Steps of the Lazy DM](https://slyflourish.com/eight_steps_2023.html) 
+
+## Campaign Teaser
+
+_When Darkness Descends_
+
+It began with a simple rescue—a blacksmith's daughter stolen in the night. But the goblins who took her served a darker master, and in an ancient tomb, four unlikely heroes discovered fragments of a shattered blade and whispers of a forgotten order sworn to fight the shadows.
+
+Now the stars are vanishing from the sky.
+
+Across the realm, a barrier erected generations ago by the Elven Matriarch grows weaker with each passing day. Behind it, trapped in the depths of the Shadowfell, the shadow dragon Nidhogg strains against his chains. And orchestrating his release is the Weaver—a master illusionist whose Cult of the Eclipse systematically corrupts the four leyline temples that anchor reality itself.
+
+From the frozen halls of the Winter Court to the raucous festivals of the Summer realm, from battling undead nightmares in corrupted temples to stealing the First Kiss of the Midday Sun atop a Feywild mountain, the heroes have raced against an accelerating clock. They've reforged legendary weapons, earned the favor of an Angel of Justice, and discovered that the sage who guided them is no mere mortal.
+
+> _A 3+ year D&D 5e campaign spanning 45+ sessions_
 
 ## Note & Prep Tour
 

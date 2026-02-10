@@ -22,7 +22,7 @@ The vault uses numbered prefixes for organization:
 - `01 - session-notes/` - Per-session DM prep notes (45 sessions)
 - `02 - characters/` - NPCs, party members, adversaries, monster stat blocks
   - `main-party/` - Player characters and party reference sheet
-  - `adversaries/` - Villain stat blocks (CR up to 17)
+  - `adversaries/` - Villain narrative lore pages and stat blocks (CR up to 17)
   - `allies/` - NPC allies
   - `monsters/` - Creature stat blocks
 - `03 - locations/` - Setting descriptions and maps
@@ -64,6 +64,20 @@ python _link_factions.py --dry-run  # preview without modifying files
 - Safe to re-run — idempotent (0 changes if already linked)
 - To add new factions: update the `FACTIONS` list at the top of the script
 
+### `_link_locations.py`
+Scans markdown files for unlinked location name references and converts them to Obsidian `[[wiki-links]]`. Run from the `tempus-campaign` directory:
+```bash
+python _link_locations.py          # apply changes
+python _link_locations.py --dry-run  # preview without modifying files
+```
+- Targets: `01 - session-notes/`, `02 - characters/`, `03 - locations/`, `05 - planning/`, `06 - factions/`, `08 - recap/` (recursive)
+- Skips: `Tempus Campaign Dramatization.md`
+- Links locations from `03 - locations/` (currently: Tannis)
+- Case-insensitive matching with proper display text
+- Skips: frontmatter, code blocks, headings, text already inside `[[...]]`, self-references
+- Safe to re-run — idempotent (0 changes if already linked)
+- To add new locations: update the `LOCATIONS` list at the top of the script
+
 ### Hugo Integration
 
 These scripts ensure frontmatter compatibility for publishing campaign notes to a Hugo-based website. A separate project contains the Hugo site and copy scripts.
@@ -103,6 +117,17 @@ author:
 **Internal linking:** Uses Obsidian wiki-style links `[[Character Name]]`, `[[Location]]`
 
 **Index files:** Each directory has `_index.md` for navigation
+
+## Narrative Lore Page Format
+
+Character and location files follow a consistent narrative structure (established with Nidhogg, then applied to Weaver, Serenity, Manus, and Tannis):
+
+- **Frontmatter:** `tags` (Villain, Location, etc.), `date`, `title`, `created`
+- **`# Heading`** followed by **top-level identity bullets** summarizing the entity at a glance
+- **`##` thematic sections** organized by narrative significance (not stat-block-first)
+- **`[[wiki-links]]`** throughout for cross-referencing characters, locations, and factions
+- **Stat blocks** go in separate files (e.g., `Manus - Original StatBlock.md`, `Manus - Chaos Duelist.md`) linked from the narrative page under a `## Stat Block` section
+- **Quotes** from session notes or journals included where available for flavor
 
 ## DM Style and Prep Evolution
 

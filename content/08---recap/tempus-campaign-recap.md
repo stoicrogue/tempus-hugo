@@ -10,7 +10,7 @@ created: 2023-07-16
 ---
 ## 📍 _Prologue – Tannis and the Blacksmith’s Plea_
 
-- **The party meets in the Raven’s Perch Tavern** in the quiet village of Tannis and is introduced to key NPCs: [Lerissa](/02---characters/allies/lerissa) (retired adventurer), [Serenity](/02---characters/adversaries/serenity) (mysterious singer), Hurmur (dwarven archaeologist), and Jax (Night Talons thief).    
+- **The party meets in the Raven’s Perch Tavern** in the quiet village of [Tannis](/03---locations/tannis) and is introduced to key NPCs: [Lerissa](/02---characters/allies/lerissa) (retired adventurer), [Serenity](/02---characters/adversaries/serenity) (mysterious singer), Hurmur (dwarven archaeologist), and Jax (Night Talons thief).    
 - **Blacksmith Sig Rockwell bursts in**, begging for help to rescue his kidnapped daughter, Winry. He offers his finest work as payment.
 
 ## 🛡️ _Rescue the Blacksmith’s Daughter_
@@ -38,7 +38,7 @@ created: 2023-07-16
 
 ## 🌿 _Journey to the Sage_
 
-- **Used the [Arbiter](/02---characters/allies/arbiter)’s holy mark** to leave Tannis and travel through the Shimmerwood.
+- **Used the [Arbiter](/02---characters/allies/arbiter)’s holy mark** to leave [Tannis](/03---locations/tannis) and travel through the Shimmerwood.
 - **Met the sage [Vidrir](/02---characters/allies/vidrir)**, a friendly ally of [Lerissa](/02---characters/allies/lerissa) with mysterious insight and purple-winged raven familiars.
 - [Vidrir](/02---characters/allies/vidrir) confirmed the broken sword is **Summer’s Edge**, a legendary blade once wielded by the [Summer Court](/06---factions/summer-court)’s champion during the great war against the undead. Only **elven master smiths** could hope to reforge it.
 - Revealed the **Eclipse medallion** was magically **trackable**, with the signal leading northwest.
@@ -59,11 +59,11 @@ created: 2023-07-16
 
 - Entered the corrupted woods and found a **cabin guarded by a Flameskull**. After defeating it, [Slumpet](/02---characters/main-party/slumpet-zoommimist) kept the skull as a trophy.
 - Discovered signs of **[Serenity](/02---characters/adversaries/serenity)’s presence** in the cabin and were attacked by a **Rug of Smothering**, later named “Sassy Tassels.”
-- Found an **altar to a shadow dragon** with a **magical crystal orb** and a diorama of Tannis. Using their holy marks, they summoned the **[Arbiter](/02---characters/allies/arbiter)**, who confirmed this site as the source of the Dusk Lord’s wrath and cleansed it. She departed to lift the barrier over Tannis.
+- Found an **altar to a shadow dragon** with a **magical crystal orb** and a diorama of [Tannis](/03---locations/tannis). Using their holy marks, they summoned the **[Arbiter](/02---characters/allies/arbiter)**, who confirmed this site as the source of the Dusk Lord’s wrath and cleansed it. She departed to lift the barrier over [Tannis](/03---locations/tannis).
 - The next morning, the **hag [Serenity](/02---characters/adversaries/serenity) revealed herself** and demanded the return of the orb. The party refused, and combat broke out.
 - [Shad](/02---characters/main-party/shadicar)’s **charm person spell unexpectedly succeeded**, pacifying [Serenity](/02---characters/adversaries/serenity) and allowing them to gather intel:
     - [Serenity](/02---characters/adversaries/serenity) served a caster named **the [Weaver](/02---characters/adversaries/weaver)**, a master of fear and illusion.
-    - [Serenity](/02---characters/adversaries/serenity) cursed Tannis to earn favor with **[Nidhogg](/02---characters/adversaries/nidhogg)**, a **shadow dragon** who **hates the Dusk Lord**.
+    - [Serenity](/02---characters/adversaries/serenity) cursed [Tannis](/03---locations/tannis) to earn favor with **[Nidhogg](/02---characters/adversaries/nidhogg)**, a **shadow dragon** who **hates the Dusk Lord**.
     - The [Weaver](/02---characters/adversaries/weaver) was responsible for the **illusion-based massacre of [Shad](/02---characters/main-party/shadicar)’s village**, using a false vision of [Nidhogg](/02---characters/adversaries/nidhogg).
 - The party **fled while [Serenity](/02---characters/adversaries/serenity) was still charmed**, with [Slumpet](/02---characters/main-party/slumpet-zoommimist) carrying the orb.
 - Along the way, the **Flameskull revived itself** as **[Francis](/02---characters/allies/francis-the-flameskull)** and struck a deal with the party: in exchange for adventure and action, he would provide his **laser-eye beams and arcane knowledge**.
@@ -385,7 +385,7 @@ created: 2023-07-16
 - Using the sun’s essence and celestial ore, [Elara](/02---characters/allies/elara-sunforge) reforged the legendary blade with reverence. At the final strike, she offered the completed weapon to [Skreek](/02---characters/main-party/skreek).
 - As [Skreek](/02---characters/main-party/skreek) took up Summer’s Edge, he felt its radiant will awaken—offering a wordless vow of purpose and unity.
 - [Elara](/02---characters/allies/elara-sunforge) provided a temporary scabbard and promised to craft a more fitting one in time. The party departed to celebrate at Ember’s Embrace.
-- Over drinks with Serra Flamekissed, they planned their next journey—to check on Tannis via the standing stone near the Order’s tomb. Before retiring, [Shad](/02---characters/main-party/shadicar) purchased a scroll of _Legend Lore_, eager to learn more about the looming darkness.
+- Over drinks with Serra Flamekissed, they planned their next journey—to check on [Tannis](/03---locations/tannis) via the standing stone near the Order’s tomb. Before retiring, [Shad](/02---characters/main-party/shadicar) purchased a scroll of _Legend Lore_, eager to learn more about the looming darkness.
 
 ## 🌱 _On to the Spring Court_
 
@@ -475,3 +475,26 @@ created: 2023-07-16
     - He learned that **[Vidrir](/02---characters/allies/vidrir) once led the Order** and is **over 300 years old**
     - In fact, [Vidrir](/02---characters/allies/vidrir) was **the Knight of Ravens himself**!
 - With critical information in hand, the party departed the Library, now armed with knowledge about how to repair the barrier and stop the Cult's final ritual.
+
+## 🪶 _Vidrir’s True Identity — The Glamour Fades_
+
+- The party enjoyed breakfast at **The Moonlit Hearth**, then purchased a pair of parting gifts for **Vidrir** from **Seraphina Moonglow**: **loose-leaf tea** and a **bottle of mead**.
+- Using the **Leyline Gate Network**, they traveled from the **Spring Court** back to the **Order of Seasons tomb**, then took **Shad’s folding boat** downriver toward **Vidrir’s grove**.
+- Along the river, the party spotted a **strange raven**. **Skreek** read its thoughts without resistance and learned it was **Vidrir’s familiar**. The raven promised to warn its master of their approach.
+- Vidrir welcomed them warmly, genuinely touched by the gifts—and visibly stirred to see **Summer’s Edge** restored.
+- As Vidrir took the reforged blade in hand, the grove fell silent and **light bloomed from the steel** like dawn breaking through fog. The sword’s radiance peeled away illusion and pretense, and Vidrir’s disguise **shimmered, then collapsed**.
+- In the blade’s truth, Vidrir was revealed as **Odin in disguise**—an ancient power bound by ancient duty. When the **Order of Seasons** failed to destroy **Nidhogg**, Odin wove a portion of his divine essence into the Elven barrier itself: **the elves forged the cage, but Odin became the lock**. As the barrier weakens, the burden falls heavier upon him—and he cannot leave without risking everything.
+- Vidrir named his familiar at last: **Huginn**.
+- Through his connection to Summer’s Edge, Vidrir **fully awakened the blade**, granting it new power—including the gift of **limited truesight**.
+- The party traveled upriver to **[Tannis](/03---locations/tannis)**, using **Skreek’s warhorse** to pull the folding boat against the current.
+- Back in town, they visited **Sig and Winry**. Sig presented **Toby** with the wrist blade he had crafted—and, with time to refine his work, he set a gem taken from the **Arbiter** into the weapon, allowing it to **inflict radiant damage**. He proudly dubbed it the **“Dagger of Brightness.”**
+
+## 🌪️ _The Tempus Threshold — The Tempest Gate_
+
+- Acting on **Vael’s intelligence**, the party sought a Hollow Threshold deep in **Winter Court territory**: the **Tempus Gate**, a rift tied to the **Elemental Plane of Air**.
+- Within the threshold, they found the anchoring artifact: a **Tempest Egg**, suspended fifteen feet above the ground between **three massive stone spikes**—a “blessed gift” of **Cygnus**, and a stolen heirloom of the **Ornithopian royal line** Skreek once served.
+- The battlefield was a **circular platform of black stone** hanging above a churning sea of storm cloud. The storm itself lashed the party with **lightning** as they fought a **djinn**, an **air elemental**, and the living violence of the gate.
+- In a moment that was equal parts absurd and glorious, **Shad** used **Animate Objects** to turn a chunk of storm cloud into a rampaging ally—resulting in a **cloud-vs-air-elemental brawl** that ended with the cloud **smashing the elemental into nothingness**, while **Skreek, Toby, and Francis** kept the djinn occupied.
+- Amid the chaos, **Slumpet** climbed the stone spires, **snatched the Tempest Egg** into a pillowcase, and sprinted back through the portal to the Material Plane.
+- The instant the artifact crossed the threshold, the gate began to **destabilize and collapse**—shrinking, raging, and growing more lethal by the heartbeat. The party **abandoned the remaining enemies** and escaped in time, just before the portal **snapped shut**.
+- With the Tempest Egg reclaimed, **Skreek finally recovered the royal treasure** he had pursued since leaving his homeland.

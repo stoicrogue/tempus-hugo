@@ -16,7 +16,7 @@ When four unlikely heroes met in a quiet village tavern, they could not have kno
 
 And descend it did.
 
-**The village of Tannis was swallowed whole by magical darkness**—an impenetrable void that threatened to consume everything. Only the intervention of the **[Arbiter](/02---characters/allies/arbiter)**, an angel of justice, contained the corruption. Marked by her divine symbol and tasked with finding the source, the heroes ventured into the enchanted Shimmerwood to seek the sage [Vidrir](/02---characters/allies/vidrir).
+**The village of [Tannis](/03---locations/tannis) was swallowed whole by magical darkness**—an impenetrable void that threatened to consume everything. Only the intervention of the **[Arbiter](/02---characters/allies/arbiter)**, an angel of justice, contained the corruption. Marked by her divine symbol and tasked with finding the source, the heroes ventured into the enchanted Shimmerwood to seek the sage [Vidrir](/02---characters/allies/vidrir).
 
 What they discovered changed everything. The cult sought to corrupt the **leyline temples of the Fey Courts**—ancient structures maintaining the barrier between worlds. If the barrier fell, the dragon **[Nidhogg](/02---characters/adversaries/nidhogg)** would be freed from the Shadowfell, and eternal darkness would reign.
 

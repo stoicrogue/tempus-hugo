@@ -1,90 +1,92 @@
 ---
 tags:
   - Villain
-date: 2025-04-10
+date: 2026-02-09
 title: Manus
 created: 2025-04-10
-cssclasses:
-  - image-borders
-  - center-images
 ---
-> Loosely allied with [Cult of the Eclipse](/06---factions/cult-of-the-eclipse).
-
-
-![image.png](/images/image.png)
 # Manus
 
-**Armor Class** 21 (natural armor)
-**Hit Points** 350
-**Speed** 50 ft.
-**Challenge** 17 (18,000 XP)
+- Enigmatic **CR 17 shapechanger** and trickster warrior loosely allied with the **[Cult of the Eclipse](/06---factions/cult-of-the-eclipse)**
+- Serves the [Weaver](/02---characters/adversaries/weaver) as a lieutenant but openly **mocks his ideology** and appears motivated by testing himself against worthy opponents rather than freeing [Nidhogg](/02---characters/adversaries/nidhogg)
+- Possesses **Advanced Shapechanger** abilities — can perfectly mimic other humanoids, as demonstrated when he disguised himself as Trius at the [Summer Court](/06---factions/summer-court) leyline temple
+- Master of shadow and elemental combat — conjures elemental blades of cold, fire, lightning, or poison and creates up to four shadow copies of himself
+- Stole the [Summer Court](/06---factions/summer-court)'s leyline crystal and planted the **Bodak** in the Spring Temple; **still at large**
+- The campaign's **wildcard** — his allegiances remain uncertain heading into the final confrontation
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 12 (+1) | 26 (+8) | 20 (+5) | 20 (+5) | 18 (+4) | 26 (+8) |
+## Personality & Motivation
 
----
+- Driven entirely by a desire for **meaningful combat** — not money, power, or ideology
+- Finds the [Weaver](/02---characters/adversaries/weaver)'s mission tedious but participates because it generates interesting conflicts
+- Made a verbal agreement that the [Weaver](/02---characters/adversaries/weaver) would duel him after [Nidhogg](/02---characters/adversaries/nidhogg)'s release — but has grown skeptical the [Weaver](/02---characters/adversaries/weaver) will honor it
+- Increasingly views the **party** as more worthy opponents than anyone in the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse)
+- Theatrical and playful in combat — taunts opponents, proposes games, and retreats when bored rather than fighting to the death
 
-- **Saving Throws** Dex +14, Con +11, Wis +10, Cha +14
-- **Skills** Acrobatics +14, Deception +14, Insight +10, Intimidation +14, Perception +10, Performance +14, Persuasion +14
-- **Condition Immunities** frightened, grappled, restrained
-- **Senses** darkvision 120 ft., passive Perception 20
-- **Languages** Common and two other languages of his choice
+## The Summer Temple Encounter
 
----
+- Appeared outside the [Summer Court](/06---factions/summer-court) leyline temple disguised as **Trius** (the Winter Court paladin)
+- When confronted, dropped the disguise with a grin and proposed a game: if the party could land **one blow** on him, he'd return the stolen rune crystal
+- Proved nearly impossible to hit — dodged effortlessly and teleported around the party
+- **Slumpet** won the game by throwing a handful of **ball bearings** at his feet, technically "landing a blow"
+- True to his word, Manus handed over the crystal and vanished with mocking praise for their ingenuity
+- The returned crystal was later discovered to be **tainted** and could not be restored without knowledge from the [Chained Library](/06---factions/chained-library)
+- *"Drawing broken swords now, bird? I do hope you brought sharper company."*
 
-**Advanced Shapechanger.** As a bonus action, Manus can change his appearance and voice. He determines the specifics of the changes, including his coloration, hair length, and sex. He can also adjust his height and weight, but not so much that his size changes. He can make himself appear as a member of another race, though none of his game statistics change. He can’t duplicate the appearance of a creature he’s never seen and he must adopt a form that has the same basic arrangement of limbs that he has. His clothing and equipment aren’t changed by this trait.
+## The Mountain Peak Confrontation
 
-He stays in the new form until he uses a bonus action to revert to his true form or until he dies.
+- Intercepted the party at **Evenode Peak** (Tael'anore) in the Feywild, where [Elara Sunforge](/02---characters/allies/elara-sunforge)'s device was set to capture the "First Kiss of the Midday Sun" for reforging Summer's Edge
+- Snapped his fingers and created **magical darkness** covering the entire peak, denying the party the sunlight they needed
+- Created **two shadow copies** and fought the party in the dark, where only **Skreek** (with blindsight) could perceive him
+- [Shad](/02---characters/main-party/shadicar) dispelled the darkness, and Manus showed genuine respect before retreating into the shadows
+- *"Oops. Looks like your precious kiss of the sun just got lost in the dark. Good luck finding it now."*
+- *"Well, well, well. Color me impressed. Didn't think you had that in you. Guess I'll have to step up my game next time."*
 
-**Elemental Weapons.** As a bonus action, Manus can conjure up to two elemental blades at once made purely from the magic type he chooses. These blades deal either cold, fire, lightning, or poison damage depending on his choice. Manus can select a different damage type per blade.
+## The Bodak Note
 
-Manus can also choose to conjure an elemental bow, which deals one of the above damage types. Manus can use a bonus action to switch between the blades and bow.
+- Planted a **Bodak** in the Spring Leyline Temple's crystal chamber using **Oil of Etherealness**, causing major corruption to the temple and surrounding forest
+- Left a letter in the Bodak's robes addressed to the party — effectively **betraying the [Weaver](/02---characters/adversaries/weaver)'s plans**:
+  - Revealed the [Weaver](/02---characters/adversaries/weaver) accelerated the final ritual from the **winter solstice to the next new moon** (~12 days away)
+  - Disclosed the ritual location: the **ancient battlefield where [Nidhogg](/02---characters/adversaries/nidhogg) was sealed**
+  - Expressed growing interest in fighting the party over honoring his deal with the [Weaver](/02---characters/adversaries/weaver)
+  - Invited them to "crash the party" at the ritual
+- *"The Weaver is practically pulling his hair out over your little stunt with that Hollow Threshold. Watching him scramble has been the most entertainment I've had in decades."*
+- *"I do hope you'll crash their little party. The Weaver plans to execute his grand ritual at the ancient battlefield where Nidhogg was sealed away ages ago."*
+- *"I'm starting to think you might give me a better fight. You certainly fight with more style than his shadow-drunk cultists."*
 
-The original Manus always deals the amount of damage equal to his tier 4 attacks. Copies of Manus deal damage equal to their corresponding tiers.
+## Cult Operations
 
-**Evasion.** Manus can nimbly dodge out of the way of certain area effects, such as a red dragon’s fiery breath or an _ice Storm spell_. When Manus is subjected to an effect that allows him to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+- Stole one of eight rune crystals from the [Summer Court](/06---factions/summer-court) leyline temple, destroying **two guardian constructs** in the process (using fire and ice magic)
+- Planted a **Bodak** accompanied by wraiths and shadows in the Spring Temple's crystal chamber
+- Both operations occurred while the party was in the Feywild, where time flowed differently — allowing weeks to pass on the Material Plane
+- His actions technically serve the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse)'s goals of weakening the leyline barrier, but his letter to the party suggests he may be **deliberately undermining the [Weaver](/02---characters/adversaries/weaver)** for entertainment
 
-**Ki.** Manus has six ki points he can use to either dash as a bonus action or use a stunning strike.
+## Relationship with the Weaver
 
-**One With Darkness.** Manus has spent much of his time honing his craft over the control and creation of shadows and darkness. This allows Manus to see in all forms of darkness as normal within his darkvision range and sees anything past that as dim light up to 300 feet.
+- Operates as the [Weaver](/02---characters/adversaries/weaver)'s most powerful agent but shows **no genuine loyalty**
+- Openly mocks the [Weaver](/02---characters/adversaries/weaver) and dismisses his ideology as tedious
+- Views the [Weaver](/02---characters/adversaries/weaver) primarily as someone who promised him a duel — a promise he doubts will be kept
+- The [Weaver](/02---characters/adversaries/weaver) lists Manus's disloyalty as a known vulnerability in his own plans
+- By revealing the ritual's location and timeline, Manus effectively acts as an **unwitting (or deliberate) double agent**
 
-**Shadow Passage.** Manus can move from one shadow into another. When Manus is in dim light or darkness, as a bonus action he can teleport up to 60 feet to an unoccupied space he can see that is also in dim light or darkness. Manus can also teleport freely in any shadows he creates and can teleport to shadows that are as small as one foot in size, slinking out from them and appearing in an unoccupied space five feet from them. This includes shadows cast by other creatures.
+## Relationship with the Party
 
-**Spellcasting.** Manus is a 20th-level spellcaster. His spellcasting ability is Charisma (spell save DC 22, +14 to hit with spell attacks). Manus has the ability to learn more spells and use more spell slots but decided to funnel his magical affinity into crafting his own abilities, leaving him with fewer slots than your typical 20th-level caster. Manus knows the following spells:
+- Shows a pattern of **escalating respect** across encounters
+- First encounter: tested them with a game; rewarded their cleverness
+- Second encounter: tried to deny their mission; acknowledged their strength when they overcame it
+- Third contact (the note): actively encouraged them to disrupt the [Weaver](/02---characters/adversaries/weaver)'s plans
+- Addresses [Shad](/02---characters/main-party/shadicar) directly with taunts about his "broken sword" and feathered appearance
+- Views the party as increasingly "interesting" — the highest compliment in his personal philosophy
 
-- Cantrips (at will): mage hand, minor illusion, prestidigitation, ray of frost, chill touch
-- 1st level (5 slots): _detect magic, disguise self, shield
-- 2nd level (4 slots): _darkness, invisibility, misty step, silence_
-- 3rd level (4 slots): _counterspell, dispel magic_
-- 4th level (3 slots): _dimension door_
-- 5th level (2 slots): _passwall_
-## Actions
+## Potential Allegiance Shift
 
-**Multiattack.** Manus can make a combination of four elemental blade or fist attacks per turn or three elemental bow attacks per turn.
+- Multiple signs suggest Manus may **switch sides** during the final ritual:
+  - His note explicitly invites the party to interfere
+  - He has expressed more interest in fighting the party than defending the [Weaver](/02---characters/adversaries/weaver)
+  - If [Nidhogg](/02---characters/adversaries/nidhogg)'s emergence threatens reality itself, Manus may refuse to participate
+  - His self-preservation instinct is strong — he retreats rather than dies in every encounter
+- If the [Weaver](/02---characters/adversaries/weaver) falls or the ritual spirals out of control, Manus may abandon the cult entirely
+- Alternatively, he may simply watch from the shadows, intervening only if the fight becomes "interesting" enough
 
-**Conjure Shadow Self (When Initiative Hits 20).** Manus has become one with darkness and has mastered the ability to transfer his life into it. Whenever the initiative count hits 20, Manus can conjure up to four shadow copies of himself within 90 feet of his original body. These copies are indistinguishable from how Manus appears currently and are capable of anything Manus is capable of doing except cast spells, use Shadow Flood or use Conjure Shadow Self. Manus’ original body and any shadow copies he currently copies are also allowed to teleport another within that 90 feet. Manus can have a maximum of four shadow copies active at any given time. Shadow copies use Manus’ stats for any checks or saving throws.
+## Stat Block
 
-To create a shadow copy, Manus must sacrifice a portion of his remaining hit points. Depending on how many hit points Manus dumps into any given shadow copy, they enter a tier and deal the appropriate damage as labelled in their elemental blade, bow and fist attack descriptions. Manus must put at least 10 hit points in any given shadow copy (tier one). For each additional 10 hit points Manus puts into a shadow copy, it goes up another tier up to a maximum of 40 hit points and creates a tier 4 shadow copy (10-19 = Tier 1, 20-29 = Tier 2, 30-39 = Tier 3, 40 = Tier 4). A shadow copy losing hit points after it has been conjured doesn’t lower its tier. Manus cannot drop to 0 hit points or below by using this ability. These clones stay active so long as Manus is conscious.
-
-To command these shadow copies, Manus must use a legendary action. However, the shadow copies then use that legendary action to take a full turn (action, bonus action, movement, reaction, etc.).
-
-**Elemental Blade/Bow (Tier 4).** Melee weapon attack: +14, reach 5 ft. as a blade, 150/450 ft. as a bow, one target. Hit: 22 (4d6 + 8). Manus can choose between cold, fire, lightning, or poison damage for his elemental blades.
-
-**Elemental Blade/Bow (Tier 3).** Melee weapon attack: +14, reach 5 ft. as a blade, 150/450 ft. as a bow, one target. Hit: 16 (3d6 + 6). Manus can choose between cold, fire, lightning, or poison damage for his elemental blades.
-
-**Elemental Blade/Bow (Tier 2).** Melee weapon attack: +14, reach 5 ft. as a blade, 150/450 ft. as a bow, one target. Hit: 11 (2d6 + 4). Manus can choose between cold, fire, lightning, or poison damage for his elemental blades.
-
-**Elemental Blade/Bow (Tier 1).** Melee weapon attack: +14, reach 5 ft. as a blade, 150/450 ft. as a bow, one target. Hit: 5 (1d6 + 2). Manus can choose between cold, fire, lightning, or poison damage for his elemental blades.
-
-**Fist.** Melee weapon attack: +14, reach 5 ft., Hit: 13 (1d10 + 8) bludgeoning damage. Manus and Tier 4 copies deal the previously stated damage. The damage roll goes down to d8+6 for Tier 3 copies, d6+4 for Tier 2 copies, and D4+2 for tier 1 copies.
-
-**Shadow Flood (After losing 200 HP).** Immediately after losing 200 hit points, Manus unhinges his jaw and exhales a massive cloud of shadow that covers the battlefield. This cloud extends up to 120 feet wide and 20 feet high. This cloud is treated like the _Darkness_ spell.
-
-## Legendary Actions
-
-The monster can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The monster regains spent legendary actions at the start of its turn.
-
-**Elemental Blade/Bow.** The original Manus makes an elemental blade or bow attack.
-
-**Command Shadow Copy.** Manus mentally commands a shadow copy to take a full turn.
+_See [Manus - Original StatBlock](/02---characters/adversaries/manus---original-statblock) for full combat statistics and [Manus - Chaos Duelist](/05---planning/final-battle/manus---chaos-duelist) for the updated final battle version._

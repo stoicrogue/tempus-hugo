@@ -73,4 +73,9 @@ author: Mark Molea
 
 # 📝 Session Notes
 
-- 
+- Based on the intel from [Vael](/02---characters/allies/vael), the party sought out the hollow threshold in the [Winter Court](/06---factions/winter-court)’s territory, the Tempus Gate - a hollow threshold connected to the elemental plane of air.
+- Inside the threshold, the party found the artifact anchoring the Hollow Threshold was a **Tempest Egg** suspended 15ft off the ground between three large  stone spikes - a blessed gift from Cygnus, and heirloom of the Ornithopian royal family [Skreek](/02---characters/main-party/skreek) served.
+- The party did battle with a Djinn, an air elemental, and the power of the storm itself.  The threshold was a circular platform of black stone suspended over a boiling sea of storm cloud. The storm itself damaged the party with lightning while they tried to fight the enemies.
+- [Shad](/02---characters/main-party/shadicar) used an animate objects to create an huge ally out of a piece of the storm clouds. The cloud vs air elemental battle was not to be missed - effective, ridiculous, and effective. The cloud won the day, smashing the air elemental into non-existence. [Skreek](/02---characters/main-party/skreek), [Toby](/02---characters/main-party/toby), and [Francis](/02---characters/allies/francis-the-flameskull) kept the Djinn busy.
+- While the party battle the enemies, Slumpet climbed the stone spires, captured the Tempus Egg in a pillowcase, and quickly ran back through the portal to the material plane.  When he did so, the threshold began to destabilize, contract, and become even more dangerous. The party left the enemies behind and escaped before the portal snapped shut.
+- With that, [Skreek](/02---characters/main-party/skreek) finally reclaimed the royal treasure he had been searching for since he left his homeland.

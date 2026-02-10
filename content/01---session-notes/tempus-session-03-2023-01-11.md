@@ -37,9 +37,9 @@ created: 2023-01-11
 - Search the tomb for more clues
 - [Order of Seasons Tomb](/03---locations/order-of-seasons-tomb)
     - Secret room with sarcophagus of knights and broken sword
-- Return to Tannis
+- Return to [Tannis](/03---locations/tannis)
 - Reunion of Winry and Sig
-- Darkness event at Tannis kickoff
+- Darkness event at [Tannis](/03---locations/tannis) kickoff
 
 # Secret and Clues
 
@@ -50,7 +50,7 @@ _Check off when revealed._
 - [x] [Order of seasons](/06---factions/order-of-seasons) is associated with elven courts, one for each season
 - [x] The broken sword in the tomb is a powerful elven blade wielded by the leader of the [Order of Seasons](/06---factions/order-of-seasons)
 - [x] Rumors of stars disappearing the past few nights
-- [ ] [Serenity](/02---characters/adversaries/serenity) visited the Dusk Lord temple in Tannis; was very interested in seeing a holy symbol.
+- [ ] [Serenity](/02---characters/adversaries/serenity) visited the Dusk Lord temple in [Tannis](/03---locations/tannis); was very interested in seeing a holy symbol.
 
 # Fantastic Locations
 
@@ -64,7 +64,7 @@ _Link to fantastic locations. Use the @ symbol to internally link to a Location 
         - Illusions of a great chasm caused the goblins to go around
     - Purple highlighted raven guide the players if lost
 - Enchanted forest
-- Tannis windmill
+- [Tannis](/03---locations/tannis) windmill
     - [Lerissa](/02---characters/allies/lerissa) has this setup for overflow ale storage as well as a potential place of lodging, which she offers to the players for the night
 - Church dedicated to the Dusk Lord
 

@@ -40,7 +40,7 @@ created: 2023-07-12
     - [x] [Shad](/02---characters/main-party/shadicar)
     - [x] [Slumpet](/02---characters/main-party/slumpet-zoommimist) back in jail
     - [x] [Toby](/02---characters/main-party/toby) turned into a fish on dry land
-    - [x] [Skreek](/02---characters/main-party/skreek) sees the [arbiter](/02---characters/allies/arbiter) cleansing the town of Tannis
+    - [x] [Skreek](/02---characters/main-party/skreek) sees the [arbiter](/02---characters/allies/arbiter) cleansing the town of [Tannis](/03---locations/tannis)
         - [x] “Wrath of god”
 
 # Scenes

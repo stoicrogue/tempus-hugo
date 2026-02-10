@@ -114,7 +114,7 @@ _Jot down notes during your game. Use it for a text-based combat tracker or anyt
 - Found 3 spell scrolls, which [Shad](/02---characters/main-party/shadicar) took
 - [Slumpet](/02---characters/main-party/slumpet-zoommimist) pocketed the destroyed flameskull
 - Fought a rug of smothering that was guarding a trapdoor
-- Trapdoor led to a creepy chamber that contained an alter and a diorama of the city of Tannis
+- Trapdoor led to a creepy chamber that contained an alter and a diorama of the city of [Tannis](/03---locations/tannis)
 - [Shad](/02---characters/main-party/shadicar) touched the crystal orb on the alter. The orb seemed to try to attack his ming, but he resisted. The orb was wrapped up and taken by the party.
 - Discovered a curse had been placed on the amulet that had been stolen from the temple of the Dusk Lord
 - Party called the [Arbiter](/02---characters/allies/arbiter) and she was summoned to investigate. She was able to cleanse the amulet, which she said would lift the darkness curse on the town. The [Arbiter](/02---characters/allies/arbiter) should now be able to lift the barrier surrounding the town.

@@ -8,7 +8,7 @@ Last Edited: 2024-05-28T20:24
 ---
 - Information guild
 - Name translates to “Shared Knowledge” in an odd Elvish dialect
-- Based in Hunter’s Hollow - closest large city to Tannis
+- Based in Hunter’s Hollow - closest large city to [Tannis](/03---locations/tannis)
 - Run by “The Fountain” (as in fountain of knowledge
     - No one is allowed to directly meet the Fountain
     - The fountain is secretly an elder Oblex
@@ -16,3 +16,5 @@ Last Edited: 2024-05-28T20:24
 - Can obtain just about any information for a price
 - Knows how to contact agent of the [Chained Library](/06---factions/chained-library) or how to find it
 - Bartender of the Iron Eagle tavern in Hunter’s Hollow can provide the password to enter the museum that’s used as a front for the Massa’Ista’s guild house
+
+> Source: [Hidden Nerdy Side > Let's Build an Encounter: Oblex](https://youtu.be/5cM7XoTeoDc?si=dsdz2yAG57NTee5z)
