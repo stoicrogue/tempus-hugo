@@ -9,7 +9,7 @@ created: 2025-04-10
 
 - Enigmatic **CR 17 shapechanger** and trickster warrior loosely allied with the **[Cult of the Eclipse](/06---factions/cult-of-the-eclipse)**
 - Serves the [Weaver](/02---characters/adversaries/weaver) as a lieutenant but openly **mocks his ideology** and appears motivated by testing himself against worthy opponents rather than freeing [Nidhogg](/02---characters/adversaries/nidhogg)
-- Possesses **Advanced Shapechanger** abilities — can perfectly mimic other humanoids, as demonstrated when he disguised himself as Trius at the [Summer Court](/06---factions/summer-court) leyline temple
+- Possesses **Advanced Shapechanger** abilities — can perfectly mimic other humanoids, as demonstrated when he disguised himself as [Trius](/02---characters/allies/trius) at the [Summer Court](/06---factions/summer-court) leyline temple
 - Master of shadow and elemental combat — conjures elemental blades of cold, fire, lightning, or poison and creates up to four shadow copies of himself
 - Stole the [Summer Court](/06---factions/summer-court)'s leyline crystal and planted the **Bodak** in the Spring Temple; **still at large**
 - The campaign's **wildcard** — his allegiances remain uncertain heading into the final confrontation
@@ -24,10 +24,10 @@ created: 2025-04-10
 
 ## The Summer Temple Encounter
 
-- Appeared outside the [Summer Court](/06---factions/summer-court) leyline temple disguised as **Trius** (the Winter Court paladin)
+- Appeared outside the [Summer Court](/06---factions/summer-court) leyline temple disguised as **[Trius](/02---characters/allies/trius)** (the [Winter Court](/06---factions/winter-court) paladin)
 - When confronted, dropped the disguise with a grin and proposed a game: if the party could land **one blow** on him, he'd return the stolen rune crystal
 - Proved nearly impossible to hit — dodged effortlessly and teleported around the party
-- **Slumpet** won the game by throwing a handful of **ball bearings** at his feet, technically "landing a blow"
+- **[Slumpet](/02---characters/main-party/slumpet-zoommimist)** won the game by throwing a handful of **ball bearings** at his feet, technically "landing a blow"
 - True to his word, Manus handed over the crystal and vanished with mocking praise for their ingenuity
 - The returned crystal was later discovered to be **tainted** and could not be restored without knowledge from the [Chained Library](/06---factions/chained-library)
 - *"Drawing broken swords now, bird? I do hope you brought sharper company."*
@@ -36,7 +36,7 @@ created: 2025-04-10
 
 - Intercepted the party at **Evenode Peak** (Tael'anore) in the Feywild, where [Elara Sunforge](/02---characters/allies/elara-sunforge)'s device was set to capture the "First Kiss of the Midday Sun" for reforging Summer's Edge
 - Snapped his fingers and created **magical darkness** covering the entire peak, denying the party the sunlight they needed
-- Created **two shadow copies** and fought the party in the dark, where only **Skreek** (with blindsight) could perceive him
+- Created **two shadow copies** and fought the party in the dark, where only **[Skreek](/02---characters/main-party/skreek)** (with blindsight) could perceive him
 - [Shad](/02---characters/main-party/shadicar) dispelled the darkness, and Manus showed genuine respect before retreating into the shadows
 - *"Oops. Looks like your precious kiss of the sun just got lost in the dark. Good luck finding it now."*
 - *"Well, well, well. Color me impressed. Didn't think you had that in you. Guess I'll have to step up my game next time."*
@@ -49,8 +49,8 @@ created: 2025-04-10
   - Disclosed the ritual location: the **ancient battlefield where [Nidhogg](/02---characters/adversaries/nidhogg) was sealed**
   - Expressed growing interest in fighting the party over honoring his deal with the [Weaver](/02---characters/adversaries/weaver)
   - Invited them to "crash the party" at the ritual
-- *"The Weaver is practically pulling his hair out over your little stunt with that Hollow Threshold. Watching him scramble has been the most entertainment I've had in decades."*
-- *"I do hope you'll crash their little party. The Weaver plans to execute his grand ritual at the ancient battlefield where Nidhogg was sealed away ages ago."*
+- *"The [Weaver](/02---characters/adversaries/weaver) is practically pulling his hair out over your little stunt with that Hollow Threshold. Watching him scramble has been the most entertainment I've had in decades."*
+- *"I do hope you'll crash their little party. The [Weaver](/02---characters/adversaries/weaver) plans to execute his grand ritual at the ancient battlefield where [Nidhogg](/02---characters/adversaries/nidhogg) was sealed away ages ago."*
 - *"I'm starting to think you might give me a better fight. You certainly fight with more style than his shadow-drunk cultists."*
 
 ## Cult Operations

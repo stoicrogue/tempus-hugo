@@ -16,15 +16,15 @@ created: 2026-02-09
 
 ## Notable Locations
 
-- **Raven's Perch Tavern** — the village's main gathering place, run by Lerissa; where the party first meets and where [Serenity](/02---characters/adversaries/serenity) performed as a singer in her disguise
+- **Raven's Perch Tavern** — the village's main gathering place, run by [Lerissa](/02---characters/allies/lerissa); where the party first meets and where [Serenity](/02---characters/adversaries/serenity) performed as a singer in her disguise
 - **Church of the Dusk Lord** — the village's religious center, tended by Father Samael; contains catacombs and hidden dungeons below; was the only building that emitted light during the curse, its holy wards repelling shadow creatures
-- **Bastian's Windmill** — on a hill overlooking the village; used by Lerissa for ale storage and guest lodging; where the party rested early in the campaign
+- **Bastian's Windmill** — on a hill overlooking the village; used by [Lerissa](/02---characters/allies/lerissa) for ale storage and guest lodging; where the party rested early in the campaign
 - **Sig Rockwell's Blacksmith Shop** — home and workshop of Tannis's master blacksmith; later the source of custom magical gear for the party
 - **The Great Oak** — a massive tree in the town square, visible for miles around
 
 ## Key Residents
 
-**Lerissa** — Tiefling bartender of the Raven's Perch Tavern
+**[Lerissa](/02---characters/allies/lerissa)** — Tiefling bartender of the Raven's Perch Tavern
 - Former beast master ranger and retired adventurer
 - Owns a gray wolf companion named "The Duchess"
 - Knowledgeable about local geography, the [Order of Seasons](/06---factions/order-of-seasons), and the legend of the Knight of Ravens
@@ -39,8 +39,8 @@ created: 2026-02-09
 **Sig Rockwell** — Master blacksmith
 - Father of **Winry**, who was kidnapped by goblins and cultists in the campaign's earliest sessions
 - The party rescued Winry, earning Sig's lifelong gratitude
-- Later crafted the **Dagger of Brightness** for Toby using a gem provided by the [Arbiter](/02---characters/allies/arbiter), inflicting radiant damage
-- Maintains Skreek's warhorse for river travel
+- Later crafted the **Dagger of Brightness** for [Toby](/02---characters/main-party/toby) using a gem provided by the [Arbiter](/02---characters/allies/arbiter), inflicting radiant damage
+- Maintains [Skreek](/02---characters/main-party/skreek)'s warhorse for river travel
 
 **Winry** — Sig's daughter
 - Kidnapped for use in a dark ritual; rescued by the party in their first adventure
@@ -80,7 +80,7 @@ The defining event of Tannis and the campaign's inciting crisis, spanning **Sess
   - Safe passage through her divine barriers
   - The ability to commune with her
   - **Blessing of the Dusk Lord** (1d8 radiant damage, once per long rest)
-- She also gave Skreek a **+1 Shield of the Dusk Lord** recovered from the church crypt
+- She also gave [Skreek](/02---characters/main-party/skreek) a **+1 Shield of the Dusk Lord** recovered from the church crypt
 - The [Arbiter](/02---characters/allies/arbiter) became an ongoing divine ally, though she cannot intervene directly in mortal affairs beyond boundary and temple locations — mortals must choose to protect their world themselves
 
 ## The Church Catacombs & Dungeons
@@ -99,7 +99,7 @@ Tannis is the **foundation of the entire campaign**, serving multiple narrative 
 - **The Inciting Incident** — the Curse of Tannis is the party's first encounter with the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse)'s threat, setting the campaign's central conflict in motion
 - **Introduction to the Divine** — the Dusk Lord, the [Arbiter](/02---characters/allies/arbiter), and the concept of divine intervention are all established here
 - **First Evidence of [Serenity](/02---characters/adversaries/serenity) and the [Weaver](/02---characters/adversaries/weaver)** — the curse reveals the cult's reach and methods, leading the party to track [Serenity](/02---characters/adversaries/serenity) to her lair
-- **Safe Haven** — the party returns to Tannis repeatedly throughout the campaign to rest, resupply, and reconnect with allies like Sig, Lerissa, and [Vidrir](/02---characters/allies/vidrir) (whose grove lies in the nearby Shimmerwood forest)
+- **Safe Haven** — the party returns to Tannis repeatedly throughout the campaign to rest, resupply, and reconnect with allies like Sig, [Lerissa](/02---characters/allies/lerissa), and [Vidrir](/02---characters/allies/vidrir) (whose grove lies in the nearby Shimmerwood forest)
 - **Gateway to the Feywild** — Tannis's proximity to the Elven forest and [Vidrir](/02---characters/allies/vidrir)'s grove makes it the launching point for journeys to the seasonal courts
 
 ## Party Visits
@@ -107,4 +107,4 @@ Tannis is the **foundation of the entire campaign**, serving multiple narrative 
 - **Sessions 1-2:** Party assembles at the Raven's Perch Tavern; rescues Winry from goblins; returns her to Sig
 - **Sessions 3-5:** The Curse of Tannis — darkness descends; party explores the Church catacombs and dungeons; meets the [Arbiter](/02---characters/allies/arbiter)
 - **Session 41:** Party returns via leyline gate network; witnesses Summer's Edge restoration at [Vidrir](/02---characters/allies/vidrir)'s grove; [Vidrir](/02---characters/allies/vidrir) revealed as Odin in disguise when he touches the blade
-- **Session 46:** Party returns via river travel from the [Order of Seasons](/06---factions/order-of-seasons) Tomb; visits Sig and Winry; receives Toby's completed Dagger of Brightness
+- **Session 46:** Party returns via river travel from the [Order of Seasons](/06---factions/order-of-seasons) Tomb; visits Sig and Winry; receives [Toby](/02---characters/main-party/toby)'s completed Dagger of Brightness

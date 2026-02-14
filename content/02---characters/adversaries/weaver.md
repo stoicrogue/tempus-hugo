@@ -38,7 +38,7 @@ created: 2025-04-10
 - Key subordinates:
   - **[Serenity](/02---characters/adversaries/serenity)** (Night Hag) — field agent who cursed [Tannis](/03---locations/tannis); **defeated by the party**
   - **[Xolthos](/02---characters/adversaries/xolthos-omenspeaker)** (Black Dragonborn Sorcerer) — herald who proclaimed [Nidhogg](/02---characters/adversaries/nidhogg)'s return at the [Autumn Court](/06---factions/autumn-court) festival; **defeated by the party**
-  - **Kharvex, the Shadow Caller** — cult mage who tested summoning magic at the ancient battlefield; **defeated by the party**
+  - **[Kharvex, the Shadow Caller](/02---characters/adversaries/kharvex-the-shadow-caller)** — cult mage who tested summoning magic at the ancient battlefield; **defeated by the party**
   - **[Manus](/02---characters/adversaries/manus)** (CR 17 Shapechanger) — enigmatic warrior who openly mocks the Weaver and appears motivated by testing himself rather than ideology; stole the [Summer Court](/06---factions/summer-court)'s leyline crystal and planted the Bodak in the Spring Temple; **still at large**
 
 ## The Leyline Barrier Plot

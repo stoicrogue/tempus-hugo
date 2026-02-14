@@ -65,4 +65,6 @@ author: Mark Molea
 - **Day 34:** Travel to the Spring Leyline Temple, investigate corruption, fight Bodak and other undead, find note from [Manus](/02---characters/adversaries/manus) detailing the Cult’s endgame
 - **Day 35**: Journey to the [Chained Library](/06---factions/chained-library), learn critical information about repairing the barrier and discover [Vidrir](/02---characters/allies/vidrir)'s true identity as the Knight of Ravens and leader of the [Order of Seasons](/06---factions/order-of-seasons).
 - **Day 36:** Visit [Vidrir](/02---characters/allies/vidrir) to debrief about Summer’s Edge, learn [Vidrir](/02---characters/allies/vidrir) is Odin and maintaining [Nidhogg](/02---characters/adversaries/nidhogg)’s seal, visit [Tannis](/03---locations/tannis)
-- **Day 37:** Close Hollow Threshold (Plane of Air theme) 
+- **Day 37:** Close [Hollow Threshold](/05---planning/hollow-threshold---tempest-gate) with ties to the elemental Plane of Air that [Vael](/02---characters/allies/vael) discovered in the [Winter Court](/06---factions/winter-court)’s territory; recover the royal artifact [Skreek](/02---characters/main-party/skreek) was dispatched to find.
+- **Day 38-43:** ???
+- **Day 44:** Attempt to stop the [Weaver](/02---characters/adversaries/weaver)’s ritual to release [Nidhogg](/02---characters/adversaries/nidhogg)
