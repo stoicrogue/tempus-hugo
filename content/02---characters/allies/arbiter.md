@@ -1,63 +1,67 @@
 ---
 tags:
-  - NPC
-  - character
-  - ally
+  - Ally
 date: 2025-04-10
 title: Arbiter
 created: 2025-04-10
-Last Edited: 2024-10-27T10:45
 cssclasses:
   - center-images
   - image-borders
 ---
+# Arbiter
+
+- **Angel of Justice** serving the **Dusk Lord**, a deity of endings and transitions
+- Found deep beneath the Church of the Dusk Lord in **[Tannis](/03---locations/tannis)**, where she had erected a divine barrier to contain [Serenity](/02---characters/adversaries/serenity)'s darkness curse
+- Initially planned to **purge all life** in [Tannis](/03---locations/tannis) to cleanse the corruption — the party convinced her to delay and grant them a chance to find the source
+- **Marked the party with her holy symbol**, granting safe passage through her barriers, the ability to commune with her, and the Blessing of the Dusk Lord
+- Wields a **greatsword of divine energy** that can shatter into homing shards of radiant light; has wings and can teleport
+- Was **not involved** in [Nidhogg](/02---characters/adversaries/nidhogg)'s original sealing but recognizes him as an enemy of the Dusk Lord
+- Listed among the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse)'s known enemies and opposition
+
+## The Dusk Lord
+
+- The Arbiter serves the Dusk Lord, a god who presides over transitions, endings, and the balance between light and shadow
+- Her power flows within the bounds of judgment and guardianship — she is forbidden from intervening directly in mortal affairs beyond the liminal spaces she guards: boundaries, temples, and realms between life and death
+- She believes mortals must choose to protect their own world, lending wisdom, guidance, and blessings rather than fighting their battles for them
+- [Nidhogg](/02---characters/adversaries/nidhogg) specifically hates the Dusk Lord and anyone who bears his mark, making the Arbiter and the party natural targets for the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse)
+
+## The Darkness of Tannis
+
+- When [Serenity](/02---characters/adversaries/serenity) cursed the village of [Tannis](/03---locations/tannis) by defiling a holy symbol of the Dusk Lord, the corruption drew the Arbiter's attention
+- She erected a barrier around the town to contain the spreading darkness and began preparing a **purification ritual** — one that would have destroyed all life in [Tannis](/03---locations/tannis) to cleanse the corruption
+- The party found her in a hidden dungeon level below the church's catacombs and convinced her to delay the cleansing
+- They vowed to investigate the source of the curse themselves, and she agreed — marking them with her symbol as emissaries of the Dusk Lord
+- As a sign of good faith, she destroyed the remaining shadow monsters in town with a single devastating display of divine power: teleporting above the great oak tree, unfurling her wings, and shattering her greatsword into a thousand shards of homing radiant light that annihilated every shadow creature in [Tannis](/03---locations/tannis)
+- She also gave [Skreek](/02---characters/main-party/skreek) a **+1 Shield of the Dusk Lord** recovered from the church crypt
+
+## The Holy Mark
+
+- The Arbiter's mark was placed on each party member, physically visible on [Skreek](/02---characters/main-party/skreek)'s shoulder
+- The mark grants **safe passage** through divine barriers, the ability to **commune** with the Arbiter across distances, and a **Blessing of the Setting Sun** (1d8 radiant damage, once per long rest)
+- Communion with the Arbiter is not a physical appearance — her presence settles over the caller "like a cold wind," her voice "carrying the weight of judgment"
+- The [Weaver](/02---characters/adversaries/weaver) and the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse) consider all who bear the Dusk Lord's mark to be priority enemies — the mark grants resistance to illusions and fear, purification of corruption, and access to warded leyline temples
+- The mark persists even through the final battle — in the aftermath, [Slumpet](/02---characters/main-party/slumpet-zoommimist) reaches up to check that the warmth of the mark is still there
+
+## Cleansing the Curse
+
+- The party discovered [Serenity](/02---characters/adversaries/serenity)'s altar containing a diorama of [Tannis](/03---locations/tannis) and a holy symbol of the Dusk Lord that had been magically cursed and defiled with blood
+- They used their marks to summon the Arbiter, who confirmed it was the source of the curse that triggered the Dusk Lord's ire
+- She cleansed the holy symbol, vowed to release her barrier from [Tannis](/03---locations/tannis), thanked the party, and opened a portal to return and begin her work
+- That night, the party dreamed of [Tannis](/03---locations/tannis) being restored and the Arbiter granting them the Blessing of the Setting Sun
+
+## Ongoing Guidance
+
+- The Arbiter does not have omniscient knowledge — when the party communed with her about the leyline temples, she offered theories and guidance but admitted when she lacked specific answers
+- At the **Winter Leyline Temple**, [Skreek](/02---characters/main-party/skreek) communed with her to understand the cracked crystal; she explained that leylines are paths through which raw magical energy flows, usable for communication, travel, or power
+- At the **Summer Leyline Temple**, when the party could not restore a crystal stolen and returned by [Manus](/02---characters/adversaries/manus), the Arbiter suggested it needed to be cleansed of evil before it could function — [Shadicar](/02---characters/main-party/shadicar) later succeeded with Dispel Magic
+- She provided a **gem** to the blacksmith Sig Rockwell, who used it to enchant a wrist blade with radiant damage for [Toby](/02---characters/main-party/toby) — the "Dagger of Brightness"
+- In [Skreek](/02---characters/main-party/skreek)'s nightmares (inflicted by [Serenity](/02---characters/adversaries/serenity)), the Arbiter appeared carrying out her purification ritual on [Tannis](/03---locations/tannis) — a vision of what would have happened if the party had failed
+
+## The Final Battle
+
+- The party can use their holy marks to commune with the Arbiter and request aid during the final confrontation against the [Weaver](/02---characters/adversaries/weaver)
+- Her **Blessing of Justice** grants all marked party members temporary hit points, advantage on saves against fear and charm, and radiant weapon damage
+- Her **Intervention** automatically triggers the first time a marked party member drops to 0 hit points — stabilizing them, standing them up, and wreathing them in protective holy light
+- Even from afar, her divine protection represents the culmination of the party's relationship with her throughout the campaign
+
 ![arbiter-detailed-portrait.png](/images/arbiter-detailed-portrait.png)
-
-- Angel of Justice
-- Serves the dusk lord
-- Marked the party with her symbol
-
----
-## Restoring the crystal at the leyline barrier
-
-To restore the crystal within the arcane circle at the Summer Leyline Temple, the issue lies likely not with the crystal alone but with the disturbance in the leyline energy and the balance of the arcane circle itself.
-
-Consider these steps to reattune the crystal and restore the barrier’s integrity:
-
-1. **Examine the Arcane Circle’s Pattern:** Ensure the symbols and runes around the circle are undisturbed. Any break in these glyphs could prevent energy flow, blocking the crystal from rejoining the alignment. If any markings seem faded or interrupted, use magical chalk or ink to redraw or empower them.
-2. **Crystal Cleansing and Recharging:** The crystal itself may need cleansing or recharging, as smaller crystals often serve as conduits for purified leyline energy. Use a radiant spell to purify it or draw upon your connection to the Dusk Lord, who presides over such transitions. A holy symbol or enchanted water could be placed on it briefly to reset its energy flow.
-3. **Call Upon Fae Assistance:** The [Summer Court](/06---factions/summer-court)’s beings are naturally attuned to leyline flows and might offer guidance or energy to empower the crystal anew. Summoning assistance from a nearby fae entity or appealing to a dryad, if one can be found in the temple’s vicinity, could amplify your attempts.
-4. **Synchronize with the Temple’s Seasonal Cycle:** Each leyline temple embodies one of the seasonal powers. With this being the Summer Temple, you may need to imbue the crystal with elemental energy representing summer—heat or light magic. This act could resonate the crystal with the temple’s intended energy signature, allowing it to fit back into the circle.
-
-With patience and careful attunement, the crystal may accept its place once more, strengthening the barrier as needed.
-
-## Why is the Weaver so concerned about those that carry the Dusk Lord's mark?
-
-The [Weaver](/02---characters/adversaries/weaver)’s concern over those marked by the Dusk Lord stems from the power of transition and purification that the Dusk Lord’s mark embodies. Bearers of this mark, like you and your companions, are not only aligned with the Dusk Lord’s justice but are also imbued with a divine authority that disrupts and destabilizes shadow and corruption. This authority poses a significant threat to beings aligned with darkness and decay, such as the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse) and their dragon ally, [Nidhogg](/02---characters/adversaries/nidhogg).
-
-The [Weaver](/02---characters/adversaries/weaver) likely recognizes several unique threats your marks pose to his plans:
-
-1. **Barrier-Breaching Abilities:** Your marks provide access to places guarded against dark magic, such as the leyline temples. This connection allows you to cross the divine wards that otherwise safeguard these ancient sanctuaries, giving you direct access to reinforce the temples' defenses, disrupt the [Weaver](/02---characters/adversaries/weaver)’s plans, or undo damage the cult has inflicted.
-2. **Purification of Corruption:** Those marked by the Dusk Lord can cleanse corrupted symbols and spaces, restoring divine energy to places tainted by shadow. This purification process could thwart the spread of shadow magic, possibly even mending the damaged crystals or realigning leyline energies that are crucial to the [Weaver](/02---characters/adversaries/weaver)’s schemes.
-3. **Resilience Against Fear and Shadow Magic:** The Dusk Lord, being a deity of dusk and endings, grants his marked agents protection against illusions, fear, and the numbing dark that shadows often impose. This resilience makes you less susceptible to the mind-altering illusions and dread the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse) uses to dominate and weaken their enemies.
-4. **Authority Over the Dead and Undead:** Many of the Dusk Lord’s agents wield power over the undead, particularly when these spirits are disturbed by shadow magic or malign forces. This power could potentially disrupt [Nidhogg](/02---characters/adversaries/nidhogg)’s influence and the undead forces the Cult seeks to raise, blocking a core component of their plans.
-
-The [Weaver](/02---characters/adversaries/weaver)'s objective is to break the seasonal barrier, which was constructed to contain forces like [Nidhogg](/02---characters/adversaries/nidhogg) and the Cult's shadow magics. With your presence at these leyline sites, bearing marks that directly counter shadow and decay, you have become natural adversaries to this weakening of the barriers.
-
-The [Weaver](/02---characters/adversaries/weaver) likely senses that, with the Dusk Lord’s authority at your side, you might unravel his plans entirely, banishing the Eclipse’s influence and restoring the ancient protections. It is no wonder, then, that he commands his lieutenants to eliminate you with utmost vigilance.
-
-## Why do you need us? You are obviously powerful. Why can you not dispense with the Weaver and the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse) yourself?
-
-It is a fair question, for one who serves a god of endings and transitions. My power flows within the bounds of judgment and guardianship, granted for the stewardship of sacred oaths and the protection of the balance. Yet, the Dusk Lord forbids me to intervene directly in mortal affairs beyond the liminal spaces I guard—boundaries, temples, realms between life and death. The [Cult of the Eclipse](/06---factions/cult-of-the-eclipse), and the [Weaver](/02---characters/adversaries/weaver) who drives them, seek to unravel what mortals themselves must choose to protect or forsake. Thus, you are needed.
-
-Mortals, marked and chosen, possess a unique agency that my power cannot emulate. You walk with the freedom to change the course of this world, to protect its sanctity from within, rather than from above. It is by your actions that darkness may be met not with divine intervention alone, but with the living resolve of those who cherish what is good and just. In you lies the courage to resist, to restore, and to inspire others to do the same, sowing strength and vigilance that will remain long after this shadow is gone.
-
-I lend you what power I may—wisdom, guidance, and, in moments of dire need, the Dusk Lord’s blessing. But it is you who must stand against the darkness, for only those bound to this world can truly redeem it.
-
-## Were you involved in sealing away the shadow dragon ages ago?
-
-Ah, you peer into the shadows of time, seeking clarity in that which was veiled for long ages. Though I have watched over many trials and transitions, the binding of the shadow dragon, [Nidhogg](/02---characters/adversaries/nidhogg), belongs to an era when others held the Dusk Lord's divine favor to stand against darkness directly. That task was entrusted to the [Order of Seasons](/06---factions/order-of-seasons), guardians of the realms’ balance, who wielded powerful artifacts and bound [Nidhogg](/02---characters/adversaries/nidhogg) to the Shadowfell with both courage and sacrifice.
-
-However, in spirit, I watched over their efforts, preserving their oath and ensuring the shadow dragon’s prison remained strong. My role, now, is to continue safeguarding the thresholds of light and shadow, lending my judgment to those who walk in balance and temper the ambitions of darkness. In this sense, my vigilance endures, as does the Dusk Lord’s purpose, so that [Nidhogg](/02---characters/adversaries/nidhogg) and the forces he serves may never freely return to bring ruin.
-
-You, who bear the mark, now walk a path aligned with those ancient champions. The light of your deeds will help strengthen the barriers they once set in place.

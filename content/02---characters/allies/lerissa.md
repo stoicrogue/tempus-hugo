@@ -11,9 +11,9 @@ cssclasses:
   - center-images
   - image-borders
 ---
-![lerissa.png](/images/lerissa.png)
+![lerissa 1.png](/images/lerissa%201.png)
 
-- tiefling bartender of the [Raven’s Perch Tavern](/03---locations/ravens-perch-tavern) in [Tannis](/03---locations/tannis)
+- Tiefling bartender of the [Raven’s Perch Tavern](/03---locations/ravens-perch-tavern) in [Tannis](/03---locations/tannis)
 - Former beast master ranger
 - Knows the local geography
 - Pet gray wolf, The Dutchess

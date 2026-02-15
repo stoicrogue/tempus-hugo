@@ -23,11 +23,11 @@ The vault uses numbered prefixes for organization:
 - `02 - characters/` - NPCs, party members, adversaries, monster stat blocks
   - `main-party/` - Player characters and party reference sheet
   - `adversaries/` - Villain narrative lore pages and stat blocks (CR up to 17)
-  - `allies/` - NPC allies
+  - `allies/` - NPC ally narrative lore pages (Arbiter, Trius, Elara Sunforge, Vidrir, etc.)
   - `monsters/` - Creature stat blocks
 - `03 - locations/` - Setting descriptions and maps
 - `04 - items/` - Magical and homebrew equipment
-- `05 - planning/` - Campaign arcs, encounter design, session prep
+- `05 - planning/` - Campaign arcs, encounter design, session prep, DM reference material (reveal FAQs, guest player briefings, encounter tables)
 - `06 - factions/` - Organizations (Chained Library, Massa'Ista)
 - `07 - rules/` - Homebrew mechanics (Minion Rules)
 - `08 - recap/` - Campaign summaries, quest log, timeline, dramatized narratives
@@ -120,14 +120,22 @@ author:
 
 ## Narrative Lore Page Format
 
-Character and location files follow a consistent narrative structure (established with Nidhogg, then applied to Weaver, Serenity, Manus, and Tannis):
+Character and location files follow a consistent narrative structure (established with Nidhogg, then applied across adversaries, allies, and locations):
 
-- **Frontmatter:** `tags` (Villain, Location, etc.), `date`, `title`, `created`
+- **Adversaries:** Nidhogg, Weaver, Serenity, Manus
+- **Allies:** Trius, Arbiter, Elara Sunforge, Vidrir
+- **Locations:** Tannis
+
+Format:
+
+- **Frontmatter:** `tags` (Villain, Ally, Location, etc.), `date`, `title`, `created`
 - **`# Heading`** followed by **top-level identity bullets** summarizing the entity at a glance
 - **`##` thematic sections** organized by narrative significance (not stat-block-first)
 - **`[[wiki-links]]`** throughout for cross-referencing characters, locations, and factions
 - **Stat blocks** go in separate files (e.g., `Manus - Original StatBlock.md`, `Manus - Chaos Duelist.md`) linked from the narrative page under a `## Stat Block` section
+- **DM reference material** (reveal FAQs, roleplay guides, encounter tables) goes in separate files in `05 - planning/`, linked from the narrative page (e.g., `[Vidrir - Odin Reveal](/05---planning/vidrir---odin-reveal)`, `[Trius Quick Reference](/05---planning/final-battle/trius-quick-reference)`)
 - **Quotes** from session notes or journals included where available for flavor
+- **Images** are preserved at the bottom of the file
 
 ## DM Style and Prep Evolution
 

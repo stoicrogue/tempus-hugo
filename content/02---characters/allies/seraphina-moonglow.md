@@ -11,7 +11,7 @@ cssclasses:
 ---
 Seraphina Moonglow, a half-elf mystic, owner of the [Moonlit Hearth](/03---locations/moonlit-hearth) tavern in the [Spring Court](/06---factions/spring-court).
 
-![Seraphina_Moonglow.png](/images/Seraphina_Moonglow.png)
+![Seraphina_Moonglow~2.png](/images/Seraphina_Moonglow~2.png)
 
 ## Core vibe
 

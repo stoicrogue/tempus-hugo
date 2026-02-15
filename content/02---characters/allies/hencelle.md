@@ -14,5 +14,5 @@ cssclasses:
 ![hencelle.png](/images/hencelle.png)
 
 - Earth Genasi, former monk
-- Tavern keeper at the Aki Matsuri (Fall Festival in Japanese
-- Master of Feasts - chief orgaznier of the festivals
+- Tavern keeper at the [Aki Matsuri](/03---locations/aki-matsuri) (Fall Festival in Japanese
+- Master of Feasts - chief organizer of the festivals
