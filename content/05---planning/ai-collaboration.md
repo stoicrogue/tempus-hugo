@@ -1,7 +1,7 @@
 ---
-date: 2026-02-05
 tags:
   - planning
+date: 2026-02-05
 title: AI Collaboration
 author: Mark Molea
 ---

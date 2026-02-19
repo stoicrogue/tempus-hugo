@@ -1,6 +1,5 @@
 ---
 tags:
-  - 
   - tempus
 date: 2026-02-05
 title: CLAUDE

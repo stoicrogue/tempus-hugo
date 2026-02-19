@@ -31,7 +31,10 @@ author: Mark Molea
 
 **Master of Illusions.** The [Weaver](/02---characters/adversaries/weaver) can cast illusion spells as if they were one spell level higher than the slot used (maximum 9th level).
 
-**Vulnerability to Truth:** When affected by True Sight or similar divination magic, the [Weaver](/02---characters/adversaries/weaver) loses his damage resistances and has disadvantage on spell attack rolls. Additionally, Summer's Edge can target him through any illusion as if he were visible and unobscured.
+**Vulnerability to Truth**. While the Weaver is within the bright light of Summer's Edge (20-foot radius):
+- He loses all damage resistances
+- He has disadvantage on spell attack rolls
+- Additionally: The wielder of Summer's Edge can target the Weaver through any illusion as if he were visible and unobscured, regardless of distance or line of sight.
 
 **Ritual Focus.** While concentrating on the [Nidhogg](/02---characters/adversaries/nidhogg) Summoning ritual, the [Weaver](/02---characters/adversaries/weaver) gains the following benefits:
 - Resistance to non-magical weapons

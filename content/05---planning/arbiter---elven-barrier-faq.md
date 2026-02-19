@@ -1,6 +1,6 @@
 ---
-date: 2026-02-15
 tags: []
+date: 2026-02-15
 title: Arbiter - Elven Barrier FAQ
 author: Mark Molea
 ---
