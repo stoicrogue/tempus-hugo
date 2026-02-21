@@ -46,12 +46,12 @@ created: 2025-04-10
 3. **Unstable Ground** - 20ft radius area becomes difficult terrain, creatures starting turn there DC 14 Dex or prone
 
 ### Phase 2 Effects (Rounds 3-4)
-1. **Portal Magnetism** - 60ft radius from portal, DC 16 Str save or pulled 15ft toward portal (2d8 force if pulled into portal)
+1. **Portal Magnetism** - 60ft radius from portal, DC 16 Str save or pulled 15ft toward portal; 9 (2d8) force if pulled into portal
 2. **Reality Fracture** - 30ft cone, DC 16 Int save or stunned until end of their next turn
 3. **[Nidhogg](/02---characters/adversaries/nidhogg)'s Whispers** - All creatures DC 16 Cha save or charmed by [Weaver](/02---characters/adversaries/weaver) until end of next turn
 
 ### Phase 3 Effects (Rounds 5-6)
-1. **Shadowfell Bleed** - 40ft radius heavily obscured by shadows, 2d6 necrotic to creatures starting turn inside
+1. **Shadowfell Bleed** - 40ft radius heavily obscured by shadows, 7 (2d6) necrotic to creatures starting turn inside
 2. **Planar Rift** - Roll on Wild Magic Surge table (reality becoming unstable)
 3. **Dragon's Presence** - 100ft radius, DC 18 Wis save or frightened for 1 minute (can't move closer to portal)
 
@@ -91,16 +91,14 @@ created: 2025-04-10
 
 ### Weaver reaches 25% HP (62 HP) - Reality Rupture
 
-> "If I cannot have victory, none shall have peace!" 
-
 [Weaver](/02---characters/adversaries/weaver) slams his staff into the ground, causing reality to shatter:
 - **All creatures within 60ft of portal:** DC 19 Constitution save
-  - **Fail:** 6d8 force damage + stunned until end of next turn
+  - **Fail:** 27 (6d8) force damage + stunned until end of next turn
   - **Success:** Half damage, not stunned
 - Ritual **advances 2 phases immediately**
 - Terrain within 30ft of portal becomes **difficult terrain**
 - [Weaver](/02---characters/adversaries/weaver) gains **+1 legendary action per round** (total of 3)
-- **Ongoing:** Creatures starting turn within 30ft of portal take 2d6 psychic damage
+- **Ongoing:** Creatures starting turn within 30ft of portal take 7 (2d6) psychic damage
 
 ### Portal reaches Phase 4
 
@@ -116,17 +114,12 @@ created: 2025-04-10
 - [Weaver](/02---characters/adversaries/weaver) below 40% HP (100 HP)
 - Portal reaches Phase 4
 - DM's choice for dramatic timing
-
----
-
 ## QUICK TRACKING
-
-**Write on notecard:**
 ```
 RITUAL PHASE: [ 1 ] [ 2 ] [ 3 ] [ 4 ]
-Current Round: ___
-Weaver HP: ____/250
-Manus HP: ____/250
+Current Round: ____
+Weaver HP: ______/250
+Manus HP: ______/250
 ```
 
 **Each Round:**

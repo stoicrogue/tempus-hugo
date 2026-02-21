@@ -10,13 +10,6 @@ author: Mark Molea
 **Armor Class** 17 (Natural Armor + Mage Armor)  
 **Hit Points** 285 (38d8 + 114)  
 **Speed** 30 ft., fly 60 ft. (hover, magical)  
-**Challenge** 13 (10,000 XP)  
-**Proficiency Bonus** +5
-
-| STR | DEX | CON | INT | WIS | CHA |
-|-----|-----|-----|-----|-----|-----|
-| 12 (+1) | 18 (+4) | 16 (+3) | 22 (+6) | 15 (+2) | 20 (+5) |
-
 **Saving Throws** Int +12, Wis +8, Cha +11  
 **Skills** Arcana +17, Deception +16, History +12, Insight +8, Investigation +12  
 **Damage Resistances** Cold, Necrotic, Psychic  
@@ -26,23 +19,18 @@ author: Mark Molea
 ## Features
 
 **Fey Ancestry.** Advantage on saving throws against being charmed, and magic can't put him to sleep.
-
 **Magic Resistance.** Advantage on saving throws against spells and other magical effects.
-
 **Master of Illusions.** The [Weaver](/02---characters/adversaries/weaver) can cast illusion spells as if they were one spell level higher than the slot used (maximum 9th level).
-
 **Vulnerability to Truth**. While the Weaver is within the bright light of Summer's Edge (20-foot radius):
 - He loses all damage resistances
 - He has disadvantage on spell attack rolls
 - Additionally: The wielder of Summer's Edge can target the Weaver through any illusion as if he were visible and unobscured, regardless of distance or line of sight.
-
 **Ritual Focus.** While concentrating on the [Nidhogg](/02---characters/adversaries/nidhogg) Summoning ritual, the [Weaver](/02---characters/adversaries/weaver) gains the following benefits:
 - Resistance to non-magical weapons
 - Can maintain concentration on two spells simultaneously
 
-**Spellcasting.** The [Weaver](/02---characters/adversaries/weaver) is an 18th-level spellcaster. Spell save DC 19, +12 to hit.  
+**Spellcasting.** 18th-level spellcaster. Spell save DC 19, +12 to hit.  
 **Spell Slots:** 1st(4), 2nd(3), 3rd(3), 4th(3), 5th(3), 6th(1), 7th(1), 8th(1), 9th(1)
-
 **Known Spells:**
 - **Cantrips:** mage hand, minor illusion, eldritch blast, chill touch
 - **1st level:** disguise self, silent image, charm person
@@ -64,10 +52,9 @@ author: Mark Molea
 
 **Shadowweave Bolt.** *Ranged Spell Attack:* +11 to hit, range 120 ft., one target.  
 *Hit:* 14 (2d8 + 5) force damage + 7 (2d6) psychic damage. If target is frightened, +1d8 psychic damage.
-
 **Summon Shadows (Recharge 5-6).** The [Weaver](/02---characters/adversaries/weaver) summons 1d4 Shadows within 30ft of himself. They act at the end of the [Weaver](/02---characters/adversaries/weaver)’s turn.
-
 **Spellcasting.** Casts a spell of 4th level or higher.
+
 ## Legendary Actions (3 per turn)
 
 - **Move.** The [Weaver](/02---characters/adversaries/weaver) moves without provoking opportunity attacks. 
