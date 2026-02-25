@@ -10,9 +10,9 @@ author: Mark Molea
 # Manus, the Chaos Duelist
 *Medium humanoid chaotic neutral*
 
-> AC/DC 19 | HP 285 (150-420) | Atk/Prof +11 | DPR 69 | # Atks 3 | Dmg (2d8 + 7) + (2d6)
+> AC/DC 19 | HP 250 (150-420) | Atk/Prof +11 | DPR 69 | # Atks 3 | Dmg (2d8 + 7) + (2d6)
 
-**Armor Class** 19 (Natural Armor)  **Hit Points** 285 (30d10 + 120)  
+**Armor Class** 19 (Natural Armor)  **Hit Points** 250 (30d10 + 120)  
 **DPR:** 69 (2d8 + 7) + (2d6) **Speed** 50 ft.
 **Saving Throws** Dex +11, Con +8, Wis +7, Cha +10  
 **Condition Immunities** Frightened, Grappled, Restrained  
@@ -79,10 +79,11 @@ Target within 60 ft. must make DC 18 Wisdom save or be compelled to attack [Manu
 ---
 ## Encounter-Specific Behavior
 
-- **Opening Rounds:** [Manus](/02---characters/adversaries/manus) creates 1-2 shadow copies and positions them tactically. Uses hit-and-run tactics, testing the party's abilities.
-- **Mid-Combat:** Becomes more aggressive as he realizes the party's strength. Uses *Taunting Challenge* to isolate strong fighters.
-- **Late Combat:** If the [Weaver](/02---characters/adversaries/weaver) is in serious trouble OR if [Nidhogg](/02---characters/adversaries/nidhogg)'s emergence threatens reality itself, [Manus](/02---characters/adversaries/manus) may switch sides, shouting something like "This isn't the fight I wanted!" 
-- **Defeat Condition:** If reduced to 25% HP, [Manus](/02---characters/adversaries/manus) may attempt to flee via *dimension door*, respecting the party's strength.
+- **Opening Rounds (1-2):** Manus hangs back and toys with the party — hit-and-run strikes, taunting remarks, no shadow copies yet. He's treating this like sport, not war. He does **not** use Taunting Challenge or create shadow copies during this phase. If the Weaver yells at him to get serious, Manus responds with something dismissive: _"Fine, fine. Though I'm starting to wonder if your little ritual is worth the trouble..."_
+- **Round 3+ (Weaver seriously threatened):** Manus creates **one** shadow copy (never two) and begins applying real pressure. Uses Taunting Challenge to isolate whoever is threatening the Weaver most. This is the moment the Weaver snaps at him and demands he stop playing around.
+- **Betrayal Trigger:** When the Weaver's Reality Rupture fires (≤62 HP), Manus reads the room and realizes this has gone further than he signed up for. He switches sides, turning on the Weaver. His line: _"This isn't what we agreed to."_ His shadow copy immediately collapses — he's done splitting his focus.
+- **After Betrayal:** Manus targets the Weaver exclusively. He doesn't help the party tactically and won't take direction from them — he has his own score to settle and makes that clear.
+- **Defeat Condition:** If reduced to 25% HP at any point, Manus escapes via _Dimension Door_, unwilling to die for anyone else's cause.
 
 ## Tactical Notes
 
