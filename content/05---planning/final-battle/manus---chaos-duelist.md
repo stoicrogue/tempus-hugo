@@ -79,11 +79,11 @@ Target within 60 ft. must make DC 18 Wisdom save or be compelled to attack [Manu
 ---
 ## Encounter-Specific Behavior
 
-- **Opening Rounds (1-2):** Manus hangs back and toys with the party — hit-and-run strikes, taunting remarks, no shadow copies yet. He's treating this like sport, not war. He does **not** use Taunting Challenge or create shadow copies during this phase. If the Weaver yells at him to get serious, Manus responds with something dismissive: _"Fine, fine. Though I'm starting to wonder if your little ritual is worth the trouble..."_
-- **Round 3+ (Weaver seriously threatened):** Manus creates **one** shadow copy (never two) and begins applying real pressure. Uses Taunting Challenge to isolate whoever is threatening the Weaver most. This is the moment the Weaver snaps at him and demands he stop playing around.
-- **Betrayal Trigger:** When the Weaver's Reality Rupture fires (≤62 HP), Manus reads the room and realizes this has gone further than he signed up for. He switches sides, turning on the Weaver. His line: _"This isn't what we agreed to."_ His shadow copy immediately collapses — he's done splitting his focus.
-- **After Betrayal:** Manus targets the Weaver exclusively. He doesn't help the party tactically and won't take direction from them — he has his own score to settle and makes that clear.
-- **Defeat Condition:** If reduced to 25% HP at any point, Manus escapes via _Dimension Door_, unwilling to die for anyone else's cause.
+- **Opening Rounds (1-2):** [Manus](/02---characters/adversaries/manus) hangs back and toys with the party — hit-and-run strikes, taunting remarks, no shadow copies yet. He's treating this like sport, not war. He does **not** use Taunting Challenge or create shadow copies during this phase. If the [Weaver](/02---characters/adversaries/weaver) yells at him to get serious, [Manus](/02---characters/adversaries/manus) responds with something dismissive: _"Fine, fine. Though I'm starting to wonder if your little ritual is worth the trouble..."_
+- **Round 3+ ([Weaver](/02---characters/adversaries/weaver) seriously threatened):** [Manus](/02---characters/adversaries/manus) creates **one** shadow copy (never two) and begins applying real pressure. Uses Taunting Challenge to isolate whoever is threatening the [Weaver](/02---characters/adversaries/weaver) most. This is the moment the [Weaver](/02---characters/adversaries/weaver) snaps at him and demands he stop playing around.
+- **Betrayal Trigger:** When the [Weaver](/02---characters/adversaries/weaver)'s Reality Rupture fires (≤62 HP), [Manus](/02---characters/adversaries/manus) reads the room and realizes this has gone further than he signed up for. He switches sides, turning on the [Weaver](/02---characters/adversaries/weaver). His line: _"This isn't what we agreed to."_ His shadow copy immediately collapses — he's done splitting his focus.
+- **After Betrayal:** [Manus](/02---characters/adversaries/manus) targets the [Weaver](/02---characters/adversaries/weaver) exclusively. He doesn't help the party tactically and won't take direction from them — he has his own score to settle and makes that clear.
+- **Defeat Condition:** If reduced to 25% HP at any point, [Manus](/02---characters/adversaries/manus) escapes via _Dimension Door_, unwilling to die for anyone else's cause.
 
 ## Tactical Notes
 

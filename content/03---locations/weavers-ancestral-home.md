@@ -15,7 +15,7 @@ Last Edited: 2023-05-31T16:41
 # 🕸️ 5-Room Dungeon: Weaver’s Abandoned Castle
 
 
-> [!tip] Summary
+> [!important] Summary
 > |Room|Encounter Type|Description|
 > |---|---|---|
 > |1|Entrance Guardian|Illusory patchwork knight tests them.|
@@ -112,7 +112,7 @@ One by one, the audience turns their backs and disappears into mist.
 her veins pulsing with shadow, her hands monstrous, her eyes vacant and cold.  
 All around her, the world burns, and she smiles without realizing it.
 
-> [!tip] Empty Loom
+> [!important] Empty Loom
 > For a moment, the mirror shudders —  and beyond your reflection,  you see it:  
 > 
 > a vast loom, threads snapping in a wind you cannot feel,  the world itself beginning to come undone.
@@ -129,7 +129,7 @@ The party enters a vast **circular chamber** deep within the castle.
 - **Sound:** An irregular creaking, like ropes straining aboard a sinking ship.
 - **Smell:** Dust, old magic, and a bitter ozone tang of something unraveling
  
-> [!tip] Empty Loom Vision
+> [!important] Empty Loom Vision
 > _The world falls away like torn cloth._  _You stand in endless white, beneath a sky that has forgotten how to be blue._
 > 
 > _Before you looms a colossal frame, ancient beyond reckoning — a loom whose threads once sang with light and life._
@@ -160,7 +160,7 @@ At the heart of the crumbling castle lies the **throne room** —  and it still 
 - The tapestries that once depicted the lineage of the family that lived here hang **inverted**, their threads pulling away from their forms like unraveling ghosts.
 - The blackstone **throne** itself sits atop a dais of cracked marble.  As you step into the room, a figure materialized on the throne. Seated there, motionless, a young regal elven man, but the form is **semi-transparent**, woven of **smoke, memory, and sorrow**.  It blinks slowly, as if struggling to remember why it was placed here.
 
-> [!tip] Echo Monologue
+> [!important] Echo Monologue
 > “You come among broken threads,  seeking a tapestry already torn beyond mending.
 > 
 > This house —” _(his hand stirs faintly)_ “— once wove oaths and dreams alike…  a loom strong enough to bind seasons to stone, stars to memory.”
@@ -192,7 +192,7 @@ At the heart of the crumbling castle lies the **throne room** —  and it still 
 
 ### **The Echo of the Weaver**
 
-> [!tip] One line stat block
+> [!important] One line stat block
 > AC/DC 16 | HP 145 (109-181) | Atk/Prof +8 | DPR 53 | # Atks 3 | Dmg 18 (3d10 + 2)
 
 - Resistance to nonmagical damage, psychic damage.
@@ -213,7 +213,7 @@ At the heart of the crumbling castle lies the **throne room** —  and it still 
 - **Shadow Anchor** - When reduced to half HP, the room becomes lightly obscured. The Echo gains half cover while standing still.
 
 #### Shadow Wolf
-> [!tip] one line stat block 
+> [!important] one line stat block 
 > AC/DC 13 | HP 45 (34-56) | Atk/Prof +5 | DPR 17 | # Atks 2 | Dmg 9 (2d6 + 2)
 
 - **Illusory Form** - When a Shadow Wolf takes damage for the first time on a turn, it can use its reaction to gain advantage on its next attack roll or saving throw before the end of its next turn.

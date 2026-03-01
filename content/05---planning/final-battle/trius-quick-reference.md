@@ -6,7 +6,7 @@ author: Mark Molea
 ---
 # Trius - Paladin, Oath of the Ancients
 
-> [!tip] AC 20 | HP 52 | Speed 30 ft. | Init +0
+> [!important] AC 20 | HP 52 | Speed 30 ft. | Init +0
 > Passive Perception 14 | Darkvision 60 ft.
 > Immune: disease, magical sleep | Advantage vs being charmed
 

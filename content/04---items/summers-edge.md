@@ -13,7 +13,7 @@ cssclasses:
 *The Blade of Dawning Light*  
 *Weapon (longsword), rare (requires attunement by a good-aligned creature)*
 
-> [!tip] Legends Speak...
+> [!important] Legends Speak...
 > *“As long as Summer’s Edge shines, the night shall never truly fall.”*  
 > _— Inscription on the sword’s original scabbard_
 
@@ -33,7 +33,7 @@ _Passive:_ You gain a **+1** bonus to attack rolls and damage rolls made with th
 ### Whispers of Memory
 - _Passive:_ The sword is not silent. In moments of stillness—or great need—it may share glimpses of its past, warning of threats or revealing fragments of forgotten truth.
 
-> [!tip] Dormant Potential  
+> [!important] Dormant Potential  
 > Though reforged and blazing with radiant power, Summer’s Edge feels *incomplete*. Its light warms your hand, but in its silent depths lies something waiting—something that feels like a sunrise just below the horizon, promising more when the time is right.
 
 ## Awakened State
@@ -48,7 +48,7 @@ _Passive:_ You gain a **+2** bonus to attack rolls and damage rolls made with th
 - _Action:_ The wielder may cast **See Invisibility**, without expending a spell slot.  
 - _Uses:_ Once per long rest.
 
-> [!tip] Legends Speak...
+> [!important] Legends Speak...
 > *“The sword may grow stronger still. When justice is threatened… when shadow creeps too close… the sun shall rise again.”*
 
 ## Exalted State
@@ -71,5 +71,5 @@ _Passive:_ You gain a **+3** bonus to attack rolls and damage rolls made with th
 - _Action:_ The wielder gains **True Sight (60 ft)** for **1 minute** 
 - _Uses:_ Once per long rest.
 
-> [!tip] Legends Speak...
+> [!important] Legends Speak...
 > _“When the final seal of Summer’s Edge awakens, its light burns away all shadows – not even lies can hide from its gaze. As your vision floods with golden light, illusions burn away, shadows retreat, and the true form of all things is revealed before you.”_

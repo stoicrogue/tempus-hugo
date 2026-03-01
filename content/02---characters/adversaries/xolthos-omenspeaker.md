@@ -11,7 +11,7 @@ cssclasses:
 ---
 ![xolthos.png](/images/xolthos.png)
 
-> [!tip] D&D Beyond Sheet
+> [!important] D&D Beyond Sheet
 > https://www.dndbeyond.com/characters/125398669/7WTtub
 
 - Herald of the [Weaver](/02---characters/adversaries/weaver) and the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse)

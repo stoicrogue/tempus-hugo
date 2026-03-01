@@ -3,14 +3,14 @@ tags:
   - locations
   - tempus
 date: 2025-04-10
-title: FINAL RITUAL - TABLE REFERENCE SHEET
+title: Final Ritual - Encounter Reference
 author:
   - Mark Molea
 created: 2025-04-10
 ---
 ## RITUAL ADVANCEMENT
 
-> [!tip] [Weaver](/02---characters/adversaries/weaver) chooses Option A or B each turn
+> [!important] [Weaver](/02---characters/adversaries/weaver) chooses Option A or B each turn
 
 ### Option A: Focus on Ritual (Full Action)
 - Advances ritual by **1 phase immediately**
@@ -35,7 +35,7 @@ created: 2025-04-10
 
 ## LAIR ACTIONS
 
-> [!tip] Automatic - Initiative 20
+> [!important] Automatic - Initiative 20
 > **Roll 1d3 each round to determine effect**
 
 ### Phase 1 Effects (Rounds 1-2)
@@ -82,19 +82,19 @@ created: 2025-04-10
 
 #### Ritual “Growth Ring” Visual
 
-- Whenever the Weaver is actively advancing the ritual toward the next phase step, a **secondary ring** of runes appears around the portal: **fuzzy, unstable, ~5 ft larger in diameter** than the current stable portal.
-- If the Weaver successfully advances, the fuzzy ring **solidifies** and the portal **expands to fill the new space** (the portal is now larger and **stable/locked**).
+- Whenever the [Weaver](/02---characters/adversaries/weaver) is actively advancing the ritual toward the next phase step, a **secondary ring** of runes appears around the portal: **fuzzy, unstable, ~5 ft larger in diameter** than the current stable portal.
+- If the [Weaver](/02---characters/adversaries/weaver) successfully advances, the fuzzy ring **solidifies** and the portal **expands to fill the new space** (the portal is now larger and **stable/locked**).
 - If the party disrupts it (see Portal Counter), that fuzzy ring **shatters** and the portal **snaps back** to its prior stable size.
 
 #### Portal Counter Disruption Mechanic
 
 - The portal cannot be destroyed, but it can be **set back**.
 - **Unlocked window (damageable):** The portal can be targeted/damaged **only while the fuzzy growth ring is present** (portal is “unstable/growing”).
-- **Locked window (immune):** Once the growth ring **solidifies**, the portal is stable and **immune to damage/effects** until the next time the Weaver begins pushing it outward again.
+- **Locked window (immune):** Once the growth ring **solidifies**, the portal is stable and **immune to damage/effects** until the next time the [Weaver](/02---characters/adversaries/weaver) begins pushing it outward again.
 - While the portal is **Unlocked**, track **Portal Counter Damage**.
 - When Portal Counter Damage reaches **50**, the portal **reverts to the last stable point** and the **Portal Counter Damage resets to 0**.
 
-> [!tip] Don’t explain the mechanic outright 
+> [!important] Don’t explain the mechanic outright 
 > - If the party hasn’t interacted with the portal by rounds 2–3, let a stray attack graze it: the growth ring flickers, cracks, or briefly destabilizes.
 > - **Arcana (DC 20):** Clearly identifies the “growth ring” as the ritual’s vulnerable edge and reveals the **50 damage** disruption threshold.
 ### B. Dark Shadow Pools

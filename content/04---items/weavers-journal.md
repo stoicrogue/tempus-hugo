@@ -57,7 +57,7 @@ created: 2025-05-02
 
 ---
 
-> [!tip] If His True Name is Revealed and Spoken
+> [!important] If His True Name is Revealed and Spoken
 > Under the moonlight, the ink on the page shimmers and reveals a name that almost sings itself into the night air—soft, melodic, but _unmistakably elven_. When spoken aloud, something in the room tightens. The journal snaps closed. All light dims for a breath.
 > 
 > Then, every remaining page flutters, and from their shifting surfaces, a **voice**—his voice—emerges. Calm. Hollow. Prepared.
@@ -71,7 +71,7 @@ created: 2025-05-02
 > **Optional twist:** As the name is spoken, the Silmirien page _regrows itself_ from the ashes, forming anew, and now points unwaveringly in a specific direction. The tether is reformed—but now _the party holds the other end._
 
 
-> [!tip] True Name
+> [!important] True Name
 > The name is elvish and beautiful—perhaps _Aelthirion_. Or _Valesarin_. Or a soft syllabled secret that carries melancholy in its phonemes.
 
 

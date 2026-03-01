@@ -17,11 +17,11 @@ author: Mark Molea
 
 **Fey Ancestry.** Advantage on saving throws against being charmed.
 **Magic Resistance.** Advantage on saving throws against spells and other magical effects.
-**Vulnerability to Truth**. While the Weaver is within the bright light of Summer's Edge (20-foot radius):
+**Vulnerability to Truth**. While the [Weaver](/02---characters/adversaries/weaver) is within the bright light of Summer's Edge (20-foot radius):
 - He loses all damage resistances
 - He has disadvantage on spell attack rolls
-- Additionally: The wielder of Summer's Edge can target the Weaver through any illusion as if he were visible and unobscured, regardless of distance or line of sight.
-**Ritual Focus.** While concentrating on the Nidhogg Summoning ritual, the Weaver gains the following benefits:
+- Additionally: The wielder of Summer's Edge can target the [Weaver](/02---characters/adversaries/weaver) through any illusion as if he were visible and unobscured, regardless of distance or line of sight.
+**Ritual Focus.** While concentrating on the [Nidhogg](/02---characters/adversaries/nidhogg) Summoning ritual, the [Weaver](/02---characters/adversaries/weaver) gains the following benefits:
 - Resistance to **all damage** 
 - Can maintain concentration on two spells simultaneously.
 **Spellcasting.** 18th-level spellcaster. Spell save DC 19, +12 to hit.  

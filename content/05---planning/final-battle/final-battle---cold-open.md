@@ -10,7 +10,7 @@ _The ancient battlefield offers no welcome._
 
 _You smell it before you see it — cold ash and something older, something that has no name in any living tongue. The trees thin at the edge of the field and then stop entirely, as if even they refuse to go further. Before you stretches a place where the ground remembers war. Shattered stone. Bones half-swallowed by earth. The ruins of walls that once meant something, now standing only out of habit._
 
-_Above you, the sky is a void. No moon tonight. The Weaver couldn't wait for the solstice — you made sure of that. So he chose the new moon instead, the one night each month when darkness is as complete as it ever gets. When the veil between worlds grows thin enough for a desperate man to tear._
+_Above you, the sky is a void. No moon tonight. The [Weaver](/02---characters/adversaries/weaver) couldn't wait for the solstice — you made sure of that. So he chose the new moon instead, the one night each month when darkness is as complete as it ever gets. When the veil between worlds grows thin enough for a desperate man to tear._
 
 _He is already here._
 
