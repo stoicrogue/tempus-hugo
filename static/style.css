@@ -13,3 +13,44 @@
         min-width: 15em;
     }
 }
+
+/* ─── Callout / Alert styles (Obsidian-compatible) ───────── */
+
+blockquote.alert {
+  --callout-color: var(--accent);
+  border-top: none;
+  border-bottom: none;
+  border-left: 3px solid var(--callout-color);
+  padding: 0.75em 1.25em;
+  margin: 1.5em 0;
+  background: color-mix(in srgb, var(--callout-color) 8%, transparent);
+}
+
+blockquote.alert::before {
+  content: none;
+}
+
+.alert-heading {
+  display: flex;
+  align-items: baseline;
+  gap: 0.4em;
+  color: var(--callout-color);
+  font-weight: bold;
+  font-size: 0.85em;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  margin: 0 0 0.5em;
+}
+
+blockquote.alert-note,
+blockquote.alert-info      { --callout-color: #4fc3f7; }
+
+blockquote.alert-tip       { --callout-color: #81c784; }
+
+blockquote.alert-important { --callout-color: #ce93d8; }
+
+blockquote.alert-warning   { --callout-color: #ffb74d; }
+
+blockquote.alert-caution   { --callout-color: #ef9a9a; }
+
+blockquote.alert-quote     { --callout-color: var(--accent); }
