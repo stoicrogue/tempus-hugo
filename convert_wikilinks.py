@@ -135,7 +135,7 @@ def main():
     ap.add_argument('--clean', action='store_true')
     args = ap.parse_args()
     convert_vault(Path(args.vault), Path(args.content), clean=args.clean)
-    print("✅ Markdown converted and copied.")
+    print("Done: Markdown converted and copied.")
 
 if __name__ == '__main__':
     main()

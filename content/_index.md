@@ -74,3 +74,9 @@ The irony of following a "Lazy DM" philosophy is that my notes actually got *mor
 - Various types of notes capturing the ongoing campaign.
 - **Tempus Campaign Session Notes:** a fairly raw combination of all of session notes captured during play and transferred back to my Obsidian Session Notes.
 - **Tempus Campaign Recap:** a summary of the raw session notes. I start by feeding a section of raw session notes into ChatGPT/Claude and refine a bit from there. These are ready to share with the players.
+
+## Use This for Your Own Campaign
+
+If you'd like to set up a similar notebook for your own campaign, I've extracted the structure and tooling from these notes into a reusable template:
+
+**[dnd-campaign-template](https://github.com/stoicrogue/dnd-campaign-template)** — a GitHub repo you can clone to get started with the same folder hierarchy, automation scripts (for wiki-links, frontmatter, and Hugo publishing), and session prep template used here.
