@@ -30,9 +30,9 @@ Now the stars are vanishing from the sky.
 
 Across the realm, a barrier erected generations ago by the Elven Matriarch grows weaker with each passing day. Behind it, trapped in the depths of the Shadowfell, the shadow dragon Nidhogg strains against his chains. And orchestrating his release is the Weaver—a master illusionist whose Cult of the Eclipse systematically corrupts the four leyline temples that anchor reality itself.
 
-From the frozen halls of the Winter Court to the raucous festivals of the Summer realm, from battling undead nightmares in corrupted temples to stealing the First Kiss of the Midday Sun atop a Feywild mountain, the heroes have raced against an accelerating clock. They've reforged legendary weapons, earned the favor of an Angel of Justice, and discovered that the sage who guided them is no mere mortal.
+From the frozen halls of the Winter Court to the raucous festivals of the Summer realm, from battling undead nightmares in corrupted temples to stealing the First Kiss of the Midday Sun atop a Feywild mountain, the heroes have raced against an accelerating clock. They've reforged legendary weapons, earned the favor of an Angel of Justice, made surprising allies throughout the realm.
 
-> _A 3+ year D&D 5e campaign spanning 45+ sessions_
+> _A 3+ year D&D 5e campaign spanning 48 sessions_
 
 ## Note & Prep Tour
 
@@ -75,5 +75,4 @@ The irony of following a "Lazy DM" philosophy is that my notes actually got *mor
 ### [Recap](/08---recap/_index)
 - Various types of notes capturing the ongoing campaign.
 - **Tempus Campaign Session Notes:** a fairly raw combination of all of session notes captured during play and transferred back to my Obsidian Session Notes.
-- **Tempus Campaign Recap:** a summary of the raw session notes. I start by feeding a section of raw session notes into ChatGPT and refine a bit from there. These are ready to share with the players. 
-- **Tempus Campaign Dramatization:** a prose version of the raw session notes. Again, I start by feeding a section of raw session notes into ChatGPT and refine a bit from there. Throughout the campaign, I've been updating this document and sharing it with the players. In a long running campaign, I feel like this has ended up being very helpful for the entire group.
+- **Tempus Campaign Recap:** a summary of the raw session notes. I start by feeding a section of raw session notes into ChatGPT/Claude and refine a bit from there. These are ready to share with the players.
