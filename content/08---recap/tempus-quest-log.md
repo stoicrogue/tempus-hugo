@@ -585,114 +585,98 @@ created: 2025-07-16
 
 ---
 
-## 🔄 ACTIVE QUESTS
-
 ### 📚 Gain Entry to the Chained Library
 
-**Location:** Unknown (cryptic clues: “roots beneath the seasons” / “vault at the world’s bloom”)  
+**Location:** Ashen Shrine at the base of Mount Vesithar → Chained Library beneath
 **Quest Giver:** Implied by [Vael](/02---characters/allies/vael) / party’s own pursuit
 
--  Learn of the Library’s nature via **Legend Lore** ([Shad](/02---characters/main-party/shadicar))
--  Confirm Library’s agents exist ([Vael](/02---characters/allies/vael) encounter)
--  Negotiate initial terms with [Vael](/02---characters/allies/vael) (surrender fang, hold orb until arrival)
--  Travel under [Vael](/02---characters/allies/vael)’s guidance to the Library’s hidden entrance
--  Surrender [Serenity](/02---characters/adversaries/serenity)’s Orb as final toll for access
--  Gain audience with the Librarians
+- [x] Learn of the Library’s nature via **Legend Lore** ([Shad](/02---characters/main-party/shadicar))
+- [x] Confirm Library’s agents exist ([Vael](/02---characters/allies/vael) encounter)
+- [x] Negotiate initial terms with [Vael](/02---characters/allies/vael) (surrender fang, hold orb until arrival)
+- [x] Travel under [Vael](/02---characters/allies/vael)’s guidance to the Library’s hidden entrance
+- [x] Surrender [Serenity](/02---characters/adversaries/serenity)’s Orb as final toll for access
+- [x] Gain audience with the Librarians
 
-**Current Status:** The party has secured [Vael](/02---characters/allies/vael) as guide and is committed to relinquishing [Serenity](/02---characters/adversaries/serenity)’s orb once they reach the Library gates.
+**Rewards:** Barrier repair knowledge (requires several mages and a month or more of ritual work); crystal source located south of the Elven forest; [Vidrir](/02---characters/allies/vidrir)’s true identity confirmed as the Knight of Ravens
+**Key NPCs:** [Vael](/02---characters/allies/vael) (guide and Chainbearer), Samaris (distrustful head librarian), Eyeless Guardians (blind celestial watchers)
 
 ---
 
-
-## 📋 ONGOING BACKGROUND QUESTS
 
 ### 🏺 Recover Skreek's Stolen Relic
 
-**Location:** Southern Desert (djinn rumors)  
-**Quest Giver:** Personal quest  
-**Status:** Information gathered, not yet pursued
+**Location:** Hollow Threshold — Tempest Gate (Winter Court territory)
+**Quest Giver:** Personal quest
 
 - [x] Learn from [Vidrir](/02---characters/allies/vidrir) about djinn rumors in southern desert
-- [ ] Travel to southern desert
-- [ ] Locate djinn searching for elemental artifacts
-- [ ] Negotiate or fight for relic's return
+- [x] Discover the Tempest Egg anchoring the Hollow Threshold in Winter Court territory
+- [x] Recover the Tempest Egg during the Tempest Gate battle ([Slumpet](/02---characters/main-party/slumpet-zoommimist) climbed the storm-spires and seized it in a pillowcase mid-combat)
 
-**Current Status:** On hold while addressing immediate leyline crisis.
+**Rewards:** The Tempest Egg (Storm's Fury, Windwright's Grace); [Skreek](/02---characters/main-party/skreek) reclaims the royal treasure of the Ornithopian royal line
+**Key NPCs:** [Skreek](/02---characters/main-party/skreek) (champion), [Slumpet](/02---characters/main-party/slumpet-zoommimist) (daring retrieval)
 
 ---
+
 ### 🗺️ Investigate Hollow Thresholds
 
-**Location:** Various leyline locations  
-**Quest Giver:** [Slumpet](/02---characters/main-party/slumpet-zoommimist)'s secret discovery  
-**Status:** Information obtained, significance unknown
+**Location:** Various leyline locations
+**Quest Giver:** [Slumpet](/02---characters/main-party/slumpet-zoommimist)'s secret discovery
 
 - [x] Secretly obtain leyline map from [Weaver](/02---characters/adversaries/weaver)'s study
-- [x] Determine what "Hollow Thresholds" represent
+- [x] Determine what "Hollow Thresholds" represent (Cult-forged incisions siphoning leyline energy)
 - [x] Investigate marked locations
 - [x] Understand connection to cult's portal activities
-- [x] Decide whether to share information with party
+- [x] Reveal information to party and coordinate with [Vael](/02---characters/allies/vael)
+- [x] Close Hollow Threshold — Beastland (forest clearing en route to Spring Court)
+- [x] Close Hollow Threshold — Tempest Gate (Winter Court territory)
 
-**Current Status:** [Slumpet](/02---characters/main-party/slumpet-zoommimist) keeping this information secret, considering value to dwarven contacts.
+**Outcome:** Two of four Hollow Thresholds identified and closed. The Weaver's death eliminates the Cult's ability to open new ones.
+**Key NPCs:** [Vael](/02---characters/allies/vael) (Chained Library agent, provided intelligence on threshold locations)
 
 ---
 
-## 🎯 MAJOR UNRESOLVED THREATS
+## 🏁 CAMPAIGN CONCLUSION
 
-### 🐉 The Nidhogg Crisis
+### ⚔️ The Final Battle — Gates of Season's End
 
-**Primary Threat:** Shadow dragon sealed in Shadowfell, cult working to release  
-**Status:** Ongoing threat with multiple fronts
+**Location:** Ancient Battlefield (site of [Nidhogg](/02---characters/adversaries/nidhogg)'s original sealing)
+**Day 44**
 
-**Known Elements:**
+The party arrived under a moonless sky to find the [Weaver](/02---characters/adversaries/weaver)'s ritual already underway. A fifteen-foot portal pulsed at the base of the northern ruins, its edges etched with the same runes that once sealed [Nidhogg](/02---characters/adversaries/nidhogg). [Manus](/02---characters/adversaries/manus) waited near the portal and welcomed the party with arrows.
 
-- Cult of Eclipse serves "Lady of the Eclipse" working to free [Nidhogg](/02---characters/adversaries/nidhogg)
-- [Weaver](/02---characters/adversaries/weaver) (master of fear/illusion) orchestrating weakening of leyline network
-- Barrier anchored by four seasonal leyline temples (Winter damaged, Summer missing crystal)
-- [Serenity](/02---characters/adversaries/serenity) (defeated) served [Nidhogg](/02---characters/adversaries/nidhogg) and cursed [Tannis](/03---locations/tannis)
-- [Nidhogg](/02---characters/adversaries/nidhogg) "hates the Dusk Lord" - religious conflict element
+- [Shad](/02---characters/main-party/shadicar)'s *Dawn* exposed the [Weaver](/02---characters/adversaries/weaver)'s position through his greater invisibility; [Skreek](/02---characters/main-party/skreek) drove Summer's Edge home with a Shining Smite
+- The [Weaver](/02---characters/adversaries/weaver) cast *Maze* on [Skreek](/02---characters/main-party/skreek), tearing him from the battlefield; the ritual advanced and the portal expanded
+- [Trius](/02---characters/allies/trius) thundered in on her unicorn, Moonblade bared, spreading a silent battle hymn through all allies
+- The [Weaver](/02---characters/adversaries/weaver) dropped [Shad](/02---characters/main-party/shadicar) unconscious; the [Arbiter](/02---characters/allies/arbiter) intervened to revive him: _"You are still needed here, my champion."_
+- [Manus](/02---characters/adversaries/manus) turned on the [Weaver](/02---characters/adversaries/weaver) in fury as the battle escalated beyond what he'd agreed to
+- [Trius](/02---characters/allies/trius) raised her Moonblade skyward — a pillar of silver moonlight tore down and struck the [Weaver](/02---characters/adversaries/weaver) with devastating precision. His body crumpled. The ritual died with him.
+- **[Nidhogg](/02---characters/adversaries/nidhogg) did not walk free that night.**
 
-**Immediate Concerns:**
+### 🐉 Nidhogg — Remains Sealed
 
-- Repair damaged leyline crystals
-- Prevent further temple sabotage
-- Locate and stop the [Weaver](/02---characters/adversaries/weaver)
-- Find the mysterious "[Chained Library](/06---factions/chained-library)"
+The summoning ritual failed. The Shadowfell prison holds. With the [Weaver](/02---characters/adversaries/weaver) dead and the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse) leaderless, the immediate threat to the barrier has passed — though the barrier itself remains damaged and in need of repair.
 
-### 🕸️ The Weaver
+### 🕸️ The Weaver — Dead
 
-**Primary Threat:** Master of illusion and fear, architect of the cult's plans  
-**Status:** Alive, location known (Feywild stronghold)
+Killed by [Trius](/02---characters/allies/trius)'s Moonbeam at the ancient battlefield. His Feywild Echo was also destroyed earlier — [Slumpet](/02---characters/main-party/slumpet-zoommimist) struck the killing blow in the castle's throne room. The [Cult of the Eclipse](/06---factions/cult-of-the-eclipse) has lost its architect.
 
-**Known Capabilities:**
+### ⚖️ Manus — At Large
 
-- Mastery of Mirage Arcane (reality reshaping)
-- Destroyed [Shad](/02---characters/main-party/shadicar)'s village "for amusement" using false [Nidhogg](/02---characters/adversaries/nidhogg) vision
-- Created soul-tethered spell - Silmirien
-- Orchestrating systematic weakening of planar barriers
+Turned on the [Weaver](/02---characters/adversaries/weaver) during the final battle in fury when the ritual escalated beyond what he had agreed to. Did not pursue the party afterward. Current whereabouts unknown; no longer actively hostile, but allegiances remain unresolved.
 
-**Tactical Considerations:**
+### 🌌 The Barrier — Damaged but Stable
 
-- Party has his journal and spellbook
-- Burning Silmirien page would call him "home"
-- [Manus](/02---characters/adversaries/manus) appears to mock the [Weaver](/02---characters/adversaries/weaver) despite apparent alliance
-- Castle exploration may reveal additional weaknesses
+The immediate cult threat is eliminated. Barrier repair remains an open task:
+- Requires several mages and a month or more of ritual work
+- Replacement crystals available south of the Elven forest
+- [Vidrir](/02---characters/allies/vidrir) (Odin) remains bound to the mortal realm until the barrier is fully restored
 
-### 🌌 The Weakening Barrier
+### 🎉 Party Achievements
 
-**Systemic Threat:** Interplanar barrier failing, allowing monster incursions  
-**Status:** Deteriorating, requires active maintenance
-
-**Key Locations:**
-
-- [Winter Court](/06---factions/winter-court) leyline temple (crystal cracked)
-- [Summer Court](/06---factions/summer-court) leyline temple (missing crystal, recovered but tainted)
-- [Autumn Court](/06---factions/autumn-court) leyline temple (stable)
-- [Spring Court](/06---factions/spring-court) leyline temple (status unknown)
-- The [Chained Library](/06---factions/chained-library) (original barrier source, location unknown)
-
-**Strategic Needs:**
-
-- Repair/cleanse tainted crystals
-- Prevent further sabotage
-- Locate [Chained Library](/06---factions/chained-library) for barrier restoration knowledge
-- Coordinate with all four seasonal courts
+- Summer's Edge reforged and awakened with limited truesight — wielded by [Skreek](/02---characters/main-party/skreek)
+- Tempest Egg recovered — [Skreek](/02---characters/main-party/skreek) reclaimed his homeland's royal artifact
+- Spring Leyline Temple cleared of corruption by Bodak
+- Two of four Hollow Thresholds closed
+- [Chained Library](/06---factions/chained-library) accessed; barrier repair knowledge obtained
+- [Vidrir](/02---characters/allies/vidrir)'s true identity as Odin revealed
+- The [Weaver](/02---characters/adversaries/weaver)'s plans thwarted; [Nidhogg](/02---characters/adversaries/nidhogg)'s seal holds

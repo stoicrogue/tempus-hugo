@@ -1,5 +1,5 @@
 ---
-date: 2025-07-19
+date: 2026-02-28
 title: "Home"
 created: 2025-07-19
 draft: false
