@@ -27,7 +27,7 @@ cssclasses:
 ## Summer's Edge
 
 - **Summer's Edge** was originally wielded by **Sir Eirik**, Champion of the [Summer Court](/06---factions/summer-court) and Captain of the **[Order of Seasons](/06---factions/order-of-seasons)** — the heroes who sealed [Nidhogg](/02---characters/adversaries/nidhogg) centuries ago
-- The blade broke during the final stand at the **Gates of Season's End** and was hidden in a knight's tomb, where the party recovered it
+- The blade broke during the final stand at the ancient battlefield and was hidden in a knight's tomb, where the party recovered it
 - Elara recognized the blade immediately and was thrilled: *"You brought me a legend, and you want me to wake it up. It would be my greatest honor to make this whole again to protect the realm once more"*
 - To reforge it, she required two rare materials: **Celestial Ore** from the Starfall Crater and the **First Kiss of the Midday Sun** from the Feywild
 

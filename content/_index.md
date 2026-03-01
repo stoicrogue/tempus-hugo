@@ -24,13 +24,11 @@ The structure of my notes is based on Mike Shea's [notion notebook](https://slyf
 
 _When Darkness Descends_
 
-It began with a simple rescue—a blacksmith's daughter stolen in the night. But the goblins who took her served a darker master, and in an ancient tomb, four unlikely heroes discovered fragments of a shattered blade and whispers of a forgotten order sworn to fight the shadows.
+It began with a simple rescue — a blacksmith's daughter stolen in the night. But the goblins who took her served a darker master, and in an ancient tomb, four unlikely heroes discovered fragments of a shattered blade and whispers of a forgotten order sworn to fight the shadows.
 
-Now the stars are vanishing from the sky.
+From the frozen halls of the Winter Court to the raucous festivals of the Summer realm, from battling undead nightmares in corrupted temples to stealing the First Kiss of the Midday Sun atop a Feywild mountain, the heroes raced against an accelerating clock. They reforged a legendary blade, earned the favor of an Angel of Justice, uncovered an ancient god hiding in plain sight, and stood against a cult bent on tearing open a door that was never meant to be opened.
 
-Across the realm, a barrier erected generations ago by the Elven Matriarch grows weaker with each passing day. Behind it, trapped in the depths of the Shadowfell, the shadow dragon Nidhogg strains against his chains. And orchestrating his release is the Weaver—a master illusionist whose Cult of the Eclipse systematically corrupts the four leyline temples that anchor reality itself.
-
-From the frozen halls of the Winter Court to the raucous festivals of the Summer realm, from battling undead nightmares in corrupted temples to stealing the First Kiss of the Midday Sun atop a Feywild mountain, the heroes have raced against an accelerating clock. They've reforged legendary weapons, earned the favor of an Angel of Justice, made surprising allies throughout the realm.
+At the same ancient battlefield where the shadow dragon Nidhogg was sealed away centuries ago, the Weaver made his final move. The heroes made theirs.
 
 > _A 3+ year D&D 5e campaign spanning 48 sessions_
 

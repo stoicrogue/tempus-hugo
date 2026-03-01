@@ -50,7 +50,7 @@ The Summer Leyline Temple was breached by the [Cult of the Eclipse](/06---factio
 
 ## Artifacts & Legends
 
-**Summer's Edge** — "The Blade of Dawning Light." Originally wielded by Sir Eirik, Champion of the Summer Court and Captain of the [Order of Seasons](/06---factions/order-of-seasons). Broken during the final stand at the Gates of Season's End. Reforged by [Elara Sunforge](/02---characters/allies/elara-sunforge) using Celestial Ore from Starfall Crater and the First Kiss of the Midday Sun from the Feywild. Currently wielded by [Skreek](/02---characters/main-party/skreek).
+**Summer's Edge** — "The Blade of Dawning Light." Originally wielded by Sir Eirik, Champion of the Summer Court and Captain of the [Order of Seasons](/06---factions/order-of-seasons). Broken during the final stand at the ancient battlefield where [Nidhogg](/02---characters/adversaries/nidhogg) was sealed. Reforged by [Elara Sunforge](/02---characters/allies/elara-sunforge) using Celestial Ore from Starfall Crater and the First Kiss of the Midday Sun from the Feywild. Currently wielded by [Skreek](/02---characters/main-party/skreek).
 
 ---
 
