@@ -17,6 +17,8 @@ cssclasses:
 - Herald of the [Weaver](/02---characters/adversaries/weaver) and the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse)
 - Black dragonborn sorcerer
 - The omen bearer observes natural phenomenon, like a flock of crows circling a dead tree. He twists things like this as a sign of the dragon’s impending return and paints a doomsday picture, urging people to join the cult for salvation.
+- Publicly proclaimed [Nidhogg](/02---characters/adversaries/nidhogg)’s return at the [Autumn Court](/06---factions/autumn-court)’s Aki Matsuri festival, warning of attacks on the leyline temples and spreading fear among the court
+- **Defeated by the party at the Aki Matsuri festival**
 
 The Herald of the Eclipse is a figure both fearsome and enigmatic, embodying the dark power and malevolent intent of the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse). As one of the cult’s main lieutenants, he commands respect and fear among his followers and strikes terror into the hearts of those who oppose him.
 

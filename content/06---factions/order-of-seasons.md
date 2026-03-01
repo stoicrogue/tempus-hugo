@@ -38,7 +38,7 @@ The Order's defining achievement: [Nidhogg](/02---characters/adversaries/nidhogg
 
 - **Structure** — Four leyline temples, one in each seasonal domain, each containing focus crystals that maintain the barrier
 - **[Vidrir](/02---characters/allies/vidrir)'s role** — His divine power provides the "lock" while the elven magic provides the "cage." As the barrier weakens over centuries, more weight falls on him
-- **Current threat** — The [Cult of the Eclipse](/06---factions/cult-of-the-eclipse) is systematically corrupting the temples and tearing open [Hollow Threshold](/03---locations/hollow-threshold)s to accelerate the barrier's collapse. Three of four temples have been damaged; only the Autumn Leyline Temple remains intact.
+- **Current threat** — The [Cult of the Eclipse](/06---factions/cult-of-the-eclipse) systematically corrupted the temples and tore open [Hollow Threshold](/03---locations/hollow-threshold)s to accelerate the barrier's collapse. Three of four temples were damaged; the Spring Temple has since been cleared by the party. The [Weaver](/02---characters/adversaries/weaver), who led the final summoning ritual, was killed at the ancient battlefield by [Trius](/02---characters/allies/trius) before [Nidhogg](/02---characters/adversaries/nidhogg) could be freed. The barrier remains damaged but the immediate threat has been averted.
 
 ---
 
@@ -58,7 +58,7 @@ The Order's defining achievement: [Nidhogg](/02---characters/adversaries/nidhogg
 
 ## Legacy
 
-The Order of Seasons is gone, but its work endures — barely. The leyline barrier holds, though it weakens with each century and each act of sabotage by the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse). [Vidrir](/02---characters/allies/vidrir) remains chained to the mortal realm as the seal's last failsafe, his divine power slowly draining. The party now carries the Order's burden: they wield the reforged Summer's Edge, bear [Vidrir](/02---characters/allies/vidrir)'s medallion, and seek the knowledge to repair the barrier the Order built.
+The Order of Seasons is gone, but its work endures. The leyline barrier holds — damaged, but intact. [Vidrir](/02---characters/allies/vidrir) remains chained to the mortal realm as the seal's last failsafe, his divine power slowly draining. The party now carries the Order's burden: they wield the reforged and awakened Summer's Edge, bear [Vidrir](/02---characters/allies/vidrir)'s medallion, and have gathered the knowledge needed to repair the barrier the Order built. The [Weaver](/02---characters/adversaries/weaver)'s summoning ritual was stopped at the ancient battlefield — the same Gates of Season's End where the Order made their final stand centuries ago — and [Nidhogg](/02---characters/adversaries/nidhogg) remains sealed. The Order's sacrifice still holds.
 
 ---
 
@@ -69,3 +69,4 @@ The Order of Seasons is gone, but its work endures — barely. The leyline barri
 - **Session 14** — Met [Vidrir](/02---characters/allies/vidrir) for the first time. He gave the party his Order of Seasons medallion, granting them safe passage to the Fey Courts — a symbolic passing of the torch.
 - **Sessions 27–31** — Gathered materials and reforged Summer's Edge with [Elara Sunforge](/02---characters/allies/elara-sunforge) at the [Secret Elven Forge](/03---locations/secret-elven-forge), restoring the Order's legendary blade.
 - **Session 45** — [Shad](/02---characters/main-party/shadicar) researched the Order at the [Chained Library](/06---factions/chained-library) and discovered [Vidrir](/02---characters/allies/vidrir)'s true identity as the Knight of Ravens and leader of the Order, over 300 years old.
+- **The Final Battle** — The [Weaver](/02---characters/adversaries/weaver) performed his summoning ritual at the Gates of Season's End — the same ancient battlefield where the Order sealed [Nidhogg](/02---characters/adversaries/nidhogg) centuries ago. The party stopped the ritual and [Trius](/02---characters/allies/trius) killed the [Weaver](/02---characters/adversaries/weaver) with a Moonbeam spell. [Nidhogg](/02---characters/adversaries/nidhogg) remains sealed. The Order's oath, in spirit, was honored once more.

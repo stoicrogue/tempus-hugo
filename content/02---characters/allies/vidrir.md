@@ -68,6 +68,14 @@ created: 2025-04-10
 - He guided the party without forcing their choices: *"Have I hoped you would grow strong enough to face what's coming? Absolutely. But manipulation implies I forced your choices. Every step of your journey has been yours"*
 - His investment in the party is personal, not just strategic: *"When I offered you tea, shared stories, laughed at your jokes — those were not performances. You matter to me"*
 
+## The Ritual Stopped
+
+- The [Weaver](/02---characters/adversaries/weaver) executed his summoning ritual at the Gates of Season's End — the same ancient battlefield where Vidrir led the [Order of Seasons](/06---factions/order-of-seasons) centuries ago
+- The party stopped the ritual; [Trius](/02---characters/allies/trius) killed the [Weaver](/02---characters/adversaries/weaver) with Moonbeam before [Nidhogg](/02---characters/adversaries/nidhogg) could break through. **[Nidhogg](/02---characters/adversaries/nidhogg) remains sealed.**
+- This is the first step toward Vidrir's freedom — the active threat to the barrier has been eliminated — but the barrier itself is still damaged from years of cult sabotage
+- Vidrir remains bound to the mortal realm until the barrier is repaired enough for him to safely withdraw his divine essence; the party now holds the knowledge from the [Chained Library](/06---factions/chained-library) on how to accomplish that
+- The path forward: locate and repair the damaged leyline temples, close the remaining Hollow Thresholds, and restore the barrier the [Order of Seasons](/06---factions/order-of-seasons) built — the work Vidrir has waited over 300 years to see completed
+
 ![vidrir.png](/images/vidrir.png)
 
 ![vidrir-revealed.png](/images/vidrir-revealed.png)

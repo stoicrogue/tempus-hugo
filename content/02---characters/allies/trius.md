@@ -9,7 +9,8 @@ created: 2025-04-10
 
 - **Eladrin** princess of the **[Winter Court](/06---factions/winter-court)**, eldest daughter of Lady **[Alora](/02---characters/allies/alora)**
 - **Oath of the Ancients Paladin** and wielder of a legendary **Moonblade** — the Winter Knight
-- Fought alongside the party against **[Serenity](/02---characters/adversaries/serenity)** and dealt more damage than anyone in the encounter
+- Fought alongside the party against **[Serenity](/02---characters/adversaries/serenity)** and dealt more damage than anyone in that encounter
+- Delivered the **killing blow against the [Weaver](/02---characters/adversaries/weaver)** at the ancient battlefield — a pillar of silver moonlight (Moonbeam) that passed through him like a blade through smoke, ending the ritual and keeping [Nidhogg](/02---characters/adversaries/nidhogg) sealed
 - Her grandmother **Maria** was one of the original elven mages who created the interplanar barrier imprisoning **[Nidhogg](/02---characters/adversaries/nidhogg)**
 - Rides a **majestic unicorn** mount and projects a supernatural **battle hymn** into the minds of nearby allies when she draws her blade
 - Listed among the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse)'s known enemies and opposition
@@ -61,9 +62,12 @@ created: 2025-04-10
 
 ## The Final Battle
 
-- Trius returns to fight alongside the party in the final confrontation against the [Weaver](/02---characters/adversaries/weaver) at the ancient battlefield where [Nidhogg](/02---characters/adversaries/nidhogg) was originally sealed
-- She represents the [Winter Court](/06---factions/winter-court) and carries her family's centuries-old stake in keeping the barrier intact
-- Her role is as a **tank and support hybrid** — her Aura of Protection passively boosts all nearby allies' saving throws, while her Moonblade and Divine Smites deliver radiant burst damage
+- Thundered onto the ancient battlefield on her unicorn Moonblade, arriving mid-fight as the [Weaver](/02---characters/adversaries/weaver) was advancing the ritual and the party was under intense pressure
+- Upon drawing her blade, she spread a **silent battle hymn** through the minds of every ally — the same supernatural inspiration she projects whenever she enters the fray
+- Represented the [Winter Court](/06---factions/winter-court) and her family's centuries-old stake in keeping the barrier intact — her grandmother Maria helped create the prison the [Weaver](/02---characters/adversaries/weaver) was trying to unravel
+- As the [Weaver](/02---characters/adversaries/weaver) made his final desperate act — slamming his fist into the earth to release a shockwave of pure force — Trius was too far away to close with her blade
+- **Raised her sword skyward** and called down a pillar of silver moonlight from the heavens — **Moonbeam** — that struck the [Weaver](/02---characters/adversaries/weaver) with devastating precision, passing through him like a blade through smoke; his body crumpled to the earth, cold and still
+- **Trius dealt the killing blow.** The ritual died with him. [Nidhogg](/02---characters/adversaries/nidhogg) remains sealed.
 - Her stat block and combat reference are maintained separately in [Trius Quick Reference](/05---planning/final-battle/trius-quick-reference)
 
 ![trius-portrait.png](/images/trius-portrait.png)

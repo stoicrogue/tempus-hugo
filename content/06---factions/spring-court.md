@@ -53,7 +53,9 @@ A sacred rite performed at the [Spring Leyline Temple](/03---locations/spring-le
 
 ## Leyline Temple Status
 
-The [Spring Leyline Temple](/03---locations/spring-leyline-temple) is the most heavily corrupted of the four temples. Signs of corruption when the party arrived: birds avoided the area, the ground was unnaturally cold, new growth was twisted or withered, and flowers bloomed only to rot. A Bodak had been placed inside the leyline crystal chamber by the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse), and nearby Hollow Thresholds continued to siphon power from the leyline network.
+When the party first arrived, the [Spring Leyline Temple](/03---locations/spring-leyline-temple) was the most heavily corrupted of the four temples. Signs of corruption: birds avoided the area, the ground was unnaturally cold, new growth was twisted or withered, and flowers bloomed only to rot. A Bodak had been placed inside the leyline crystal chamber by the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse), and nearby Hollow Thresholds continued to siphon power from the leyline network.
+
+**The party returned and cleared the temple.** They defeated the Bodak and its accompanying wraiths and shadows. [Faela Mossheart](/02---characters/allies/faela-mossheart) confirmed the corruption had been removed and the surrounding forest could begin to recover.
 
 ---
 
@@ -63,4 +65,5 @@ The [Spring Leyline Temple](/03---locations/spring-leyline-temple) is the most h
 - Performed the Seed Ritual, binding personal vows to the Spring leyline
 - Discovered the temple corrupted by a Bodak planted by the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse)
 - Found Hollow Thresholds disrupting the natural growth cycles around the temple
-- The Spring temple's corruption was a turning point — it confirmed the cult's accelerating timeline
+- The Spring Temple's corruption was a turning point — it confirmed the cult's accelerating timeline
+- **Returned to clear the temple** — defeated the Bodak, wraiths, and shadows; [Faela Mossheart](/02---characters/allies/faela-mossheart) confirmed the corruption was removed and the forest could begin to recover

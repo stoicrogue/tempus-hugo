@@ -5,6 +5,16 @@ date: 2025-04-10
 title: Kharvex, the Shadow Caller
 created: 2025-04-10
 ---
+# Kharvex, the Shadow Caller
+
+- Cult mage of the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse), trusted directly by the [Weaver](/02---characters/adversaries/weaver)
+- Tasked with conducting experiments at the **ancient battlefield where [Nidhogg](/02---characters/adversaries/nidhogg) was sealed** to harness residual energy from the original sealing ritual
+- His goal was to channel that dormant power into the summoning spells contained in his spellbook, amplifying their connection to the Shadowfell
+- Creator of the **Grimoire of the Eclipse**
+- **Defeated by the party at the ancient battlefield**; the Grimoire was recovered by the party
+
+---
+
 ## Grimoire of the Eclipse
 
 **Description**

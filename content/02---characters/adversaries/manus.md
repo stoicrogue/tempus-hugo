@@ -11,14 +11,15 @@ created: 2025-04-10
 - Serves the [Weaver](/02---characters/adversaries/weaver) as a lieutenant but openly **mocks his ideology** and appears motivated by testing himself against worthy opponents rather than freeing [Nidhogg](/02---characters/adversaries/nidhogg)
 - Possesses **Advanced Shapechanger** abilities — can perfectly mimic other humanoids, as demonstrated when he disguised himself as [Trius](/02---characters/allies/trius) at the [Summer Court](/06---factions/summer-court) leyline temple
 - Master of shadow and elemental combat — conjures elemental blades of cold, fire, lightning, or poison and creates up to four shadow copies of himself
-- Stole the [Summer Court](/06---factions/summer-court)'s leyline crystal and planted the **Bodak** in the Spring Temple; **still at large**
-- The campaign's **wildcard** — his allegiances remain uncertain heading into the final confrontation
+- Stole the [Summer Court](/06---factions/summer-court)'s leyline crystal and planted the **Bodak** in the Spring Temple
+- During the final battle at the ancient battlefield, the Weaver's desperate shockwave pushed him too far — he turned on the Weaver in fury: *"This is too far — I didn't sign up for this!"*
+- **Current whereabouts unknown** following the Weaver's death; allegiances remain unresolved
 
 ## Personality & Motivation
 
 - Driven entirely by a desire for **meaningful combat** — not money, power, or ideology
 - Finds the [Weaver](/02---characters/adversaries/weaver)'s mission tedious but participates because it generates interesting conflicts
-- Made a verbal agreement that the [Weaver](/02---characters/adversaries/weaver) would duel him after [Nidhogg](/02---characters/adversaries/nidhogg)'s release — but has grown skeptical the [Weaver](/02---characters/adversaries/weaver) will honor it
+- Made a verbal agreement that the [Weaver](/02---characters/adversaries/weaver) would duel him after [Nidhogg](/02---characters/adversaries/nidhogg)'s release — but grew skeptical the [Weaver](/02---characters/adversaries/weaver) would honor it; the Weaver's death rendered the agreement moot
 - Increasingly views the **party** as more worthy opponents than anyone in the [Cult of the Eclipse](/06---factions/cult-of-the-eclipse)
 - Theatrical and playful in combat — taunts opponents, proposes games, and retreats when bored rather than fighting to the death
 
@@ -62,11 +63,23 @@ created: 2025-04-10
 
 ## Relationship with the Weaver
 
-- Operates as the [Weaver](/02---characters/adversaries/weaver)'s most powerful agent but shows **no genuine loyalty**
-- Openly mocks the [Weaver](/02---characters/adversaries/weaver) and dismisses his ideology as tedious
-- Views the [Weaver](/02---characters/adversaries/weaver) primarily as someone who promised him a duel — a promise he doubts will be kept
-- The [Weaver](/02---characters/adversaries/weaver) lists Manus's disloyalty as a known vulnerability in his own plans
-- By revealing the ritual's location and timeline, Manus effectively acts as an **unwitting (or deliberate) double agent**
+- Operated as the [Weaver](/02---characters/adversaries/weaver)'s most powerful agent but showed **no genuine loyalty**
+- Openly mocked the [Weaver](/02---characters/adversaries/weaver) and dismissed his ideology as tedious
+- Viewed the [Weaver](/02---characters/adversaries/weaver) primarily as someone who promised him a duel — a promise he doubted would be kept
+- The [Weaver](/02---characters/adversaries/weaver) listed Manus's disloyalty as a known vulnerability in his own plans
+- By revealing the ritual's location and timeline via the Bodak note, Manus effectively acted as an **unwitting (or deliberate) double agent**
+- At the final battle, turned on the Weaver in open fury when the shockwave crossed a line — the relationship ended with the Weaver's death
+
+## The Ancient Battlefield — Final Battle
+
+- Welcomed the party at the ritual site with arrows, plainly delighted they had come
+- Was locked in a daze by [Shad](/02---characters/main-party/shadicar)'s **Confusion** spell for a crucial round
+- The Weaver screamed at him as the ritual faltered: *"What am I paying you for! This is what we've been working towards for so long. It's time to get serious and earn your keep!"*
+- Reluctantly summoned two shadow clones: *"Fine, but I'm not sure this ritual is really going to be worth it"*
+- When the Weaver's desperate shockwave of pure force detonated across the battlefield, Manus wheeled on him in fury: *"This is too far — I didn't sign up for this!"* — and appeared ready to switch sides
+- The Weaver was killed by [Trius](/02---characters/allies/trius)'s Moonbeam before Manus could act further
+- **Did not fully commit to attacking the party during the battle** — his ultimate allegiance in that moment remains unresolved
+- **Current whereabouts unknown**
 
 ## Relationship with the Party
 
@@ -74,18 +87,16 @@ created: 2025-04-10
 - First encounter: tested them with a game; rewarded their cleverness
 - Second encounter: tried to deny their mission; acknowledged their strength when they overcame it
 - Third contact (the note): actively encouraged them to disrupt the [Weaver](/02---characters/adversaries/weaver)'s plans
+- Final battle: fought alongside the Weaver reluctantly, then turned on him — but never attacked the party
 - Addresses [Shad](/02---characters/main-party/shadicar) directly with taunts about his "broken sword" and feathered appearance
 - Views the party as increasingly "interesting" — the highest compliment in his personal philosophy
 
-## Potential Allegiance Shift
+## Post-Weaver Status
 
-- Multiple signs suggest Manus may **switch sides** during the final ritual:
-  - His note explicitly invites the party to interfere
-  - He has expressed more interest in fighting the party than defending the [Weaver](/02---characters/adversaries/weaver)
-  - If [Nidhogg](/02---characters/adversaries/nidhogg)'s emergence threatens reality itself, Manus may refuse to participate
-  - His self-preservation instinct is strong — he retreats rather than dies in every encounter
-- If the [Weaver](/02---characters/adversaries/weaver) falls or the ritual spirals out of control, Manus may abandon the cult entirely
-- Alternatively, he may simply watch from the shadows, intervening only if the fight becomes "interesting" enough
+- The Weaver's death severs Manus's formal cult affiliation
+- His promised duel with the [Weaver](/02---characters/adversaries/weaver) never happened — leaving that particular score unsettled
+- May resurface seeking the party for the fight he's been building toward
+- With the immediate threat of [Nidhogg](/02---characters/adversaries/nidhogg) averted, his next move is entirely his own
 
 ## Stat Block
 

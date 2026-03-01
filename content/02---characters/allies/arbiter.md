@@ -59,9 +59,9 @@ cssclasses:
 
 ## The Final Battle
 
-- The party can use their holy marks to commune with the Arbiter and request aid during the final confrontation against the [Weaver](/02---characters/adversaries/weaver)
-- Her **Blessing of Justice** grants all marked party members temporary hit points, advantage on saves against fear and charm, and radiant weapon damage
-- Her **Intervention** automatically triggers the first time a marked party member drops to 0 hit points — stabilizing them, standing them up, and wreathing them in protective holy light
-- Even from afar, her divine protection represents the culmination of the party's relationship with her throughout the campaign
+- During the confrontation against the [Weaver](/02---characters/adversaries/weaver) at the ancient battlefield, the [Weaver](/02---characters/adversaries/weaver) turned his **Shadowweave bolts** on [Shad](/02---characters/main-party/shadicar), hammering him unconscious
+- The Arbiter **intervened with divine light**, lifting [Shad](/02---characters/main-party/shadicar) upright with the message: *"You are still needed here, my champion."*
+- Her holy mark remained with every party member through the end of the battle — in the aftermath, [Slumpet](/02---characters/main-party/slumpet-zoommimist) reached up to check that the warmth of the mark was still there
+- Her protection across the campaign — the mark, the blessings, the guidance — proved to be exactly what the party needed to endure the [Weaver](/02---characters/adversaries/weaver)'s assault and see the ritual stopped
 
 ![arbiter-detailed-portrait.png](/images/arbiter-detailed-portrait.png)

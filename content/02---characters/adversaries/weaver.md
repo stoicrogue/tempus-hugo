@@ -7,12 +7,12 @@ created: 2025-04-10
 ---
 # The Weaver
 
-- Chaotic evil elf wizard and master illusionist who leads the **[Cult of the Eclipse](/06---factions/cult-of-the-eclipse)**
+- Chaotic evil elf wizard and master illusionist who led the **[Cult of the Eclipse](/06---factions/cult-of-the-eclipse)**
 - Responsible for the tragedy of [Shad](/02---characters/main-party/shadicar)'s village — he conjured an illusion of [Nidhogg](/02---characters/adversaries/nidhogg) so convincing and fearsome that the villagers literally **died of fright**
-- His stronghold is a tower in the Feywild, hidden behind a **Mirage Arcane** spell that makes it appear balanced on a spire at the center of a massive sinkhole — unreachable
+- His stronghold was a **gothic castle** in the Feywild, hidden behind a **Mirage Arcane** spell that made it appear balanced on a spire at the center of a massive sinkhole — containing a broken loom infused with dark illusion magic and a spectral Echo of his soul
 - Originally not interested in freeing [Nidhogg](/02---characters/adversaries/nidhogg) — he thought the dragon's image would make for a "fantastic illusion" — but his ambitions grew to unraveling the barrier entirely
 - An 18th-level spellcaster (spell save DC 19) with mastery over illusion magic; his illusion spells function as one level higher than the slot used
-- Willing to work with [Serenity](/02---characters/adversaries/serenity) and other agents to further his experiments and cult operations
+- **Killed at the ancient battlefield** by [Trius](/02---characters/allies/trius)'s Moonbeam spell; the summoning ritual died with him and [Nidhogg](/02---characters/adversaries/nidhogg) remains sealed
 
 ## Philosophy & Motivation
 
@@ -39,7 +39,7 @@ created: 2025-04-10
   - **[Serenity](/02---characters/adversaries/serenity)** (Night Hag) — field agent who cursed [Tannis](/03---locations/tannis); **defeated by the party**
   - **[Xolthos](/02---characters/adversaries/xolthos-omenspeaker)** (Black Dragonborn Sorcerer) — herald who proclaimed [Nidhogg](/02---characters/adversaries/nidhogg)'s return at the [Autumn Court](/06---factions/autumn-court) festival; **defeated by the party**
   - **[Kharvex, the Shadow Caller](/02---characters/adversaries/kharvex-the-shadow-caller)** — cult mage who tested summoning magic at the ancient battlefield; **defeated by the party**
-  - **[Manus](/02---characters/adversaries/manus)** (CR 17 Shapechanger) — enigmatic warrior who openly mocks the Weaver and appears motivated by testing himself rather than ideology; stole the [Summer Court](/06---factions/summer-court)'s leyline crystal and planted the Bodak in the Spring Temple; **still at large**
+  - **[Manus](/02---characters/adversaries/manus)** (CR 17 Shapechanger) — enigmatic warrior who openly mocked the Weaver and was motivated by testing himself rather than ideology; stole the [Summer Court](/06---factions/summer-court)'s leyline crystal and planted the Bodak in the Spring Temple; turned on the Weaver in fury during the final battle; **whereabouts unknown**
 
 ## The Leyline Barrier Plot
 
@@ -48,19 +48,20 @@ created: 2025-04-10
 - Leyline temple status as discovered by the party:
   - **Winter:** One of six focus crystals cracked and flickering
   - **Summer:** Breached; two guardian constructs destroyed; one rune crystal stolen by [Manus](/02---characters/adversaries/manus)
-  - **Spring:** Most heavily corrupted; Bodak planted in crystal chamber; multiple Hollow Thresholds siphoning power nearby
+  - **Spring:** Cleared — Bodak and undead defeated by party; [Faela Mossheart](/02---characters/allies/faela-mossheart) confirmed corruption removed
   - **Autumn:** Intact and stable (the only undamaged temple)
 - Accelerated his timeline — moved the final ritual to the next new moon rather than waiting for the winter solstice
 
-## The Final Ritual
+## The Final Ritual & Death
 
-- Plans to execute his summoning ritual at the **ancient battlefield where [Nidhogg](/02---characters/adversaries/nidhogg) was sealed** centuries ago
-- The ritual tears open a portal to the Shadowfell, progressing through phases:
-  - **Phase 1-2:** Gathering power, portal forming
-  - **Phase 3:** [Nidhogg](/02---characters/adversaries/nidhogg) approaches — his whispers can charm creatures, his presence radiates fear
-  - **Phase 4:** Breakthrough imminent — [Nidhogg](/02---characters/adversaries/nidhogg)'s shadow becomes visible through the portal
-- During the ritual, he maintains concentration and gains resistance to non-magical weapons — but cannot flee effectively, making him a stationary target
-- If the ritual completes, [Nidhogg](/02---characters/adversaries/nidhogg) would be freed and eternal darkness would reign
+- Executed the summoning ritual at the **ancient battlefield where [Nidhogg](/02---characters/adversaries/nidhogg) was sealed** under a moonless sky, erecting a fifteen-foot portal pulsed with the same runes from [Nidhogg](/02---characters/adversaries/nidhogg)'s original sealing
+- Advanced the ritual from behind greater invisibility until [Shad](/02---characters/main-party/shadicar)'s Dawn spell flooded the area with radiant daylight, forcing him into the light; [Skreek](/02---characters/main-party/skreek) drove Summer's Edge home with a Shining Smite, wreathing him in radiant light and stripping away invisibility
+- Cast **Maze** to remove [Skreek](/02---characters/main-party/skreek) from the battlefield, allowing his invisibility to return and the ritual to advance; the outer ring solidified and the portal swelled into its expanded state
+- Turned his **Shadowweave bolts** on [Shad](/02---characters/main-party/shadicar), hammering him unconscious — the [Arbiter](/02---characters/allies/arbiter) intervened with divine light to revive him
+- Screamed at [Manus](/02---characters/adversaries/manus) as the ritual faltered: *"What am I paying you for! This is what we've been working towards for so long. It's time to get serious and earn your keep!"*
+- In a last desperate act, gathered his remaining power and **slammed his fist into the earth** — reality cracked and a shockwave of pure force detonated outward, staggering everyone nearby; this act of desperation pushed [Manus](/02---characters/adversaries/manus) to turn on him in fury
+- **Killed by [Trius](/02---characters/allies/trius)**, who raised her sword skyward and called down a pillar of silver moonlight (**Moonbeam**) that passed through him like a blade through smoke; his body crumpled to the earth, cold and still
+- **The ritual died with him. [Nidhogg](/02---characters/adversaries/nidhogg) remains sealed.**
 
 ## The Weaver's Journal
 
@@ -69,10 +70,18 @@ created: 2025-04-10
 - Speaking his name aloud activates a recorded message bound into the journal
 - The journal is tethered to his soul — if burned, the smoke will call him home, suggesting deep paranoia about being unmade or forgotten
 
+## The Feywild Castle
+
+- A gothic castle concealed by Mirage Arcane, appearing to balance on a spire above a sinkhole — accessible only to the cult's inner circle
+- Contained a **broken loom** infused with dark illusion magic — a masterwork of his craftsmanship, once capable of influencing perception or identity
+- His **Echo** — a spectral remnant of his soul bound to the castle — demanded payment of a soul when the party destroyed the loom; **defeated when [Slumpet](/02---characters/main-party/slumpet-zoommimist) struck the decisive blow from the shadows**
+- His **study**, hidden behind a tapestry, held his personal journal (*Silmirien*), a detailed leyline map showing all four seasonal leyline temples and all four Hollow Threshold locations, and notes on the Silmirien soul-tethering spell
+- The castle was populated with illusions and echoes designed to test intruders
+
 ## Ancestral Home
 
-- Before his Feywild tower, maintained an elegant elven castle now fallen into ruin
-- The castle became infused with his magic — mirrors that forced visitors to confront personal fears, an Echo of his own soul bound to the throne room
+- Before his Feywild castle, maintained an elegant elven castle now fallen into ruin
+- The castle became infused with his magic — mirrors that forced visitors to confront personal fears
 - Contains a hidden underground chamber with an obsidian standing stone and dormant teleportation circle older than the castle itself
 - A garden of **"Living Echoes"** — plants and pathways suffused with fading illusion magic showing visions of regret and the Weaver at his loom
 
@@ -82,4 +91,4 @@ created: 2025-04-10
 - **Summer's Edge** (the legendary blade reforged by the party) can target him through any illusion as if he were visible
 - **Ritual Dependency:** Must maintain concentration during the summoning — stationary and exposed
 - **True Name:** Speaking it aloud may reveal his location or create a magical connection the party can exploit
-- **[Manus](/02---characters/adversaries/manus)'s Disloyalty:** His lieutenant openly mocks him and may not defend the ritual
+- **[Manus](/02---characters/adversaries/manus)'s Disloyalty:** His lieutenant openly mocked him and ultimately turned against him during the final battle when the Weaver's desperation went too far

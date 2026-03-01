@@ -24,7 +24,7 @@ created: 2026-02-07
 
 - The [Cult of the Eclipse](/06---factions/cult-of-the-eclipse) serves Nidhogg's goals, seeking to free him by corrupting the leyline temples
 - [Serenity](/02---characters/adversaries/serenity) (night hag) cursed the village of [Tannis](/03---locations/tannis) to earn Nidhogg's favor, communing with him through a **seeing stone** (crystal orb)
-- The [Weaver](/02---characters/adversaries/weaver) leads the cult and plans to weaken the leyline network to release Nidhogg — though his original interest was in using Nidhogg's image for his illusions, not serving the dragon directly
+- The [Weaver](/02---characters/adversaries/weaver) led the cult and planned to weaken the leyline network to release Nidhogg — though his original interest was in using Nidhogg's image for his illusions, not serving the dragon directly; **he was killed by [Trius](/02---characters/allies/trius) at the ancient battlefield**
 - [Xolthos](/02---characters/adversaries/xolthos-omenspeaker) publicly proclaimed Nidhogg's return at the [Autumn Court](/06---factions/autumn-court) festival
 - The cult created **Hollow Thresholds** — tears in reality that siphon leyline power and weaken the barrier
 
@@ -33,14 +33,13 @@ created: 2026-02-07
 - The [Weaver](/02---characters/adversaries/weaver) conjured an illusion of Nidhogg so convincing and fearsome that the villagers of [Shad](/02---characters/main-party/shadicar)'s village literally **died of fright**
 - The [Weaver](/02---characters/adversaries/weaver) was not originally interested in freeing Nidhogg — he thought the dragon's image would make for a "fantastic illusion" — but his ambitions grew to unraveling the barrier entirely
 
-## The Final Ritual
+## The Failed Ritual
 
-- The [Weaver](/02---characters/adversaries/weaver) plans to execute his summoning ritual at the **ancient battlefield where Nidhogg was sealed** ages ago
-- The ritual tears open a portal to the Shadowfell, progressing through phases:
-  - **Phase 1-2:** Gathering power, portal forming
-  - **Phase 3:** Nidhogg approaches — his whispers can charm creatures, his presence radiates fear
-  - **Phase 4:** Breakthrough imminent — Nidhogg's shadow becomes visible through the portal; all creatures must resist or be frightened and paralyzed
-- If the ritual completes, Nidhogg would be freed and eternal darkness would reign
+- The [Weaver](/02---characters/adversaries/weaver) executed his summoning ritual at the **ancient battlefield where Nidhogg was sealed** under a moonless sky, erecting a fifteen-foot portal pulsing with the same runes from Nidhogg's original sealing
+- The ritual advanced through its early phases despite the party's interference — the outer ring solidified and the portal swelled into its expanded state when [Skreek](/02---characters/main-party/skreek) was removed from the battlefield by the [Weaver](/02---characters/adversaries/weaver)'s Maze spell
+- The [Weaver](/02---characters/adversaries/weaver) was **killed by [Trius](/02---characters/allies/trius)** before the ritual could complete — her Moonbeam spell passed through him like a blade through smoke; his body crumpled cold and still
+- **The ritual died with him. Nidhogg did not walk free that night. He remains sealed in the Shadowfell.**
+- The immediate cult threat has been eliminated with the [Weaver](/02---characters/adversaries/weaver)'s death, but the leyline barrier remains damaged from years of sabotage and will require significant work to repair
 
 ## Historical Context
 
