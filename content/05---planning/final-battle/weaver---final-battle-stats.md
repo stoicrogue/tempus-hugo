@@ -7,30 +7,23 @@ author: Mark Molea
 # The Weaver
 *Medium humanoid (elf), chaotic evil*
 
-**Armor Class** 17 (Natural Armor + Mage Armor)  
-**Hit Points** 250 (38d8 + 114)  
+**AC** 17 (Natural Armor + Mage Armor) **HP** 250 (38d8 + 114)  
 **Speed** 30 ft, fly 60 ft (hover, magical)  
 **Saving Throws** Int +12, Wis +8, Cha +11  
 **Skills** Arcana +17, Deception +16, History +12, Insight +8, Investigation +12  
-**Damage Resistances** Cold, Necrotic, Psychic  
-**Senses** Darkvision 120 ft., Passive Perception 12  
-**Languages** Common, Elvish, Draconic, telepathy 120 ft.
+**Damage Resistances** Cold, Necrotic, Psychic
 
 ## Features
 
-**Fey Ancestry.** Advantage on saving throws against being charmed, and magic can't put him to sleep.
+**Fey Ancestry.** Advantage on saving throws against being charmed.
 **Magic Resistance.** Advantage on saving throws against spells and other magical effects.
-**Master of Illusions.** The [Weaver](/02---characters/adversaries/weaver) can cast illusion spells as if they were one spell level higher than the slot used (maximum 9th level).
-
 **Vulnerability to Truth**. While the Weaver is within the bright light of Summer's Edge (20-foot radius):
 - He loses all damage resistances
 - He has disadvantage on spell attack rolls
 - Additionally: The wielder of Summer's Edge can target the Weaver through any illusion as if he were visible and unobscured, regardless of distance or line of sight.
-
 **Ritual Focus.** While concentrating on the Nidhogg Summoning ritual, the Weaver gains the following benefits:
 - Resistance to **all damage** 
 - Can maintain concentration on two spells simultaneously.
-
 **Spellcasting.** 18th-level spellcaster. Spell save DC 19, +12 to hit.  
 **Spell Slots:** 1st(4), 2nd(3), 3rd(3), 4th(3), 5th(3), 6th(1), 7th(1), 8th(1), 9th(1)
 **Known Spells:**
