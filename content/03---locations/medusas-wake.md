@@ -10,3 +10,6 @@ created: 2025-06-22
 ---
 ![medusas-wake.jpg](/images/medusas-wake.jpg)
 
+> [!info] Source
+> [Czepeku > Medusa’s Wake - Original Day](https://www.czepeku.com/fantasy/maps/medusas-wake/original-day) 
+

@@ -13,9 +13,15 @@ author: Mark Molea
 
 ## 🗺 Scenes Overview
 
-- **Map:** [[final-battlefield.jpg]]
 - [Final Ritual - Encounter Reference](/05---planning/final-battle/final-ritual---encounter-reference)
 - [Portal Phase Descriptions](/05---planning/final-battle/portal-phase-descriptions)
+ 
+## ⚔️ Map
+
+![final-battlefield.png](/images/final-battlefield.png)
+
+> [!info] Source
+> [Czepeku > Ancient Battlefield - Magic Symbol Night](https://www.czepeku.com/fantasy/maps/ancient-battlefield/magic-symbol-night) 
 
 ## 🔑 Secrets & Clues
 

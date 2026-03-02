@@ -13,6 +13,10 @@ cssclasses:
 ---
 ![GL_AncientBattlefield_MagicSymbol_Day.jpg](/images/GL_AncientBattlefield_MagicSymbol_Day.jpg)
 
+> [!info] Source
+> [Czepeku > Ancient Battlefield - Magic Symbol Day](https://www.czepeku.com/fantasy/maps/ancient-battlefield/magic-symbol-day) 
+
+
 - Death cultist
     - Summons basilisk
 - Ogre

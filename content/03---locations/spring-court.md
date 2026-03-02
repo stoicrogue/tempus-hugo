@@ -28,6 +28,7 @@ author:
 
 ## Vibe
 
-![Spring-Court.jpg](/images/Spring-Court.jpg)
+![GL_ElvenCityCenter_Spring.jpg](/images/GL_ElvenCityCenter_Spring.jpg)
 
-
+> [!info] Source
+> [Czepeku > Elven City Center - Spring](https://www.czepeku.com/fantasy/maps/elven-city-center/spring) 

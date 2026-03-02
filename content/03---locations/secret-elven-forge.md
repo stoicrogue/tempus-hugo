@@ -10,6 +10,9 @@ created: 2025-07-05
 ---
 ![secret-elven-forge.jpg](/images/secret-elven-forge.jpg)
 
+> [!info] Source
+> [Czepeku > Blacksmith Secret Grotto - No Camp](https://www.czepeku.com/fantasy/maps/blacksmith-secret-grotto/no-camp) 
+
 Forge below [Elara](/02---characters/allies/elara-sunforge)'s workshop where her truly magical artifacts are created.  Here she can tap into the leyline energies to enhance her creations and give her the ability to breath life back into sentient artifacts, like [Summer’s Edge (orig)](/04---items/summers-edge-orig).
 
 ## **The Reforging of Summer’s Edge**

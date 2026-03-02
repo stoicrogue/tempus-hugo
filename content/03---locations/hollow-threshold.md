@@ -61,3 +61,8 @@ To seal the Hollow Threshold, the party must:
 - **Monsters**: Howlers, cacophony elementals, mad spirits, gibbering horrors
 - **Effects**: Sounds become distorted, people speak in tongues, music causes hallucinations
 - **Personal stakes**: His bardic magic risks being corrupted, or he feels drawn to the chaotic "inspiration"
+
+---
+# Weaver’s Leyline / Hollow Threshold Map
+
+![leyline-map.jpg](/images/leyline-map.jpg)
