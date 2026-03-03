@@ -10,7 +10,7 @@ author:
 
 # Session Prep Evolution
 
-An analysis of how DM session preparation has evolved across 45+ sessions of the Tempus campaign, from November 2022 to January 2026.
+An analysis of how DM session preparation has evolved across 48 sessions of the Tempus campaign, from November 2022 to February 2026.
 
 ## Three Phases of Evolution
 
@@ -39,7 +39,7 @@ The template solidified into a consistent format following the **Return of the L
 
 Session notes remained relatively sparse despite the structured template. External resources became consistent—Donjon treasure generator, D&D Beyond links, Sly Flourish articles.
 
-### Phase 3: Enhanced Preparation (Sessions 30-47, Oct 2024 - Jan 2026)
+### Phase 3: Enhanced Preparation (Sessions 30-48, Oct 2024 - Feb 2026)
 
 A significant shift toward more elaborate preparation while maintaining flexible structure:
 

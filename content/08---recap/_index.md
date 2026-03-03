@@ -11,5 +11,5 @@ Various ways of looking back at what happened in the campaign:
 - **Quest Log** -- A running list of active, completed, and abandoned quests.
 - **Timeline** -- Key events in chronological order.
 - **Setting Overview** -- The world-building foundations of Tempus.
-- **Session Prep Evolution** -- An analysis of how my DM prep style changed over 45+ sessions.
+- **Session Prep Evolution** -- An analysis of how my DM prep style changed over 48 sessions.
 

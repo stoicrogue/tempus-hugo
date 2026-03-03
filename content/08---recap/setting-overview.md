@@ -9,6 +9,8 @@ author:
   - Mark Molea
 created: 2023-07-16
 ---
+> **Early Worldbuilding Document:** This was written before the campaign began as part of the initial setting design and player pitch. It outlines the Elf/Dwarf political tension that formed the backdrop of the world. The campaign ultimately focused on the Elven side — the Feywild courts, the leyline barrier, and Nidhogg — and many of the "Secrets" listed here were design explorations that were never developed in play (nanomachines, a disguised mind flayer, ancient pre-civilization technology). See also: [Campaign Pitch Doc](/05---planning/campaign-pitch-doc).
+
 # **Central Tension**
 
 A tense stalemate exists between Elves, masters of magic and the planes, and Dwarves, experts of crafting and technology.  The nature vs technology worldviews of the Elves and Dwarves are at the heart of the lasting distrust and conflict.  Over the years, each side has tried pushing into each other's territory to gain natural resources or reclaim ancestral lands of cultural significance.

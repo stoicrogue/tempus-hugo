@@ -1,7 +1,7 @@
 ---
 tags: []
 date: 2026-02-14
-title: ""
+title: "Final Session Notes"
 author: Mark Molea
 ---
 Hi all!  We’re two weeks away from the next, and final, game of the campaign, so I wanted to set expectations and whatnot.  If the date and time no longer work for anyone, please let me know so we can reschedule.

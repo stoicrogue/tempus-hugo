@@ -25,8 +25,8 @@ author: Mark Molea
 
 ## 🔑 Secrets & Clues
 
-- [ ] [Manus](/02---characters/adversaries/manus) might betray the [Weaver](/02---characters/adversaries/weaver) 
-- [ ] [Trius](/02---characters/allies/trius) will arrive in round 3 to help the party
+- [x] [Manus](/02---characters/adversaries/manus) might betray the [Weaver](/02---characters/adversaries/weaver)
+- [x] [Trius](/02---characters/allies/trius) will arrive in round 3 to help the party
 
 ## 🗡 Monster Stat Blocks
 
