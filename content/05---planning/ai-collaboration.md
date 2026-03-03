@@ -5,6 +5,9 @@ date: 2026-02-05
 title: AI Collaboration
 author: Mark Molea
 ---
+> [!info] Overview
+> I did quite a bit of brainstorming with ChatGPT and Claude throughout the campaign. As the campaign was winding down, I asked each LLM to describe our collaboration.  Their responses are found below.
+
 # ChatGPT
 
 Your “Tempus + ChatGPT” workflow has a really recognizable shape: you treat the campaign like a living software project, and you use me less like an oracle and more like a co-designer who can rapidly prototype options, then refactor them into something you can actually run at the table (and later, reuse for novelization).
