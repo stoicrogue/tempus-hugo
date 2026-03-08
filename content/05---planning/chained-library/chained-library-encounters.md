@@ -4,6 +4,8 @@ date: 2025-10-12
 title: Chained Library Encounters
 author: Mark Molea
 ---
+> [!abstract] Source
+> These NPC’s and details about the Chained Library are from the [Arcadia zine (volume 4) from MCDM](https://shop.mcdmproductions.com/collections/arcadia/products/arcadia-complete-bundle-issues-1-30).
 ## **Initial Reception & Moral Testing**
 
 ### **1. The Admittance Interview**
