@@ -8,3 +8,4 @@ DM prep notes for each session of the Tempus campaign, from our first session in
 
 **Early sessions** used a loose, experimental format while I ran off my iPad. **Middle sessions** adopted the Lazy Dungeon Master template (Strong Start, Scenes, Secrets & Clues, NPCs, Monsters) and I switched to printed notes to stay more present at the table. **Later sessions** became more elaborate with detailed stat blocks, Cold Open prose, and d12 encounter tables -- more prep in service of better improvisation.
 
+I initially used Notion to manage my notes, but I transitioned to using Obsidian for my prep. Notion was starting to feel heavy and restrictive because it lived in the cloud. Obsidian was free, simple, portable, and entirely offline.
